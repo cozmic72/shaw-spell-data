@@ -2910,3 +2910,5 @@
 {"id": "p_468883cb37a9cdcd", "anchor": {"word": "deuterium", "pos": "NN1", "shaw": "𐑛𐑿𐑑𐑽𐑾𐑥", "var": "RRP"}, "op": "accept", "changes": {}, "meta": {"author": "joro", "origin": "editor", "ts": "2026-07-22T03:12:31Z"}}
 {"id": "p_24fdc9fb9ece968c", "anchor": {"word": "yay", "pos": "AV0", "shaw": "𐑘𐑱", "var": "RRP"}, "op": "accept", "changes": {}, "meta": {"author": "joro", "origin": "editor", "ts": "2026-07-22T03:41:55Z"}}
 {"id": "p_abb0c01a22edd10e", "anchor": {"word": "yay", "pos": "ITJ", "shaw": "𐑘𐑱", "var": "RRP"}, "op": "accept", "changes": {}, "meta": {"author": "joro", "origin": "editor", "ts": "2026-07-22T03:42:01Z"}}
+{"id": "p_9e1ac9f3ae4f90d7", "anchor": {"word": "improv", "pos": "NN1", "shaw": "𐑦𐑥𐑐𐑮𐑪𐑝", "var": "RRP"}, "op": "accept", "changes": {}, "meta": {"author": "joro", "origin": "editor", "ts": "2026-07-24T01:49:40Z"}}
+{"id": "p_ae5f08832a63a8ea", "anchor": {"word": "improv", "pos": "VVI", "shaw": "𐑦𐑥𐑐𐑮𐑪𐑝", "var": "RRP"}, "op": "accept", "changes": {}, "meta": {"author": "joro", "origin": "editor", "ts": "2026-07-24T01:49:43Z"}}
