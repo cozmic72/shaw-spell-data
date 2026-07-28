@@ -3333,3 +3333,9 @@
 {"id": "p_c9d959e375ea0078", "anchor": {"word": "goddamned", "pos": "AJ0", "shaw": "𐑜𐑪𐑛𐑛𐑨𐑥𐑛", "var": "RRP"}, "op": "flag", "changes": {}, "meta": {"author": "joro", "origin": "editor", "ts": "2026-07-25T12:49:08Z"}}
 {"id": "p_85749af9dd954e3e", "anchor": {"word": "god-awful", "pos": "AJ0", "shaw": "·𐑜𐑪𐑛-𐑷𐑓𐑩𐑤", "var": "RRP"}, "op": "accept", "changes": {"shaw": "𐑜𐑪𐑛-𐑷𐑓𐑩𐑤"}, "meta": {"author": "joro", "origin": "editor", "ts": "2026-07-25T12:49:33Z"}}
 {"id": "p_440d0177d55d6dae", "anchor": {"word": "time-out", "pos": "NN1", "shaw": "𐑑𐑲𐑥𐑬𐑑", "var": "RRP"}, "op": "edit", "changes": {"shaw": "𐑑𐑲𐑥a𐑬𐑑"}, "meta": {"author": "joro", "origin": "editor", "ts": "2026-07-25T12:50:01Z"}}
+{"id": "p_8e68b3d3fc65da25", "anchor": {"word": "a la carte", "pos": "AV0", "shaw": "𐑭 𐑤𐑭 𐑒𐑸𐑑", "var": "RRP"}, "op": "accept", "changes": {}, "meta": {"author": "joro", "origin": "editor", "ts": "2026-07-25T18:06:42Z"}}
+{"id": "p_59f519ce339ae039", "anchor": {"word": "a-bomb", "pos": "NN1", "shaw": "𐑱-𐑚𐑪𐑥", "var": "RRP"}, "op": "accept", "changes": {}, "meta": {"author": "joro", "origin": "editor", "ts": "2026-07-25T18:09:16Z"}}
+{"id": "p_c9e62bc93ca57903", "anchor": {"word": "a-bombs", "pos": "NN2", "shaw": "𐑱-𐑚𐑪𐑥𐑟", "var": "RRP"}, "op": "accept", "changes": {}, "meta": {"author": "joro", "origin": "editor", "ts": "2026-07-25T18:09:42Z"}}
+{"id": "p_757edb97be887ad2", "anchor": {"word": "oy", "pos": "ITJ", "shaw": "𐑶", "var": "RRP"}, "op": "accept", "changes": {}, "meta": {"author": "joro", "origin": "editor", "ts": "2026-07-25T18:42:51Z"}}
+{"id": "p_473eed5a000735b5", "anchor": {"word": "MacLeod", "pos": "NP0", "shaw": "𐑥𐑩𐑒𐑤𐑬𐑛", "var": "RRP"}, "op": "accept", "changes": {}, "meta": {"author": "joro", "origin": "editor", "ts": "2026-07-25T18:43:03Z"}}
+{"id": "p_d3b0857b57e7e5f3", "anchor": {"word": "Wolfe", "pos": "NP0", "shaw": "𐑢𐑫𐑤𐑓", "var": "RRP"}, "op": "accept", "changes": {}, "meta": {"author": "joro", "origin": "editor", "ts": "2026-07-25T18:43:25Z"}}
