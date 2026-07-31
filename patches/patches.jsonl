@@ -3706,3 +3706,5 @@
 {"id": "p_6bda64d0e4757caf", "anchor": {"word": "Mel", "pos": "NP0", "shaw": "𐑥𐑧𐑤", "var": "RRP"}, "op": "accept", "changes": {}, "meta": {"author": "joro", "origin": "editor", "ts": "2026-07-30T19:44:08Z"}}
 {"id": "p_1c6ff181d081ea02", "anchor": {"word": "agentic", "pos": "AJ0", "shaw": "𐑩𐑡𐑧𐑯𐑑𐑦𐑒", "var": "RRP"}, "op": "accept", "changes": {}, "meta": {"author": "joro", "origin": "editor", "ts": "2026-07-30T21:06:25Z"}}
 {"id": "p_8c2e8926b8cd81dd", "anchor": null, "op": null, "changes": {"word": "zyrtec", "shaw": "𐑟𐑻𐑑𐑧𐑒", "pos": "NN1", "var": "RRP", "ipa": "ˈzəːRtek"}, "meta": {"author": "joro", "origin": "editor", "ts": "2026-07-30T21:11:46Z"}}
+{"id": "p_fe754acd7c1ccaa7", "anchor": {"word": "i", "pos": "PNP", "shaw": "𐑲", "var": "RRP"}, "op": "drop", "changes": {}, "meta": {"author": "joro", "origin": "editor", "ts": "2026-07-31T17:00:48Z"}}
+{"id": "p_2718792561241cc2", "anchor": null, "op": null, "changes": {"word": "I", "pos": "PNP", "freq": 0, "status": "sanctioned", "source": ["manual"], "shaw": "𐑲", "var": "RRP", "ipa": "aɪ"}, "meta": {"author": "joro", "origin": "editor", "ts": "2026-07-31T17:01:37Z"}}
