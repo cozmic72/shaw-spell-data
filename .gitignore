@@ -1,0 +1,38 @@
+# Runtime state — never committed (owned by the daemon on the server)
+auth/
+*.sqlite
+*.sock
+*.log
+.editord.*
+
+# This repo holds ONLY what the editor WRITES: readlex.json and patches/.
+# Everything the editor merely READS — the processed upstream corpora and the
+# trained models — is staged outside git (the editor's build/staged, deployed to
+# /var/lib/shaw-spell/staged). Versioning 1.1 GB of regenerable input beside a
+# 1.6 MB patch store is what made a full clone unpackable on the server.
+#
+# The history was rewritten to drop them, so nothing below is tracked here.
+
+# Processed upstream — staged, never committed.
+supplement-*.json
+definitions-latin-*.json
+definitions-shavian-*.json
+definitions-wiktionary.json
+site-data/
+hunspell/
+bncfreq/
+
+# Trained models — staged, never committed.
+g2p-model/
+g2p-judge-model/
+ipa-normalizer-model.json
+rhoticity-model.pkl
+
+# Pipeline intermediates and review scratch — regenerated on demand.
+readlex-reference.tsv
+wordnet-comprehensive.json
+editorial*.csv
+new-words-*.tsv
+review-*.tsv
+phrase-divergence.*
+.DS_Store
