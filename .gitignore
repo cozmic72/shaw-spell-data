@@ -22,9 +22,14 @@ site-data/
 hunspell/
 bncfreq/
 
-# Trained models — staged, never committed.
-g2p-model/
-g2p-judge-model/
+# Trained models. A model is committed when nothing can rebuild it, and ignored
+# when something can — the test is reproducibility, not size.
+#
+# The g2p pair is committed (12.4 MB) because no trainer for it exists in this
+# repository, in shaw-spell, on any branch, in any worktree, or in the dangling
+# commits: it was frozen into the tree from an ad-hoc training run and only the
+# inference module came with it. Ignoring it would mean a clone could neither
+# obtain nor rebuild a file the pipeline reads.
 ipa-normalizer-model.json
 rhoticity-model.pkl
 
