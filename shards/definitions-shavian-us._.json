@@ -1,0 +1,4132 @@
+{
+  "%|wikt-1": {
+    "transliterated_definition": "𐑕𐑳𐑓𐑦𐑒𐑕 𐑓𐑹𐑥𐑦𐑙 𐑕𐑐𐑰𐑛𐑮𐑳𐑯𐑦𐑙 𐑒𐑨𐑑𐑩𐑜𐑹𐑦𐑟 𐑮𐑦𐑒𐑢𐑲𐑼𐑦𐑙 𐑩 𐑜𐑦𐑝𐑩𐑯 𐑐𐑼𐑕𐑧𐑯𐑑𐑦𐑡 𐑑 𐑒𐑢𐑪𐑤𐑦𐑓𐑲.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "%|wikt-2": {
+    "transliterated_definition": "𐑕𐑳𐑓𐑦𐑒𐑕 𐑓𐑹𐑥𐑦𐑙 𐑕𐑐𐑰𐑛𐑮𐑳𐑯𐑦𐑙 𐑒𐑨𐑑𐑩𐑜𐑹𐑦𐑟 𐑮𐑦𐑤𐑱𐑑𐑩𐑛 𐑑 𐑞 𐑕𐑳𐑓𐑦𐑒𐑕𐑑 𐑧𐑤𐑦𐑥𐑩𐑯𐑑, 𐑹 𐑕𐑳𐑚𐑡𐑧𐑒𐑑 𐑑 𐑒𐑩𐑯𐑕𐑑𐑮𐑱𐑯𐑑𐑕 𐑚𐑱𐑕𐑑 𐑪𐑯 𐑦𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "'akikiki|wikt-1": {
+    "transliterated_definition": "𐑩 ·𐑣𐑩𐑢𐑲𐑩𐑯 𐑣𐑳𐑯𐑦𐑒𐑮𐑰𐑐𐑼, ·𐑹𐑩𐑥𐑦𐑕𐑑𐑦𐑕 ·𐑚𐑺𐑛𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "'cause|wikt-1": {
+    "transliterated_definition": "𐑱𐑓𐑽𐑧𐑑𐑦𐑒 𐑓𐑹𐑥 𐑝 𐑚𐑦𐑒𐑪𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "conj"
+  },
+  "'cos|wikt-1": {
+    "transliterated_definition": "𐑦𐑯𐑓𐑹𐑥𐑩𐑤 𐑕𐑐𐑧𐑤𐑦𐑙 𐑝 ’𐑒𐑷𐑟 (“𐑚𐑦𐑒𐑪𐑟”).",
+    "transliterated_examples": [],
+    "transliterated_pos": "conj"
+  },
+  "'cos|wikt-2": {
+    "transliterated_definition": "𐑦𐑯𐑓𐑹𐑥𐑩𐑤 𐑕𐑐𐑧𐑤𐑦𐑙 𐑝 ’𐑒𐑷𐑟 (“𐑚𐑦𐑒𐑪𐑟”).",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑛𐑝𐑻𐑚"
+  },
+  "'dswounds|wikt-1": {
+    "transliterated_definition": "𐑕𐑦𐑯𐑩𐑯𐑦𐑥 𐑝 𐑟𐑬𐑯𐑛𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "intj"
+  },
+  "'d|wikt-1": {
+    "transliterated_definition": "𐑒𐑩𐑯𐑑𐑮𐑨𐑒𐑖𐑩𐑯 𐑝 𐑣𐑨𐑛, 𐑨𐑟 𐑩𐑯 𐑷𐑜𐑟𐑦𐑤𐑽𐑦 𐑝𐑻𐑚.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑝𐑻𐑚"
+  },
+  "'d|wikt-2": {
+    "transliterated_definition": "𐑒𐑩𐑯𐑑𐑮𐑨𐑒𐑖𐑩𐑯 𐑝 𐑣𐑨𐑛, 𐑨𐑟 𐑩 𐑥𐑱𐑯 𐑝𐑻𐑚, 𐑚𐑳𐑑 𐑯𐑪𐑑 𐑩 𐑓𐑮𐑱𐑟𐑩𐑤 𐑝𐑻𐑚.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑝𐑻𐑚"
+  },
+  "'d|wikt-3": {
+    "transliterated_definition": "𐑒𐑩𐑯𐑑𐑮𐑨𐑒𐑖𐑩𐑯 𐑝 𐑢𐑫𐑛 𐑹 𐑖𐑫𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑝𐑻𐑚"
+  },
+  "'d|wikt-4": {
+    "transliterated_definition": "𐑒𐑩𐑯𐑑𐑮𐑨𐑒𐑖𐑩𐑯 𐑝 𐑛𐑦𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑝𐑻𐑚"
+  },
+  "'em|wikt-1": {
+    "transliterated_definition": "𐑞𐑧𐑥 (𐑯𐑬 𐑴𐑯𐑤𐑦 𐑦𐑯 𐑳𐑯𐑕𐑑𐑮𐑧𐑕𐑑 𐑐𐑩𐑟𐑦𐑖𐑩𐑯 𐑓𐑪𐑤𐑴𐑦𐑙 𐑩 𐑒𐑪𐑯𐑕𐑩𐑯𐑩𐑯𐑑).",
+    "transliterated_examples": [],
+    "transliterated_pos": "pron"
+  },
+  "'fore|wikt-1": {
+    "transliterated_definition": "𐑱𐑓𐑽𐑧𐑑𐑦𐑒 𐑓𐑹𐑥 𐑝 𐑚𐑦𐑓𐑹.",
+    "transliterated_examples": [],
+    "transliterated_pos": "prep"
+  },
+  "'ganst|wikt-1": {
+    "transliterated_definition": "𐑩𐑚𐑮𐑰𐑝𐑦𐑱𐑖𐑩𐑯 𐑝 beganst.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑝𐑻𐑚"
+  },
+  "'hood|08242255-n": {
+    "transliterated_definition": "𐑩𐑯 𐑻𐑚𐑩𐑯, 𐑪𐑓𐑩𐑯 𐑤𐑴𐑼-𐑦𐑯𐑒𐑳𐑥 𐑦𐑯𐑼-𐑕𐑦𐑑𐑦 𐑺𐑾.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "'ho|wikt-1": {
+    "transliterated_definition": "𐑒𐑩𐑯𐑑𐑮𐑨𐑒𐑖𐑩𐑯 𐑝 𐑣𐑹.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "'kay|wikt-1": {
+    "transliterated_definition": "𐑒𐑩𐑯𐑑𐑮𐑨𐑒𐑖𐑩𐑯 𐑝 𐑴𐑒𐑱.",
+    "transliterated_examples": [],
+    "transliterated_pos": "intj"
+  },
+  "'ll|wikt-1": {
+    "transliterated_definition": "𐑢𐑦𐑤, 𐑖𐑨𐑤 (𐑥𐑸𐑒𐑦𐑙 𐑞 𐑓𐑿𐑗𐑼 𐑑𐑧𐑯𐑕 𐑹 𐑳𐑞𐑼 𐑥𐑴𐑛𐑩𐑤 𐑕𐑧𐑯𐑕).",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑝𐑻𐑚"
+  },
+  "'mater|wikt-1": {
+    "transliterated_definition": "𐑒𐑩𐑯𐑑𐑮𐑨𐑒𐑖𐑩𐑯 𐑝 𐑑𐑩𐑥𐑱𐑑𐑴.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "'m|wikt-1": {
+    "transliterated_definition": "·𐑱𐑧𐑥, 𐑿𐑟𐑛 𐑦𐑕𐑐𐑧𐑖𐑩𐑤𐑦 𐑦𐑯 ·𐑲’𐑥.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑝𐑻𐑚"
+  },
+  "'m|wikt-2": {
+    "transliterated_definition": "𐑝𐑺𐑾𐑕 𐑓𐑹𐑥𐑟 𐑝 𐑚𐑰.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑝𐑻𐑚"
+  },
+  "'m|wikt-3": {
+    "transliterated_definition": "𐑷𐑤𐑑𐑻𐑯𐑩𐑑𐑦𐑝 𐑓𐑹𐑥 𐑝 ’em.",
+    "transliterated_examples": [],
+    "transliterated_pos": "pron"
+  },
+  "'m|wikt-4": {
+    "transliterated_definition": "𐑮𐑧𐑐𐑮𐑦𐑟𐑧𐑯𐑑𐑕 𐑞 𐑢𐑻𐑛 𐑥𐑨𐑛𐑩𐑥 𐑹 𐑥𐑨𐑥 𐑢𐑧𐑯 𐑿𐑟𐑛 𐑨𐑟 𐑩 𐑓𐑹𐑥𐑩𐑤 𐑩𐑛𐑮𐑧𐑕 𐑝 𐑩 𐑓𐑰𐑥𐑱𐑤; 𐑨𐑟 𐑦𐑯 ·𐑘𐑧𐑕’𐑥 𐑯 no’m.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "'neath|wikt-1": {
+    "transliterated_definition": "𐑷𐑤𐑑𐑻𐑯𐑩𐑑𐑦𐑝 𐑕𐑐𐑧𐑤𐑦𐑙 𐑝 𐑯𐑰𐑔; 𐑚𐑦𐑯𐑰𐑔.",
+    "transliterated_examples": [],
+    "transliterated_pos": "prep"
+  },
+  "'pon|wikt-1": {
+    "transliterated_definition": "𐑱𐑓𐑽𐑧𐑑𐑦𐑒 𐑓𐑹𐑥 𐑝 𐑩𐑐𐑪𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "prep"
+  },
+  "'re|wikt-1": {
+    "transliterated_definition": "𐑒𐑩𐑯𐑑𐑮𐑨𐑒𐑑𐑩𐑛 𐑓𐑹𐑥 𐑝 𐑸 (𐑦𐑯𐑓𐑤𐑧𐑒𐑖𐑩𐑯 𐑝 𐑞 𐑝𐑻𐑚 “𐑑 𐑚𐑰”).",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑝𐑻𐑚"
+  },
+  "'s Gravenhage|08970180-n": {
+    "transliterated_definition": "𐑞 𐑕𐑲𐑑 𐑝 𐑞 𐑮𐑶𐑩𐑤 𐑮𐑧𐑟𐑦𐑛𐑩𐑯𐑕 𐑯 𐑞 𐑛𐑱 𐑓𐑨𐑒𐑑𐑴 𐑒𐑨𐑐𐑦𐑑𐑩𐑤 𐑦𐑯 𐑞 𐑢𐑧𐑕𐑑𐑼𐑯 𐑐𐑸𐑑 𐑝 𐑞 ·𐑯𐑧𐑞𐑼𐑤𐑩𐑯𐑛𐑟; 𐑕𐑰𐑑 𐑝 𐑞 ·𐑦𐑯𐑑𐑼𐑯𐑨𐑖𐑩𐑯𐑩𐑤 ·𐑒𐑹𐑑 𐑝 ·𐑡𐑳𐑕𐑑𐑦𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "'s-hertogenbosch|wikt-1": {
+    "transliterated_definition": "𐑩 𐑕𐑦𐑑𐑦, 𐑒𐑨𐑐𐑦𐑑𐑩𐑤, 𐑯 𐑥𐑿𐑯𐑦𐑕𐑦𐑐𐑨𐑤𐑦𐑑𐑦 𐑝 ·𐑯𐑹𐑔 ·𐑚𐑮𐑭𐑚𐑭𐑯𐑑, ·𐑯𐑧𐑞𐑼𐑤𐑩𐑯𐑛𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "name"
+  },
+  "'splode|wikt-1": {
+    "transliterated_definition": "𐑩𐑚𐑮𐑰𐑝𐑦𐑱𐑖𐑩𐑯 𐑝 𐑦𐑒𐑕𐑐𐑤𐑴𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑝𐑻𐑚"
+  },
+  "'sup|wikt-1": {
+    "transliterated_definition": "𐑣𐑬 𐑸 𐑿? 𐑢𐑪𐑑 𐑦𐑟 𐑯𐑵?",
+    "transliterated_examples": [],
+    "transliterated_pos": "contraction"
+  },
+  "'s|wikt-1": {
+    "transliterated_definition": "𐑒𐑩𐑯𐑑𐑮𐑨𐑒𐑖𐑩𐑯 𐑝 𐑦𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑝𐑻𐑚"
+  },
+  "'s|wikt-2": {
+    "transliterated_definition": "𐑒𐑩𐑯𐑑𐑮𐑨𐑒𐑖𐑩𐑯 𐑝 𐑣𐑨𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑝𐑻𐑚"
+  },
+  "'s|wikt-3": {
+    "transliterated_definition": "𐑒𐑩𐑯𐑑𐑮𐑨𐑒𐑖𐑩𐑯 𐑝 𐑢𐑪𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑝𐑻𐑚"
+  },
+  "'s|wikt-4": {
+    "transliterated_definition": "𐑒𐑩𐑯𐑑𐑮𐑨𐑒𐑖𐑩𐑯 𐑝 𐑛𐑳𐑟, 𐑿𐑟𐑛 𐑴𐑯𐑤𐑦 𐑢𐑦𐑔 𐑞 𐑷𐑜𐑟𐑦𐑤𐑽𐑦 𐑥𐑰𐑯𐑦𐑙 𐑝 𐑛𐑴𐑟 𐑯 𐑴𐑯𐑤𐑦 𐑭𐑓𐑑𐑼 𐑦𐑯𐑑𐑼𐑪𐑜𐑩𐑑𐑦𐑝 𐑢𐑻𐑛𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑝𐑻𐑚"
+  },
+  "'s|wikt-5": {
+    "transliterated_definition": "𐑒𐑩𐑯𐑑𐑮𐑨𐑒𐑖𐑩𐑯 𐑝 𐑳𐑕, 𐑓𐑬𐑯𐑛 𐑦𐑯 𐑞 𐑓𐑹𐑥𐑘𐑩𐑤𐑩 𐑤𐑧𐑑𐑕 𐑢𐑦𐑗 𐑦𐑟 𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑓𐑻𐑕𐑑-𐑐𐑻𐑕𐑩𐑯 𐑐𐑤𐑫𐑼𐑩𐑤 𐑦𐑥𐑐𐑧𐑮𐑩𐑑𐑦𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "pron"
+  },
+  "'tis|wikt-1": {
+    "transliterated_definition": "𐑒𐑩𐑯𐑑𐑮𐑨𐑒𐑖𐑩𐑯 𐑝 𐑦𐑑 + 𐑦𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "contraction"
+  },
+  "'tude|wikt-1": {
+    "transliterated_definition": "𐑨𐑑𐑦𐑑𐑵𐑛, 𐑦𐑕𐑐𐑧𐑖𐑩𐑤𐑦 𐑢𐑳𐑯 𐑝 𐑨𐑮𐑩𐑜𐑩𐑯𐑕 𐑹 𐑣𐑪𐑕𐑑𐑦𐑤𐑦𐑑𐑦; 𐑕𐑢𐑨𐑜𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "'twasn't|wikt-1": {
+    "transliterated_definition": "𐑒𐑩𐑯𐑑𐑮𐑨𐑒𐑖𐑩𐑯 𐑝 𐑦𐑑 + 𐑢𐑳𐑟 + 𐑯𐑪𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "contraction"
+  },
+  "'twas|wikt-1": {
+    "transliterated_definition": "𐑒𐑩𐑯𐑑𐑮𐑨𐑒𐑖𐑩𐑯 𐑝 𐑦𐑑 + 𐑢𐑳𐑟, 𐑪𐑓𐑩𐑯 𐑨𐑑 𐑞 𐑚𐑦𐑜𐑦𐑯𐑦𐑙 𐑝 𐑩 𐑤𐑲𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "contraction"
+  },
+  "'tween decks|00500491-r": {
+    "transliterated_definition": "𐑦𐑯 𐑞 𐑕𐑐𐑱𐑕 𐑚𐑦𐑑𐑢𐑰𐑯 𐑛𐑧𐑒𐑕, 𐑪𐑯 𐑩 𐑖𐑦𐑐.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑛𐑝𐑻𐑚"
+  },
+  "'tween|00252367-r": {
+    "transliterated_definition": "𐑦𐑯 𐑚𐑦𐑑𐑢𐑰𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑛𐑝𐑻𐑚"
+  },
+  "'twere|wikt-1": {
+    "transliterated_definition": "𐑒𐑩𐑯𐑑𐑮𐑨𐑒𐑖𐑩𐑯 𐑝 𐑦𐑑 + 𐑢𐑻.",
+    "transliterated_examples": [],
+    "transliterated_pos": "contraction"
+  },
+  "'twill|wikt-1": {
+    "transliterated_definition": "𐑒𐑩𐑯𐑑𐑮𐑨𐑒𐑖𐑩𐑯 𐑝 𐑦𐑑 + 𐑢𐑦𐑤.",
+    "transliterated_examples": [],
+    "transliterated_pos": "contraction"
+  },
+  "'twixt|wikt-1": {
+    "transliterated_definition": "𐑱𐑓𐑽𐑧𐑑𐑦𐑒 𐑓𐑹𐑥 𐑝 𐑚𐑦𐑑𐑢𐑦𐑒𐑕𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "prep"
+  },
+  "'twould|wikt-1": {
+    "transliterated_definition": "𐑒𐑩𐑯𐑑𐑮𐑨𐑒𐑖𐑩𐑯 𐑝 𐑦𐑑 + 𐑢𐑫𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "contraction"
+  },
+  "'ullo|wikt-1": {
+    "transliterated_definition": "𐑐𐑮𐑩𐑯𐑳𐑯𐑕𐑦𐑱𐑖𐑩𐑯 𐑕𐑐𐑧𐑤𐑦𐑙 𐑝 𐑣𐑩𐑤𐑴.",
+    "transliterated_examples": [],
+    "transliterated_pos": "intj"
+  },
+  "'un|wikt-1": {
+    "transliterated_definition": "𐑢𐑳𐑯 (𐑩 𐑔𐑦𐑙).",
+    "transliterated_examples": [],
+    "transliterated_pos": "pron"
+  },
+  "'un|wikt-2": {
+    "transliterated_definition": "𐑢𐑳𐑯 (𐑩 𐑐𐑻𐑕𐑩𐑯).",
+    "transliterated_examples": [],
+    "transliterated_pos": "pron"
+  },
+  "'un|wikt-3": {
+    "transliterated_definition": "𐑣𐑦𐑥 𐑹 𐑣𐑻.",
+    "transliterated_examples": [],
+    "transliterated_pos": "pron"
+  },
+  "'ve|wikt-1": {
+    "transliterated_definition": "𐑣𐑨𐑝 (𐑦𐑯 𐑦𐑑𐑕 𐑕𐑧𐑯𐑕 𐑥𐑸𐑒𐑦𐑙 𐑞 𐑐𐑻𐑓𐑦𐑒𐑑 𐑹 𐑮𐑧𐑑𐑮𐑩𐑕𐑐𐑧𐑒𐑑𐑦𐑝 𐑨𐑕𐑐𐑧𐑒𐑑).",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑝𐑻𐑚"
+  },
+  "'ve|wikt-2": {
+    "transliterated_definition": "𐑣𐑨𐑝 (𐑦𐑯 𐑦𐑑𐑕 𐑳𐑞𐑼 𐑿𐑕𐑩𐑟).",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑝𐑻𐑚"
+  },
+  "-'s|wikt-1": {
+    "transliterated_definition": "𐑩 𐑐𐑩𐑟𐑧𐑕𐑦𐑝 𐑥𐑸𐑒𐑼, 𐑦𐑯𐑛𐑦𐑒𐑱𐑑𐑦𐑙 𐑞𐑨𐑑 𐑩𐑯 𐑪𐑚𐑡𐑧𐑒𐑑 𐑚𐑦𐑤𐑪𐑙𐑟 𐑑 𐑞 𐑯𐑬𐑯 𐑹 𐑯𐑬𐑯 𐑓𐑮𐑱𐑟 𐑚𐑺𐑦𐑙 𐑞 𐑥𐑸𐑒𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-'s|wikt-2": {
+    "transliterated_definition": "𐑦𐑯 𐑞 𐑨𐑚𐑕𐑩𐑯𐑕 𐑝 𐑩 𐑕𐑐𐑧𐑕𐑦𐑓𐑲𐑛 𐑪𐑚𐑡𐑧𐑒𐑑, 𐑿𐑟𐑛 𐑑 𐑦𐑯𐑛𐑦𐑒𐑱𐑑 “𐑞 𐑣𐑬𐑕/𐑐𐑤𐑱𐑕/𐑦𐑕𐑑𐑨𐑚𐑤𐑦𐑖𐑥𐑩𐑯𐑑 𐑝”.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-'s|wikt-3": {
+    "transliterated_definition": "𐑦𐑯𐑛𐑦𐑒𐑱𐑑𐑕 𐑩 𐑐𐑻𐑐𐑩𐑕 𐑹 𐑩 𐑿𐑟𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-'s|wikt-4": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑦𐑯𐑛𐑦𐑒𐑱𐑑 𐑩 𐑒𐑢𐑪𐑯𐑑𐑦𐑑𐑦 𐑝 𐑕𐑳𐑥𐑔𐑦𐑙, 𐑦𐑕𐑐𐑧𐑖𐑩𐑤𐑦 𐑝 𐑑𐑲𐑥.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-'s|wikt-5": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑦𐑯𐑛𐑦𐑒𐑱𐑑 𐑝𐑺𐑾𐑕 𐑳𐑞𐑼 𐑒𐑲𐑯𐑛𐑟 𐑝 𐑮𐑦𐑤𐑱𐑖𐑩𐑯𐑖𐑦𐑐, 𐑕𐑳𐑗 𐑨𐑟 𐑕𐑹𐑕 𐑹 𐑪𐑮𐑦𐑡𐑦𐑯, 𐑪𐑚𐑡𐑧𐑒𐑑 𐑝 𐑩𐑯 𐑨𐑒𐑖𐑩𐑯, 𐑕𐑳𐑚𐑡𐑧𐑒𐑑 𐑛𐑦𐑐𐑦𐑒𐑑𐑩𐑛, 𐑯𐑯𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ability|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑟 𐑩 𐑯𐑬𐑯 𐑓𐑮𐑪𐑥 𐑩 𐑝𐑻𐑚 𐑹 𐑩𐑯 𐑨𐑡𐑦𐑒𐑑𐑦𐑝 𐑚𐑲 𐑗𐑱𐑯𐑡𐑦𐑙 𐑓𐑮𐑪𐑥 -𐑱𐑚𐑩𐑤; 𐑩𐑚𐑦𐑤𐑦𐑑𐑦, 𐑦𐑯𐑒𐑤𐑦𐑯𐑱𐑖𐑩𐑯 𐑹 𐑕𐑵𐑑𐑩𐑚𐑦𐑤𐑦𐑑𐑦 𐑓 𐑩 𐑕𐑐𐑧𐑕𐑦𐑓𐑲𐑛 𐑓𐑳𐑙𐑒𐑖𐑩𐑯 𐑹 𐑒𐑩𐑯𐑛𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-acal|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑩𐑯 𐑨𐑡𐑦𐑒𐑑𐑦𐑝 𐑓𐑮𐑪𐑥 𐑩 𐑯𐑬𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-acy|wikt-1": {
+    "transliterated_definition": "𐑛𐑦𐑯𐑴𐑑𐑦𐑙 𐑒𐑢𐑪𐑤𐑦𐑑𐑦, 𐑕𐑑𐑱𐑑, 𐑒𐑩𐑯𐑛𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ac|wikt-1": {
+    "transliterated_definition": "𐑢𐑳𐑯 𐑩𐑓𐑧𐑒𐑑𐑩𐑛 𐑢𐑦𐑔.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ac|wikt-2": {
+    "transliterated_definition": "𐑝, 𐑚𐑦𐑤𐑪𐑙𐑦𐑙 𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ac|wikt-3": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑞 𐑯𐑱𐑥𐑟 𐑝 𐑯𐑪𐑯𐑕𐑑𐑧𐑮𐑶𐑛𐑩𐑤 𐑨𐑯𐑑𐑦-𐑦𐑯𐑓𐑤𐑨𐑥𐑩𐑑𐑼𐑦 𐑛𐑮𐑳𐑜𐑟 (·𐑯𐑕𐑧𐑱𐑛𐑟) 𐑞𐑨𐑑 𐑸 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑝 𐑩𐑕𐑰𐑑𐑦𐑒 𐑨𐑕𐑦𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-adol|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑨𐑯𐑩𐑤𐑡𐑰𐑟𐑦𐑒𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ahh|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑦𐑯𐑑𐑧𐑯𐑕𐑦𐑓𐑲 𐑩𐑯 𐑨𐑡𐑦𐑒𐑑𐑦𐑝, 𐑦𐑕𐑐𐑧𐑖𐑩𐑤𐑦 𐑦𐑯 𐑩 𐑥𐑪𐑒𐑦𐑙 𐑹 𐑑𐑷𐑯𐑑𐑦𐑙 𐑥𐑨𐑯𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-alogue|wikt-1": {
+    "transliterated_definition": "𐑷𐑤𐑑𐑻𐑯𐑩𐑑𐑦𐑝 𐑓𐑹𐑥 𐑝 -𐑤𐑪𐑜, 𐑿𐑟𐑛 𐑭𐑓𐑑𐑼 𐑩 𐑒𐑪𐑯𐑕𐑩𐑯𐑩𐑯𐑑 𐑹 𐑛𐑦𐑓𐑔𐑪𐑙.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-alog|wikt-1": {
+    "transliterated_definition": "𐑷𐑤𐑑𐑻𐑯𐑩𐑑𐑦𐑝 𐑓𐑹𐑥 𐑝 -𐑤𐑪𐑜, 𐑿𐑟𐑛 𐑭𐑓𐑑𐑼 𐑩 𐑒𐑪𐑯𐑕𐑩𐑯𐑩𐑯𐑑 𐑹 𐑛𐑦𐑓𐑔𐑪𐑙.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-alol|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑒𐑪𐑥𐑐𐑬𐑯𐑛𐑟 𐑢𐑦𐑔 𐑞 𐑕𐑑𐑮𐑳𐑒𐑗𐑼 ·𐑸–·𐑗(𐑴)CH₂NH–𐑮 𐑿𐑟𐑛 𐑨𐑟 𐑒𐑩𐑥𐑚𐑲𐑯𐑛 𐑨𐑤𐑓𐑩 𐑯 𐑚𐑱𐑑𐑩 𐑚𐑤𐑪𐑒𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-amivir|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑯𐑘𐑫𐑼𐑩𐑥𐑰𐑯𐑦𐑛𐑱𐑕 𐑦𐑯𐑣𐑦𐑚𐑦𐑑𐑼𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑝𐑲𐑮𐑩𐑤𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-andry|wikt-1": {
+    "transliterated_definition": "𐑥𐑱𐑤 𐑥𐑭𐑑𐑱(𐑟), 𐑣𐑳𐑟𐑚𐑩𐑯𐑛(𐑟).",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-andry|wikt-2": {
+    "transliterated_definition": "𐑥𐑨𐑯, 𐑥𐑧𐑯; 𐑥𐑱𐑤(𐑟).",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-andry|wikt-3": {
+    "transliterated_definition": "𐑥𐑱𐑤 𐑮𐑰𐑐𐑮𐑩𐑛𐑳𐑒𐑑𐑦𐑝 𐑹𐑜𐑩𐑯(𐑟); (𐑦𐑕𐑐𐑧𐑖𐑩𐑤𐑦 𐑦𐑯 𐑚𐑪𐑑𐑩𐑯𐑦): 𐑕𐑑𐑱𐑥𐑩𐑯(𐑟).",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-arabine|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 arabinofuranosyl 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-arol|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑛𐑲𐑒𐑴𐑵𐑥𐑸𐑩𐑤 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑒𐑴𐑨𐑜𐑿𐑤𐑩𐑯𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-arone|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑨𐑯𐑑𐑦𐑼𐑦𐑞𐑩𐑥𐑦𐑒𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-arotene|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑱𐑮𐑴𐑑𐑦𐑯𐑶𐑛 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ary|wikt-1": {
+    "transliterated_definition": "𐑝 𐑹 𐑐𐑼𐑑𐑱𐑯𐑦𐑙 𐑑. 𐑨𐑡𐑦𐑒𐑑𐑲𐑝𐑩𐑤 𐑕𐑳𐑓𐑦𐑒𐑕 𐑩𐑐𐑧𐑯𐑛𐑩𐑛 𐑑 𐑝𐑺𐑾𐑕 𐑢𐑻𐑛𐑟, 𐑪𐑓𐑩𐑯 𐑯𐑬𐑯𐑟, 𐑑 𐑐𐑮𐑩𐑛𐑵𐑕 𐑩𐑯 𐑨𐑡𐑦𐑒𐑑𐑦𐑝 𐑓𐑹𐑥. 𐑪𐑓𐑩𐑯 𐑨𐑛𐑩𐑛 𐑑 𐑢𐑻𐑛𐑟 𐑝 ·𐑤𐑨𐑑𐑦𐑯 𐑪𐑮𐑦𐑡𐑦𐑯, 𐑚𐑳𐑑 𐑿𐑟𐑛 𐑢𐑦𐑔 𐑳𐑞𐑼 𐑢𐑻𐑛𐑟 𐑷𐑤𐑕𐑴.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ary|wikt-2": {
+    "transliterated_definition": "𐑧𐑯𐑛𐑦𐑙 𐑝 𐑕𐑳𐑥 𐑕𐑳𐑚𐑕𐑑𐑩𐑯𐑑𐑦𐑝𐑟 𐑚𐑪𐑮𐑴𐑛 𐑹 𐑦𐑯𐑣𐑧𐑮𐑦𐑑𐑩𐑛 𐑓𐑮𐑪𐑥 ·𐑤𐑨𐑑𐑦𐑯 𐑯 ·𐑓𐑮𐑧𐑯𐑗.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ary|wikt-3": {
+    "transliterated_definition": "𐑣𐑨𐑝𐑦𐑙 𐑞 𐑕𐑐𐑧𐑕𐑦𐑓𐑲𐑛 𐑸𐑦𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-asvir|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑣𐑧𐑐𐑩𐑑𐑲𐑑𐑦𐑕 C 𐑝𐑲𐑮𐑩𐑕 NS5A 𐑦𐑯𐑣𐑦𐑚𐑦𐑑𐑼𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑝𐑲𐑮𐑩𐑤𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-azepam|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑛𐑲𐑨𐑟𐑩𐑐𐑨𐑥 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-azepate|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑛𐑲𐑨𐑟𐑩𐑐𐑨𐑥 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-azocine|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑯𐑸𐑒𐑪𐑑𐑦𐑒 𐑨𐑯𐑑𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑕/𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑕 𐑮𐑦𐑤𐑱𐑑𐑩𐑛 𐑑 6,7-𐑚𐑧𐑯𐑟𐑴𐑥𐑹𐑓𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-azolam|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑛𐑲𐑨𐑟𐑩𐑐𐑨𐑥 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-barb-|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑚𐑸𐑚𐑦𐑑𐑘𐑫𐑼𐑦𐑒 𐑨𐑕𐑦𐑛 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑣𐑦𐑐𐑯𐑪𐑑𐑦𐑒𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "interfix"
+  },
+  "-betasol|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑐𐑮𐑧𐑛𐑯𐑦𐑟𐑴𐑯 𐑯 prednisolone 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-biont|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑟 𐑯𐑬𐑯𐑟 𐑓 𐑩 𐑛𐑦𐑕𐑒𐑮𐑰𐑑 𐑤𐑦𐑝𐑦𐑙 𐑹𐑜𐑩𐑯𐑦𐑟𐑩𐑥 𐑞𐑨𐑑 𐑣𐑨𐑟 𐑩 𐑕𐑐𐑧𐑕𐑦𐑓𐑲𐑛 𐑥𐑴𐑛 𐑝 𐑤𐑦𐑝𐑦𐑙.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-blr|wikt-1": {
+    "transliterated_definition": "𐑒𐑩𐑥𐑚𐑲𐑯𐑛 𐑢𐑦𐑔 𐑩 𐑯𐑬𐑯 𐑹 𐑨𐑡𐑦𐑒𐑑𐑦𐑝 𐑓 𐑩 𐑕𐑐𐑩𐑕𐑦𐑓𐑦𐑒 𐑒𐑩𐑥𐑿𐑯𐑦𐑑𐑦 𐑝 𐑿𐑟𐑼𐑟 𐑹 𐑩 𐑠𐑭𐑯𐑮𐑩 𐑝 𐑐𐑴𐑕𐑑𐑕 𐑪𐑯 𐑞 𐑕𐑴𐑖𐑩𐑤 𐑥𐑰𐑛𐑾 𐑐𐑤𐑨𐑑𐑓𐑹𐑥 ·𐑑𐑳𐑥𐑚𐑤𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-borough|wikt-1": {
+    "transliterated_definition": "𐑐𐑤𐑱𐑕𐑯𐑱𐑥 𐑕𐑳𐑓𐑦𐑒𐑕, 𐑦𐑯𐑛𐑦𐑒𐑱𐑑𐑩𐑛 𐑕𐑲𐑑 𐑝 𐑩 𐑓𐑹𐑑𐑦𐑓𐑲𐑛 𐑐𐑤𐑱𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-borough|wikt-2": {
+    "transliterated_definition": "𐑐𐑤𐑱𐑕𐑯𐑱𐑥 𐑕𐑳𐑓𐑦𐑒𐑕, 𐑦𐑯𐑛𐑦𐑒𐑱𐑑𐑦𐑙 𐑩 𐑚𐑳𐑮𐑩.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-bury|wikt-1": {
+    "transliterated_definition": "𐑩 𐑐𐑤𐑱𐑕𐑯𐑱𐑥 𐑕𐑳𐑓𐑦𐑒𐑕 𐑦𐑯𐑛𐑦𐑒𐑱𐑑𐑦𐑙 𐑩 𐑓𐑹𐑑𐑦𐑓𐑲𐑛 𐑐𐑤𐑱𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-buterol|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑓𐑧𐑯𐑧𐑔𐑦𐑤𐑩𐑥𐑰𐑯 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑚𐑮𐑪𐑙𐑒𐑴𐑛𐑲𐑤𐑭𐑑𐑫𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-buvir|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 RNA 𐑐𐑪𐑤𐑦𐑥𐑼𐑱𐑕 (NS5B) 𐑦𐑯𐑣𐑦𐑚𐑦𐑑𐑼𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑝𐑲𐑮𐑩𐑤𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-capone|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑒𐑨𐑑𐑩𐑒𐑪𐑤-O-𐑥𐑧𐑔𐑩𐑤𐑑𐑮𐑨𐑯𐑕𐑓𐑻𐑱𐑕 𐑦𐑯𐑣𐑦𐑚𐑦𐑑𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-carnil|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑒𐑸𐑚𐑴𐑤𐑲𐑯 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑚𐑧𐑯𐑟𐑴𐑛𐑲𐑱𐑟𐑩𐑐𐑰𐑯 𐑮𐑦𐑕𐑧𐑐𐑑𐑼 𐑨𐑯𐑑𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑕 𐑯 𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-cavir|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑒𐑸𐑚𐑴𐑕𐑲𐑒𐑤𐑦𐑒 𐑯𐑿𐑒𐑤𐑦𐑴𐑕𐑲𐑛𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑝𐑲𐑮𐑩𐑤𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-cest|wikt-1": {
+    "transliterated_definition": "𐑩 𐑕𐑳𐑓𐑦𐑒𐑕 𐑒𐑩𐑥𐑚𐑲𐑯𐑛 𐑢𐑦𐑔 𐑩 𐑯𐑬𐑯 𐑹 𐑕𐑻𐑯𐑱𐑥 𐑑 𐑒𐑮𐑦𐑱𐑑 𐑩 𐑢𐑻𐑛 𐑓 𐑦𐑯𐑕𐑧𐑕𐑑 𐑹 𐑩𐑯 𐑦𐑯𐑩𐑐𐑮𐑴𐑐𐑮𐑾𐑑 𐑮𐑦𐑤𐑱𐑖𐑩𐑯𐑖𐑦𐑐 𐑦𐑯𐑝𐑪𐑤𐑝𐑦𐑙 𐑞 𐑮𐑧𐑓𐑼𐑩𐑯𐑑(𐑟).",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-cest|wikt-2": {
+    "transliterated_definition": "𐑩 𐑕𐑳𐑓𐑦𐑒𐑕 𐑓 𐑮𐑦𐑤𐑱𐑖𐑩𐑯𐑖𐑦𐑐𐑕 𐑚𐑦𐑑𐑢𐑰𐑯 𐑐𐑸𐑑𐑦𐑕𐑦𐑐𐑩𐑯𐑑𐑕 𐑦𐑯 𐑞 𐑕𐑱𐑥 (𐑿𐑠𐑫𐑩𐑤𐑦 𐑒𐑤𐑴𐑕-𐑯𐑦𐑑) 𐑨𐑒𐑑𐑦𐑝𐑦𐑑𐑦 (𐑕𐑰 𐑒𐑭𐑕𐑑𐑕𐑩𐑕𐑑, 𐑒𐑤𐑭𐑕𐑩𐑕𐑩𐑕𐑑, 𐑒𐑤𐑳𐑚𐑕𐑩𐑕𐑑, 𐑒𐑹𐑕𐑩𐑕𐑩𐑕𐑑, 𐑓𐑮𐑧𐑯𐑛𐑕𐑩𐑕𐑑, 𐑑𐑰𐑧𐑥𐑕𐑰𐑩𐑕𐑑, 𐑢𐑻𐑒𐑒𐑧𐑕𐑑) 𐑹 𐑮𐑧𐑟𐑦𐑛𐑩𐑯𐑑𐑕 𐑝 𐑞 𐑕𐑱𐑥 𐑒𐑪𐑥𐑐𐑤𐑧𐑒𐑕 (𐑕𐑰 𐑛𐑹𐑥𐑕𐑩𐑕𐑑, 𐑓𐑤𐑹𐑕𐑩𐑕𐑑, 𐑣𐑷𐑤𐑕𐑩𐑕𐑑, 𐑣𐑬𐑕𐑒𐑧𐑕𐑑).",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-cha|wikt-1": {
+    "transliterated_definition": "𐑷𐑤𐑑𐑻𐑯𐑩𐑑𐑦𐑝 𐑓𐑹𐑥 𐑝 𐑘𐑩 (“𐑿”).",
+    "transliterated_examples": [],
+    "transliterated_pos": "pron"
+  },
+  "-chezia|wikt-1": {
+    "transliterated_definition": "𐑛𐑧𐑓𐑩𐑒𐑱𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-chore|wikt-1": {
+    "transliterated_definition": "𐑩𐑯 𐑹𐑜𐑩𐑯𐑦𐑟𐑩𐑥, 𐑦𐑕𐑐𐑧𐑖𐑩𐑤𐑦 𐑩 𐑐𐑤𐑭𐑯𐑑 𐑹 𐑐𐑤𐑭𐑯𐑑 𐑐𐑨𐑔𐑩𐑡𐑩𐑯, 𐑞𐑨𐑑 𐑕𐑐𐑮𐑧𐑛𐑟 𐑚𐑲 𐑩 𐑕𐑐𐑧𐑕𐑦𐑓𐑲𐑛 𐑱𐑡𐑩𐑯𐑑, 𐑹 𐑦𐑯 𐑩 𐑕𐑐𐑧𐑕𐑦𐑓𐑲𐑛 𐑥𐑨𐑯𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-chore|wikt-2": {
+    "transliterated_definition": "𐑩 𐑜𐑮𐑵𐑐 𐑝 𐑣𐑨𐑚𐑦𐑑𐑨𐑑𐑕 𐑢𐑦𐑔 𐑩 𐑕𐑦𐑥𐑦𐑤𐑼 𐑦𐑯𐑝𐑲𐑮𐑩𐑯𐑥𐑩𐑯𐑑 𐑯 𐑩 𐑕𐑦𐑥𐑦𐑤𐑼 𐑚𐑲𐑴𐑑𐑭.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ciclovir|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑚𐑲𐑕𐑦𐑒𐑩𐑤𐑦𐑒 𐑣𐑧𐑑𐑼𐑴𐑕𐑲𐑒𐑩𐑤 𐑒𐑪𐑥𐑐𐑬𐑯𐑛𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑝𐑲𐑮𐑩𐑤𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-clofenac|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑰𐑚𐑵𐑓𐑩𐑯𐑨𐑒 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦-𐑦𐑯𐑓𐑤𐑨𐑥𐑩𐑑𐑼𐑦 𐑱𐑡𐑩𐑯𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-coccus|wikt-1": {
+    "transliterated_definition": "𐑧𐑯𐑦 𐑕𐑓𐑧𐑮𐑦𐑒𐑩𐑤 𐑥𐑲𐑒𐑮𐑴𐑹𐑜𐑩𐑯𐑦𐑟𐑩𐑥.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-conazole|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑥𐑦𐑒𐑴𐑯𐑦𐑱𐑟𐑴𐑤 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑕𐑦𐑕𐑑𐑧𐑥𐑦𐑒 𐑨𐑯𐑑𐑦𐑓𐑳𐑙𐑩𐑤 𐑱𐑡𐑩𐑯𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-cort-|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑒𐑹𐑑𐑦𐑒𐑴𐑕𐑑𐑧𐑮𐑶𐑛𐑟 𐑦𐑒𐑕𐑧𐑐𐑑 prednisolone 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "interfix"
+  },
+  "-cort|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑒𐑹𐑑𐑦𐑒𐑴𐑕𐑑𐑧𐑮𐑶𐑛𐑟 𐑦𐑒𐑕𐑧𐑐𐑑 prednisolone 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-coxib|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑕𐑦𐑤𐑧𐑒𐑑𐑦𐑝 𐑕𐑲𐑒𐑩𐑤𐑴-𐑪𐑒𐑕𐑦𐑡𐑩𐑯𐑱𐑕 𐑦𐑯𐑣𐑦𐑚𐑦𐑑𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-cratic|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟, 𐑝 𐑹 𐑚𐑦𐑓𐑦𐑑𐑦𐑙 -𐑒𐑮𐑩𐑕𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-cratic|wikt-2": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟, 𐑝 𐑹 𐑚𐑦𐑓𐑦𐑑𐑦𐑙 -𐑒𐑮𐑨𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-curium|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑒𐑿𐑮𐑸𐑦-𐑤𐑲𐑒 𐑕𐑳𐑚𐑕𐑑𐑩𐑯𐑕𐑩𐑟, 𐑯𐑘𐑫𐑼𐑴𐑥𐑳𐑕𐑒𐑘𐑩𐑤𐑼 𐑚𐑤𐑪𐑒𐑦𐑙 𐑱𐑡𐑩𐑯𐑑𐑕 𐑢𐑦𐑔 𐑮𐑦𐑡𐑦𐑛 𐑕𐑑𐑮𐑳𐑒𐑗𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-curonium|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑯𐑘𐑫𐑼𐑴𐑥𐑳𐑕𐑒𐑘𐑩𐑤𐑼 𐑚𐑤𐑪𐑒𐑦𐑙 𐑱𐑡𐑩𐑯𐑑𐑕 𐑢𐑦𐑔 𐑮𐑦𐑡𐑦𐑛 𐑕𐑑𐑮𐑳𐑒𐑗𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-dar|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑦𐑙 𐑯𐑬𐑯𐑟 𐑛𐑦𐑯𐑴𐑑𐑦𐑙 𐑩 𐑐𐑿𐑑𐑩𐑑𐑦𐑝 𐑩𐑚𐑦𐑤𐑦𐑑𐑦 𐑑 𐑛𐑦𐑑𐑧𐑒𐑑 𐑩 𐑔𐑦𐑙.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-dilol|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑝𐑱𐑟𐑴𐑛𐑲𐑤𐑭𐑑𐑫𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-dipine|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑡𐑩𐑯𐑧𐑮𐑦𐑒 𐑒𐑨𐑤𐑕𐑾𐑥 𐑗𐑨𐑯𐑩𐑤 𐑚𐑤𐑪𐑒𐑼 𐑛𐑮𐑳𐑜𐑟 𐑢𐑦𐑗 𐑸 𐑯𐑲𐑓𐑑𐑲𐑐𐑰𐑯 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-dom|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑟 𐑯𐑬𐑯𐑟 𐑛𐑦𐑯𐑴𐑑𐑦𐑙 𐑞 𐑒𐑩𐑯𐑛𐑦𐑖𐑩𐑯 𐑹 𐑕𐑑𐑱𐑑 𐑝 𐑞 𐑮𐑵𐑑 𐑢𐑻𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-dom|wikt-2": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑟 𐑯𐑬𐑯𐑟 𐑛𐑦𐑯𐑴𐑑𐑦𐑙 𐑞 𐑛𐑴𐑥𐑱𐑯 𐑹 𐑡𐑫𐑼𐑦𐑕𐑛𐑦𐑒𐑖𐑩𐑯 𐑝 𐑞 𐑮𐑵𐑑 𐑢𐑻𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-dom|wikt-3": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑟 𐑯𐑬𐑯𐑟 — 𐑿𐑠𐑫𐑩𐑤𐑦 𐑯𐑪𐑯𐑕 𐑢𐑻𐑛𐑟 — 𐑛𐑦𐑯𐑴𐑑𐑦𐑙 𐑞 𐑕𐑧𐑑 𐑝 𐑷𐑤 𐑦𐑜𐑟𐑭𐑥𐑐𐑩𐑤𐑟 𐑝 𐑞 𐑕𐑳𐑓𐑦𐑒𐑕𐑑 𐑢𐑻𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-dom|wikt-4": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑟 𐑯𐑬𐑯𐑟 𐑛𐑦𐑯𐑴𐑑𐑦𐑙 𐑞 𐑓𐑨𐑯𐑛𐑩𐑥 𐑝 𐑞 𐑕𐑳𐑓𐑦𐑒𐑕𐑑 𐑢𐑻𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-dom|wikt-5": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑟 𐑳𐑯𐑒𐑬𐑯𐑑𐑩𐑚𐑩𐑤 𐑯𐑬𐑯𐑟 𐑛𐑦𐑯𐑴𐑑𐑦𐑙 𐑩 𐑑𐑲𐑐 𐑝 𐑛𐑪𐑥𐑦𐑯𐑱𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-dopa|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑛𐑴𐑐𐑩𐑥𐑰𐑯 𐑮𐑦𐑕𐑧𐑐𐑑𐑼 𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑕 𐑹 𐑛𐑴𐑐𐑩𐑥𐑰𐑯 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑐𐑸𐑒𐑦𐑯𐑕𐑩𐑯𐑦𐑟𐑩𐑥𐑟 𐑹 𐑐𐑮𐑴𐑤𐑨𐑒𐑑𐑦𐑯 𐑦𐑯𐑣𐑦𐑚𐑦𐑑𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-drine|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑕𐑦𐑥𐑐𐑨𐑑𐑣𐑴𐑥𐑦𐑥𐑧𐑑𐑦𐑒𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-dutant|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑯𐑘𐑫𐑼𐑴𐑒𐑲𐑯𐑦𐑯 NK₂ 𐑮𐑦𐑕𐑧𐑐𐑑𐑼 𐑨𐑯𐑑𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ed|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑐𐑨𐑕𐑑 𐑑𐑧𐑯𐑕𐑩𐑟 𐑝 (𐑮𐑧𐑜𐑘𐑩𐑤𐑼) 𐑝𐑻𐑚𐑟. 𐑦𐑯 𐑤𐑦𐑙𐑜𐑢𐑦𐑕𐑑𐑦𐑒𐑕, 𐑦𐑑 𐑦𐑟 𐑿𐑟𐑛 𐑓 𐑞 𐑚𐑱𐑕 𐑓𐑹𐑥 𐑝 𐑧𐑯𐑦 𐑐𐑨𐑕𐑑 𐑓𐑹𐑥. 𐑕𐑰 -𐑑 𐑓 𐑩 𐑝𐑺𐑾𐑯𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ed|wikt-2": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑐𐑨𐑕𐑑 𐑐𐑸𐑑𐑦𐑕𐑦𐑐𐑩𐑤𐑟 𐑝 (𐑮𐑧𐑜𐑘𐑩𐑤𐑼) 𐑝𐑻𐑚𐑟. 𐑕𐑰 -𐑧𐑯 𐑯 -𐑑 𐑓 𐑝𐑺𐑾𐑯𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ed|wikt-3": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑐𐑩𐑟𐑧𐑖𐑩𐑯𐑩𐑤 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑓𐑮𐑪𐑥 𐑯𐑬𐑯𐑟, 𐑦𐑯 𐑞 𐑕𐑧𐑯𐑕 𐑝 𐑣𐑨𐑝𐑦𐑙 𐑞 𐑪𐑚𐑡𐑧𐑒𐑑 𐑮𐑧𐑐𐑮𐑦𐑟𐑧𐑯𐑑𐑩𐑛 𐑚𐑲 𐑞 𐑯𐑬𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ed|wikt-4": {
+    "transliterated_definition": "𐑨𐑟 𐑩𐑯 𐑦𐑒𐑕𐑑𐑧𐑯𐑖𐑩𐑯 𐑝 𐑞 𐑩𐑚𐑳𐑝, 𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑐𐑩𐑟𐑧𐑖𐑩𐑯𐑩𐑤 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑓𐑮𐑪𐑥 𐑨𐑡𐑦𐑒𐑑𐑦𐑝-𐑯𐑬𐑯 𐑐𐑺𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-eer|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑒𐑮𐑦𐑱𐑑 𐑩𐑯 𐑱𐑡𐑩𐑯𐑑 𐑯𐑬𐑯 𐑛𐑦𐑯𐑴𐑑𐑦𐑙 𐑕𐑳𐑥𐑢𐑳𐑯 𐑩𐑕𐑴𐑖𐑦𐑱𐑑𐑩𐑛 𐑢𐑦𐑔, 𐑒𐑩𐑯𐑕𐑻𐑯𐑛 𐑢𐑦𐑔, 𐑹 𐑦𐑯𐑜𐑱𐑡𐑛 𐑦𐑯 𐑩 𐑕𐑐𐑧𐑕𐑦𐑓𐑲𐑛 𐑨𐑒𐑑𐑦𐑝𐑦𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ency|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑦𐑙 𐑨𐑚𐑕𐑑𐑮𐑨𐑒𐑑 𐑯𐑬𐑯𐑟 𐑛𐑦𐑯𐑴𐑑𐑦𐑙 𐑒𐑩𐑯𐑛𐑦𐑖𐑩𐑯𐑟, 𐑒𐑢𐑪𐑤𐑦𐑑𐑦𐑟, 𐑹 ·𐑕𐑑𐑱𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-enes|wikt-1": {
+    "transliterated_definition": "𐑐𐑤𐑫𐑼𐑩𐑤 𐑝 -𐑰𐑯𐑱.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ene|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑟 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑮𐑦𐑤𐑱𐑑𐑦𐑙 𐑑 𐑐𐑤𐑱𐑕𐑩𐑟 𐑯 𐑯𐑬𐑯𐑟 𐑓 𐑞𐑺 𐑦𐑯𐑣𐑨𐑚𐑦𐑑𐑩𐑯𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ene|wikt-2": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑟 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑯 𐑯𐑬𐑯𐑟 𐑛𐑦𐑯𐑴𐑑𐑦𐑙 𐑮𐑦𐑤𐑦𐑡𐑩𐑕 𐑜𐑮𐑵𐑐𐑕 𐑓𐑮𐑪𐑥 𐑐𐑻𐑕𐑩𐑯𐑩𐑤 𐑯𐑱𐑥𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ene|wikt-3": {
+    "transliterated_definition": "𐑩𐑯 𐑳𐑯𐑕𐑨𐑗𐑼𐑱𐑑𐑩𐑛 𐑣𐑲𐑛𐑮𐑴𐑒𐑸𐑚𐑩𐑯 𐑣𐑨𐑝𐑦𐑙 𐑨𐑑 𐑤𐑰𐑕𐑑 𐑢𐑳𐑯 𐑛𐑳𐑚𐑩𐑤 𐑚𐑪𐑯𐑛; 𐑩𐑯 𐑨𐑤𐑒𐑰𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ene|wikt-4": {
+    "transliterated_definition": "𐑩𐑯 𐑨𐑮𐑩𐑥𐑨𐑑𐑦𐑒 𐑣𐑲𐑛𐑮𐑴𐑒𐑸𐑚𐑩𐑯 𐑚𐑱𐑕𐑑 𐑪𐑯 𐑚𐑧𐑯𐑟𐑰𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ene|wikt-5": {
+    "transliterated_definition": "𐑩 𐑐𐑪𐑤𐑦𐑥𐑼 𐑛𐑦𐑮𐑲𐑝𐑛 𐑓𐑮𐑪𐑥 𐑩𐑯 𐑨𐑤𐑒𐑰𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-eous|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑢𐑦𐑔 𐑯𐑬𐑯𐑟 𐑑 𐑓𐑹𐑥 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑢𐑦𐑔 𐑞 𐑕𐑧𐑯𐑕 𐑝 𐑮𐑦𐑟𐑧𐑥𐑚𐑤𐑦𐑙 𐑹 𐑣𐑨𐑝𐑦𐑙 𐑞 𐑒𐑨𐑮𐑩𐑒𐑑𐑼𐑦𐑕𐑑𐑦𐑒𐑕 𐑝 𐑞 𐑕𐑳𐑓𐑦𐑒𐑕𐑑 𐑑𐑻𐑥; 𐑕𐑦𐑥𐑦𐑤𐑼 𐑑 -𐑩𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-eous|wikt-2": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑥𐑰𐑯𐑦𐑙 𐑮𐑦𐑟𐑧𐑥𐑚𐑤𐑦𐑙 𐑹 𐑣𐑨𐑝𐑦𐑙 𐑒𐑨𐑮𐑩𐑒𐑑𐑼𐑦𐑕𐑑𐑦𐑒𐑕 𐑝 𐑞 𐑮𐑦𐑤𐑱𐑑𐑩𐑛 𐑑𐑻𐑥.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-erg-|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑻𐑜𐑪𐑑 𐑨𐑤𐑒𐑩𐑤𐑶𐑛 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "interfix"
+  },
+  "-eridine|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑐𐑧𐑔𐑦𐑛𐑰𐑯 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑩𐑤𐑡𐑰𐑟𐑦𐑒𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-er|wikt-1": {
+    "transliterated_definition": "𐑩 𐑐𐑻𐑕𐑩𐑯 𐑹 𐑔𐑦𐑙 𐑞𐑨𐑑 𐑛𐑳𐑟 𐑩𐑯 𐑨𐑒𐑖𐑩𐑯 𐑦𐑯𐑛𐑦𐑒𐑱𐑑𐑩𐑛 𐑚𐑲 𐑞 𐑮𐑵𐑑 𐑝𐑻𐑚; 𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑩𐑯 𐑱𐑡𐑩𐑯𐑑 𐑯𐑬𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-er|wikt-2": {
+    "transliterated_definition": "𐑩 𐑐𐑻𐑕𐑩𐑯 𐑹 𐑔𐑦𐑙 𐑑 𐑢𐑦𐑗 𐑞 𐑮𐑵𐑑 𐑝𐑻𐑚 𐑦𐑟 𐑛𐑳𐑯 𐑹 𐑒𐑨𐑯 𐑚𐑰 𐑛𐑳𐑯 𐑕𐑨𐑑𐑦𐑕𐑓𐑨𐑒𐑑𐑼𐑦𐑤𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-er|wikt-3": {
+    "transliterated_definition": "𐑩 𐑐𐑻𐑕𐑩𐑯 𐑣𐑵𐑟 𐑪𐑒𐑘𐑩𐑐𐑱𐑖𐑩𐑯 𐑦𐑟 𐑞 𐑮𐑵𐑑 𐑯𐑬𐑯; (𐑥𐑹 𐑚𐑮𐑷𐑛𐑤𐑦, 𐑩𐑒𐑱𐑠𐑩𐑯𐑩𐑤𐑦 𐑢𐑦𐑔 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟) 𐑩 𐑐𐑻𐑕𐑩𐑯 𐑒𐑨𐑮𐑩𐑒𐑑𐑼𐑲𐑟𐑛 𐑚𐑲 𐑞 𐑮𐑵𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-er|wikt-4": {
+    "transliterated_definition": "𐑩 𐑐𐑻𐑕𐑩𐑯 𐑹 𐑔𐑦𐑙 𐑑 𐑢𐑦𐑗 𐑩 𐑕𐑻𐑑𐑩𐑯 𐑯𐑳𐑥𐑚𐑼 𐑹 𐑥𐑧𐑠𐑼𐑥𐑩𐑯𐑑 𐑩𐑐𐑤𐑲𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-er|wikt-5": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑬𐑯𐑟 𐑖𐑹𐑑𐑼 𐑞𐑨𐑯 𐑥𐑹 𐑓𐑹𐑥𐑩𐑤 𐑕𐑦𐑯𐑩𐑯𐑦𐑥𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ese|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑯 𐑯𐑬𐑯𐑟 𐑛𐑦𐑕𐑒𐑮𐑲𐑚𐑦𐑙 𐑔𐑦𐑙𐑟 𐑯 𐑒𐑨𐑮𐑩𐑒𐑑𐑼𐑦𐑕𐑑𐑦𐑒𐑕 𐑝 𐑩 𐑕𐑦𐑑𐑦, 𐑮𐑰𐑡𐑩𐑯, 𐑹 𐑒𐑳𐑯𐑑𐑮𐑦, 𐑕𐑳𐑗 𐑨𐑟 𐑞 𐑐𐑰𐑐𐑩𐑤 𐑯 𐑞 𐑤𐑨𐑙𐑜𐑢𐑦𐑡 𐑕𐑐𐑴𐑒𐑩𐑯 𐑚𐑲 𐑞𐑰𐑟 𐑐𐑰𐑐𐑩𐑤.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ese|wikt-2": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑬𐑯𐑟 𐑥𐑰𐑯𐑦𐑙 𐑞 𐑡𐑸𐑜𐑩𐑯 𐑹 𐑤𐑨𐑙𐑜𐑢𐑦𐑡 𐑿𐑟𐑛 𐑚𐑲 𐑩 𐑐𐑼𐑑𐑦𐑒𐑘𐑩𐑤𐑼 𐑐𐑮𐑩𐑓𐑧𐑖𐑩𐑯 𐑹 𐑚𐑰𐑦𐑙 𐑹 𐑦𐑯 𐑩 𐑐𐑼𐑑𐑦𐑒𐑘𐑩𐑤𐑼 𐑒𐑪𐑯𐑑𐑧𐑒𐑕𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-es|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑞 𐑮𐑧𐑜𐑘𐑩𐑤𐑼 𐑐𐑤𐑫𐑼𐑩𐑤 𐑝 𐑯𐑬𐑯𐑟 𐑞𐑨𐑑 𐑧𐑯𐑛 𐑦𐑯 𐑩 𐑕𐑦𐑚𐑦𐑤𐑩𐑯𐑑 (/𐑟/, /𐑟/, /ʃ/, /ʒ/, /tʃ/, 𐑹 /dʒ/), 𐑕𐑳𐑗 𐑨𐑟:",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-es|wikt-2": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑞 𐑮𐑧𐑜𐑘𐑩𐑤𐑼 𐑐𐑤𐑫𐑼𐑩𐑤 𐑝 𐑯𐑬𐑯𐑟 𐑞𐑨𐑑 𐑧𐑯𐑛 𐑦𐑯 𐑩 𐑕𐑦𐑚𐑦𐑤𐑩𐑯𐑑 (/𐑟/, /𐑟/, /ʃ/, /ʒ/, /tʃ/, 𐑹 /dʒ/), 𐑕𐑳𐑗 𐑨𐑟:",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-es|wikt-3": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑞 𐑮𐑧𐑜𐑘𐑩𐑤𐑼 𐑐𐑤𐑫𐑼𐑩𐑤 𐑝 𐑯𐑬𐑯𐑟 𐑞𐑨𐑑 𐑧𐑯𐑛 𐑦𐑯 𐑩 𐑕𐑦𐑚𐑦𐑤𐑩𐑯𐑑 (/𐑟/, /𐑟/, /ʃ/, /ʒ/, /tʃ/, 𐑹 /dʒ/), 𐑕𐑳𐑗 𐑨𐑟:",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-es|wikt-4": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑞 𐑮𐑧𐑜𐑘𐑩𐑤𐑼 𐑐𐑤𐑫𐑼𐑩𐑤 𐑝 𐑯𐑬𐑯𐑟 𐑞𐑨𐑑 𐑧𐑯𐑛 𐑦𐑯 𐑩 𐑕𐑦𐑚𐑦𐑤𐑩𐑯𐑑 (/𐑟/, /𐑟/, /ʃ/, /ʒ/, /tʃ/, 𐑹 /dʒ/), 𐑕𐑳𐑗 𐑨𐑟:",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-es|wikt-5": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑞 𐑮𐑧𐑜𐑘𐑩𐑤𐑼 𐑐𐑤𐑫𐑼𐑩𐑤 𐑝 𐑯𐑬𐑯𐑟 𐑞𐑨𐑑 𐑧𐑯𐑛 𐑦𐑯 𐑩 𐑕𐑦𐑚𐑦𐑤𐑩𐑯𐑑 (/𐑟/, /𐑟/, /ʃ/, /ʒ/, /tʃ/, 𐑹 /dʒ/), 𐑕𐑳𐑗 𐑨𐑟:",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-fer|wikt-1": {
+    "transliterated_definition": "𐑣𐑴𐑤𐑛𐑼 𐑹 𐑚𐑺𐑼 𐑝 𐑕𐑳𐑥𐑔𐑦𐑙.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-fix|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑦𐑙 𐑯𐑬𐑯𐑟 𐑛𐑦𐑯𐑴𐑑𐑦𐑙 𐑩 𐑥𐑹𐑓𐑰𐑥 𐑿𐑟𐑛 𐑦𐑯 𐑢𐑻𐑛 𐑓𐑹𐑥𐑱𐑖𐑩𐑯 𐑡𐑶𐑯𐑛 𐑑 𐑩 𐑢𐑻𐑛 𐑦𐑯 𐑞 𐑕𐑐𐑧𐑕𐑦𐑓𐑲𐑛 𐑢𐑱.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-fix|wikt-2": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑦𐑙 𐑝𐑻𐑚𐑟 𐑛𐑦𐑯𐑴𐑑𐑦𐑙 𐑓𐑭𐑕𐑩𐑯𐑦𐑙 𐑹 𐑩𐑑𐑨𐑗𐑦𐑙 (𐑕𐑳𐑥𐑔𐑦𐑙) 𐑦𐑯 𐑞 𐑕𐑐𐑧𐑕𐑦𐑓𐑲𐑛 𐑢𐑱.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-floxacin|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑡𐑩𐑯𐑧𐑮𐑦𐑒 𐑓𐑤𐑫𐑼𐑴𐑒𐑢𐑦𐑯𐑩𐑤𐑴𐑯 𐑨𐑯𐑑𐑦𐑚𐑲𐑪𐑑𐑦𐑒𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-flurane|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑣𐑨𐑤𐑩𐑡𐑩𐑯𐑱𐑑𐑩𐑛 𐑒𐑪𐑥𐑐𐑬𐑯𐑛𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑡𐑧𐑯𐑼𐑩𐑤 𐑦𐑯𐑣𐑩𐑤𐑱𐑖𐑩𐑯 𐑨𐑯𐑩𐑕𐑔𐑧𐑑𐑦𐑒𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-formin|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑓𐑧𐑯𐑓𐑹𐑥𐑦𐑯 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑣𐑲𐑐𐑼𐑜𐑤𐑲𐑕𐑰𐑥𐑦𐑒𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-fos-|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑓𐑪𐑕𐑓𐑼𐑩𐑕 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑝 𐑝𐑺𐑾𐑕 𐑓𐑸𐑥𐑩𐑒𐑩𐑤𐑪𐑡𐑦𐑒𐑩𐑤 𐑒𐑨𐑑𐑩𐑜𐑹𐑦𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "interfix"
+  },
+  "-fosfamide|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑨𐑤𐑒𐑩𐑤𐑱𐑑𐑦𐑙 𐑱𐑡𐑩𐑯𐑑𐑕 𐑝 𐑞 𐑕𐑲𐑒𐑤𐑴𐑓𐑪𐑕𐑓𐑩𐑥𐑲𐑛 𐑜𐑮𐑵𐑐.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-fosine|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑓𐑪𐑕𐑓𐑼𐑩𐑕 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑕𐑲𐑑𐑴𐑕𐑑𐑨𐑑𐑦𐑒𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-fos|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑓𐑪𐑕𐑓𐑼𐑩𐑕 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑦𐑯𐑕𐑧𐑒𐑑𐑦𐑕𐑲𐑛𐑟, 𐑨𐑯𐑔𐑧𐑤𐑥𐑦𐑯𐑔𐑦𐑒𐑕, 𐑐𐑧𐑕𐑑𐑦𐑕𐑲𐑛𐑟, 𐑯𐑯𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-fovir|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑓𐑪𐑕𐑓𐑴𐑯𐑦𐑒 𐑨𐑕𐑦𐑛 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑝𐑲𐑮𐑩𐑤𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-fu|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑬𐑯𐑟 𐑦𐑯𐑛𐑦𐑒𐑱𐑑𐑦𐑙 𐑧𐑒𐑕𐑐𐑻𐑑𐑰𐑟 𐑹 𐑥𐑭𐑕𐑑𐑼𐑦 𐑝 𐑕𐑐𐑧𐑕𐑦𐑓𐑲𐑛 𐑕𐑒𐑦𐑤 𐑹 𐑺𐑾 𐑝 𐑯𐑪𐑤𐑦𐑡.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-gasm|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑟 𐑯𐑬𐑯𐑟 𐑓 𐑩 𐑥𐑧𐑔𐑩𐑛 𐑝 𐑹𐑜𐑨𐑟𐑩𐑥.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-gasm|wikt-2": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑟 𐑯𐑬𐑯𐑟 𐑓 𐑩𐑯 𐑦𐑯𐑑𐑧𐑯𐑕𐑤𐑦 “𐑦𐑒𐑕𐑐𐑤𐑴𐑕𐑦𐑝” 𐑹 𐑐𐑤𐑧𐑠𐑼𐑩𐑚𐑩𐑤 𐑦𐑒𐑕𐑐𐑽𐑾𐑯𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-gesterone|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑐𐑮𐑴𐑡𐑧𐑕𐑑𐑱𐑖𐑩𐑯𐑩𐑤 𐑕𐑑𐑧𐑮𐑶𐑛𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-gliflozin|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 phlorizin 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑕𐑴𐑛𐑾𐑥 𐑜𐑤𐑵𐑒𐑴𐑕 𐑒𐑴𐑑𐑮𐑨𐑯𐑕𐑐𐑹𐑑𐑼 𐑦𐑯𐑣𐑦𐑚𐑦𐑑𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-glitazar|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑛𐑵𐑩𐑤 𐑐𐑻𐑪𐑒𐑕𐑦𐑕𐑩𐑥 𐑐𐑮𐑩𐑤𐑦𐑓𐑼𐑱𐑑𐑼 𐑨𐑒𐑑𐑦𐑝𐑱𐑑𐑩𐑛 𐑮𐑦𐑕𐑧𐑐𐑑𐑼𐑟-α 𐑯 -γ 𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-glitazone|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 thiazolidinedione 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑐𐑻𐑪𐑒𐑕𐑦𐑕𐑩𐑥 𐑐𐑮𐑩𐑤𐑦𐑓𐑼𐑱𐑑𐑼 𐑨𐑒𐑑𐑦𐑝𐑱𐑑𐑦𐑙 𐑮𐑦𐑕𐑧𐑐𐑑𐑼-γ 𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-gonium|wikt-1": {
+    "transliterated_definition": "𐑩 𐑮𐑰𐑐𐑮𐑩𐑛𐑳𐑒𐑑𐑦𐑝 𐑕𐑑𐑮𐑳𐑒𐑗𐑼 𐑝 𐑕𐑳𐑥 𐑹𐑜𐑩𐑯𐑦𐑟𐑩𐑥𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-gonium|wikt-2": {
+    "transliterated_definition": "𐑩 𐑮𐑰𐑐𐑮𐑩𐑛𐑳𐑒𐑑𐑦𐑝 𐑕𐑑𐑮𐑳𐑒𐑗𐑼 𐑝 𐑕𐑳𐑥 𐑹𐑜𐑩𐑯𐑦𐑟𐑩𐑥𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-gonium|wikt-3": {
+    "transliterated_definition": "𐑩𐑯 𐑦𐑥𐑩𐑗𐑫𐑼 𐑕𐑧𐑤 𐑞𐑨𐑑 𐑢𐑦𐑤 𐑛𐑦𐑝𐑧𐑤𐑩𐑐 𐑦𐑯𐑑𐑵 𐑩 𐑮𐑰𐑐𐑮𐑩𐑛𐑳𐑒𐑑𐑦𐑝 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ham|wikt-1": {
+    "transliterated_definition": "𐑐𐑤𐑱𐑕-𐑯𐑱𐑥 𐑕𐑳𐑓𐑦𐑒𐑕, 𐑝𐑺𐑾𐑕𐑤𐑦 𐑦𐑯𐑛𐑦𐑒𐑱𐑑𐑦𐑙 𐑩 𐑕𐑧𐑑𐑩𐑤𐑥𐑩𐑯𐑑, 𐑓𐑸𐑥 𐑹 𐑦𐑯𐑒𐑤𐑴𐑠𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-hon|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑟 𐑒𐑪𐑥𐑐𐑬𐑯𐑛𐑟 𐑮𐑦𐑓𐑻𐑦𐑙 𐑑 𐑑𐑮𐑨𐑯𐑟 𐑢𐑦𐑥𐑦𐑯 𐑣𐑵 𐑛𐑵 𐑯𐑪𐑑 𐑐𐑨𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "-ials|wikt-1": {
+    "transliterated_definition": "𐑐𐑤𐑫𐑼𐑩𐑤 𐑝 -𐑦𐑩𐑤.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ial|wikt-1": {
+    "transliterated_definition": "𐑷𐑤𐑑𐑻𐑯𐑩𐑑𐑦𐑝 𐑓𐑹𐑥 𐑝 -𐑭𐑤.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ial|wikt-2": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑟 𐑩 𐑯𐑬𐑯 𐑓𐑮𐑪𐑥 𐑩 𐑝𐑻𐑚 𐑧𐑯𐑛𐑦𐑙 𐑦𐑯 -𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ie|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑦𐑙 𐑛𐑦𐑥𐑦𐑯𐑘𐑩𐑑𐑦𐑝 𐑹 𐑩𐑓𐑧𐑒𐑖𐑩𐑯𐑩𐑑 𐑓𐑹𐑥𐑟 𐑝 𐑯𐑬𐑯𐑟 𐑹 𐑯𐑱𐑥𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ie|wikt-2": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑦𐑙 𐑓𐑧𐑥𐑩𐑯𐑦𐑯 𐑹 𐑡𐑧𐑯𐑛𐑼-𐑯𐑵𐑑𐑮𐑩𐑤 𐑓𐑹𐑥𐑟 𐑝 𐑜𐑦𐑝𐑩𐑯 𐑯𐑱𐑥𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ie|wikt-3": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑦𐑙 𐑒𐑩𐑤𐑴𐑒𐑢𐑾𐑤 𐑯𐑬𐑯𐑟 𐑕𐑦𐑜𐑯𐑦𐑓𐑲𐑦𐑙 𐑞 𐑐𐑻𐑕𐑩𐑯 𐑹 𐑔𐑦𐑙 𐑩𐑕𐑴𐑖𐑦𐑱𐑑𐑩𐑛 𐑢𐑦𐑔 𐑕𐑳𐑓𐑦𐑒𐑕𐑑 𐑯𐑬𐑯 𐑹 𐑝𐑻𐑚.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ie|wikt-4": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑦𐑙 𐑯𐑬𐑯𐑟 𐑮𐑧𐑤𐑩𐑑𐑦𐑝 𐑑 𐑩𐑯 𐑨𐑡𐑦𐑒𐑑𐑦𐑝.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ie|wikt-5": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑦𐑙 𐑒𐑩𐑤𐑴𐑒𐑢𐑾𐑤 𐑦𐑯𐑑𐑼𐑡𐑧𐑒𐑖𐑩𐑯𐑟 𐑹 𐑓𐑮𐑱𐑟𐑩𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ilide|wikt-1": {
+    "transliterated_definition": "𐑩 𐑕𐑧𐑥𐑭𐑑𐑦𐑤𐑲𐑛 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝 𐑿𐑟𐑛 𐑨𐑟 𐑩 ·𐑒𐑤𐑭𐑕 III ·𐑨𐑯𐑑𐑦𐑼𐑦𐑞𐑩𐑥𐑦𐑒.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ino|wikt-1": {
+    "transliterated_definition": "𐑞 𐑓𐑻𐑥𐑦𐑪𐑯𐑦𐑒 𐑕𐑵𐑐𐑼𐑕𐑦𐑥𐑧𐑑𐑮𐑦𐑒 𐑐𐑸𐑑𐑯𐑼 𐑝 𐑩 𐑚𐑴𐑟𐑪𐑯 (𐑩 𐑚𐑴𐑟𐑰𐑯𐑴), 𐑕𐑦𐑥𐑚𐑩𐑤𐑲𐑟𐑛 𐑚𐑲 𐑩 𐑑𐑦𐑤𐑛 𐑴𐑝𐑼 𐑞 𐑯𐑪𐑯𐑕𐑵𐑐𐑼𐑕𐑦𐑥𐑧𐑑𐑮𐑦𐑒 𐑐𐑸𐑑𐑦𐑒𐑩𐑤 𐑕𐑦𐑥𐑚𐑩𐑤.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ino|wikt-2": {
+    "transliterated_definition": "𐑩 𐑛𐑦𐑥𐑦𐑯𐑘𐑩𐑑𐑦𐑝 𐑹 𐑦𐑯𐑛𐑽𐑦𐑙 𐑕𐑳𐑓𐑦𐑒𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ino|wikt-3": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑥𐑪𐑒 𐑐𐑮𐑩𐑜𐑮𐑧𐑕𐑦𐑝𐑟 𐑔𐑮𐑵 𐑩𐑕𐑴𐑖𐑦𐑱𐑖𐑩𐑯 𐑢𐑦𐑔 ·𐑛𐑪𐑜𐑴𐑤𐑦𐑙𐑴.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ion|wikt-1": {
+    "transliterated_definition": "𐑩𐑯 𐑨𐑒𐑖𐑩𐑯 𐑹 𐑐𐑮𐑪𐑕𐑧𐑕, 𐑹 𐑞 𐑮𐑦𐑟𐑳𐑤𐑑 𐑝 𐑩𐑯 𐑨𐑒𐑖𐑩𐑯 𐑹 𐑐𐑮𐑪𐑕𐑧𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ion|wikt-2": {
+    "transliterated_definition": "𐑩 𐑕𐑑𐑱𐑑 𐑹 𐑒𐑩𐑯𐑛𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ion|wikt-3": {
+    "transliterated_definition": "𐑩𐑯 𐑨𐑯𐑔𐑮𐑪𐑐𐑩𐑥𐑧𐑑𐑮𐑦𐑒 𐑮𐑧𐑓𐑼𐑩𐑯𐑕 𐑐𐑶𐑯𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ion|wikt-4": {
+    "transliterated_definition": "𐑩𐑯 𐑨𐑯𐑔𐑮𐑪𐑐𐑩𐑥𐑧𐑑𐑮𐑦𐑒 𐑮𐑧𐑓𐑼𐑩𐑯𐑕 𐑐𐑶𐑯𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ion|wikt-5": {
+    "transliterated_definition": "𐑑𐑩𐑜𐑧𐑞𐑼 𐑢𐑦𐑔 𐑱𐑐𐑴- 𐑯 𐑐𐑽𐑦-, 𐑓𐑹𐑥𐑟 𐑯𐑱𐑥𐑟 𐑝 𐑕𐑐𐑩𐑕𐑦𐑓𐑦𐑒 𐑨𐑐𐑩𐑨𐑐𐑕𐑲𐑛𐑟 𐑯 𐑐𐑽𐑦𐑨𐑐𐑕𐑲𐑛𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ish|wikt-1": {
+    "transliterated_definition": "𐑑𐑦𐑐𐑦𐑒𐑩𐑤 𐑝, 𐑕𐑦𐑥𐑦𐑤𐑼 𐑑, 𐑚𐑰𐑦𐑙 𐑤𐑲𐑒.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ish|wikt-2": {
+    "transliterated_definition": "𐑕𐑳𐑥𐑢𐑳𐑑, 𐑮𐑨𐑞𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ish|wikt-3": {
+    "transliterated_definition": "𐑩𐑚𐑬𐑑, 𐑩𐑐𐑮𐑪𐑒𐑕𐑦𐑥𐑩𐑑𐑤𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ish|wikt-4": {
+    "transliterated_definition": "𐑝, 𐑚𐑦𐑤𐑪𐑙𐑦𐑙, 𐑹 𐑮𐑦𐑤𐑱𐑑𐑦𐑙 𐑑 (𐑩 𐑯𐑨𐑖𐑩𐑯𐑨𐑤𐑦𐑑𐑦, 𐑐𐑤𐑱𐑕, 𐑤𐑨𐑙𐑜𐑢𐑦𐑡 𐑹 𐑕𐑦𐑥𐑦𐑤𐑼 𐑩𐑕𐑴𐑖𐑦𐑱𐑖𐑩𐑯 𐑢𐑦𐑔 𐑕𐑳𐑥𐑔𐑦𐑙).",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ish|wikt-5": {
+    "transliterated_definition": "𐑩𐑯 𐑧𐑯𐑛𐑦𐑙 𐑓𐑬𐑯𐑛 𐑪𐑯 𐑕𐑳𐑥 𐑝𐑻𐑚𐑟; 𐑕𐑰 𐑿𐑕𐑦𐑡 𐑯𐑴𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-itude|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥𐑟 𐑯𐑬𐑯𐑟 𐑝 𐑕𐑑𐑱𐑑, 𐑒𐑩𐑯𐑛𐑦𐑖𐑩𐑯 𐑹 𐑒𐑢𐑪𐑤𐑦𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ity|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑩𐑯 𐑳𐑯𐑒𐑬𐑯𐑑𐑩𐑚𐑩𐑤 𐑯𐑬𐑯 𐑓𐑮𐑪𐑥 𐑩𐑯 𐑨𐑡𐑦𐑒𐑑𐑦𐑝; 𐑦𐑕𐑐𐑧𐑖𐑩𐑤𐑦, 𐑑 𐑓𐑹𐑥 𐑞 𐑯𐑬𐑯 𐑮𐑦𐑓𐑻𐑦𐑙 𐑑 𐑞 𐑕𐑑𐑱𐑑, 𐑐𐑮𐑪𐑐𐑼𐑑𐑦, 𐑹 𐑒𐑢𐑪𐑤𐑦𐑑𐑦 𐑝 𐑒𐑩𐑯𐑓𐑹𐑥𐑦𐑙 𐑑 𐑞 𐑨𐑡𐑦𐑒𐑑𐑦𐑝’𐑟 𐑛𐑦𐑕𐑒𐑮𐑦𐑐𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ity|wikt-2": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑩 𐑒𐑬𐑯𐑑𐑩𐑚𐑩𐑤 𐑯𐑬𐑯 𐑓𐑮𐑪𐑥 𐑩𐑯 𐑨𐑡𐑦𐑒𐑑𐑦𐑝, 𐑮𐑦𐑓𐑻𐑦𐑙 𐑑 𐑕𐑳𐑥𐑢𐑳𐑯 𐑹 𐑕𐑳𐑥𐑔𐑦𐑙 𐑞𐑨𐑑 𐑒𐑩𐑯𐑓𐑹𐑥𐑟 𐑑 𐑞 𐑨𐑡𐑦𐑒𐑑𐑦𐑝’𐑟 𐑛𐑦𐑕𐑒𐑮𐑦𐑐𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ity|wikt-3": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑳𐑞𐑼 𐑯𐑬𐑯𐑟, 𐑦𐑕𐑐𐑧𐑖𐑩𐑤𐑦 𐑨𐑚𐑕𐑑𐑮𐑨𐑒𐑑 𐑯𐑬𐑯𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ity|wikt-4": {
+    "transliterated_definition": "𐑷𐑤𐑑𐑻𐑯𐑩𐑑𐑦𐑝 𐑓𐑹𐑥 𐑝 -𐑧𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ization|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑟 𐑯𐑬𐑯𐑟 𐑛𐑦𐑯𐑴𐑑𐑦𐑙 𐑞 𐑨𐑒𐑑, 𐑐𐑮𐑪𐑕𐑧𐑕, 𐑹 𐑮𐑦𐑟𐑳𐑤𐑑 𐑝 𐑛𐑵𐑦𐑙/𐑥𐑱𐑒𐑦𐑙 𐑢𐑪𐑑 𐑦𐑟 𐑛𐑦𐑯𐑴𐑑𐑩𐑛 𐑚𐑲 𐑞 𐑯𐑬𐑯/𐑨𐑡𐑦𐑒𐑑𐑦𐑝.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ize|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑝𐑻𐑚𐑟 𐑓𐑮𐑪𐑥 𐑯𐑬𐑯𐑟 𐑹 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟, 𐑦𐑕𐑐𐑧𐑖𐑩𐑤𐑦 𐑕𐑦𐑥𐑦𐑤𐑩𐑑𐑦𐑝 𐑝𐑻𐑚𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ize|wikt-2": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑝𐑻𐑚𐑟 𐑓𐑮𐑪𐑥 𐑯𐑬𐑯𐑟 𐑹 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟, 𐑦𐑕𐑐𐑧𐑖𐑩𐑤𐑦 𐑕𐑦𐑥𐑦𐑤𐑩𐑑𐑦𐑝 𐑝𐑻𐑚𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ize|wikt-3": {
+    "transliterated_definition": "𐑷𐑤𐑑𐑻𐑯𐑩𐑑𐑦𐑝 𐑓𐑹𐑥 𐑝 -𐑲𐑟 (𐑕𐑳𐑓𐑦𐑒𐑕 𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑬𐑯𐑟).",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-kinesis|wikt-1": {
+    "transliterated_definition": "𐑥𐑵𐑝𐑥𐑩𐑯𐑑, 𐑥𐑴𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-kiren|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑮𐑧𐑯𐑦𐑯 𐑦𐑯𐑣𐑦𐑚𐑦𐑑𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-logues|wikt-1": {
+    "transliterated_definition": "𐑐𐑤𐑫𐑼𐑩𐑤 𐑝 -𐑤𐑪𐑜.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-logue|wikt-1": {
+    "transliterated_definition": "𐑕𐑐𐑰𐑗, 𐑹 𐑩 𐑢𐑱 𐑝 𐑕𐑐𐑰𐑒𐑦𐑙, 𐑩 𐑯𐑨𐑮𐑩𐑑𐑦𐑝, 𐑤𐑪𐑡𐑦𐑒𐑩𐑤 𐑛𐑦𐑕𐑒𐑹𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-logue|wikt-2": {
+    "transliterated_definition": "𐑩 𐑒𐑪𐑮𐑦𐑕𐑐𐑪𐑯𐑛𐑩𐑯𐑑 (𐑣𐑴𐑥𐑩𐑤𐑪𐑜 𐑹 𐑨𐑯𐑩𐑤𐑪𐑜).",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-logue|wikt-3": {
+    "transliterated_definition": "𐑕𐑦𐑯𐑩𐑯𐑦𐑥 𐑝 -𐑤𐑩𐑡𐑦𐑕𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-logue|wikt-4": {
+    "transliterated_definition": "𐑕𐑦𐑯𐑩𐑯𐑦𐑥 𐑝 -𐑤𐑴𐑜𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-log|wikt-1": {
+    "transliterated_definition": "𐑷𐑤𐑑𐑻𐑯𐑩𐑑𐑦𐑝 𐑕𐑐𐑧𐑤𐑦𐑙 𐑝 -𐑤𐑪𐑜.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-loquy|wikt-1": {
+    "transliterated_definition": "𐑕𐑐𐑰𐑒𐑦𐑙, 𐑕𐑐𐑰𐑗.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-lord|wikt-1": {
+    "transliterated_definition": "𐑕𐑳𐑥𐑢𐑳𐑯 𐑣𐑵 𐑧𐑒𐑕𐑼𐑕𐑲𐑟𐑩𐑟 𐑐𐑬𐑼 𐑔𐑮𐑵 𐑩 𐑐𐑼𐑑𐑦𐑒𐑘𐑩𐑤𐑼 𐑥𐑰𐑯𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-lord|wikt-2": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑟 𐑦𐑯𐑑𐑧𐑯𐑕𐑦𐑓𐑲𐑼𐑟 𐑝 𐑩𐑯 𐑧𐑐𐑦𐑔𐑧𐑑 𐑹 𐑦𐑯𐑕𐑳𐑤𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-lord|wikt-3": {
+    "transliterated_definition": "𐑕𐑳𐑥𐑢𐑳𐑯 𐑣𐑵 𐑦𐑯𐑜𐑱𐑡𐑩𐑟 𐑦𐑯 𐑩 𐑛𐑦𐑕𐑩𐑐𐑮𐑵𐑝𐑛 𐑨𐑒𐑑𐑦𐑝𐑦𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ly|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑓𐑮𐑪𐑥 𐑯𐑬𐑯𐑟, 𐑞 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑣𐑨𐑝𐑦𐑙 𐑞 𐑕𐑧𐑯𐑕 𐑝 “𐑚𐑦𐑣𐑱𐑝𐑦𐑙 𐑤𐑲𐑒, 𐑹 𐑣𐑨𐑝𐑦𐑙 𐑩 𐑯𐑱𐑗𐑼 𐑑𐑦𐑐𐑦𐑒𐑩𐑤 𐑝 𐑢𐑪𐑑 𐑦𐑟 𐑛𐑦𐑯𐑴𐑑𐑩𐑛 𐑚𐑲 𐑞 𐑯𐑬𐑯” ·𐑕𐑦𐑥𐑦𐑤𐑼 𐑦𐑯 𐑥𐑰𐑯𐑦𐑙 𐑑 -𐑤𐑲𐑒 𐑚𐑳𐑑 𐑥𐑴𐑕𐑑 𐑪𐑓𐑩𐑯 𐑐𐑺𐑛 𐑢𐑦𐑔 𐑨𐑯𐑦𐑥𐑩𐑑 𐑯𐑬𐑯𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ly|wikt-2": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑓𐑮𐑪𐑥 𐑯𐑬𐑯𐑟, 𐑞 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑣𐑨𐑝𐑦𐑙 𐑞 𐑕𐑧𐑯𐑕 𐑝 “𐑩𐑐𐑽𐑦𐑙 𐑤𐑲𐑒, 𐑮𐑦𐑟𐑧𐑥𐑚𐑤𐑦𐑙, 𐑹 𐑣𐑨𐑝𐑦𐑙 𐑞 𐑤𐑲𐑒𐑯𐑩𐑕 𐑝 𐑢𐑪𐑑 𐑦𐑟 𐑛𐑦𐑯𐑴𐑑𐑩𐑛 𐑚𐑲 𐑞 𐑯𐑬𐑯”.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ly|wikt-3": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑓𐑮𐑪𐑥 𐑯𐑬𐑯𐑟 𐑕𐑐𐑧𐑕𐑦𐑓𐑲𐑦𐑙 𐑑𐑲𐑥 𐑦𐑯𐑑𐑼𐑝𐑩𐑤𐑟, 𐑞 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑣𐑨𐑝𐑦𐑙 𐑞 𐑕𐑧𐑯𐑕 𐑝 “𐑩𐑒𐑻𐑦𐑙 𐑨𐑑 𐑕𐑳𐑗 𐑦𐑯𐑑𐑼𐑝𐑩𐑤𐑟”.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ly|wikt-4": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑨𐑛𐑝𐑻𐑚𐑟 𐑓𐑮𐑪𐑥 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑯 𐑯𐑬𐑯𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ly|wikt-5": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑒𐑳𐑥𐑐𐑩𐑯𐑦 𐑹 𐑚𐑮𐑨𐑯𐑛 𐑯𐑱𐑥𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-mane|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑦𐑙 𐑒𐑪𐑥𐑐𐑬𐑯𐑛 𐑯𐑬𐑯𐑟 𐑢𐑦𐑔 𐑞 𐑕𐑧𐑯𐑕 𐑝 𐑐𐑻𐑕𐑩𐑯 𐑣𐑵 𐑣𐑨𐑟 𐑩 𐑥𐑱𐑯𐑾 𐑓.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-meister|wikt-1": {
+    "transliterated_definition": "𐑩𐑯 𐑧𐑒𐑕𐑐𐑻𐑑 𐑪𐑯 𐑞 𐑕𐑐𐑧𐑕𐑦𐑓𐑲𐑛 𐑕𐑳𐑚𐑡𐑧𐑒𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-meister|wikt-2": {
+    "transliterated_definition": "𐑩 𐑐𐑻𐑕𐑩𐑯 𐑦𐑯 𐑗𐑸𐑡 𐑝 𐑩 𐑕𐑐𐑧𐑕𐑦𐑓𐑲𐑛 𐑔𐑦𐑙.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-meister|wikt-3": {
+    "transliterated_definition": "𐑩𐑑𐑨𐑗𐑑 𐑑 𐑩 𐑐𐑻𐑕𐑩𐑯’𐑟 𐑯𐑱𐑥 𐑦𐑯 𐑣𐑿𐑥𐑼𐑩𐑕 (𐑹 𐑲𐑮𐑪𐑯𐑦𐑒) 𐑨𐑐𐑮𐑩𐑚𐑱𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-merous|wikt-1": {
+    "transliterated_definition": "𐑣𐑨𐑝𐑦𐑙 𐑐𐑸𐑑𐑕 𐑝 𐑞 𐑕𐑐𐑧𐑕𐑦𐑓𐑲𐑛 𐑒𐑢𐑪𐑤𐑦𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-merous|wikt-2": {
+    "transliterated_definition": "𐑒𐑩𐑥𐑐𐑮𐑲𐑟𐑦𐑙 𐑞 𐑕𐑐𐑧𐑕𐑦𐑓𐑲𐑛 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑐𐑸𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-metasone|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑐𐑮𐑧𐑛𐑯𐑦𐑟𐑴𐑯 𐑯 prednisolone 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-methasone|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑐𐑮𐑧𐑛𐑯𐑦𐑟𐑴𐑯 𐑯 prednisolone 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-moder|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑟 𐑯𐑬𐑯𐑟 𐑮𐑦𐑤𐑱𐑑𐑦𐑙 𐑑 𐑩 𐑐𐑻𐑕𐑩𐑯 𐑣𐑵 𐑦𐑟 𐑐𐑮𐑦𐑟𐑧𐑯𐑑𐑦𐑙 𐑦𐑯 𐑩 𐑜𐑦𐑝𐑩𐑯 𐑥𐑨𐑯𐑼 𐑮𐑦𐑜𐑸𐑛𐑤𐑩𐑕 𐑝 𐑞𐑺 𐑡𐑧𐑯𐑛𐑼 𐑲𐑛𐑧𐑯𐑑𐑦𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-morelin|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑜𐑮𐑴𐑔 𐑣𐑹𐑥𐑴𐑯 𐑮𐑦𐑤𐑰𐑕–𐑕𐑑𐑦𐑥𐑘𐑩𐑤𐑱𐑑𐑦𐑙 𐑐𐑧𐑐𐑑𐑲𐑛𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-morphy|wikt-1": {
+    "transliterated_definition": "𐑖𐑱𐑐𐑑 𐑹 𐑓𐑹𐑥𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-navir|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑣𐑦𐑝 𐑐𐑮𐑴𐑑𐑱𐑕 𐑦𐑯𐑣𐑦𐑚𐑦𐑑𐑼𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑝𐑲𐑮𐑩𐑤𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-nercept|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑑𐑵𐑥𐑼 𐑯𐑧𐑒𐑮𐑴𐑕𐑦𐑕 𐑓𐑨𐑒𐑑𐑼 𐑮𐑦𐑕𐑧𐑐𐑑𐑼 𐑤𐑦𐑜𐑩𐑯𐑛𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ness|wikt-1": {
+    "transliterated_definition": "𐑩𐑐𐑧𐑯𐑛𐑩𐑛 𐑦𐑯 𐑡𐑧𐑯𐑼𐑩𐑤, 𐑪𐑓𐑩𐑯 𐑦𐑯𐑓𐑹𐑥𐑩𐑤𐑦, 𐑕𐑑𐑲𐑤𐑦𐑕𐑑𐑦𐑒𐑤𐑦, 𐑹 𐑡𐑪𐑒𐑘𐑩𐑤𐑼𐑤𐑦, 𐑓 𐑮𐑰𐑦𐑓𐑦𐑒𐑱𐑖𐑩𐑯 𐑝 𐑩𐑯 𐑨𐑑𐑮𐑦𐑚𐑿𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ness|wikt-2": {
+    "transliterated_definition": "𐑩𐑐𐑧𐑯𐑛𐑩𐑛 𐑑 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑑 𐑓𐑹𐑥 𐑯𐑬𐑯𐑟 𐑥𐑰𐑯𐑦𐑙 “𐑞 𐑕𐑑𐑱𐑑 𐑝 𐑚𐑰𐑦𐑙 (𐑞 𐑨𐑡𐑦𐑒𐑑𐑦𐑝)”, “𐑞 𐑒𐑢𐑪𐑤𐑦𐑑𐑦 𐑝 𐑚𐑰𐑦𐑙 (𐑞 𐑨𐑡𐑦𐑒𐑑𐑦𐑝)”, 𐑹 “𐑞 𐑥𐑧𐑠𐑼 𐑝 𐑚𐑰𐑦𐑙 (𐑞 𐑨𐑡𐑦𐑒𐑑𐑦𐑝)”.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ness|wikt-3": {
+    "transliterated_definition": "𐑩𐑐𐑧𐑯𐑛𐑩𐑛 𐑑 𐑢𐑻𐑛𐑟 𐑝 𐑳𐑞𐑼 𐑐𐑸𐑑𐑕 𐑝 𐑕𐑐𐑰𐑗 𐑑 𐑓𐑹𐑥 𐑯𐑬𐑯𐑟 (𐑪𐑓𐑩𐑯 𐑯𐑪𐑯𐑕 𐑢𐑻𐑛𐑟 𐑹 𐑑𐑻𐑥𐑟 𐑦𐑯 𐑓𐑦𐑤𐑪𐑕𐑩𐑓𐑦) 𐑥𐑰𐑯𐑦𐑙 𐑞 𐑕𐑑𐑱𐑑/𐑒𐑢𐑪𐑤𐑦𐑑𐑦/𐑥𐑧𐑠𐑼 𐑝 𐑞 𐑲𐑛𐑾 𐑮𐑧𐑐𐑮𐑦𐑟𐑧𐑯𐑑𐑩𐑛 𐑚𐑲 𐑞𐑰𐑟 𐑢𐑻𐑛𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-nicline|wikt-1": {
+    "transliterated_definition": "𐑯𐑦𐑒𐑩𐑑𐑰𐑯𐑦𐑒 𐑒𐑴𐑤𐑰𐑯𐑼𐑡𐑦𐑒 𐑮𐑦𐑕𐑧𐑐𐑑𐑼 𐑐𐑸𐑖𐑩𐑤 𐑨𐑜𐑩𐑯𐑦𐑕𐑑/𐑨𐑜𐑩𐑯𐑦𐑕𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-nidazole|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑥𐑧𐑑𐑮𐑴𐑯𐑲𐑛𐑱𐑟𐑴𐑤 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑐𐑮𐑴𐑑𐑩𐑟𐑴𐑩𐑤𐑟 𐑯 𐑮𐑱𐑛𐑦𐑴𐑕𐑧𐑯𐑕𐑦𐑑𐑲𐑟𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-nidipine|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑯𐑲𐑓𐑑𐑲𐑐𐑰𐑯 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑒𐑨𐑤𐑕𐑾𐑥 𐑗𐑨𐑯𐑩𐑤 𐑚𐑤𐑪𐑒𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-odontia|wikt-1": {
+    "transliterated_definition": "𐑚𐑮𐑭𐑯𐑗 𐑝 𐑛𐑧𐑯𐑑𐑦𐑕𐑑𐑮𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-odontia|wikt-2": {
+    "transliterated_definition": "𐑒𐑩𐑯𐑛𐑦𐑖𐑩𐑯 𐑝 𐑞 𐑑𐑰𐑔.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-oecious|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑟 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑛𐑦𐑕𐑒𐑮𐑲𐑚𐑦𐑙 𐑞 𐑼𐑱𐑯𐑡𐑥𐑩𐑯𐑑 𐑝 𐑕𐑧𐑒𐑖𐑫𐑩𐑤 𐑹𐑜𐑩𐑯𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-oecious|wikt-2": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑟 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑛𐑦𐑕𐑒𐑮𐑲𐑚𐑦𐑙 𐑞 𐑣𐑴𐑕𐑑 𐑝 𐑩𐑯 𐑹𐑜𐑩𐑯𐑦𐑟𐑩𐑥.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-oi|wikt-1": {
+    "transliterated_definition": "𐑐𐑤𐑫𐑼𐑩𐑤 𐑝 -𐑴𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ology|wikt-1": {
+    "transliterated_definition": "𐑷𐑤𐑑𐑻𐑯𐑩𐑑𐑦𐑝 𐑓𐑹𐑥 𐑝 -𐑤𐑴𐑜𐑦, 𐑿𐑟𐑛 𐑓 𐑓𐑴𐑯𐑩𐑤𐑪𐑡𐑦𐑒𐑩𐑤 𐑮𐑰𐑟𐑩𐑯𐑟 𐑢𐑧𐑯 𐑞 𐑐𐑮𐑦𐑕𐑰𐑛𐑦𐑙 𐑥𐑹𐑓𐑰𐑥 𐑧𐑯𐑛𐑟 𐑦𐑯 𐑕𐑻𐑑𐑩𐑯 𐑒𐑪𐑯𐑕𐑩𐑯𐑩𐑯𐑑 𐑕𐑬𐑯𐑛𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ology|wikt-2": {
+    "transliterated_definition": "𐑨𐑛𐑩𐑛 𐑑 𐑩𐑯 𐑹𐑛𐑦𐑯𐑼𐑦 ·𐑦𐑙𐑜𐑤𐑦𐑖 𐑢𐑻𐑛 𐑑 𐑒𐑮𐑦𐑱𐑑 𐑩 𐑯𐑱𐑥 𐑓 𐑩 (𐑐𐑪𐑕𐑩𐑚𐑤𐑦 𐑯𐑪𐑯-𐑦𐑜𐑟𐑦𐑕𐑑𐑩𐑯𐑑) 𐑓𐑰𐑤𐑛 𐑝 𐑕𐑑𐑳𐑛𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-olol|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑒𐑪𐑥𐑐𐑬𐑯𐑛𐑟 𐑢𐑦𐑔 𐑞 𐑕𐑑𐑮𐑳𐑒𐑗𐑼 ·𐑸–OCH₂CH(𐑴)CH₂NH–𐑮 𐑿𐑟𐑛 𐑨𐑟 β-𐑩𐑛𐑮𐑰𐑯𐑪𐑒𐑧𐑐𐑑𐑼 𐑨𐑯𐑑𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-olone|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑕𐑑𐑧𐑮𐑶𐑛𐑟 𐑹 𐑕𐑑𐑧𐑮𐑶𐑛𐑤𐑲𐑒 𐑛𐑮𐑳𐑜𐑟 𐑞𐑨𐑑 𐑸 𐑯𐑪𐑑 prednisolone 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ol|wikt-1": {
+    "transliterated_definition": "𐑩𐑯 𐑨𐑤𐑒𐑩𐑣𐑪𐑤 𐑹 𐑓𐑰𐑯𐑪𐑤.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ol|wikt-2": {
+    "transliterated_definition": "𐑦𐑯𐑛𐑦𐑒𐑱𐑑𐑦𐑙 𐑩𐑯 𐑶𐑤𐑦 𐑕𐑳𐑚𐑕𐑑𐑩𐑯𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-oma|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑦𐑙 𐑯𐑬𐑯𐑟 𐑦𐑯𐑛𐑦𐑒𐑱𐑑𐑦𐑙 𐑛𐑦𐑟𐑰𐑟 𐑹 𐑥𐑹𐑚𐑦𐑛𐑦𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-oma|wikt-2": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑦𐑙 𐑯𐑬𐑯𐑟 𐑦𐑯𐑛𐑦𐑒𐑱𐑑𐑦𐑙 𐑑𐑵𐑥𐑼𐑟 𐑹 𐑥𐑨𐑕𐑩𐑟, 𐑢𐑦𐑗 𐑥𐑱 𐑚𐑰 𐑯𐑪𐑯-𐑯𐑰𐑴𐑐𐑤𐑨𐑕𐑑𐑦𐑒 𐑹 (𐑥𐑹 𐑪𐑓𐑩𐑯) 𐑯𐑰𐑴𐑐𐑤𐑨𐑕𐑑𐑦𐑒, 𐑯 (𐑦𐑓 𐑞 𐑤𐑨𐑑𐑼) 𐑲𐑞𐑼 𐑚𐑦𐑯𐑲𐑯 𐑹 𐑥𐑩𐑤𐑦𐑜𐑯𐑩𐑯𐑑 (𐑒𐑨𐑯𐑕𐑼𐑩𐑕); 𐑦𐑯 𐑩𐑒𐑹𐑛 𐑢𐑦𐑔 𐑐𐑮𐑧𐑟𐑩𐑯𐑑-𐑛𐑱 𐑳𐑯𐑛𐑼𐑕𐑑𐑨𐑯𐑛𐑦𐑙 𐑝 𐑣𐑦𐑕𐑑𐑴𐑐𐑩𐑔𐑪𐑤𐑩𐑡𐑦, 𐑞 𐑕𐑳𐑓𐑦𐑒𐑕 𐑦𐑟 𐑯𐑬 𐑯𐑪𐑯𐑐𐑮𐑩𐑛𐑳𐑒𐑑𐑦𐑝 𐑓 𐑯𐑪𐑯-𐑯𐑰𐑴𐑐𐑤𐑨𐑕𐑑𐑦𐑒 𐑕𐑧𐑯𐑕𐑩𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ome|wikt-1": {
+    "transliterated_definition": "𐑩 𐑥𐑨𐑕 𐑝 𐑕𐑳𐑥𐑔𐑦𐑙.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ome|wikt-2": {
+    "transliterated_definition": "𐑞 𐑒𐑩𐑥𐑐𐑤𐑰𐑑 𐑣𐑴𐑤 𐑝 𐑩 𐑒𐑤𐑭𐑕 𐑝 𐑕𐑳𐑚𐑕𐑑𐑩𐑯𐑕𐑩𐑟 𐑓 𐑩 𐑕𐑐𐑰𐑖𐑰𐑟 𐑹 𐑩𐑯 𐑦𐑯𐑛𐑦𐑝𐑦𐑡𐑫𐑩𐑤.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-omino|wikt-1": {
+    "transliterated_definition": "𐑩 𐑑𐑲𐑤 𐑢𐑦𐑔 𐑩 𐑕𐑐𐑧𐑕𐑦𐑓𐑲𐑛 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑒𐑩𐑯𐑧𐑒𐑑𐑩𐑛 𐑕𐑒𐑢𐑺𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-onidine|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑒𐑤𐑴𐑯𐑦𐑛𐑰𐑯 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑣𐑲𐑐𐑼𐑑𐑧𐑯𐑕𐑦𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-oon|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑦𐑙 𐑯𐑬𐑯𐑟, 𐑥𐑱𐑯𐑤𐑦 𐑦𐑯 𐑚𐑪𐑮𐑴𐑛 𐑢𐑻𐑛𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-opamine|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑛𐑴𐑐𐑩𐑥𐑰𐑯𐑼𐑡𐑦𐑒 𐑱𐑡𐑩𐑯𐑑𐑕 𐑯 𐑛𐑴𐑐𐑩𐑥𐑰𐑯 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟, 𐑿𐑟𐑛 𐑨𐑟 𐑒𐑸𐑛𐑦𐑨𐑒 𐑕𐑑𐑦𐑥𐑘𐑩𐑤𐑩𐑯𐑑𐑕, 𐑨𐑯𐑑𐑦𐑣𐑲𐑐𐑼𐑑𐑧𐑯𐑕𐑦𐑝𐑟 𐑹 𐑛𐑲𐑼𐑧𐑑𐑦𐑒𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-opsia|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑦𐑙 𐑒𐑪𐑥𐑐𐑬𐑯𐑛 𐑯𐑬𐑯𐑟 𐑛𐑦𐑯𐑴𐑑𐑦𐑙 𐑕𐑐𐑩𐑕𐑦𐑓𐑦𐑒 𐑛𐑦𐑓𐑦𐑖𐑩𐑯𐑕𐑦𐑟 𐑝 𐑕𐑲𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-orium|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑦𐑙 𐑯𐑬𐑯𐑟 𐑛𐑦𐑯𐑴𐑑𐑦𐑙 𐑩 𐑐𐑤𐑱𐑕 𐑓 𐑩 𐑐𐑼𐑑𐑦𐑒𐑘𐑩𐑤𐑼 𐑓𐑳𐑙𐑒𐑖𐑩𐑯 𐑹 𐑔𐑦𐑙.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-orph-|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑥𐑹𐑓𐑰𐑯𐑩𐑯 𐑛𐑦𐑮𐑲𐑝𐑱𐑑𐑕 𐑿𐑟𐑛 𐑨𐑟 𐑴𐑐𐑦𐑶𐑛 𐑮𐑦𐑕𐑧𐑐𐑑𐑼 𐑨𐑯𐑑𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑕/𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "interfix"
+  },
+  "-orphan|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑥𐑹𐑓𐑰𐑯𐑩𐑯 𐑛𐑦𐑮𐑲𐑝𐑱𐑑𐑕 𐑿𐑟𐑛 𐑨𐑟 𐑴𐑐𐑦𐑶𐑛 𐑮𐑦𐑕𐑧𐑐𐑑𐑼 𐑨𐑯𐑑𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑕/𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-orphine|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑥𐑹𐑓𐑰𐑯𐑩𐑯 𐑛𐑦𐑮𐑲𐑝𐑱𐑑𐑕 𐑿𐑟𐑛 𐑨𐑟 𐑴𐑐𐑦𐑶𐑛 𐑮𐑦𐑕𐑧𐑐𐑑𐑼 𐑨𐑯𐑑𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑕/𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-orphone|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑥𐑹𐑓𐑰𐑯𐑩𐑯 𐑛𐑦𐑮𐑲𐑝𐑱𐑑𐑕 𐑿𐑟𐑛 𐑨𐑟 𐑴𐑐𐑦𐑶𐑛 𐑮𐑦𐑕𐑧𐑐𐑑𐑼 𐑨𐑯𐑑𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑕/𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-or|wikt-1": {
+    "transliterated_definition": "𐑒𐑮𐑦𐑱𐑑𐑕 𐑩𐑯 𐑱𐑡𐑩𐑯𐑑 𐑯𐑬𐑯, 𐑪𐑓𐑩𐑯 𐑓𐑮𐑪𐑥 𐑩 𐑝𐑻𐑚, 𐑦𐑯𐑛𐑦𐑒𐑱𐑑𐑦𐑙 𐑩 𐑐𐑻𐑕𐑩𐑯 𐑹 𐑪𐑚𐑡𐑧𐑒𐑑 (𐑪𐑓𐑩𐑯 𐑥𐑩𐑖𐑰𐑯𐑟 𐑹 𐑐𐑸𐑑𐑕 𐑝 𐑞𐑧𐑥) 𐑞𐑨𐑑 𐑛𐑵 𐑞 𐑝𐑻𐑚 𐑹 𐑐𐑸𐑑 𐑝 𐑕𐑐𐑰𐑗 𐑢𐑦𐑔 𐑢𐑦𐑗 𐑞𐑱 𐑸 𐑓𐑹𐑥𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-or|wikt-2": {
+    "transliterated_definition": "𐑩𐑐𐑧𐑯𐑛𐑩𐑛 𐑑 𐑞 𐑯𐑱𐑥𐑟 𐑝 𐑥𐑧𐑥𐑚𐑼𐑟 𐑝 𐑒𐑤𐑭𐑕𐑩𐑟 𐑝 𐑒𐑩𐑥𐑐𐑴𐑯𐑩𐑯𐑑𐑕, 𐑦𐑕𐑐𐑧𐑖𐑩𐑤𐑦 𐑞𐑴𐑟 𐑞𐑨𐑑 𐑣𐑨𐑝 𐑩𐑯 𐑦𐑒𐑕𐑑𐑧𐑯𐑕𐑦𐑝 𐑐𐑮𐑪𐑐𐑼𐑑𐑦 𐑯𐑱𐑥 𐑝 𐑞 𐑕𐑱𐑥 𐑮𐑵𐑑 𐑕𐑳𐑓𐑦𐑒𐑕𐑑 𐑢𐑦𐑔 -𐑩𐑯𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-or|wikt-3": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑬𐑯𐑟 𐑝 𐑒𐑢𐑪𐑤𐑦𐑑𐑦, 𐑕𐑑𐑱𐑑, 𐑹 𐑒𐑩𐑯𐑛𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-oses|wikt-1": {
+    "transliterated_definition": "𐑐𐑤𐑫𐑼𐑩𐑤 𐑝 -𐑴𐑟𐑦𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ose|wikt-1": {
+    "transliterated_definition": "𐑓𐑫𐑤 𐑝.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ose|wikt-2": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑞 𐑯𐑱𐑥𐑟 𐑝 𐑖𐑫𐑜𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ose|wikt-3": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑦𐑯𐑛𐑦𐑒𐑱𐑑 𐑩 𐑐𐑮𐑪𐑛𐑳𐑒𐑑 𐑝 𐑐𐑮𐑴𐑑𐑰𐑯 𐑚𐑮𐑱𐑒𐑛𐑬𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-osis|wikt-1": {
+    "transliterated_definition": "𐑓𐑳𐑙𐑒𐑖𐑩𐑯𐑩𐑤 𐑛𐑦𐑟𐑰𐑟 𐑹 𐑒𐑩𐑯𐑛𐑦𐑖𐑩𐑯 𐑕𐑳𐑗 𐑨𐑟 𐑣𐑧𐑐𐑩𐑑𐑴𐑕𐑦𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-osis|wikt-2": {
+    "transliterated_definition": "𐑐𐑮𐑪𐑕𐑧𐑕, 𐑨𐑒𐑖𐑩𐑯 𐑕𐑳𐑗 𐑨𐑟 𐑓𐑨𐑜𐑩𐑕𐑲𐑑𐑴𐑕𐑦𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-osis|wikt-3": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑱𐑖𐑩𐑯, 𐑦𐑯𐑒𐑮𐑰𐑕 𐑕𐑳𐑗 𐑨𐑟 𐑤𐑵𐑒𐑴𐑕𐑲𐑑𐑴𐑕𐑦𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-osity|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑦𐑙 𐑯𐑬𐑯𐑟, 𐑿𐑠𐑫𐑩𐑤𐑦 𐑨𐑚𐑕𐑑𐑮𐑨𐑒𐑑, 𐑯 𐑿𐑠𐑫𐑩𐑤𐑦 𐑓𐑮𐑪𐑥 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑦𐑯 -𐑩𐑕 𐑹 -𐑴𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-osity|wikt-2": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑦𐑙 𐑯𐑬𐑯𐑟 𐑓𐑮𐑪𐑥 𐑳𐑞𐑼 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑓 𐑣𐑿𐑥𐑼𐑩𐑕 𐑦𐑓𐑧𐑒𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-oxacin|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑯𐑭𐑤𐑦𐑛𐑦𐑒𐑕𐑦𐑒 𐑨𐑕𐑦𐑛 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑚𐑨𐑒𐑑𐑽𐑾𐑤𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-oxanide|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑕𐑨𐑤𐑦𐑕𐑦𐑤𐑱𐑯𐑦𐑤𐑲𐑛𐑟 𐑯 𐑨𐑯𐑩𐑤𐑪𐑜𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-oxepin|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑑𐑮𐑲𐑕𐑦𐑒𐑩𐑤𐑦𐑒 𐑒𐑪𐑥𐑐𐑬𐑯𐑛𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-oxetine|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑓𐑤𐑵𐑪𐑒𐑕𐑦𐑑𐑰𐑯 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑕𐑧𐑮𐑩𐑑𐑴𐑯𐑦𐑯 𐑯/𐑹 𐑯𐑹𐑧𐑐𐑦𐑯𐑧𐑓𐑮𐑦𐑯 𐑮𐑰𐑳𐑐𐑑𐑱𐑒 𐑦𐑯𐑣𐑦𐑚𐑦𐑑𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-oxifene|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 tamoxifen 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑧𐑕𐑑𐑮𐑩𐑡𐑩𐑯𐑟 𐑹 𐑧𐑕𐑑𐑮𐑩𐑡𐑩𐑯 𐑮𐑦𐑕𐑧𐑐𐑑𐑼 𐑥𐑪𐑛𐑘𐑩𐑤𐑱𐑑𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-oyl|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑦𐑙 𐑞 𐑯𐑱𐑥𐑟 𐑝 acyl 𐑮𐑨𐑛𐑦𐑒𐑩𐑤𐑟 𐑓𐑮𐑪𐑥 𐑞 𐑯𐑱𐑥𐑟 𐑝 𐑒𐑪𐑮𐑦𐑕𐑐𐑪𐑯𐑛𐑦𐑙 𐑒𐑸𐑚𐑴𐑟𐑲𐑤𐑦𐑒 𐑨𐑕𐑦𐑛𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-o|wikt-1": {
+    "transliterated_definition": "𐑩 𐑒𐑩𐑤𐑴𐑒𐑢𐑾𐑤𐑲𐑟𐑦𐑙 𐑕𐑳𐑓𐑦𐑒𐑕, 𐑑𐑦𐑐𐑦𐑒𐑤𐑦 𐑩𐑐𐑧𐑯𐑛𐑩𐑛 𐑑 𐑯𐑱𐑥𐑟, 𐑩𐑚𐑮𐑰𐑝𐑦𐑱𐑖𐑩𐑯𐑟 𐑝 𐑤𐑪𐑙 𐑢𐑻𐑛𐑟, 𐑹 𐑕𐑳𐑚𐑕𐑑𐑩𐑯𐑑𐑦𐑝 𐑿𐑕𐑩𐑟 𐑝 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-o|wikt-2": {
+    "transliterated_definition": "𐑒𐑪𐑯𐑝𐑻𐑑𐑕 𐑕𐑻𐑑𐑩𐑯 𐑢𐑻𐑛𐑟 𐑑 𐑓𐑴 ·𐑦𐑑𐑨𐑤𐑾𐑯 𐑹 ·𐑕𐑐𐑨𐑯𐑦𐑖. 𐑒𐑨𐑯 𐑚𐑰 𐑿𐑟𐑛 𐑢𐑦𐑔 ·𐑕𐑐𐑨𐑯𐑦𐑖 𐑧𐑤 𐑓 𐑦𐑒𐑕𐑐𐑮𐑧𐑖𐑩𐑯𐑟 𐑕𐑳𐑗 𐑨𐑟 𐑧𐑤 𐑕𐑑𐑦𐑙𐑒𐑴.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-o|wikt-3": {
+    "transliterated_definition": "𐑨𐑛𐑩𐑛 𐑑 𐑝𐑻𐑚 𐑕𐑑𐑧𐑥𐑟 𐑑 𐑒𐑮𐑦𐑱𐑑 𐑩 𐑯𐑬𐑯 𐑛𐑦𐑕𐑒𐑮𐑲𐑚𐑦𐑙 𐑩𐑯 𐑧𐑮𐑼 𐑮𐑦𐑤𐑱𐑑𐑦𐑙 𐑑 𐑞 𐑨𐑒𐑖𐑩𐑯 𐑛𐑦𐑕𐑒𐑮𐑲𐑚𐑛 𐑚𐑲 𐑞 𐑝𐑻𐑚.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-partite|wikt-1": {
+    "transliterated_definition": "𐑣𐑨𐑝𐑦𐑙 𐑞 𐑕𐑐𐑧𐑕𐑦𐑓𐑲𐑛 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑐𐑸𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-peridol|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑣𐑨𐑤𐑩𐑐𐑧𐑮𐑦𐑛𐑪𐑤 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑕𐑲𐑒𐑪𐑑𐑦𐑒𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-peridone|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑮𐑦𐑕𐑐𐑧𐑮𐑦𐑛𐑴𐑯 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑕𐑲𐑒𐑪𐑑𐑦𐑒𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-perone|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 4’-𐑓𐑤𐑫𐑼𐑴-4-𐑐𐑲𐑐𐑼𐑦𐑛𐑰𐑯𐑴𐑚𐑳𐑑𐑲𐑼𐑴𐑓𐑰𐑯𐑢𐑳𐑯 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑑𐑮𐑨𐑙𐑒𐑢𐑦𐑤𐑲𐑟𐑼𐑟 𐑯 𐑯𐑘𐑫𐑼𐑴𐑤𐑧𐑐𐑑𐑦𐑒𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-phagic|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑓𐑮𐑪𐑥 𐑐𐑮𐑰𐑓𐑦𐑒𐑕𐑩𐑟, 𐑑 𐑛𐑦𐑯𐑴𐑑 𐑛𐑲𐑩𐑑 𐑑𐑲𐑐𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-phagy|wikt-1": {
+    "transliterated_definition": "𐑓𐑰𐑛𐑦𐑙 𐑪𐑯; 𐑒𐑩𐑯𐑕𐑳𐑥𐑐𐑖𐑩𐑯 𐑝.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-phagy|wikt-2": {
+    "transliterated_definition": "𐑰𐑑𐑦𐑙 𐑦𐑯 𐑩 𐑕𐑐𐑧𐑕𐑦𐑓𐑲𐑛 𐑥𐑨𐑯𐑼, 𐑯𐑹𐑥𐑩𐑤 𐑹 𐑨𐑚𐑯𐑹𐑥𐑩𐑤.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-phil|wikt-1": {
+    "transliterated_definition": "𐑷𐑤𐑑𐑻𐑯𐑩𐑑𐑦𐑝 𐑕𐑐𐑧𐑤𐑦𐑙 𐑝 -𐑐𐑰𐑱𐑗𐑲𐑤.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-phobiac|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑦𐑯𐑛𐑦𐑒𐑱𐑑𐑦𐑙 𐑩 𐑓𐑽 𐑝 𐑩 𐑕𐑐𐑩𐑕𐑦𐑓𐑦𐑒 𐑔𐑦𐑙.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-phobiac|wikt-2": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑦𐑯𐑛𐑦𐑒𐑱𐑑𐑦𐑙 𐑩 𐑛𐑦𐑕𐑤𐑲𐑒 𐑹 𐑩𐑝𐑻𐑠𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-phobiac|wikt-3": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑨𐑟 𐑩 𐑕𐑦𐑯𐑩𐑯𐑦𐑥 𐑝 -𐑐𐑰𐑱𐑗𐑴𐑚𐑦𐑒 𐑑 𐑓𐑹𐑥 𐑯𐑬𐑯𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-phobia|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑬𐑯𐑟 𐑥𐑰𐑯𐑦𐑙 𐑓𐑽 𐑝 𐑩 𐑕𐑐𐑩𐑕𐑦𐑓𐑦𐑒 𐑔𐑦𐑙.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-phobia|wikt-2": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑬𐑯𐑟 𐑥𐑰𐑯𐑦𐑙 𐑣𐑱𐑑, 𐑛𐑦𐑕𐑤𐑲𐑒, 𐑹 𐑮𐑦𐑐𐑮𐑧𐑖𐑩𐑯 𐑝 𐑩 𐑕𐑐𐑩𐑕𐑦𐑓𐑦𐑒 𐑔𐑦𐑙.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-phobic|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑦𐑯𐑛𐑦𐑒𐑱𐑑𐑦𐑙 𐑩 𐑓𐑽 𐑝 𐑩 𐑕𐑐𐑩𐑕𐑦𐑓𐑦𐑒 𐑔𐑦𐑙.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-phobic|wikt-2": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑦𐑯𐑛𐑦𐑒𐑱𐑑𐑦𐑙 𐑩 𐑛𐑦𐑕𐑤𐑲𐑒 𐑹 𐑩𐑝𐑻𐑠𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-phobic|wikt-3": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑦𐑯 𐑚𐑲𐑪𐑤𐑩𐑡𐑦 𐑯 𐑒𐑧𐑥𐑦𐑕𐑑𐑮𐑦 𐑑 𐑥𐑰𐑯 𐑩 𐑯𐑨𐑗𐑼𐑩𐑤 𐑮𐑦𐑐𐑳𐑤𐑖𐑩𐑯 𐑹 𐑩𐑝𐑶𐑛𐑩𐑯𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-phobic|wikt-4": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑨𐑟 𐑩 𐑕𐑦𐑯𐑩𐑯𐑦𐑥 𐑝 -𐑐𐑰𐑱𐑗𐑴𐑚 𐑑 𐑓𐑹𐑥 𐑯𐑬𐑯𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-phyte|wikt-1": {
+    "transliterated_definition": "𐑩 𐑥𐑧𐑥𐑚𐑼 𐑝 𐑩 𐑑𐑨𐑒𐑕𐑩𐑯𐑪𐑥𐑦𐑒 𐑜𐑮𐑵𐑐 𐑝 𐑐𐑤𐑭𐑯𐑑𐑕 𐑹 𐑨𐑤𐑡𐑦, 𐑗𐑰𐑓𐑤𐑦 𐑢𐑳𐑯 𐑣𐑵𐑟 𐑑𐑨𐑒𐑕𐑩𐑯𐑪𐑥𐑦𐑒 𐑯𐑱𐑥 𐑧𐑯𐑛𐑟 (𐑹 𐑧𐑯𐑛𐑩𐑛) 𐑦𐑯 -𐑓𐑲𐑑𐑩.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-phyte|wikt-2": {
+    "transliterated_definition": "𐑩 𐑐𐑤𐑭𐑯𐑑 𐑞𐑨𐑑 𐑜𐑮𐑴𐑟 𐑦𐑯 𐑩 𐑕𐑐𐑧𐑕𐑦𐑓𐑲𐑛 𐑣𐑨𐑚𐑦𐑑𐑨𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-phyte|wikt-3": {
+    "transliterated_definition": "𐑩 𐑐𐑤𐑭𐑯𐑑 𐑞𐑨𐑑 𐑜𐑮𐑴𐑟 𐑦𐑯 𐑩 𐑕𐑐𐑧𐑕𐑦𐑓𐑲𐑛 𐑓𐑹𐑥 𐑹 𐑣𐑨𐑚𐑦𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-phyte|wikt-4": {
+    "transliterated_definition": "𐑩 𐑐𐑨𐑔𐑩𐑤𐑪𐑡𐑦𐑒𐑩𐑤 𐑜𐑮𐑴𐑔.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-piprazole|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑓𐑰𐑯𐑩𐑤𐑐𐑲𐑐𐑼𐑱𐑟𐑰𐑯 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑕𐑲𐑒𐑴𐑑𐑮𐑪𐑐𐑦𐑒𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-plasm|wikt-1": {
+    "transliterated_definition": "𐑞 𐑒𐑪𐑯𐑑𐑧𐑯𐑑𐑕 𐑝 𐑩 𐑕𐑧𐑤.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-plasty|wikt-1": {
+    "transliterated_definition": "𐑮𐑦𐑐𐑺 𐑹 𐑮𐑧𐑕𐑑𐑼𐑱𐑖𐑩𐑯 𐑝 𐑩 𐑐𐑸𐑑 𐑹 𐑓𐑳𐑙𐑒𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-plasty|wikt-2": {
+    "transliterated_definition": "𐑥𐑴𐑤𐑛𐑦𐑙 𐑹 𐑖𐑱𐑐𐑦𐑙 𐑔𐑮𐑵 𐑩 𐑕𐑻𐑡𐑦𐑒𐑩𐑤 𐑐𐑮𐑩𐑕𐑰𐑡𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-plast|wikt-1": {
+    "transliterated_definition": "𐑩 𐑕𐑥𐑷𐑤 𐑚𐑪𐑛𐑦, 𐑕𐑑𐑮𐑳𐑒𐑗𐑼, 𐑐𐑸𐑑𐑦𐑒𐑩𐑤, 𐑹 𐑜𐑮𐑨𐑯𐑿𐑤, 𐑦𐑕𐑐𐑧𐑖𐑩𐑤𐑦 𐑝 𐑤𐑦𐑝𐑦𐑙 𐑥𐑨𐑑𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-plast|wikt-2": {
+    "transliterated_definition": "𐑩 𐑐𐑤𐑨𐑕𐑑𐑦𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-plon|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑲𐑥𐑦𐑛𐑱𐑟𐑩𐑐𐑦𐑮𐑦𐑥𐑦𐑛𐑰𐑯 𐑹 𐑐𐑲𐑼𐑱𐑟𐑴𐑤𐑩𐑐𐑦𐑮𐑦𐑥𐑦𐑛𐑰𐑯 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑖𐑰𐑩𐑤𐑦𐑑𐑦𐑒𐑕, 𐑕𐑧𐑛𐑩𐑑𐑦𐑝𐑟, 𐑹 𐑣𐑦𐑐𐑯𐑪𐑑𐑦𐑒𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-pnea|wikt-1": {
+    "transliterated_definition": "𐑚𐑮𐑰𐑞𐑦𐑙, 𐑮𐑧𐑕𐑐𐑼𐑱𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-poeia|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑬𐑯𐑟 𐑞𐑨𐑑 𐑛𐑦𐑯𐑴𐑑 𐑞 𐑥𐑱𐑒𐑦𐑙 𐑹 𐑒𐑮𐑦𐑱𐑑𐑦𐑙 𐑝 𐑕𐑳𐑥𐑔𐑦𐑙.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-poo|wikt-1": {
+    "transliterated_definition": "𐑨𐑛𐑩𐑛 𐑑 𐑯𐑬𐑯𐑟, 𐑦𐑕𐑐𐑧𐑖𐑩𐑤𐑦 𐑐𐑻𐑕𐑩𐑯𐑩𐑤 𐑯𐑱𐑥𐑟, 𐑧𐑯𐑛𐑦𐑙 𐑦𐑯 -𐑦 𐑹 -𐑲𐑰, 𐑹 𐑢𐑦𐑔 𐑞𐑦𐑕 𐑕𐑬𐑯𐑛 𐑦𐑯𐑕𐑻𐑑𐑩𐑛, 𐑑 𐑓𐑹𐑥 𐑩𐑓𐑧𐑒𐑖𐑩𐑯𐑩𐑑, 𐑐𐑤𐑱𐑓𐑩𐑤 𐑛𐑦𐑥𐑦𐑯𐑘𐑩𐑑𐑦𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-poo|wikt-2": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑓 𐑒𐑩𐑯𐑕𐑑𐑮𐑳𐑒𐑑𐑦𐑙 𐑩 𐑚𐑮𐑰𐑛 𐑯𐑱𐑥 𐑝 𐑛𐑦𐑟𐑲𐑯𐑼 𐑛𐑪𐑜𐑟 𐑢𐑳𐑯 𐑝 𐑣𐑵𐑟 𐑐𐑺𐑩𐑯𐑑𐑕 𐑦𐑟 𐑩 𐑐𐑵𐑛𐑩𐑤.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-prazole|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑚𐑧𐑯𐑟𐑦𐑥𐑲𐑛𐑩𐑟𐑴𐑤 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑳𐑤𐑕𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-prenaline|wikt-1": {
+    "transliterated_definition": "𐑕𐑦𐑯𐑩𐑯𐑦𐑥 𐑝 -𐑑𐑧𐑮𐑩𐑤.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-previr|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑣𐑧𐑐𐑩𐑑𐑲𐑑𐑦𐑕 C 𐑝𐑲𐑮𐑩𐑕 𐑐𐑮𐑴𐑑𐑱𐑕 𐑦𐑯𐑣𐑦𐑚𐑦𐑑𐑼𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑝𐑲𐑮𐑩𐑤𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-profen|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑲𐑚𐑿𐑐𐑮𐑴𐑓𐑦𐑯 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦-𐑦𐑯𐑓𐑤𐑨𐑥𐑩𐑑𐑼𐑦 𐑱𐑡𐑩𐑯𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-prost-|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑐𐑮𐑪𐑕𐑑𐑨𐑜𐑤𐑩𐑯𐑛𐑦𐑯𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "interfix"
+  },
+  "-prostil|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑐𐑮𐑪𐑕𐑑𐑨𐑜𐑤𐑩𐑯𐑛𐑦𐑯𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑳𐑤𐑕𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-prost|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑐𐑮𐑪𐑕𐑑𐑨𐑜𐑤𐑩𐑯𐑛𐑦𐑯𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ptile|wikt-1": {
+    "transliterated_definition": "𐑑𐑲𐑐 𐑝 𐑤𐑰𐑓.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ptile|wikt-2": {
+    "transliterated_definition": "𐑑𐑲𐑐 𐑝 𐑐𐑤𐑵𐑥𐑦𐑡.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-quine|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑒𐑢𐑦𐑯𐑴𐑤𐑲𐑯 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-renone|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑕𐑐𐑲𐑮𐑩𐑯𐑩𐑤𐑨𐑒𐑑𐑴𐑯 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑤𐑛𐑪𐑕𐑑𐑼𐑴𐑯 𐑨𐑯𐑑𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ress|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑟 𐑓𐑧𐑥𐑦𐑯𐑦𐑯 𐑱𐑡𐑩𐑯𐑑 𐑯𐑬𐑯𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-retin-|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑮𐑧𐑑𐑰𐑯𐑴𐑤 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "interfix"
+  },
+  "-retin|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑮𐑧𐑑𐑰𐑯𐑴𐑤 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-rinone|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑱𐑥𐑼𐑦𐑯𐑢𐑳𐑯 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑒𐑸𐑛𐑦𐑨𐑒 𐑕𐑑𐑦𐑥𐑘𐑩𐑤𐑩𐑯𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-rolimus|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑮𐑨𐑐𐑩𐑥𐑲𐑕𐑦𐑯 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑦𐑥𐑿𐑯𐑴𐑕𐑩𐑐𐑮𐑧𐑕𐑩𐑯𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-rozole|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑲𐑥𐑦𐑛𐑱𐑟𐑴𐑤-𐑑𐑮𐑲𐑱𐑟𐑴𐑤 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑼𐑴𐑥𐑩𐑑𐑱𐑕 𐑦𐑯𐑣𐑦𐑚𐑦𐑑𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-sartan|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑯𐑪𐑯𐑐𐑧𐑐𐑑𐑦𐑛𐑦𐑒 𐑨𐑯𐑡𐑦𐑴𐑑𐑧𐑯𐑕𐑦𐑯 II 𐑮𐑦𐑕𐑧𐑐𐑑𐑼 𐑨𐑯𐑑𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑕 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑣𐑲𐑐𐑼𐑑𐑧𐑯𐑕𐑦𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-semide|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑓𐑘𐑫𐑼𐑴𐑕𐑩𐑥𐑲𐑛 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑛𐑲𐑼𐑧𐑑𐑦𐑒𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-serod|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑕𐑧𐑮𐑩𐑑𐑴𐑯𐑦𐑯 𐑮𐑦𐑕𐑧𐑐𐑑𐑼 𐑨𐑯𐑑𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑕 𐑯 𐑐𐑸𐑖𐑩𐑤 𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-serpine|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑝 ·𐑮𐑬𐑢𐑫𐑤𐑓𐑦𐑩 𐑨𐑤𐑒𐑩𐑤𐑶𐑛𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-setron|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑕𐑧𐑮𐑩𐑑𐑴𐑯𐑦𐑯 𐑮𐑦𐑕𐑧𐑐𐑑𐑼 5-HT₃ 𐑨𐑯𐑑𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑟 𐑯𐑪𐑑 𐑓𐑦𐑑𐑦𐑙 𐑦𐑯𐑑𐑵 𐑳𐑞𐑼 𐑦𐑕𐑑𐑨𐑚𐑤𐑦𐑖𐑑 𐑜𐑮𐑵𐑐𐑕 𐑝 𐑕𐑧𐑮𐑩𐑑𐑴𐑯𐑦𐑯 𐑮𐑦𐑕𐑧𐑐𐑑𐑼 𐑨𐑯𐑑𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-shire|wikt-1": {
+    "transliterated_definition": "𐑩 𐑒𐑩𐑥𐑚𐑲𐑯𐑦𐑙 𐑓𐑹𐑥 𐑿𐑟𐑛 𐑦𐑯 𐑞 𐑯𐑱𐑥𐑟 𐑝 ·𐑚𐑮𐑦𐑑𐑦𐑖 𐑒𐑬𐑯𐑑𐑦𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-sky|wikt-1": {
+    "transliterated_definition": "𐑷𐑤𐑑𐑻𐑯𐑩𐑑𐑦𐑝 𐑕𐑐𐑧𐑤𐑦𐑙 𐑝 -𐑕𐑒𐑰.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-sky|wikt-2": {
+    "transliterated_definition": "𐑒𐑩𐑥𐑚𐑲𐑯𐑛 𐑢𐑦𐑔 𐑩 𐑯𐑬𐑯 𐑹 𐑨𐑡𐑦𐑒𐑑𐑦𐑝 𐑓 𐑩 𐑕𐑐𐑩𐑕𐑦𐑓𐑦𐑒 𐑒𐑩𐑥𐑿𐑯𐑦𐑑𐑦 𐑝 𐑿𐑟𐑼𐑟 𐑹 𐑩 𐑠𐑭𐑯𐑮𐑩 𐑝 𐑐𐑴𐑕𐑑𐑕 𐑪𐑯 𐑞 𐑕𐑴𐑖𐑩𐑤 𐑥𐑰𐑛𐑾 𐑐𐑤𐑨𐑑𐑓𐑹𐑥 ·𐑚𐑤𐑵𐑕𐑒𐑲.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-speak|wikt-1": {
+    "transliterated_definition": "𐑦𐑯𐑛𐑦𐑒𐑱𐑑𐑕 𐑩 𐑥𐑨𐑯𐑼 𐑝 𐑕𐑐𐑰𐑗 𐑹 𐑮𐑲𐑑𐑦𐑙 𐑑𐑦𐑐𐑦𐑒𐑩𐑤 𐑝 𐑹 𐑒𐑨𐑮𐑩𐑒𐑑𐑼𐑲𐑟𐑛 𐑚𐑲 𐑞 𐑮𐑵𐑑 𐑑𐑻𐑥.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-spirone|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑚𐑳𐑕𐑐𐑲𐑼𐑢𐑳𐑯 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑖𐑰𐑩𐑤𐑦𐑑𐑦𐑒𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-spo|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑟 𐑢𐑻𐑛𐑟 𐑑 𐑛𐑦𐑕𐑒𐑮𐑲𐑚 𐑒𐑪𐑯𐑑𐑧𐑯𐑑 (𐑿𐑠𐑫𐑩𐑤𐑦 𐑪𐑯 𐑕𐑴𐑖𐑩𐑤 𐑥𐑰𐑛𐑾) 𐑦𐑯𐑑𐑧𐑯𐑛𐑩𐑛 𐑨𐑟 𐑦𐑯𐑕𐑐𐑼𐑱𐑖𐑩𐑯 𐑑 𐑩𐑗𐑰𐑝 𐑩 𐑕𐑻𐑑𐑩𐑯 𐑜𐑴𐑤.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-stat|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑬𐑯𐑟 𐑯𐑱𐑥𐑦𐑙 𐑕𐑲𐑩𐑯𐑑𐑦𐑓𐑦𐑒 𐑦𐑯𐑕𐑑𐑮𐑩𐑥𐑩𐑯𐑑𐑕 𐑞𐑨𐑑 𐑨𐑒𐑑 𐑑 𐑮𐑧𐑯𐑛𐑼 𐑞 𐑐𐑮𐑰𐑓𐑦𐑒𐑕𐑑 𐑧𐑤𐑦𐑥𐑩𐑯𐑑 𐑕𐑑𐑱𐑖𐑩𐑯𐑼𐑦 𐑹 𐑕𐑑𐑨𐑑𐑦𐑒 𐑦𐑯 𐑕𐑳𐑥 𐑮𐑦𐑕𐑐𐑧𐑒𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-stat|wikt-2": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑧𐑯𐑟𐑲𐑥 𐑦𐑯𐑣𐑦𐑚𐑦𐑑𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-steine|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑥𐑿𐑒𐑩𐑤𐑦𐑑𐑦𐑒𐑕 𐑳𐑞𐑼 𐑞𐑨𐑯 𐑚𐑮𐑴𐑥𐑣𐑧𐑒𐑕𐑰𐑯𐑧 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-sterone|wikt-1": {
+    "transliterated_definition": "𐑕𐑑𐑧𐑮𐑶𐑛 𐑣𐑹𐑥𐑴𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-sterone|wikt-2": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑨𐑯𐑛𐑮𐑴𐑡𐑧𐑯𐑟/𐑨𐑯𐑩𐑚𐑪𐑤𐑦𐑒 𐑕𐑑𐑧𐑮𐑶𐑛𐑟 𐑯 𐑐𐑮𐑴𐑡𐑧𐑕𐑑𐑱𐑖𐑩𐑯𐑩𐑤 𐑕𐑑𐑧𐑮𐑶𐑛𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-stodon|wikt-1": {
+    "transliterated_definition": "𐑒𐑩𐑥𐑚𐑲𐑯𐑛 𐑢𐑦𐑔 𐑩 𐑯𐑬𐑯 𐑹 𐑨𐑡𐑦𐑒𐑑𐑦𐑝 𐑑 𐑒𐑮𐑦𐑱𐑑 𐑩 𐑢𐑻𐑛 𐑓 𐑩 𐑕𐑐𐑩𐑕𐑦𐑓𐑦𐑒 𐑒𐑩𐑥𐑿𐑯𐑦𐑑𐑦 𐑝 𐑿𐑟𐑼𐑟 𐑹 𐑩 𐑠𐑭𐑯𐑮𐑩 𐑝 𐑐𐑴𐑕𐑑𐑕 𐑪𐑯 𐑞 𐑕𐑴𐑖𐑩𐑤 𐑯𐑧𐑑𐑢𐑻𐑒𐑦𐑙 𐑕𐑻𐑝𐑦𐑕 ·𐑥𐑨𐑕𐑑𐑩𐑛𐑪𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-taph|wikt-1": {
+    "transliterated_definition": "𐑜𐑮𐑱𐑝; 𐑚𐑧𐑮𐑾𐑤.",
+    "transliterated_examples": [],
+    "transliterated_pos": "prefix"
+  },
+  "-taxel|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑑𐑨𐑒𐑕𐑱𐑯 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑯𐑰𐑴𐑐𐑤𐑨𐑕𐑑𐑦𐑒𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-tegravir|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑣𐑦𐑝 𐑦𐑯𐑑𐑦𐑜𐑮𐑱𐑕 𐑦𐑯𐑣𐑦𐑚𐑦𐑑𐑼𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑝𐑲𐑮𐑩𐑤𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-teplase|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑑𐑦𐑖𐑵-𐑑𐑲𐑐 𐑐𐑤𐑨𐑟𐑩𐑥𐑦𐑯𐑩𐑡𐑩𐑯 𐑨𐑒𐑑𐑦𐑝𐑱𐑑𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-terenol|wikt-1": {
+    "transliterated_definition": "𐑷𐑤𐑑𐑻𐑯𐑩𐑑𐑦𐑝 𐑓𐑹𐑥 𐑝 -𐑑𐑧𐑮𐑩𐑤.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-terol|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑓𐑧𐑯𐑧𐑔𐑦𐑤𐑩𐑥𐑰𐑯 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑚𐑮𐑪𐑙𐑒𐑴𐑛𐑲𐑤𐑭𐑑𐑫𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-terone|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑨𐑯𐑑𐑦𐑨𐑯𐑛𐑮𐑴𐑡𐑧𐑯𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-thiazide|wikt-1": {
+    "transliterated_definition": "𐑩 𐑔𐑲𐑩𐑟𐑲𐑛 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝 𐑿𐑟𐑛 𐑨𐑟 𐑩 𐑛𐑲𐑼𐑧𐑑𐑦𐑒.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-thiouracil|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑘𐑫𐑼𐑩𐑕𐑦𐑤 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑔𐑲𐑮𐑶𐑛 𐑨𐑯𐑑𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-tizide|wikt-1": {
+    "transliterated_definition": "𐑩 𐑒𐑤𐑹𐑩𐑔𐑲𐑩𐑟𐑲𐑛 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝 𐑿𐑟𐑛 𐑨𐑟 𐑩 𐑛𐑲𐑼𐑧𐑑𐑦𐑒.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-toin|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 hydantoin 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑧𐑐𐑦𐑤𐑧𐑐𐑑𐑦𐑒𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-tok|wikt-1": {
+    "transliterated_definition": "𐑷𐑤𐑑𐑻𐑯𐑩𐑑𐑦𐑝 𐑤𐑧𐑑𐑼-𐑒𐑱𐑕 𐑓𐑹𐑥 𐑝 -·𐑑𐑪𐑒.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-tok|wikt-2": {
+    "transliterated_definition": "𐑒𐑩𐑥𐑚𐑲𐑯𐑛 𐑢𐑦𐑔 𐑩 𐑯𐑬𐑯 𐑹 𐑨𐑡𐑦𐑒𐑑𐑦𐑝 𐑓 𐑩 𐑕𐑐𐑩𐑕𐑦𐑓𐑦𐑒 𐑒𐑩𐑥𐑿𐑯𐑦𐑑𐑦 𐑝 𐑿𐑟𐑼𐑟 𐑹 𐑩 𐑠𐑭𐑯𐑮𐑩 𐑝 𐑝𐑦𐑛𐑦𐑴𐑟 𐑪𐑯 𐑞 𐑕𐑴𐑖𐑩𐑤 𐑥𐑰𐑛𐑾 𐑐𐑤𐑨𐑑𐑓𐑹𐑥 ·𐑑𐑦𐑒𐑑𐑪𐑒.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-trices|wikt-1": {
+    "transliterated_definition": "𐑐𐑤𐑫𐑼𐑩𐑤 𐑝 -𐑑𐑮𐑦𐑒𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-trop-|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑱𐑑𐑮𐑴𐑐𐑰𐑯 𐑛𐑦𐑮𐑦𐑝𐑩𐑑𐑦𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "interfix"
+  },
+  "-tropin|wikt-1": {
+    "transliterated_definition": "𐑣𐑹𐑥𐑴𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-tropism|wikt-1": {
+    "transliterated_definition": "𐑥𐑵𐑝𐑥𐑩𐑯𐑑, 𐑑𐑻𐑯𐑦𐑙.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-tropism|wikt-2": {
+    "transliterated_definition": "𐑜𐑮𐑴𐑔 𐑑𐑩𐑢𐑹𐑛𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-tuber|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑟 𐑱𐑡𐑩𐑯𐑑 𐑯𐑬𐑯𐑟 𐑓 ·𐑿𐑑𐑿𐑚𐑼𐑟 𐑹 𐑕𐑦𐑥𐑦𐑤𐑼 𐑪𐑒𐑘𐑩𐑐𐑱𐑖𐑩𐑯𐑟 𐑣𐑵 𐑣𐑨𐑝 𐑞 𐑒𐑢𐑪𐑤𐑦𐑑𐑦𐑟 𐑝 𐑞 𐑮𐑵𐑑 𐑢𐑻𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-tuber|wikt-2": {
+    "transliterated_definition": "𐑷𐑤𐑑𐑻𐑯𐑩𐑑𐑦𐑝 𐑤𐑧𐑑𐑼-𐑒𐑱𐑕 𐑓𐑹𐑥 𐑝 -·𐑑𐑵𐑚𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-umab|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑥𐑪𐑯𐑩𐑒𐑩𐑤𐑩𐑯𐑩𐑤 𐑨𐑯𐑑𐑦𐑚𐑪𐑛𐑦𐑟 𐑛𐑦𐑮𐑲𐑝𐑛 𐑓𐑮𐑪𐑥 𐑩 𐑣𐑿𐑥𐑩𐑯 𐑕𐑹𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-um|wikt-1": {
+    "transliterated_definition": "𐑛𐑦𐑯𐑴𐑑𐑕 𐑕𐑦𐑙𐑜𐑘𐑩𐑤𐑼 𐑜𐑮𐑩𐑥𐑨𐑑𐑦𐑒𐑩𐑤 𐑯𐑳𐑥𐑚𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-um|wikt-2": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑟 𐑞 𐑧𐑯𐑛𐑟 𐑝 𐑞 𐑯𐑱𐑥𐑟 𐑝 𐑕𐑻𐑑𐑩𐑯 𐑧𐑤𐑦𐑥𐑩𐑯𐑑𐑕 (𐑕𐑳𐑗 𐑨𐑟 𐑥𐑩𐑤𐑦𐑚𐑛𐑩𐑯𐑩𐑥 𐑯 𐑐𐑤𐑨𐑑𐑦𐑯𐑩𐑥).",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-um|wikt-3": {
+    "transliterated_definition": "𐑛𐑦𐑯𐑴𐑑𐑕 𐑑𐑮𐑨𐑯𐑕𐑦𐑑𐑦𐑝 𐑝𐑻𐑚𐑟 𐑦𐑯 𐑞 𐑑𐑮𐑱𐑛 𐑐𐑦𐑡𐑦𐑯𐑟 𐑿𐑟𐑛 𐑚𐑦𐑑𐑢𐑰𐑯 ·𐑦𐑙𐑜𐑤𐑦𐑖-𐑕𐑐𐑰𐑒𐑼𐑟 𐑯 𐑦𐑯𐑛𐑦𐑡𐑦𐑯𐑩𐑕 𐑐𐑪𐑐𐑘𐑩𐑤𐑱𐑖𐑩𐑯𐑟; 𐑿𐑟𐑛 𐑛𐑦𐑮𐑪𐑜𐑩𐑑𐑼𐑦𐑤𐑦 𐑚𐑲 𐑦𐑒𐑕𐑑𐑧𐑯𐑖𐑩𐑯 𐑦𐑯 ·𐑦𐑙𐑜𐑤𐑦𐑖 𐑚𐑲 𐑩𐑛𐑦𐑖𐑩𐑯 𐑑 𐑧𐑯𐑦 𐑝𐑻𐑚, 𐑑𐑮𐑨𐑯𐑕𐑦𐑑𐑦𐑝 𐑹 𐑯𐑪𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ure|wikt-1": {
+    "transliterated_definition": "𐑩 𐑐𐑮𐑪𐑕𐑧𐑕; 𐑩 𐑒𐑩𐑯𐑛𐑦𐑖𐑩𐑯; 𐑩 𐑮𐑦𐑟𐑳𐑤𐑑 𐑝 𐑩𐑯 𐑨𐑒𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ure|wikt-2": {
+    "transliterated_definition": "𐑩𐑯 𐑩𐑓𐑦𐑖𐑩𐑤 𐑧𐑯𐑑𐑦𐑑𐑦 𐑹 𐑓𐑳𐑙𐑒𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ure|wikt-3": {
+    "transliterated_definition": "𐑩 𐑑𐑱𐑤.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-uria|wikt-1": {
+    "transliterated_definition": "𐑘𐑫𐑼𐑦𐑯; 𐑘𐑫𐑼𐑦𐑯𐑱𐑖𐑩𐑯; 𐑐𐑮𐑧𐑟𐑩𐑯𐑕 𐑦𐑯 𐑘𐑫𐑼𐑦𐑯 (𐑝 𐑩 𐑕𐑳𐑚𐑕𐑑𐑩𐑯𐑕 𐑛𐑦𐑯𐑴𐑑𐑩𐑛 𐑚𐑲 𐑩 𐑐𐑮𐑰𐑓𐑦𐑒𐑕𐑑 𐑒𐑩𐑥𐑚𐑲𐑯𐑦𐑙 𐑓𐑹𐑥); 𐑕𐑑𐑱𐑑 𐑹 𐑒𐑩𐑯𐑛𐑦𐑖𐑩𐑯 𐑝 𐑞 𐑘𐑫𐑼𐑦𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-vaptan|wikt-1": {
+    "transliterated_definition": "𐑩 𐑝𐑱𐑟𐑴𐑐𐑮𐑧𐑕𐑦𐑯 𐑮𐑦𐑕𐑧𐑐𐑑𐑼 𐑨𐑯𐑑𐑨𐑜𐑩𐑯𐑦𐑕𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-vastatin|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 HMG-·𐑒𐑥𐑩 𐑮𐑦𐑛𐑳𐑒𐑑𐑱𐑕 𐑦𐑯𐑣𐑦𐑚𐑦𐑑𐑼𐑟 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑣𐑲𐑐𐑼𐑤𐑦𐑐𐑦𐑛𐑧𐑥𐑦𐑒 𐑕𐑳𐑚𐑕𐑑𐑩𐑯𐑕𐑩𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-verine|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑕𐑐𐑨𐑟𐑩𐑥𐑩𐑤𐑦𐑑𐑦𐑒𐑕 𐑢𐑦𐑔 𐑩 𐑐𐑭𐑐𐑩𐑝𐑧𐑮𐑦𐑯𐑱-𐑤𐑲𐑒 𐑨𐑒𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-verse|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑦𐑙 𐑒𐑪𐑥𐑐𐑬𐑯𐑛 𐑯𐑬𐑯𐑟 𐑛𐑦𐑯𐑴𐑑𐑦𐑙 𐑞 𐑣𐑴𐑤 𐑮𐑱𐑯𐑡 𐑹 𐑑𐑴𐑑𐑨𐑤𐑦𐑑𐑦 𐑝 𐑢𐑪𐑑 𐑦𐑟 𐑦𐑯𐑛𐑦𐑒𐑱𐑑𐑩𐑛 𐑚𐑲 𐑞 𐑓𐑻𐑕𐑑 𐑧𐑤𐑦𐑥𐑩𐑯𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-verse|wikt-2": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑦𐑙 𐑒𐑪𐑥𐑐𐑬𐑯𐑛 𐑯𐑬𐑯𐑟 𐑛𐑦𐑯𐑴𐑑𐑦𐑙 𐑞 𐑓𐑦𐑒𐑖𐑩𐑯𐑩𐑤 𐑢𐑻𐑤𐑛 𐑝 𐑩 𐑜𐑦𐑝𐑩𐑯 𐑒𐑨𐑮𐑩𐑒𐑑𐑼, 𐑑𐑧𐑤𐑦𐑝𐑦𐑠𐑩𐑯 𐑕𐑽𐑰𐑟 𐑯𐑯𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-verse|wikt-3": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑦𐑙 𐑒𐑪𐑥𐑐𐑬𐑯𐑛 𐑯𐑬𐑯𐑟 𐑛𐑦𐑯𐑴𐑑𐑦𐑙 𐑩𐑯 𐑷𐑤𐑑𐑻𐑯𐑩𐑑𐑦𐑝 𐑿𐑯𐑦𐑝𐑻𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ville|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑩 𐑯𐑱𐑥 𐑝 𐑩𐑯 𐑦𐑯𐑣𐑨𐑚𐑦𐑑𐑩𐑛 𐑐𐑤𐑱𐑕, 𐑩 𐑑𐑬𐑯 𐑹 𐑕𐑦𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ville|wikt-2": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑢𐑦𐑔 𐑩𐑯 𐑨𐑡𐑦𐑒𐑑𐑦𐑝 𐑨𐑟 𐑩 𐑥𐑲𐑤𐑛𐑤𐑦 𐑦𐑯𐑑𐑧𐑯𐑕𐑦𐑓𐑲𐑦𐑙 𐑤𐑪𐑒𐑩𐑑𐑦𐑝, 𐑦𐑯𐑛𐑦𐑒𐑱𐑑𐑦𐑙 𐑩 𐑮𐑰𐑡𐑩𐑯 𐑹 𐑕𐑑𐑱𐑑 𐑝 𐑞𐑨𐑑 𐑒𐑲𐑯𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-virine|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑯𐑪𐑯𐑯𐑿𐑒𐑤𐑦𐑴𐑕𐑲𐑛 𐑮𐑦𐑝𐑻𐑕-𐑑𐑮𐑩𐑯𐑕𐑒𐑮𐑦𐑐𐑑𐑱𐑕 𐑦𐑯𐑣𐑦𐑚𐑦𐑑𐑼𐑟 (NNRTIs) 𐑿𐑟𐑛 𐑨𐑟 𐑨𐑯𐑑𐑦𐑝𐑲𐑮𐑩𐑤𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-viroc|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑒𐑰𐑥𐑴𐑒𐑲𐑯 𐑕𐑰𐑕𐑰 𐑥𐑴𐑑𐑰𐑓 𐑮𐑦𐑕𐑧𐑐𐑑𐑼 5 (CCR5) 𐑨𐑯𐑑𐑨𐑜𐑩𐑯𐑦𐑕𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-virsen|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑨𐑯𐑑𐑦𐑝𐑲𐑮𐑩𐑤 𐑨𐑯𐑑𐑦𐑕𐑧𐑯𐑕 𐑪𐑤𐑦𐑜𐑴𐑯𐑿𐑒𐑤𐑦𐑴𐑑𐑲𐑛𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-vir|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑡𐑩𐑯𐑧𐑮𐑦𐑒 𐑨𐑯𐑑𐑦𐑝𐑲𐑮𐑩𐑤𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-vudine|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑨𐑯𐑑𐑦𐑯𐑰𐑴𐑐𐑤𐑨𐑕𐑑𐑦𐑒𐑕 𐑯 𐑨𐑯𐑑𐑦𐑝𐑲𐑮𐑩𐑤𐑟 𐑝 𐑞 zidovudine 𐑑𐑲𐑐.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-wards|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑦𐑙 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟 𐑯 𐑨𐑛𐑝𐑻𐑚𐑟 𐑛𐑦𐑯𐑴𐑑𐑦𐑙 𐑒𐑹𐑕 𐑹 𐑛𐑦𐑮𐑧𐑒𐑖𐑩𐑯 𐑑, 𐑹 𐑥𐑴𐑖𐑩𐑯 𐑹 𐑑𐑧𐑯𐑛𐑩𐑯𐑕𐑦 𐑑𐑹𐑛, 𐑨𐑟 𐑦𐑯 “𐑚𐑨𐑒𐑢𐑼𐑛𐑟”, “𐑑𐑩𐑢𐑹𐑛𐑟”, 𐑯𐑯𐑯",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ward|wikt-1": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑦𐑙 𐑨𐑛𐑝𐑻𐑚𐑟 𐑛𐑦𐑯𐑴𐑑𐑦𐑙 𐑒𐑹𐑕 𐑹 𐑛𐑦𐑮𐑧𐑒𐑖𐑩𐑯 𐑑, 𐑹 𐑥𐑴𐑖𐑩𐑯 𐑹 𐑑𐑧𐑯𐑛𐑩𐑯𐑕𐑦 𐑑𐑹𐑛, 𐑨𐑟 𐑦𐑯 “𐑚𐑨𐑒𐑢𐑼𐑛”, “𐑑𐑹𐑛”, “𐑓𐑹𐑢𐑼𐑛”, 𐑯𐑯𐑯",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-ward|wikt-2": {
+    "transliterated_definition": "𐑓𐑹𐑥𐑦𐑙 𐑨𐑡𐑦𐑒𐑑𐑦𐑝𐑟, 𐑨𐑟 𐑦𐑯 “𐑩 𐑚𐑨𐑒𐑢𐑼𐑛 𐑤𐑫𐑒”, “𐑞 𐑯𐑹𐑔𐑢𐑼𐑛 𐑮𐑴𐑛”, 𐑯𐑯𐑯; 𐑿𐑟𐑛 𐑰𐑝𐑩𐑯 𐑚𐑲 𐑕𐑐𐑰𐑒𐑼𐑟 𐑣𐑵 𐑿𐑠𐑫𐑩𐑤𐑦 𐑿𐑟 -𐑢𐑹𐑛𐑟 𐑓 𐑨𐑛𐑝𐑻𐑚𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-xeny|wikt-1": {
+    "transliterated_definition": "𐑜𐑧𐑕𐑑, 𐑕𐑑𐑮𐑱𐑯𐑡𐑼, 𐑣𐑴𐑕𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  "-zumab|wikt-1": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑑 𐑓𐑹𐑥 𐑯𐑱𐑥𐑟 𐑝 𐑣𐑿𐑥𐑩𐑯𐑲𐑟𐑛 𐑥𐑪𐑯𐑩𐑒𐑩𐑤𐑩𐑯𐑩𐑤 𐑨𐑯𐑑𐑦𐑚𐑪𐑛𐑦𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "suffix"
+  },
+  ".22 caliber|03157978-a": {
+    "transliterated_definition": "𐑝 𐑹 𐑮𐑦𐑤𐑱𐑑𐑦𐑙 𐑑 𐑞 𐑚𐑹 𐑝 𐑩 𐑜𐑳𐑯 (𐑹 𐑦𐑑𐑕 𐑨𐑥𐑘𐑩𐑯𐑦𐑖𐑩𐑯) 𐑞𐑨𐑑 𐑥𐑧𐑠𐑼𐑟 𐑑𐑢𐑧𐑯𐑑𐑦-𐑑𐑵 𐑣𐑳𐑯𐑛𐑮𐑩𐑛𐑔𐑕 𐑝 𐑩𐑯 𐑦𐑯𐑗 𐑦𐑯 𐑛𐑲𐑨𐑥𐑦𐑑𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  ".22 calibre|03157978-a": {
+    "transliterated_definition": "𐑝 𐑹 𐑮𐑦𐑤𐑱𐑑𐑦𐑙 𐑑 𐑞 𐑚𐑹 𐑝 𐑩 𐑜𐑳𐑯 (𐑹 𐑦𐑑𐑕 𐑨𐑥𐑘𐑩𐑯𐑦𐑖𐑩𐑯) 𐑞𐑨𐑑 𐑥𐑧𐑠𐑼𐑟 𐑑𐑢𐑧𐑯𐑑𐑦-𐑑𐑵 𐑣𐑳𐑯𐑛𐑮𐑩𐑛𐑔𐑕 𐑝 𐑩𐑯 𐑦𐑯𐑗 𐑦𐑯 𐑛𐑲𐑨𐑥𐑦𐑑𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  ".22-caliber|03157978-a": {
+    "transliterated_definition": "𐑝 𐑹 𐑮𐑦𐑤𐑱𐑑𐑦𐑙 𐑑 𐑞 𐑚𐑹 𐑝 𐑩 𐑜𐑳𐑯 (𐑹 𐑦𐑑𐑕 𐑨𐑥𐑘𐑩𐑯𐑦𐑖𐑩𐑯) 𐑞𐑨𐑑 𐑥𐑧𐑠𐑼𐑟 𐑑𐑢𐑧𐑯𐑑𐑦-𐑑𐑵 𐑣𐑳𐑯𐑛𐑮𐑩𐑛𐑔𐑕 𐑝 𐑩𐑯 𐑦𐑯𐑗 𐑦𐑯 𐑛𐑲𐑨𐑥𐑦𐑑𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  ".22-calibre|03157978-a": {
+    "transliterated_definition": "𐑝 𐑹 𐑮𐑦𐑤𐑱𐑑𐑦𐑙 𐑑 𐑞 𐑚𐑹 𐑝 𐑩 𐑜𐑳𐑯 (𐑹 𐑦𐑑𐑕 𐑨𐑥𐑘𐑩𐑯𐑦𐑖𐑩𐑯) 𐑞𐑨𐑑 𐑥𐑧𐑠𐑼𐑟 𐑑𐑢𐑧𐑯𐑑𐑦-𐑑𐑵 𐑣𐑳𐑯𐑛𐑮𐑩𐑛𐑔𐑕 𐑝 𐑩𐑯 𐑦𐑯𐑗 𐑦𐑯 𐑛𐑲𐑨𐑥𐑦𐑑𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  ".22|04510146-n": {
+    "transliterated_definition": "𐑩 .22 𐑒𐑨𐑤𐑦𐑚𐑼 𐑓𐑲𐑼𐑸𐑥 (𐑐𐑦𐑕𐑑𐑩𐑤 𐑹 𐑮𐑲𐑓𐑩𐑤).",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  ".38 caliber|03158270-a": {
+    "transliterated_definition": "𐑝 𐑹 𐑮𐑦𐑤𐑱𐑑𐑦𐑙 𐑑 𐑞 𐑚𐑹 𐑝 𐑩 𐑜𐑳𐑯 (𐑹 𐑦𐑑𐑕 𐑨𐑥𐑘𐑩𐑯𐑦𐑖𐑩𐑯) 𐑞𐑨𐑑 𐑥𐑧𐑠𐑼𐑟 𐑔𐑻𐑑𐑦-𐑱𐑑 𐑣𐑳𐑯𐑛𐑮𐑩𐑛𐑔𐑕 𐑝 𐑩𐑯 𐑦𐑯𐑗 𐑦𐑯 𐑛𐑲𐑨𐑥𐑦𐑑𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  ".38 calibre|03158270-a": {
+    "transliterated_definition": "𐑝 𐑹 𐑮𐑦𐑤𐑱𐑑𐑦𐑙 𐑑 𐑞 𐑚𐑹 𐑝 𐑩 𐑜𐑳𐑯 (𐑹 𐑦𐑑𐑕 𐑨𐑥𐑘𐑩𐑯𐑦𐑖𐑩𐑯) 𐑞𐑨𐑑 𐑥𐑧𐑠𐑼𐑟 𐑔𐑻𐑑𐑦-𐑱𐑑 𐑣𐑳𐑯𐑛𐑮𐑩𐑛𐑔𐑕 𐑝 𐑩𐑯 𐑦𐑯𐑗 𐑦𐑯 𐑛𐑲𐑨𐑥𐑦𐑑𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  ".38-caliber|03158270-a": {
+    "transliterated_definition": "𐑝 𐑹 𐑮𐑦𐑤𐑱𐑑𐑦𐑙 𐑑 𐑞 𐑚𐑹 𐑝 𐑩 𐑜𐑳𐑯 (𐑹 𐑦𐑑𐑕 𐑨𐑥𐑘𐑩𐑯𐑦𐑖𐑩𐑯) 𐑞𐑨𐑑 𐑥𐑧𐑠𐑼𐑟 𐑔𐑻𐑑𐑦-𐑱𐑑 𐑣𐑳𐑯𐑛𐑮𐑩𐑛𐑔𐑕 𐑝 𐑩𐑯 𐑦𐑯𐑗 𐑦𐑯 𐑛𐑲𐑨𐑥𐑦𐑑𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  ".38-calibre|03158270-a": {
+    "transliterated_definition": "𐑝 𐑹 𐑮𐑦𐑤𐑱𐑑𐑦𐑙 𐑑 𐑞 𐑚𐑹 𐑝 𐑩 𐑜𐑳𐑯 (𐑹 𐑦𐑑𐑕 𐑨𐑥𐑘𐑩𐑯𐑦𐑖𐑩𐑯) 𐑞𐑨𐑑 𐑥𐑧𐑠𐑼𐑟 𐑔𐑻𐑑𐑦-𐑱𐑑 𐑣𐑳𐑯𐑛𐑮𐑩𐑛𐑔𐑕 𐑝 𐑩𐑯 𐑦𐑯𐑗 𐑦𐑯 𐑛𐑲𐑨𐑥𐑦𐑑𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  ".45 caliber|03158563-a": {
+    "transliterated_definition": "𐑝 𐑹 𐑮𐑦𐑤𐑱𐑑𐑦𐑙 𐑑 𐑞 𐑚𐑹 𐑝 𐑩 𐑜𐑳𐑯 (𐑹 𐑦𐑑𐑕 𐑨𐑥𐑘𐑩𐑯𐑦𐑖𐑩𐑯) 𐑞𐑨𐑑 𐑥𐑧𐑠𐑼𐑟 𐑓𐑹𐑑𐑦-𐑓𐑲𐑝 𐑣𐑳𐑯𐑛𐑮𐑩𐑛𐑔𐑕 𐑝 𐑩𐑯 𐑦𐑯𐑗 𐑦𐑯 𐑛𐑲𐑨𐑥𐑦𐑑𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  ".45 calibre|03158563-a": {
+    "transliterated_definition": "𐑝 𐑹 𐑮𐑦𐑤𐑱𐑑𐑦𐑙 𐑑 𐑞 𐑚𐑹 𐑝 𐑩 𐑜𐑳𐑯 (𐑹 𐑦𐑑𐑕 𐑨𐑥𐑘𐑩𐑯𐑦𐑖𐑩𐑯) 𐑞𐑨𐑑 𐑥𐑧𐑠𐑼𐑟 𐑓𐑹𐑑𐑦-𐑓𐑲𐑝 𐑣𐑳𐑯𐑛𐑮𐑩𐑛𐑔𐑕 𐑝 𐑩𐑯 𐑦𐑯𐑗 𐑦𐑯 𐑛𐑲𐑨𐑥𐑦𐑑𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  ".45-caliber|03158563-a": {
+    "transliterated_definition": "𐑝 𐑹 𐑮𐑦𐑤𐑱𐑑𐑦𐑙 𐑑 𐑞 𐑚𐑹 𐑝 𐑩 𐑜𐑳𐑯 (𐑹 𐑦𐑑𐑕 𐑨𐑥𐑘𐑩𐑯𐑦𐑖𐑩𐑯) 𐑞𐑨𐑑 𐑥𐑧𐑠𐑼𐑟 𐑓𐑹𐑑𐑦-𐑓𐑲𐑝 𐑣𐑳𐑯𐑛𐑮𐑩𐑛𐑔𐑕 𐑝 𐑩𐑯 𐑦𐑯𐑗 𐑦𐑯 𐑛𐑲𐑨𐑥𐑦𐑑𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  ".45-calibre|03158563-a": {
+    "transliterated_definition": "𐑝 𐑹 𐑮𐑦𐑤𐑱𐑑𐑦𐑙 𐑑 𐑞 𐑚𐑹 𐑝 𐑩 𐑜𐑳𐑯 (𐑹 𐑦𐑑𐑕 𐑨𐑥𐑘𐑩𐑯𐑦𐑖𐑩𐑯) 𐑞𐑨𐑑 𐑥𐑧𐑠𐑼𐑟 𐑓𐑹𐑑𐑦-𐑓𐑲𐑝 𐑣𐑳𐑯𐑛𐑮𐑩𐑛𐑔𐑕 𐑝 𐑩𐑯 𐑦𐑯𐑗 𐑦𐑯 𐑛𐑲𐑨𐑥𐑦𐑑𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  ".com|wikt-1": {
+    "transliterated_definition": "𐑷𐑤𐑑𐑻𐑯𐑩𐑑𐑦𐑝 𐑓𐑹𐑥 𐑝 𐑛𐑪𐑑𐑒𐑪𐑥.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "/tttt/|wikt-1": {
+    "transliterated_definition": "𐑞 4𐑗𐑨𐑯 𐑦𐑥𐑦𐑡𐑚𐑹𐑛 /⸰𐑤𐑜𐑚𐑑/.",
+    "transliterated_examples": [],
+    "transliterated_pos": "name"
+  },
+  "0|02193771-s": {
+    "transliterated_definition": "𐑦𐑯𐑛𐑦𐑒𐑱𐑑𐑦𐑙 𐑞 𐑨𐑚𐑕𐑩𐑯𐑕 𐑝 𐑧𐑯𐑦 𐑹 𐑷𐑤 𐑿𐑯𐑦𐑑𐑕 𐑳𐑯𐑛𐑼 𐑒𐑩𐑯𐑕𐑦𐑛𐑼𐑱𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "0|13764498-n": {
+    "transliterated_definition": "𐑩 𐑥𐑨𐑔𐑩𐑥𐑨𐑑𐑦𐑒𐑩𐑤 𐑧𐑤𐑦𐑥𐑩𐑯𐑑 𐑞𐑨𐑑 𐑢𐑧𐑯 𐑨𐑛𐑩𐑛 𐑑 𐑩𐑯𐑳𐑞𐑼 𐑯𐑳𐑥𐑚𐑼 𐑘𐑰𐑤𐑛𐑟 𐑞 𐑕𐑱𐑥 𐑯𐑳𐑥𐑚𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1 Chronicles|06447321-n": {
+    "transliterated_definition": "𐑞 𐑓𐑻𐑕𐑑 𐑝 𐑑𐑵 ·𐑴𐑤𐑛 ·𐑑𐑧𐑕𐑑𐑩𐑥𐑩𐑯𐑑 𐑚𐑫𐑒𐑕 𐑑𐑧𐑤𐑦𐑙 𐑞 𐑣𐑦𐑕𐑑𐑼𐑦 𐑝 ·[𐑡𐑵𐑛𐑩 / 𐑡𐑳𐑛𐑩] 𐑯 ·𐑦𐑟𐑮𐑱𐑤 𐑩𐑯𐑑𐑦𐑤 𐑞 𐑮𐑦𐑑𐑻𐑯 𐑓𐑮𐑪𐑥 𐑞 ·𐑚𐑨𐑚𐑦𐑤𐑴𐑯𐑾𐑯 ·𐑒𐑨𐑐𐑑𐑦𐑝𐑦𐑑𐑦 𐑦𐑯 536 𐑚𐑒.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1 Esdras|06471648-n": {
+    "transliterated_definition": "𐑩𐑯 ·𐑩𐑐𐑪𐑒𐑮𐑦𐑓𐑩𐑤 𐑚𐑫𐑒 𐑒𐑩𐑯𐑕𐑦𐑕𐑑𐑦𐑙 𐑝 𐑩 𐑒𐑪𐑥𐑐𐑦𐑤𐑱𐑖𐑩𐑯 𐑓𐑮𐑪𐑥 𐑲 ·𐑒𐑮𐑪𐑯𐑦𐑒𐑩𐑤𐑟 𐑯 II ·𐑒𐑮𐑪𐑯𐑦𐑒𐑩𐑤𐑟 𐑯 ·𐑧𐑟𐑮𐑩 𐑯 ·𐑯𐑰𐑣𐑦𐑥𐑲𐑩.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1 Kings|06446674-n": {
+    "transliterated_definition": "𐑞 𐑓𐑻𐑕𐑑 𐑝 𐑑𐑵 ·𐑴𐑤𐑛 ·𐑑𐑧𐑕𐑑𐑩𐑥𐑩𐑯𐑑 𐑚𐑫𐑒𐑕 𐑑𐑧𐑤𐑦𐑙 𐑞 𐑣𐑦𐑕𐑑𐑼𐑦𐑟 𐑝 𐑞 𐑒𐑦𐑙𐑟 𐑝 ·[𐑡𐑵𐑛𐑩 / 𐑡𐑳𐑛𐑩] 𐑯 ·𐑦𐑟𐑮𐑱𐑤.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1 Maccabees|06472446-n": {
+    "transliterated_definition": "𐑩𐑯 ·𐑩𐑐𐑪𐑒𐑮𐑦𐑓𐑩𐑤 𐑚𐑫𐑒 𐑛𐑦𐑕𐑒𐑮𐑲𐑚𐑦𐑙 𐑞 𐑤𐑲𐑓 𐑝 ·𐑡𐑵𐑛𐑩𐑕 ·[𐑥𐑨𐑒𐑩𐑚𐑦𐑩𐑕 / 𐑥𐑨𐑒𐑩𐑚𐑩𐑦𐑩𐑕 / 𐑥𐑨𐑒𐑩𐑚𐑦𐑵𐑟 / 𐑥𐑩𐑒𐑒𐑱𐑚𐑦𐑩𐑕], 𐑑𐑧𐑤𐑟 𐑣𐑬 𐑞 ·𐑜𐑮𐑰𐑒 𐑮𐑵𐑤𐑼 ·𐑨𐑯𐑑𐑦𐑪𐑒𐑩𐑕 IV ·𐑦𐑐𐑦𐑓𐑩𐑯𐑦𐑟 𐑩𐑑𐑧𐑥𐑐𐑑𐑩𐑛 𐑑 𐑕𐑩𐑐𐑮𐑧𐑕 𐑞 𐑐𐑮𐑨𐑒𐑑𐑦𐑕 𐑝 𐑚𐑱𐑕𐑦𐑒 ·𐑡𐑵𐑦𐑖 𐑤𐑷, 𐑮𐑦𐑟𐑳𐑤𐑑𐑦𐑙 𐑦𐑯 𐑩 ·𐑡𐑵𐑦𐑖 𐑮𐑦𐑝𐑴𐑤𐑑 𐑩𐑜𐑧𐑯𐑕𐑑 ·𐑕𐑦𐑤𐑵𐑕𐑦𐑛 𐑮𐑵𐑤.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1 Samuel|06446320-n": {
+    "transliterated_definition": "𐑞 𐑓𐑻𐑕𐑑 𐑝 𐑑𐑵 𐑚𐑫𐑒𐑕 𐑦𐑯 𐑞 ·𐑴𐑤𐑛 ·𐑑𐑧𐑕𐑑𐑩𐑥𐑩𐑯𐑑 𐑞𐑨𐑑 𐑑𐑧𐑤 𐑝 ·𐑕𐑷𐑤 𐑯 ·𐑛𐑱𐑝𐑦𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1-dodecanol|14954808-n": {
+    "transliterated_definition": "𐑩 𐑒𐑳𐑤𐑼𐑤𐑩𐑕 𐑦𐑯𐑕𐑪𐑤𐑘𐑩𐑚𐑩𐑤 𐑕𐑪𐑤𐑦𐑛 𐑨𐑤𐑒𐑩𐑣𐑪𐑤 𐑿𐑟𐑛 𐑑 𐑥𐑱𐑒 𐑛𐑦𐑑𐑻𐑡𐑩𐑯𐑑𐑕 𐑯 𐑓𐑸𐑥𐑩𐑕𐑵𐑑𐑦𐑒𐑩𐑤𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1-hitter|00476153-n": {
+    "transliterated_definition": "𐑩 𐑜𐑱𐑥 𐑦𐑯 𐑢𐑦𐑗 𐑩 𐑐𐑦𐑗𐑼 𐑩𐑤𐑬𐑟 𐑞 𐑩𐑐𐑴𐑟𐑦𐑙 𐑑𐑰𐑥 𐑴𐑯𐑤𐑦 𐑢𐑳𐑯 𐑣𐑦𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "10-membered|01507439-s": {
+    "transliterated_definition": "𐑝 𐑩 𐑒𐑧𐑥𐑦𐑒𐑩𐑤 𐑒𐑪𐑥𐑐𐑬𐑯𐑛 𐑣𐑨𐑝𐑦𐑙 𐑩 𐑮𐑦𐑙 𐑢𐑦𐑔 𐑑𐑧𐑯 𐑥𐑧𐑥𐑚𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "100 mL|92410379-n": {
+    "transliterated_definition": "100 𐑥𐑦𐑤𐑦𐑤𐑰𐑑𐑼𐑟 𐑝 𐑤𐑦𐑒𐑼, 𐑛𐑮𐑳𐑙𐑒 𐑓𐑮𐑪𐑥 𐑩 𐑖𐑪𐑑 𐑜𐑤𐑭𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1000000000000|13774312-n": {
+    "transliterated_definition": "𐑞 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑮𐑧𐑐𐑮𐑦𐑟𐑧𐑯𐑑𐑩𐑛 𐑨𐑟 𐑩 𐑢𐑳𐑯 𐑓𐑪𐑤𐑴𐑛 𐑚𐑲 12 𐑟𐑽𐑴𐑟; 𐑦𐑯 𐑞 ·𐑿𐑯𐑲𐑑𐑩𐑛 ·𐑒𐑦𐑙𐑛𐑩𐑥 𐑞 𐑿𐑕𐑦𐑡 𐑓𐑪𐑤𐑴𐑛 𐑦𐑯 𐑞 ·𐑿𐑯𐑲𐑑𐑩𐑛 ·𐑕𐑑𐑱𐑑𐑕 𐑦𐑟 𐑓𐑮𐑰𐑒𐑢𐑩𐑯𐑑𐑤𐑦 𐑕𐑰𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1000000000000|13774583-n": {
+    "transliterated_definition": "𐑞 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑮𐑧𐑐𐑮𐑦𐑟𐑧𐑯𐑑𐑩𐑛 𐑨𐑟 𐑩 𐑢𐑳𐑯 𐑓𐑪𐑤𐑴𐑛 𐑚𐑲 12 𐑟𐑽𐑴𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1000000000|13773969-n": {
+    "transliterated_definition": "𐑞 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑮𐑧𐑐𐑮𐑦𐑟𐑧𐑯𐑑𐑩𐑛 𐑨𐑟 𐑩 𐑢𐑳𐑯 𐑓𐑪𐑤𐑴𐑛 𐑚𐑲 9 𐑟𐑽𐑴𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1000000|13773673-n": {
+    "transliterated_definition": "𐑞 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑮𐑧𐑐𐑮𐑦𐑟𐑧𐑯𐑑𐑩𐑛 𐑨𐑟 𐑩 𐑢𐑳𐑯 𐑓𐑪𐑤𐑴𐑛 𐑚𐑲 6 𐑟𐑽𐑴𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "100000|13773544-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑓𐑦𐑓𐑔 𐑐𐑬𐑼 𐑝 𐑑𐑧𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "10000|13773405-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑐𐑮𐑪𐑛𐑳𐑒𐑑 𐑝 𐑑𐑧𐑯 𐑯 𐑢𐑳𐑯 𐑔𐑬𐑟𐑩𐑯𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1000th|02220142-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑢𐑳𐑯 𐑔𐑬𐑟𐑩𐑯𐑛 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "1000|02206421-s": {
+    "transliterated_definition": "𐑛𐑦𐑯𐑴𐑑𐑦𐑙 𐑩 𐑒𐑢𐑪𐑯𐑑𐑦𐑑𐑦 𐑒𐑩𐑯𐑕𐑦𐑕𐑑𐑦𐑙 𐑝 1,000 𐑲𐑑𐑩𐑥𐑟 𐑹 𐑿𐑯𐑦𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "1000|13772984-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑐𐑮𐑪𐑛𐑳𐑒𐑑 𐑝 10 𐑯 100.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "100th|02217092-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "100|02203776-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑧𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑯𐑲𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "100|13772555-n": {
+    "transliterated_definition": "𐑑𐑧𐑯 10s.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "101st|02217220-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑢𐑳𐑯 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "101|02203880-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "105th|02217347-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑓𐑲𐑝 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "105|02204002-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑓𐑲𐑝 𐑥𐑹 𐑞𐑨𐑯 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "10th|02211042-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑯𐑲𐑯𐑔 𐑯 𐑡𐑳𐑕𐑑 𐑚𐑦𐑓𐑹 𐑞 𐑦𐑤𐑧𐑝𐑩𐑯𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "10|02194935-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑯𐑲𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "10|13768652-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑯𐑲𐑯 𐑯 𐑢𐑳𐑯; 𐑞 𐑚𐑱𐑕 𐑝 𐑞 𐑛𐑧𐑕𐑦𐑥𐑩𐑤 𐑕𐑦𐑕𐑑𐑩𐑥.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "11 November|15210672-n": {
+    "transliterated_definition": "𐑞 𐑓𐑰𐑕𐑑 𐑝 ·𐑕𐑱𐑯𐑑 ·𐑥𐑸𐑑𐑦𐑯; 𐑩 𐑒𐑢𐑹𐑑𐑼 𐑛𐑱 𐑦𐑯 ·𐑕𐑒𐑪𐑑𐑤𐑩𐑯𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "11-plus|00638388-n": {
+    "transliterated_definition": "(𐑓𐑹𐑥𐑼𐑤𐑦 𐑦𐑯 ·𐑚𐑮𐑦𐑑𐑩𐑯) 𐑩𐑯 𐑦𐑜𐑟𐑨𐑥𐑦𐑯𐑱𐑖𐑩𐑯 𐑑𐑱𐑒𐑩𐑯 𐑚𐑲 11 𐑯 12 𐑘𐑽 𐑴𐑤𐑛 𐑕𐑑𐑵𐑛𐑩𐑯𐑑𐑕 𐑑 𐑕𐑦𐑤𐑧𐑒𐑑 𐑕𐑵𐑑𐑩𐑚𐑩𐑤 𐑒𐑨𐑯𐑛𐑦𐑛𐑩𐑑𐑕 𐑓 𐑜𐑮𐑨𐑥𐑼 𐑕𐑒𐑵𐑤.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "110th|02217475-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑑𐑧𐑯 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "110|02204108-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑧𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "115th|02217602-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑓𐑦𐑓𐑑𐑰𐑯 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "115|02204212-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑓𐑲𐑝 𐑥𐑹 𐑞𐑨𐑯 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑑𐑧𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "11th|02211169-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑑𐑧𐑯𐑔 𐑯 𐑡𐑳𐑕𐑑 𐑚𐑦𐑓𐑹 𐑞 𐑑𐑢𐑧𐑤𐑓𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "11|02195018-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑑𐑧𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "11|13768812-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑑𐑧𐑯 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "12-tone music|07071579-n": {
+    "transliterated_definition": "𐑩 𐑑𐑲𐑐 𐑝 𐑕𐑽𐑾𐑤 𐑥𐑿𐑟𐑦𐑒 𐑦𐑯𐑑𐑮𐑩𐑛𐑵𐑕𐑑 𐑚𐑲 ·𐑸𐑯𐑩𐑤𐑛 ·𐑖𐑫𐑯𐑚𐑼𐑜; 𐑿𐑟𐑩𐑟 𐑩 𐑑𐑴𐑯 𐑮𐑴 𐑓𐑹𐑥𐑛 𐑚𐑲 𐑞 𐑑𐑢𐑧𐑤𐑝 𐑕𐑧𐑥𐑦𐑑𐑴𐑯𐑟 𐑝 𐑞 𐑒𐑮𐑴𐑥𐑨𐑑𐑦𐑒 𐑕𐑒𐑱𐑤 (𐑯 𐑦𐑯𐑝𐑻𐑑𐑩𐑛 𐑹 𐑚𐑨𐑒𐑢𐑼𐑛 𐑝𐑻𐑠𐑩𐑯𐑟 𐑝 𐑞 𐑮𐑴).",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "12-tone system|07071579-n": {
+    "transliterated_definition": "𐑩 𐑑𐑲𐑐 𐑝 𐑕𐑽𐑾𐑤 𐑥𐑿𐑟𐑦𐑒 𐑦𐑯𐑑𐑮𐑩𐑛𐑵𐑕𐑑 𐑚𐑲 ·𐑸𐑯𐑩𐑤𐑛 ·𐑖𐑫𐑯𐑚𐑼𐑜; 𐑿𐑟𐑩𐑟 𐑩 𐑑𐑴𐑯 𐑮𐑴 𐑓𐑹𐑥𐑛 𐑚𐑲 𐑞 𐑑𐑢𐑧𐑤𐑝 𐑕𐑧𐑥𐑦𐑑𐑴𐑯𐑟 𐑝 𐑞 𐑒𐑮𐑴𐑥𐑨𐑑𐑦𐑒 𐑕𐑒𐑱𐑤 (𐑯 𐑦𐑯𐑝𐑻𐑑𐑩𐑛 𐑹 𐑚𐑨𐑒𐑢𐑼𐑛 𐑝𐑻𐑠𐑩𐑯𐑟 𐑝 𐑞 𐑮𐑴).",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "120th|02217737-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑑𐑢𐑧𐑯𐑑𐑦 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "120|02204326-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑧𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑑𐑧𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "120|13772714-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑐𐑮𐑪𐑛𐑳𐑒𐑑 𐑝 𐑑𐑧𐑯 𐑯 𐑑𐑢𐑧𐑤𐑝.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "125th|02217871-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑑𐑢𐑧𐑯𐑑𐑦-𐑓𐑲𐑝 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "125|02204438-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑓𐑲𐑝 𐑥𐑹 𐑞𐑨𐑯 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑑𐑢𐑧𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "12th|02211298-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑦𐑤𐑧𐑝𐑩𐑯𐑔 𐑯 𐑡𐑳𐑕𐑑 𐑚𐑦𐑓𐑹 𐑞 𐑔𐑻𐑑𐑰𐑯𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "12|02195104-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑦𐑤𐑧𐑝𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "12|13768925-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑦𐑤𐑧𐑝𐑩𐑯 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "130th|02218013-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑔𐑻𐑑𐑦 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "130|02204560-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑧𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑑𐑢𐑧𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "135th|02218147-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑔𐑻𐑑𐑦-𐑓𐑲𐑝 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "135|02204676-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑓𐑲𐑝 𐑥𐑹 𐑞𐑨𐑯 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑔𐑻𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "13th|02211432-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑑𐑢𐑧𐑤𐑓𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "13|02195245-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑑𐑢𐑧𐑤𐑝.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "13|13769339-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑑𐑢𐑧𐑤𐑝 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "14 July|15225328-n": {
+    "transliterated_definition": "𐑩 𐑤𐑰𐑜𐑩𐑤 𐑣𐑪𐑤𐑦𐑛𐑱 𐑦𐑯 ·𐑓𐑮𐑭𐑯𐑕 𐑕𐑧𐑤𐑩𐑚𐑮𐑱𐑑𐑦𐑙 𐑞 𐑕𐑑𐑹𐑥𐑦𐑙 𐑝 𐑞 ·𐑐𐑨𐑮𐑦𐑕 𐑚𐑨𐑕𐑑𐑰𐑤 𐑦𐑯 1789.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "140th|02218289-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑓𐑹𐑑𐑦 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "140|02204799-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑧𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑔𐑻𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "144|13772644-n": {
+    "transliterated_definition": "𐑑𐑢𐑧𐑤𐑝 𐑛𐑳𐑟𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "145th|02218421-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑓𐑹𐑑𐑦-𐑓𐑲𐑝 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "145|02204913-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑓𐑲𐑝 𐑥𐑹 𐑞𐑨𐑯 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑓𐑹𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "14th|02211537-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑔𐑻𐑑𐑰𐑯𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "14|02195338-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑔𐑻𐑑𐑰𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "14|13769488-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑔𐑻𐑑𐑰𐑯 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "15 August 1945|15187929-n": {
+    "transliterated_definition": "𐑞 𐑛𐑱𐑑 𐑝 ·𐑩𐑤𐑲𐑛 𐑝𐑦𐑒𐑑𐑼𐑦 𐑴𐑝𐑼 ·𐑡𐑩𐑐𐑨𐑯, ·𐑢𐑻𐑤𐑛 ·𐑢𐑹 II.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "15 May Organization|08056064-n": {
+    "transliterated_definition": "𐑩 𐑑𐑧𐑮𐑼𐑦𐑕𐑑 𐑹𐑜𐑩𐑯𐑲𐑟𐑱𐑖𐑩𐑯 𐑓𐑹𐑥𐑛 𐑦𐑯 1979 𐑚𐑲 𐑩 𐑓𐑨𐑒𐑖𐑩𐑯 𐑝 𐑞 ·𐑐𐑪𐑐𐑘𐑩𐑤𐑼 ·𐑓𐑮𐑳𐑯𐑑 𐑓 𐑞 ·𐑤𐑦𐑚𐑼𐑱𐑖𐑩𐑯 𐑝 ·𐑐𐑨𐑤𐑩𐑕𐑑𐑲𐑯 𐑚𐑳𐑑 𐑛𐑦𐑕𐑚𐑨𐑯𐑛𐑩𐑛 𐑦𐑯 𐑞 1980s 𐑢𐑧𐑯 𐑒𐑰 𐑥𐑧𐑥𐑚𐑼𐑟 𐑤𐑧𐑓𐑑 𐑑 𐑡𐑶𐑯 𐑩 𐑓𐑨𐑒𐑖𐑩𐑯 𐑝 𐑭𐑤-·𐑓𐑭𐑑𐑭.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "15 minutes|15253063-n": {
+    "transliterated_definition": "𐑩 𐑒𐑢𐑹𐑑𐑼 𐑝 𐑩𐑯 𐑬𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "150th|02218561-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑓𐑦𐑓𐑑𐑦 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "150|02205033-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑧𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑓𐑹𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "1530s|15173747-n": {
+    "transliterated_definition": "𐑞 𐑛𐑧𐑒𐑱𐑛 𐑓𐑮𐑪𐑥 1530 𐑑 1539.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "155th|02218693-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑓𐑦𐑓𐑑𐑦-𐑓𐑲𐑝 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "155|02205145-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑓𐑲𐑝 𐑥𐑹 𐑞𐑨𐑯 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑓𐑦𐑓𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "15th|02211645-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑓𐑹𐑑𐑰𐑯𐑔 𐑯 𐑡𐑳𐑕𐑑 𐑚𐑦𐑓𐑹 𐑞 𐑕𐑦𐑒𐑕𐑑𐑰𐑯𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "15|02195432-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑓𐑹𐑑𐑰𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "15|13769609-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑓𐑹𐑑𐑰𐑯 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "16 PF|06487604-n": {
+    "transliterated_definition": "𐑩 𐑕𐑧𐑤𐑓-𐑮𐑦𐑐𐑹𐑑 𐑐𐑻𐑕𐑩𐑯𐑨𐑤𐑦𐑑𐑦 𐑦𐑯𐑝𐑩𐑯𐑑𐑹𐑦 𐑛𐑦𐑝𐑧𐑤𐑩𐑐𐑑 𐑚𐑲 ·𐑮𐑱𐑥𐑩𐑯𐑛 B. 𐑒𐑨𐑑𐑑𐑧𐑤 𐑑 𐑥𐑧𐑠𐑼 𐑞 16 𐑐𐑻𐑕𐑩𐑯𐑨𐑤𐑦𐑑𐑦 𐑛𐑦𐑥𐑧𐑯𐑖𐑩𐑯𐑟 𐑞𐑨𐑑 𐑦𐑥𐑻𐑡𐑛 𐑓𐑮𐑪𐑥 𐑣𐑦𐑟 𐑓𐑨𐑒𐑑𐑼 𐑩𐑯𐑨𐑤𐑩𐑕𐑦𐑕 𐑝 𐑩 𐑢𐑲𐑛 𐑮𐑱𐑯𐑡 𐑝 𐑑𐑮𐑱𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "160th|02218833-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑕𐑦𐑒𐑕𐑑𐑦 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "160|02205264-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑧𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑓𐑦𐑓𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "165th|02218965-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑕𐑦𐑒𐑕𐑑𐑦-𐑓𐑲𐑝 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "165|02205377-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑓𐑲𐑝 𐑥𐑹 𐑞𐑨𐑯 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑕𐑦𐑒𐑕𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "16th|02211800-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑓𐑦𐑓𐑑𐑰𐑯𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "16|02195542-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑓𐑦𐑓𐑑𐑰𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "16|13769746-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑓𐑦𐑓𐑑𐑰𐑯 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "17 November|08059288-n": {
+    "transliterated_definition": "𐑩 ·𐑥𐑸𐑒𐑕𐑦𐑕𐑑-·𐑤𐑧𐑯𐑦𐑯𐑦𐑕𐑑 𐑑𐑧𐑮𐑼𐑦𐑕𐑑 𐑹𐑜𐑩𐑯𐑲𐑟𐑱𐑖𐑩𐑯 𐑦𐑯 ·𐑜𐑮𐑰𐑕 𐑞𐑨𐑑 𐑦𐑟 𐑝𐑲𐑩𐑤𐑩𐑯𐑑𐑤𐑦 𐑩𐑐𐑴𐑟𐑛 𐑑 𐑦𐑥𐑐𐑽𐑾𐑤𐑦𐑟𐑩𐑥 𐑯 𐑒𐑨𐑐𐑦𐑑𐑩𐑤𐑦𐑟𐑩𐑥 𐑯 ·𐑯𐑱𐑑𐑴 𐑯 𐑞 ·𐑿𐑯𐑲𐑑𐑩𐑛 ·𐑕𐑑𐑱𐑑𐑕; 𐑩𐑯 𐑨𐑒𐑑𐑦𐑝 𐑑𐑧𐑮𐑼𐑦𐑕𐑑 𐑜𐑮𐑵𐑐 𐑛𐑘𐑫𐑼𐑦𐑙 𐑞 1980s.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "170th|02219105-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑕𐑧𐑝𐑩𐑯𐑑𐑦 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "170|02205497-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑧𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑕𐑦𐑒𐑕𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "1728|13773298-n": {
+    "transliterated_definition": "𐑩 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑰𐑒𐑢𐑩𐑤 𐑑 𐑢𐑳𐑯 𐑛𐑳𐑟𐑩𐑯 𐑜𐑮𐑴𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1750s|15174893-n": {
+    "transliterated_definition": "𐑞 𐑛𐑧𐑒𐑱𐑛 𐑓𐑮𐑪𐑥 1750 𐑑 1759.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "175th|02219241-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑕𐑧𐑝𐑩𐑯𐑑𐑦-𐑓𐑲𐑝 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "175|02205613-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑓𐑲𐑝 𐑥𐑹 𐑞𐑨𐑯 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑕𐑧𐑝𐑩𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "1760s|15175264-n": {
+    "transliterated_definition": "𐑞 𐑛𐑧𐑒𐑱𐑛 𐑓𐑮𐑪𐑥 1760 𐑑 1769.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1770s|15175750-n": {
+    "transliterated_definition": "𐑞 𐑛𐑧𐑒𐑱𐑛 𐑓𐑮𐑪𐑥 1770 𐑑 1779.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1780s|15176135-n": {
+    "transliterated_definition": "𐑞 𐑛𐑧𐑒𐑱𐑛 𐑓𐑮𐑪𐑥 1780 𐑑 1789.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1790s|15176521-n": {
+    "transliterated_definition": "𐑞 𐑛𐑧𐑒𐑱𐑛 𐑓𐑮𐑪𐑥 1790 𐑑 1799.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "17th|02211906-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑕𐑦𐑒𐑕𐑑𐑰𐑯𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "17|02195634-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑕𐑦𐑒𐑕𐑑𐑰𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "17|13769865-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑕𐑦𐑒𐑕𐑑𐑰𐑯 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "18-karat gold|14663447-n": {
+    "transliterated_definition": "𐑩𐑯 𐑨𐑤𐑶 𐑞𐑨𐑑 𐑒𐑩𐑯𐑑𐑱𐑯𐑟 75 𐑐𐑻 𐑕𐑧𐑯𐑑 𐑜𐑴𐑤𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "180th|02219385-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑱𐑑𐑦 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "180|02205738-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑧𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑕𐑧𐑝𐑩𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "1820s|15173918-n": {
+    "transliterated_definition": "𐑞 𐑛𐑧𐑒𐑱𐑛 𐑓𐑮𐑪𐑥 1820 𐑑 1829.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1830s|15174231-n": {
+    "transliterated_definition": "𐑞 𐑛𐑧𐑒𐑱𐑛 𐑓𐑮𐑪𐑥 1830 𐑑 1839.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1840s|15174522-n": {
+    "transliterated_definition": "𐑞 𐑛𐑧𐑒𐑱𐑛 𐑓𐑮𐑪𐑥 1840 𐑑 1849.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1850s|15174813-n": {
+    "transliterated_definition": "𐑞 𐑛𐑧𐑒𐑱𐑛 𐑓𐑮𐑪𐑥 1850 𐑑 1859.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1860s|15175184-n": {
+    "transliterated_definition": "𐑞 𐑛𐑧𐑒𐑱𐑛 𐑓𐑮𐑪𐑥 1860 𐑑 1869.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1862 Apollo|09224067-n": {
+    "transliterated_definition": "𐑩𐑯 𐑨𐑕𐑑𐑼𐑶𐑛 𐑣𐑵𐑟 𐑹𐑚𐑦𐑑 𐑒𐑮𐑪𐑕𐑩𐑟 𐑞 ·[𐑻𐑔’𐑕 / 𐑰𐑸𐑔’𐑕] 𐑹𐑚𐑦𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1870s|15175670-n": {
+    "transliterated_definition": "𐑞 𐑛𐑧𐑒𐑱𐑛 𐑓𐑮𐑪𐑥 1870 𐑑 1879.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1880s|15176044-n": {
+    "transliterated_definition": "𐑞 𐑛𐑧𐑒𐑱𐑛 𐑓𐑮𐑪𐑥 1880 𐑑 1889.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1890s|15176430-n": {
+    "transliterated_definition": "𐑞 𐑛𐑧𐑒𐑱𐑛 𐑓𐑮𐑪𐑥 1890 𐑑 1899.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "18th|02212032-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑕𐑧𐑝𐑩𐑯𐑑𐑰𐑯𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "18|02195747-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑕𐑧𐑝𐑩𐑯𐑑𐑰𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "18|13770005-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑕𐑧𐑝𐑩𐑯𐑑𐑰𐑯 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1900s|15173667-n": {
+    "transliterated_definition": "𐑞 𐑛𐑧𐑒𐑱𐑛 𐑓𐑮𐑪𐑥 1900 𐑑 1909.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "190th|02219519-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑱𐑑𐑦-𐑓𐑲𐑝 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "190|02205856-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑧𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑱𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "1920s|15173827-n": {
+    "transliterated_definition": "𐑞 𐑛𐑧𐑒𐑱𐑛 𐑓𐑮𐑪𐑥 1920 𐑑 1929.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1930s|15174140-n": {
+    "transliterated_definition": "𐑞 𐑛𐑧𐑒𐑱𐑛 𐑓𐑮𐑪𐑥 1930 𐑑 1939.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1940s|15174432-n": {
+    "transliterated_definition": "𐑞 𐑛𐑧𐑒𐑱𐑛 𐑓𐑮𐑪𐑥 1940 𐑑 1949.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1950s|15174723-n": {
+    "transliterated_definition": "𐑞 𐑛𐑧𐑒𐑱𐑛 𐑓𐑮𐑪𐑥 1950 𐑑 1959.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1960s|15175094-n": {
+    "transliterated_definition": "𐑞 𐑛𐑧𐑒𐑱𐑛 𐑓𐑮𐑪𐑥 1960 𐑑 1969.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1970s|15175578-n": {
+    "transliterated_definition": "𐑞 𐑛𐑧𐑒𐑱𐑛 𐑓𐑮𐑪𐑥 1970 𐑑 1979.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1980s|15175953-n": {
+    "transliterated_definition": "𐑞 𐑛𐑧𐑒𐑱𐑛 𐑓𐑮𐑪𐑥 1980 𐑑 1989.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1990s|15176339-n": {
+    "transliterated_definition": "𐑞 𐑛𐑧𐑒𐑱𐑛 𐑓𐑮𐑪𐑥 1990 𐑑 1999.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "19th|02212141-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑱𐑑𐑰𐑯𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "19|02195844-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑱𐑑𐑰𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "19|13770129-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑱𐑑𐑰𐑯 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1st Baron Beaverbrook|10859387-n": {
+    "transliterated_definition": "𐑚𐑮𐑦𐑑𐑦𐑖 𐑯𐑵𐑟𐑐𐑱𐑐𐑼 𐑐𐑳𐑚𐑤𐑦𐑖𐑼 𐑯 𐑐𐑪𐑤𐑦𐑑𐑦𐑖𐑩𐑯 (𐑚𐑹𐑯 𐑦𐑯 ·𐑒𐑨𐑯𐑩𐑛𐑩); 𐑒𐑪𐑯𐑓𐑦𐑛𐑭𐑯𐑑 𐑝 ·𐑢𐑦𐑯𐑕𐑑𐑩𐑯 Churchill (1879-1964).",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1st Baron Verulam|10850052-n": {
+    "transliterated_definition": "𐑦𐑙𐑜𐑤𐑦𐑖 𐑕𐑑𐑱𐑑𐑕𐑥𐑩𐑯 𐑯 𐑓𐑦𐑤𐑪𐑕𐑩𐑓𐑼; 𐑐𐑮𐑰𐑒𐑻𐑕𐑼 𐑝 ·𐑚𐑮𐑦𐑑𐑦𐑖 𐑦𐑥𐑐𐑦𐑮𐑦𐑕𐑦𐑟𐑩𐑥; 𐑨𐑛𐑝𐑩𐑒𐑱𐑑𐑩𐑛 𐑦𐑯𐑛𐑳𐑒𐑑𐑦𐑝 𐑮𐑰𐑟𐑩𐑯𐑦𐑙 (1561-1626).",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1st Earl Attlee|10847477-n": {
+    "transliterated_definition": "𐑚𐑮𐑦𐑑𐑦𐑖 𐑕𐑑𐑱𐑑𐑕𐑥𐑩𐑯 𐑯 𐑤𐑰𐑛𐑼 𐑝 𐑞 ·𐑤𐑱𐑚𐑼 ·𐑐𐑸𐑑𐑦 𐑣𐑵 𐑦𐑯𐑕𐑑𐑦𐑑𐑵𐑑𐑩𐑛 𐑞 𐑢𐑧𐑤𐑓𐑺 𐑕𐑑𐑱𐑑 𐑦𐑯 ·𐑚𐑮𐑦𐑑𐑩𐑯 (1883-1967).",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1st Earl Baldwin of Bewdley|10851681-n": {
+    "transliterated_definition": "𐑦𐑙𐑜𐑤𐑦𐑖 𐑕𐑑𐑱𐑑𐑕𐑥𐑩𐑯; 𐑥𐑧𐑥𐑚𐑼 𐑝 𐑞 ·𐑒𐑩𐑯𐑕𐑻𐑝𐑩𐑑𐑦𐑝 ·𐑐𐑸𐑑𐑦 (1867-1947).",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1st Earl of Balfour|10852164-n": {
+    "transliterated_definition": "𐑦𐑙𐑜𐑤𐑦𐑖 𐑕𐑑𐑱𐑑𐑕𐑥𐑩𐑯; 𐑥𐑧𐑥𐑚𐑼 𐑝 𐑞 ·𐑒𐑩𐑯𐑕𐑻𐑝𐑩𐑑𐑦𐑝 ·𐑐𐑸𐑑𐑦 (1848-1930).",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1st Viscount Montgomery of Alamein|11208306-n": {
+    "transliterated_definition": "𐑦𐑙𐑜𐑤𐑦𐑖 𐑡𐑧𐑯𐑼𐑩𐑤 𐑛𐑘𐑫𐑼𐑦𐑙 ·𐑢𐑻𐑤𐑛 ·𐑢𐑹 II; 𐑢𐑳𐑯 𐑝𐑦𐑒𐑑𐑼𐑦𐑟 𐑴𐑝𐑼 ·[𐑮𐑪𐑥𐑩𐑤 / 𐑮𐑴𐑥𐑧𐑩𐑤] 𐑦𐑯 ·𐑯𐑹𐑔 ·𐑨𐑓𐑮𐑦𐑒𐑩 𐑯 𐑤𐑧𐑛 ·𐑚𐑮𐑦𐑑𐑦𐑖 𐑜𐑮𐑬𐑯𐑛 𐑓𐑹𐑕𐑩𐑟 𐑦𐑯 𐑞 𐑦𐑯𐑝𐑱𐑠𐑩𐑯 𐑝 ·𐑯𐑹𐑥𐑩𐑯𐑛𐑦 (1887-1976).",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1st class|06275925-n": {
+    "transliterated_definition": "𐑥𐑱𐑤 𐑞𐑨𐑑 𐑦𐑯𐑒𐑤𐑵𐑛𐑟 𐑤𐑧𐑑𐑼𐑟 𐑯 𐑐𐑴𐑕𐑑𐑒𐑸𐑛𐑟 𐑯 𐑐𐑨𐑒𐑦𐑡𐑩𐑟 𐑕𐑰𐑤𐑛 𐑩𐑜𐑧𐑯𐑕𐑑 𐑦𐑯𐑕𐑐𐑧𐑒𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1st lieutenant|10112747-n": {
+    "transliterated_definition": "𐑩 𐑒𐑩𐑥𐑦𐑖𐑩𐑯𐑛 𐑪𐑓𐑦𐑕𐑼 𐑦𐑯 𐑞 ·𐑸𐑥𐑦 𐑹 ·𐑺 ·𐑓𐑹𐑕 𐑹 ·𐑥𐑼𐑰𐑯𐑟 𐑮𐑨𐑙𐑒𐑦𐑙 𐑩𐑚𐑳𐑝 𐑩 2𐑯𐑛 𐑤𐑧𐑓𐑑𐑧𐑯𐑩𐑯𐑑 𐑯 𐑚𐑦𐑤𐑴 𐑩 𐑒𐑨𐑐𐑑𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1st-class mail|06275925-n": {
+    "transliterated_definition": "𐑥𐑱𐑤 𐑞𐑨𐑑 𐑦𐑯𐑒𐑤𐑵𐑛𐑟 𐑤𐑧𐑑𐑼𐑟 𐑯 𐑐𐑴𐑕𐑑𐑒𐑸𐑛𐑟 𐑯 𐑐𐑨𐑒𐑦𐑡𐑩𐑟 𐑕𐑰𐑤𐑛 𐑩𐑜𐑧𐑯𐑕𐑑 𐑦𐑯𐑕𐑐𐑧𐑒𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "1st|01014459-a": {
+    "transliterated_definition": "𐑐𐑮𐑦𐑕𐑰𐑛𐑦𐑙 𐑷𐑤 𐑳𐑞𐑼𐑟 𐑦𐑯 𐑑𐑲𐑥 𐑹 𐑕𐑐𐑱𐑕 𐑹 𐑛𐑦𐑜𐑮𐑰.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "1|02193977-s": {
+    "transliterated_definition": "𐑿𐑟𐑛 𐑝 𐑩 𐑕𐑦𐑙𐑜𐑩𐑤 𐑿𐑯𐑦𐑑 𐑹 𐑔𐑦𐑙; 𐑯𐑪𐑑 𐑑𐑵 𐑹 𐑥𐑹.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "1|13764713-n": {
+    "transliterated_definition": "𐑞 𐑕𐑥𐑷𐑤𐑩𐑕𐑑 𐑣𐑴𐑤 𐑯𐑳𐑥𐑚𐑼 𐑹 𐑩 𐑯𐑵𐑥𐑼𐑩𐑤 𐑮𐑧𐑐𐑮𐑦𐑟𐑧𐑯𐑑𐑦𐑙 𐑞𐑦𐑕 𐑯𐑳𐑥𐑚𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "2 Chronicles|06447586-n": {
+    "transliterated_definition": "𐑞 𐑕𐑧𐑒𐑩𐑯𐑛 𐑝 𐑑𐑵 ·𐑴𐑤𐑛 ·𐑑𐑧𐑕𐑑𐑩𐑥𐑩𐑯𐑑 𐑚𐑫𐑒𐑕 𐑑𐑧𐑤𐑦𐑙 𐑞 𐑣𐑦𐑕𐑑𐑼𐑦 𐑝 ·[𐑡𐑵𐑛𐑩 / 𐑡𐑳𐑛𐑩] 𐑯 ·𐑦𐑟𐑮𐑱𐑤 𐑩𐑯𐑑𐑦𐑤 𐑞 𐑮𐑦𐑑𐑻𐑯 𐑓𐑮𐑪𐑥 𐑞 ·𐑚𐑨𐑚𐑦𐑤𐑴𐑯𐑾𐑯 ·𐑒𐑨𐑐𐑑𐑦𐑝𐑦𐑑𐑦 𐑦𐑯 536 𐑚𐑒.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "2 Esdras|06471837-n": {
+    "transliterated_definition": "𐑩𐑯 ·𐑩𐑐𐑪𐑒𐑮𐑦𐑓𐑩𐑤 𐑚𐑫𐑒 𐑝 𐑨𐑯𐑡𐑧𐑤𐑦𐑒 𐑮𐑧𐑝𐑩𐑤𐑱𐑖𐑩𐑯𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "2 Kings|06446868-n": {
+    "transliterated_definition": "𐑞 𐑕𐑧𐑒𐑩𐑯𐑛 𐑝 𐑑𐑵 ·𐑴𐑤𐑛 ·𐑑𐑧𐑕𐑑𐑩𐑥𐑩𐑯𐑑 𐑚𐑫𐑒𐑕 𐑑𐑧𐑤𐑦𐑙 𐑞 𐑣𐑦𐑕𐑑𐑼𐑦𐑟 𐑝 𐑞 𐑒𐑦𐑙𐑟 𐑝 ·[𐑡𐑵𐑛𐑩 / 𐑡𐑳𐑛𐑩] 𐑯 ·𐑦𐑟𐑮𐑱𐑤.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "2 Maccabees|06472596-n": {
+    "transliterated_definition": "𐑩𐑯 ·𐑩𐑐𐑪𐑒𐑮𐑦𐑓𐑩𐑤 𐑚𐑫𐑒 𐑛𐑦𐑕𐑒𐑮𐑲𐑚𐑦𐑙 𐑞 𐑤𐑲𐑓 𐑝 ·𐑡𐑵𐑛𐑩𐑕 ·[𐑥𐑨𐑒𐑩𐑚𐑦𐑩𐑕 / 𐑥𐑨𐑒𐑩𐑚𐑩𐑦𐑩𐑕 / 𐑥𐑨𐑒𐑩𐑚𐑦𐑵𐑟 / 𐑥𐑩𐑒𐑒𐑱𐑚𐑦𐑩𐑕], 𐑑𐑧𐑤𐑟 𐑩𐑚𐑬𐑑 𐑞 ·𐑡𐑵𐑟’ 𐑮𐑦𐑝𐑴𐑤𐑑 𐑩𐑜𐑧𐑯𐑕𐑑 ·𐑨𐑯𐑑𐑦𐑪𐑒𐑩𐑕 IV ·𐑦𐑐𐑦𐑓𐑩𐑯𐑦𐑟 𐑯 𐑒𐑩𐑯𐑒𐑤𐑵𐑛𐑟 𐑢𐑦𐑔 𐑞 𐑛𐑦𐑓𐑰𐑑 𐑝 𐑞 ·𐑕𐑦𐑮𐑾𐑯 𐑡𐑧𐑯𐑼𐑩𐑤 ·𐑯𐑦𐑒𐑭𐑯𐑹 𐑦𐑯 161 ·𐑚𐑒 𐑚𐑲 ·𐑡𐑵𐑛𐑩𐑕 ·[𐑥𐑨𐑒𐑩𐑚𐑦𐑩𐑕 / 𐑥𐑩𐑒𐑒𐑱𐑚𐑩𐑕].",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "2 Pallas|09406891-n": {
+    "transliterated_definition": "𐑩 𐑤𐑸𐑡 𐑨𐑕𐑑𐑼𐑶𐑛; 𐑞 𐑕𐑧𐑒𐑩𐑯𐑛 𐑨𐑕𐑑𐑼𐑶𐑛 𐑑 𐑚𐑰 𐑛𐑦𐑕𐑒𐑳𐑝𐑼𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "2 Samuel|06446496-n": {
+    "transliterated_definition": "𐑞 𐑕𐑧𐑒𐑩𐑯𐑛 𐑝 𐑑𐑵 𐑚𐑫𐑒𐑕 𐑝 𐑞 ·𐑴𐑤𐑛 ·𐑑𐑧𐑕𐑑𐑩𐑥𐑩𐑯𐑑 𐑞𐑨𐑑 𐑑𐑧𐑤 𐑝 ·𐑕𐑷𐑤 𐑯 ·𐑛𐑱𐑝𐑦𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "2-dimensional|00663738-s": {
+    "transliterated_definition": "𐑤𐑨𐑒𐑦𐑙 𐑞 𐑦𐑒𐑕𐑐𐑧𐑒𐑑𐑩𐑛 𐑮𐑱𐑯𐑡 𐑹 𐑛𐑧𐑐𐑔; 𐑯𐑪𐑑 𐑛𐑦𐑟𐑲𐑯𐑛 𐑑 𐑜𐑦𐑝 𐑩𐑯 𐑦𐑤𐑵𐑠𐑩𐑯 𐑹 𐑛𐑧𐑐𐑔.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "2-hitter|00476284-n": {
+    "transliterated_definition": "𐑩 𐑜𐑱𐑥 𐑦𐑯 𐑢𐑦𐑗 𐑩 𐑐𐑦𐑗𐑼 𐑩𐑤𐑬𐑟 𐑞 𐑩𐑐𐑴𐑟𐑦𐑙 𐑑𐑰𐑥 𐑴𐑯𐑤𐑦 2 𐑣𐑦𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "2-hydroxybenzoic acid|15034605-n": {
+    "transliterated_definition": "𐑩 𐑢𐑲𐑑 𐑒𐑮𐑦𐑕𐑑𐑩𐑤𐑲𐑯 𐑕𐑳𐑚𐑕𐑑𐑩𐑯𐑕 𐑢𐑦𐑔 𐑩 𐑚𐑦𐑑𐑼 𐑭𐑓𐑑𐑼𐑑𐑱𐑕𐑑; 𐑿𐑟𐑛 𐑨𐑟 𐑩 𐑓𐑳𐑙𐑜𐑦𐑕𐑲𐑛 𐑹 𐑦𐑯 𐑥𐑱𐑒𐑦𐑙 𐑨𐑕𐑐𐑼𐑦𐑯 𐑹 𐑛𐑲𐑟 𐑹 𐑐𐑻𐑓𐑿𐑥𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "2-methylpropenoic acid|14640000-n": {
+    "transliterated_definition": "𐑩𐑯 𐑳𐑯𐑕𐑨𐑗𐑼𐑱𐑑𐑩𐑛 𐑨𐑕𐑦𐑛 (C4H6O2) 𐑿𐑟𐑛 𐑑 𐑥𐑱𐑒 𐑮𐑧𐑟𐑦𐑯𐑟 𐑯 𐑐𐑤𐑨𐑕𐑑𐑦𐑒𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "20/20|05663655-n": {
+    "transliterated_definition": "𐑯𐑹𐑥𐑩𐑤 𐑝𐑦𐑠𐑫𐑩𐑤 𐑩𐑒𐑿𐑦𐑑𐑦, 𐑨𐑟 𐑥𐑧𐑠𐑼𐑛 𐑚𐑲 𐑞 𐑩𐑚𐑦𐑤𐑦𐑑𐑦 𐑑 𐑮𐑰𐑛 𐑗𐑸𐑑𐑕 𐑨𐑑 𐑩 𐑛𐑦𐑕𐑑𐑩𐑯𐑕 𐑝 20 𐑓𐑰𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "200th|02219658-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑑𐑵 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "200|02205971-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑧𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑯𐑲𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "2019-nCoV acute respiratory disease|82230893-n": {
+    "transliterated_definition": "𐑩 𐑝𐑲𐑮𐑩𐑤 𐑛𐑦𐑟𐑰𐑟 𐑒𐑷𐑟𐑛 𐑚𐑲 ·𐑕𐑸𐑟-·𐑒𐑥𐑝-2 𐑞𐑨𐑑 𐑒𐑷𐑟𐑛 𐑩 𐑜𐑤𐑴𐑚𐑩𐑤 𐑐𐑨𐑯𐑛𐑧𐑥𐑦𐑒 𐑦𐑯 2020.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "20th|02212385-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑯𐑲𐑯𐑑𐑰𐑯𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "20|02195956-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑯𐑲𐑯𐑑𐑰𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "20|13770268-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑯𐑲𐑯𐑑𐑰𐑯 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "21st|02212492-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑑𐑢𐑧𐑯𐑑𐑾𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "21|02196070-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑑𐑢𐑧𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "21|13770386-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑑𐑢𐑧𐑯𐑑𐑦 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "22-karat gold|14663546-n": {
+    "transliterated_definition": "𐑩𐑯 𐑨𐑤𐑶 𐑞𐑨𐑑 𐑒𐑩𐑯𐑑𐑱𐑯𐑟 91.67 𐑐𐑻 𐑕𐑧𐑯𐑑 𐑜𐑴𐑤𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "22nd|02212601-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑑𐑢𐑧𐑯𐑑𐑦-𐑓𐑻𐑕𐑑 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "22|02196164-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑵 𐑥𐑹 𐑞𐑨𐑯 𐑑𐑢𐑧𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "22|13770507-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑑𐑢𐑧𐑯𐑑𐑦-𐑢𐑳𐑯 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "23rd|02212714-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑑𐑢𐑧𐑯𐑑𐑦-𐑕𐑧𐑒𐑩𐑯𐑛 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "23|02196259-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑔𐑮𐑰 𐑥𐑹 𐑞𐑨𐑯 𐑑𐑢𐑧𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "23|13770633-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑑𐑢𐑧𐑯𐑑𐑦-𐑑𐑵 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "24-hour interval|15180180-n": {
+    "transliterated_definition": "𐑑𐑲𐑥 𐑓 ·𐑻𐑔 𐑑 𐑥𐑱𐑒 𐑩 𐑒𐑩𐑥𐑐𐑤𐑰𐑑 𐑮𐑴𐑑𐑱𐑖𐑩𐑯 𐑪𐑯 𐑦𐑑𐑕 𐑨𐑒𐑕𐑦𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "24-karat gold|14663645-n": {
+    "transliterated_definition": "100 𐑐𐑻 𐑕𐑧𐑯𐑑 𐑜𐑴𐑤𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "24/7|15142953-n": {
+    "transliterated_definition": "[𐑳𐑐𐑑𐑲𐑥 / 𐑳𐑐𐑑𐑲𐑥] 𐑦𐑟 24 𐑬𐑼𐑟 𐑩 𐑛𐑱 7 𐑛𐑱𐑟 𐑩 𐑢𐑰𐑒.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "24th|02212827-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑑𐑢𐑧𐑯𐑑𐑦-𐑔𐑻𐑛 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "24|02196359-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑓𐑹 𐑥𐑹 𐑞𐑨𐑯 𐑑𐑢𐑧𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "24|13770762-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑑𐑢𐑧𐑯𐑑𐑦-𐑔𐑮𐑰 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "25 de Abril Bridge|03987562-n": {
+    "transliterated_definition": "𐑩 𐑕𐑩𐑕𐑐𐑧𐑯𐑖𐑩𐑯 𐑚𐑮𐑦𐑡 𐑩𐑒𐑮𐑪𐑕 𐑞 ·𐑑𐑱𐑜𐑩𐑕 ·𐑮𐑦𐑝𐑼 𐑨𐑑 ·𐑤𐑦𐑟𐑚𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "25th|02212940-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑑𐑢𐑧𐑯𐑑𐑦-𐑓𐑹𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "25|02196456-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑓𐑲𐑝 𐑥𐑹 𐑞𐑨𐑯 𐑑𐑢𐑧𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "25|13770903-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑑𐑢𐑧𐑯𐑑𐑦-𐑓𐑹 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "26th|02213053-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑑𐑢𐑧𐑯𐑑𐑦-𐑓𐑦𐑓𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "26|02196552-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑕𐑦𐑒𐑕 𐑥𐑹 𐑞𐑨𐑯 𐑑𐑢𐑧𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "26|13771030-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑑𐑢𐑧𐑯𐑑𐑦-𐑓𐑲𐑝 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "27th|02213165-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑑𐑢𐑧𐑯𐑑𐑦-𐑕𐑦𐑒𐑕𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "27|02196647-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑕𐑧𐑝𐑩𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑑𐑢𐑧𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "27|13771157-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑑𐑢𐑧𐑯𐑑𐑦-𐑕𐑦𐑒𐑕 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "28th|02213279-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑑𐑢𐑧𐑯𐑑𐑦-𐑕𐑧𐑝𐑩𐑯𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "28|02196747-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑱𐑑 𐑥𐑹 𐑞𐑨𐑯 𐑑𐑢𐑧𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "28|13771286-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑑𐑢𐑧𐑯𐑑𐑦-𐑕𐑧𐑝𐑩𐑯 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "29th|02213394-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑑𐑢𐑧𐑯𐑑𐑦-𐑱𐑑𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "29|02196848-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑯𐑲𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑑𐑢𐑧𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "29|13771418-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑑𐑢𐑧𐑯𐑑𐑦-𐑱𐑑 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "2d|02209815-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑓𐑻𐑕𐑑 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯 𐑦𐑯 𐑕𐑐𐑱𐑕 𐑹 𐑑𐑲𐑥 𐑹 𐑛𐑦𐑜𐑮𐑰 𐑹 𐑥𐑨𐑜𐑯𐑦𐑑𐑵𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "2nd lieutenant|10588455-n": {
+    "transliterated_definition": "𐑩 𐑒𐑩𐑥𐑦𐑖𐑩𐑯𐑛 𐑪𐑓𐑦𐑕𐑼 𐑦𐑯 𐑞 ·𐑸𐑥𐑦 𐑹 ·𐑺 ·𐑓𐑹𐑕 𐑹 ·𐑥𐑼𐑰𐑯 ·𐑒𐑹 𐑣𐑴𐑤𐑛𐑦𐑙 𐑞 𐑤𐑴𐑩𐑕𐑑 𐑮𐑨𐑙𐑒.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "2nd|02209815-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑓𐑻𐑕𐑑 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯 𐑦𐑯 𐑕𐑐𐑱𐑕 𐑹 𐑑𐑲𐑥 𐑹 𐑛𐑦𐑜𐑮𐑰 𐑹 𐑥𐑨𐑜𐑯𐑦𐑑𐑵𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "2|02194109-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "2|13765409-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑢𐑳𐑯 𐑯 𐑢𐑳𐑯 𐑹 𐑩 𐑯𐑵𐑥𐑼𐑩𐑤 𐑮𐑧𐑐𐑮𐑦𐑟𐑧𐑯𐑑𐑦𐑙 𐑞𐑦𐑕 𐑯𐑳𐑥𐑚𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "3-D|05948666-n": {
+    "transliterated_definition": "𐑣𐑨𐑝𐑦𐑙 𐑩 𐑔𐑮𐑰-𐑛𐑦𐑥𐑧𐑯𐑖𐑩𐑯𐑩𐑤 𐑓𐑹𐑥 𐑹 𐑩𐑐𐑽𐑩𐑯𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "3-D|06631444-n": {
+    "transliterated_definition": "𐑩 𐑥𐑵𐑝𐑦 𐑢𐑦𐑔 𐑦𐑥𐑦𐑡𐑩𐑟 𐑣𐑨𐑝𐑦𐑙 𐑔𐑮𐑰 𐑛𐑦𐑥𐑧𐑯𐑖𐑩𐑯𐑩𐑤 𐑓𐑹𐑥 𐑹 𐑩𐑐𐑽𐑩𐑯𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "3-dimensional|00663996-s": {
+    "transliterated_definition": "𐑦𐑯𐑝𐑪𐑤𐑝𐑦𐑙 𐑹 𐑮𐑦𐑤𐑱𐑑𐑦𐑙 𐑑 𐑔𐑮𐑰 𐑛𐑦𐑥𐑧𐑯𐑖𐑩𐑯𐑟 𐑹 𐑨𐑕𐑐𐑧𐑒𐑑𐑕; 𐑜𐑦𐑝𐑦𐑙 𐑞 𐑦𐑤𐑵𐑠𐑩𐑯 𐑝 𐑛𐑧𐑐𐑔.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "3-hitter|00476414-n": {
+    "transliterated_definition": "𐑩 𐑜𐑱𐑥 𐑦𐑯 𐑢𐑦𐑗 𐑩 𐑐𐑦𐑗𐑼 𐑩𐑤𐑬𐑟 𐑞 𐑩𐑐𐑴𐑟𐑦𐑙 𐑑𐑰𐑥 𐑴𐑯𐑤𐑦 3 𐑣𐑦𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "3-membered|01506475-s": {
+    "transliterated_definition": "𐑝 𐑩 𐑒𐑧𐑥𐑦𐑒𐑩𐑤 𐑒𐑪𐑥𐑐𐑬𐑯𐑛 𐑣𐑨𐑝𐑦𐑙 𐑩 𐑮𐑦𐑙 𐑢𐑦𐑔 𐑔𐑮𐑰 𐑥𐑧𐑥𐑚𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "30 minutes|15252958-n": {
+    "transliterated_definition": "𐑩 𐑣𐑨𐑓 𐑝 𐑩𐑯 𐑬𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "300th|02219777-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑔𐑮𐑰 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "300|02206078-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑥𐑹 𐑞𐑨𐑯 𐑑𐑵 𐑣𐑳𐑯𐑛𐑮𐑩𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "30th|02213507-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑑𐑢𐑧𐑯𐑑𐑦-𐑯𐑲𐑯𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "30|02196945-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑧𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑑𐑢𐑧𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "30|13771547-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑐𐑮𐑪𐑛𐑳𐑒𐑑 𐑝 𐑑𐑧𐑯 𐑯 𐑔𐑮𐑰.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "31st|02213616-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑔𐑻𐑑𐑾𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "31|02197035-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑔𐑻𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "32nd|02213725-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑔𐑻𐑑𐑦-𐑑𐑵 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "32|02197130-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑵 𐑥𐑹 𐑞𐑨𐑯 𐑔𐑻𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "33rd|02213842-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑔𐑻𐑑𐑦-𐑔𐑮𐑰 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "33|02197226-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑔𐑮𐑰 𐑥𐑹 𐑞𐑨𐑯 𐑔𐑻𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "34th|02213960-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑔𐑻𐑑𐑦-𐑓𐑹 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "34|02197327-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑓𐑹 𐑥𐑹 𐑞𐑨𐑯 𐑔𐑻𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "35th|02214078-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑔𐑻𐑑𐑦-𐑓𐑲𐑝 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "35|02197425-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑓𐑲𐑝 𐑥𐑹 𐑞𐑨𐑯 𐑔𐑻𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "365 days|15226966-n": {
+    "transliterated_definition": "𐑩 𐑘𐑽 𐑞𐑨𐑑 𐑦𐑟 𐑯𐑪𐑑 𐑩 𐑤𐑰𐑐 𐑘𐑽.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "366 days|15227065-n": {
+    "transliterated_definition": "𐑩 𐑒𐑨𐑤𐑦𐑯𐑛𐑼 𐑘𐑽 𐑢𐑦𐑔 𐑩𐑯 𐑧𐑒𐑕𐑑𐑮𐑩 𐑛𐑱 𐑨𐑛𐑩𐑛 𐑦𐑯 𐑓𐑧𐑚𐑮𐑫𐑼𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "36th|02214195-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑔𐑻𐑑𐑦-𐑕𐑦𐑒𐑕 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "36|02197522-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑕𐑦𐑒𐑕 𐑥𐑹 𐑞𐑨𐑯 𐑔𐑻𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "37th|02214311-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑔𐑻𐑑𐑦-𐑕𐑧𐑝𐑩𐑯 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "37|02197618-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑕𐑧𐑝𐑩𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑔𐑻𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "38th|02214431-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑔𐑻𐑑𐑦-𐑱𐑑 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "38|02197719-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑱𐑑 𐑥𐑹 𐑞𐑨𐑯 𐑔𐑻𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "39th|02214550-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑔𐑻𐑑𐑦-𐑯𐑲𐑯 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "39|02197821-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑯𐑲𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑔𐑻𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "3D|05948666-n": {
+    "transliterated_definition": "𐑣𐑨𐑝𐑦𐑙 𐑩 𐑔𐑮𐑰-𐑛𐑦𐑥𐑧𐑯𐑖𐑩𐑯𐑩𐑤 𐑓𐑹𐑥 𐑹 𐑩𐑐𐑽𐑩𐑯𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "3D|06631444-n": {
+    "transliterated_definition": "𐑩 𐑥𐑵𐑝𐑦 𐑢𐑦𐑔 𐑦𐑥𐑦𐑡𐑩𐑟 𐑣𐑨𐑝𐑦𐑙 𐑔𐑮𐑰 𐑛𐑦𐑥𐑧𐑯𐑖𐑩𐑯𐑩𐑤 𐑓𐑹𐑥 𐑹 𐑩𐑐𐑽𐑩𐑯𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "3TC|03641353-n": {
+    "transliterated_definition": "𐑩 [𐑯𐑿𐑒𐑤𐑦𐑴𐑕𐑲𐑛 / 𐑯𐑿𐑒𐑤𐑦𐑴𐑕𐑲𐑛 / 𐑯𐑿𐑒𐑤𐑰𐑴𐑕𐑲𐑛 / 𐑯𐑿𐑒𐑤𐑦𐑴𐑟𐑲𐑛] 𐑮𐑦𐑝𐑻𐑕 𐑑𐑮𐑩𐑯𐑕𐑒𐑮𐑦𐑐𐑑𐑱𐑕 𐑦𐑯𐑣𐑦𐑚𐑦𐑑𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑝𐑧𐑮𐑦 𐑦𐑓𐑧𐑒𐑑𐑦𐑝 𐑦𐑯 𐑒𐑪𐑥𐑚𐑦𐑯𐑱𐑖𐑩𐑯 𐑢𐑦𐑔 zidovudine 𐑦𐑯 𐑑𐑮𐑰𐑑𐑦𐑙 𐑱𐑛𐑟 𐑯 ·𐑣𐑦𐑝.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "3d radar|04434694-n": {
+    "transliterated_definition": "𐑮𐑱𐑛𐑸 𐑞𐑨𐑑 𐑢𐑦𐑤 𐑮𐑦𐑐𐑹𐑑 𐑨𐑤𐑑𐑦𐑑𐑵𐑛 𐑨𐑟 𐑢𐑧𐑤 𐑨𐑟 𐑨𐑟𐑦𐑥𐑩𐑔 𐑯 𐑛𐑦𐑕𐑑𐑩𐑯𐑕 𐑝 𐑩 𐑑𐑸𐑜𐑩𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "3rd October Organization|08033138-n": {
+    "transliterated_definition": "𐑩 𐑥𐑦𐑤𐑦𐑑𐑩𐑯𐑑 ·𐑥𐑸𐑒𐑕𐑦𐑕𐑑-·𐑤𐑧𐑯𐑦𐑯𐑦𐑕𐑑 𐑑𐑧𐑮𐑼𐑦𐑕𐑑 𐑹𐑜𐑩𐑯𐑲𐑟𐑱𐑖𐑩𐑯 𐑓𐑹𐑥𐑛 𐑦𐑯 1975 𐑑 𐑓𐑹𐑕 ·𐑑𐑻𐑒𐑦 𐑑 𐑩𐑒𐑯𐑪𐑤𐑦𐑡 𐑒𐑦𐑤𐑦𐑙 𐑥𐑹 𐑞𐑨𐑯 𐑩 𐑥𐑦𐑤𐑘𐑩𐑯 ·[𐑸𐑥𐑰𐑯𐑦𐑩𐑯𐑟 / 𐑸𐑥𐑰𐑯𐑦𐑩𐑯𐑟] 𐑯 𐑓𐑹𐑕𐑩𐑚𐑤𐑦 𐑮𐑦𐑥𐑵𐑝𐑦𐑙 𐑞𐑧𐑥 𐑓𐑮𐑪𐑥 𐑚𐑹𐑛𐑼 𐑺𐑾𐑟 𐑦𐑯 1915; 𐑢𐑪𐑯𐑑𐑕 ·𐑑𐑻𐑒𐑦 𐑑 𐑐𐑱 𐑮𐑧𐑐𐑼𐑱𐑖𐑩𐑯𐑟 𐑯 𐑕𐑰𐑛 𐑑𐑧𐑮𐑦𐑑𐑼𐑦 𐑑 ·[𐑸𐑥𐑰𐑯𐑦𐑩 / 𐑸𐑥𐑰𐑯𐑦𐑩].",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "3rd|02209976-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑕𐑧𐑒𐑩𐑯𐑛 𐑯 𐑡𐑳𐑕𐑑 𐑚𐑦𐑓𐑹 𐑞 𐑓𐑹𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "3|02194219-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑑𐑵.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "3|13766184-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑢𐑳𐑯 𐑯 𐑢𐑳𐑯 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "4 Vesta|09494354-n": {
+    "transliterated_definition": "𐑞 𐑚𐑮𐑲𐑑𐑩𐑕𐑑 𐑨𐑕𐑑𐑼𐑶𐑛 𐑚𐑳𐑑 𐑞 𐑓𐑹𐑔 𐑑 𐑚𐑰 𐑛𐑦𐑕𐑒𐑳𐑝𐑼𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "4-dimensional|00664333-s": {
+    "transliterated_definition": "𐑦𐑯𐑝𐑪𐑤𐑝𐑦𐑙 𐑹 𐑮𐑦𐑤𐑱𐑑𐑦𐑙 𐑑 𐑞 𐑓𐑹𐑔 𐑛𐑦𐑥𐑧𐑯𐑖𐑩𐑯 𐑹 𐑑𐑲𐑥.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "4-hitter|00476546-n": {
+    "transliterated_definition": "𐑩 𐑜𐑱𐑥 𐑦𐑯 𐑢𐑦𐑗 𐑩 𐑐𐑦𐑗𐑼 𐑩𐑤𐑬𐑟 𐑞 𐑩𐑐𐑴𐑟𐑦𐑙 𐑑𐑰𐑥 4 𐑣𐑦𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "4-membered|01506604-s": {
+    "transliterated_definition": "𐑝 𐑩 𐑒𐑧𐑥𐑦𐑒𐑩𐑤 𐑒𐑪𐑥𐑐𐑬𐑯𐑛 𐑣𐑨𐑝𐑦𐑙 𐑩 𐑮𐑦𐑙 𐑢𐑦𐑔 𐑓𐑹 𐑥𐑧𐑥𐑚𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "4.5-Inch Beach Barrage Rocket|87889633-n": {
+    "transliterated_definition": "𐑮𐑪𐑒𐑩𐑑 𐑛𐑦𐑝𐑧𐑤𐑩𐑐𐑑 𐑯 𐑿𐑟𐑛 𐑚𐑲 𐑞 ·𐑿𐑯𐑲𐑑𐑩𐑛 ·𐑕𐑑𐑱𐑑𐑕 ·𐑯𐑱𐑝𐑦 𐑛𐑘𐑫𐑼𐑦𐑙 ·𐑢𐑻𐑤𐑛 ·𐑢𐑹 II.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "400th|02219900-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑓𐑹 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "400|02206189-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑥𐑹 𐑞𐑨𐑯 𐑔𐑮𐑰 𐑣𐑳𐑯𐑛𐑮𐑩𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "401-k plan|05920154-n": {
+    "transliterated_definition": "𐑩 𐑮𐑦𐑑𐑲𐑼𐑥𐑩𐑯𐑑 𐑕𐑱𐑝𐑦𐑙𐑟 𐑐𐑤𐑨𐑯 𐑞𐑨𐑑 𐑦𐑟 𐑓𐑳𐑯𐑛𐑩𐑛 𐑚𐑲 𐑦𐑥𐑐𐑤𐑶𐑰 𐑒𐑪𐑯𐑑𐑮𐑦𐑚𐑿𐑖𐑩𐑯𐑟 𐑯 (𐑪𐑓𐑩𐑯) 𐑥𐑨𐑗𐑦𐑙 𐑒𐑪𐑯𐑑𐑮𐑦𐑚𐑿𐑖𐑩𐑯𐑟 𐑓𐑮𐑪𐑥 𐑞 𐑦𐑥𐑐𐑤𐑶𐑼; 𐑒𐑪𐑯𐑑𐑮𐑦𐑚𐑿𐑖𐑩𐑯𐑟 𐑸 𐑥𐑱𐑛 𐑓𐑮𐑪𐑥 𐑘𐑹 𐑕𐑨𐑤𐑼𐑦 𐑚𐑦𐑓𐑹 𐑑𐑨𐑒𐑕𐑩𐑟 𐑯 𐑞 𐑓𐑳𐑯𐑛𐑟 𐑜𐑮𐑴 𐑑𐑨𐑒𐑕-𐑓𐑮𐑰 𐑩𐑯𐑑𐑦𐑤 𐑞𐑱 𐑸 𐑢𐑦𐑔𐑛𐑮𐑷𐑯, 𐑨𐑑 𐑢𐑦𐑗 𐑐𐑶𐑯𐑑 𐑞𐑱 𐑒𐑨𐑯 𐑚𐑰 𐑒𐑩𐑯𐑝𐑻𐑑𐑩𐑛 𐑦𐑯𐑑𐑵 𐑩𐑯 𐑲𐑸𐑱; 𐑓𐑳𐑯𐑛𐑟 𐑒𐑨𐑯 𐑚𐑰 𐑑𐑮𐑨𐑯𐑕𐑓𐑻𐑛 𐑦𐑓 𐑿 𐑗𐑱𐑯𐑡 𐑦𐑥𐑐𐑤𐑶𐑼𐑟 𐑯 𐑿 𐑒𐑨𐑯 (𐑑 𐑕𐑳𐑥 𐑦𐑒𐑕𐑑𐑧𐑯𐑑) 𐑥𐑨𐑯𐑦𐑡 𐑞 𐑦𐑯𐑝𐑧𐑕𐑑𐑥𐑩𐑯𐑑𐑕 𐑘𐑹𐑕𐑧𐑤𐑓.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "401-k|05920154-n": {
+    "transliterated_definition": "𐑩 𐑮𐑦𐑑𐑲𐑼𐑥𐑩𐑯𐑑 𐑕𐑱𐑝𐑦𐑙𐑟 𐑐𐑤𐑨𐑯 𐑞𐑨𐑑 𐑦𐑟 𐑓𐑳𐑯𐑛𐑩𐑛 𐑚𐑲 𐑦𐑥𐑐𐑤𐑶𐑰 𐑒𐑪𐑯𐑑𐑮𐑦𐑚𐑿𐑖𐑩𐑯𐑟 𐑯 (𐑪𐑓𐑩𐑯) 𐑥𐑨𐑗𐑦𐑙 𐑒𐑪𐑯𐑑𐑮𐑦𐑚𐑿𐑖𐑩𐑯𐑟 𐑓𐑮𐑪𐑥 𐑞 𐑦𐑥𐑐𐑤𐑶𐑼; 𐑒𐑪𐑯𐑑𐑮𐑦𐑚𐑿𐑖𐑩𐑯𐑟 𐑸 𐑥𐑱𐑛 𐑓𐑮𐑪𐑥 𐑘𐑹 𐑕𐑨𐑤𐑼𐑦 𐑚𐑦𐑓𐑹 𐑑𐑨𐑒𐑕𐑩𐑟 𐑯 𐑞 𐑓𐑳𐑯𐑛𐑟 𐑜𐑮𐑴 𐑑𐑨𐑒𐑕-𐑓𐑮𐑰 𐑩𐑯𐑑𐑦𐑤 𐑞𐑱 𐑸 𐑢𐑦𐑔𐑛𐑮𐑷𐑯, 𐑨𐑑 𐑢𐑦𐑗 𐑐𐑶𐑯𐑑 𐑞𐑱 𐑒𐑨𐑯 𐑚𐑰 𐑒𐑩𐑯𐑝𐑻𐑑𐑩𐑛 𐑦𐑯𐑑𐑵 𐑩𐑯 𐑲𐑸𐑱; 𐑓𐑳𐑯𐑛𐑟 𐑒𐑨𐑯 𐑚𐑰 𐑑𐑮𐑨𐑯𐑕𐑓𐑻𐑛 𐑦𐑓 𐑿 𐑗𐑱𐑯𐑡 𐑦𐑥𐑐𐑤𐑶𐑼𐑟 𐑯 𐑿 𐑒𐑨𐑯 (𐑑 𐑕𐑳𐑥 𐑦𐑒𐑕𐑑𐑧𐑯𐑑) 𐑥𐑨𐑯𐑦𐑡 𐑞 𐑦𐑯𐑝𐑧𐑕𐑑𐑥𐑩𐑯𐑑𐑕 𐑘𐑹𐑕𐑧𐑤𐑓.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "40th|02214667-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑓𐑹𐑑𐑦 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "40|02197917-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑧𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑔𐑻𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "40|13771667-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑐𐑮𐑪𐑛𐑳𐑒𐑑 𐑝 𐑑𐑧𐑯 𐑯 𐑓𐑹.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "41st|02214774-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑓𐑹𐑑𐑦-𐑢𐑳𐑯 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "41|02198016-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑓𐑹𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "42nd|02214888-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑓𐑹𐑑𐑦-𐑑𐑵 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "42|02198108-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑵 𐑥𐑹 𐑞𐑨𐑯 𐑓𐑹𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "43rd|02215003-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑓𐑹𐑑𐑦-𐑔𐑮𐑰 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "43|02198201-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑔𐑮𐑰 𐑥𐑹 𐑞𐑨𐑯 𐑓𐑹𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "440 yards|13673549-n": {
+    "transliterated_definition": "𐑩 𐑿𐑯𐑦𐑑 𐑝 𐑤𐑧𐑙𐑔 𐑰𐑒𐑢𐑩𐑤 𐑑 𐑩 𐑒𐑢𐑹𐑑𐑼 𐑝 1 𐑥𐑲𐑤.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "44th|02215119-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑓𐑹𐑑𐑦-𐑓𐑹 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "44|02198299-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑓𐑹 𐑥𐑹 𐑞𐑨𐑯 𐑓𐑹𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "45th|02215235-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑓𐑹𐑑𐑦-𐑓𐑲𐑝 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "45|02198394-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑓𐑲𐑝 𐑥𐑹 𐑞𐑨𐑯 𐑓𐑹𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "46th|02215350-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑓𐑹𐑑𐑦-𐑕𐑦𐑒𐑕 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "46|02198488-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑕𐑦𐑒𐑕 𐑥𐑹 𐑞𐑨𐑯 𐑓𐑹𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "47th|02215464-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑓𐑹𐑑𐑦-𐑕𐑧𐑝𐑩𐑯 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "47|02198581-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑕𐑧𐑝𐑩𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑓𐑹𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "48th|02215582-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑓𐑹𐑑𐑦-𐑱𐑑 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "48|02198679-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑱𐑑 𐑥𐑹 𐑞𐑨𐑯 𐑓𐑹𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "49th|02215699-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑓𐑹𐑑𐑦-𐑯𐑲𐑯 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "49|02198778-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑯𐑲𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑓𐑹𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "4WD|03394457-n": {
+    "transliterated_definition": "𐑩 𐑑𐑮𐑨𐑯𐑟𐑥𐑦𐑖𐑩𐑯 𐑞𐑨𐑑 𐑐𐑮𐑩𐑝𐑲𐑛𐑟 𐑐𐑬𐑼 𐑛𐑦𐑮𐑧𐑒𐑑𐑤𐑦 𐑑 𐑷𐑤 𐑓𐑹 𐑢𐑰𐑤𐑟 𐑝 𐑩 𐑥𐑴𐑑𐑼 𐑝𐑰𐑦𐑒𐑩𐑤.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "4WD|03394607-n": {
+    "transliterated_definition": "𐑩 𐑥𐑴𐑑𐑼 𐑝𐑰𐑦𐑒𐑩𐑤 𐑢𐑦𐑔 𐑩 𐑓𐑹-𐑢𐑰𐑤 𐑛𐑮𐑲𐑝 𐑑𐑮𐑨𐑯𐑟𐑥𐑦𐑖𐑩𐑯 𐑕𐑦𐑕𐑑𐑩𐑥.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "4th|02210112-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑔𐑻𐑛 𐑯 𐑡𐑳𐑕𐑑 𐑚𐑦𐑓𐑹 𐑞 𐑓𐑦𐑓𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯 𐑹 𐑑𐑲𐑥 𐑹 𐑛𐑦𐑜𐑮𐑰 𐑹 𐑥𐑨𐑜𐑯𐑦𐑑𐑵𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "4to|05104082-n": {
+    "transliterated_definition": "𐑞 𐑕𐑲𐑟 𐑝 𐑩 𐑚𐑫𐑒 𐑣𐑵𐑟 𐑐𐑱𐑡𐑩𐑟 𐑸 𐑥𐑱𐑛 𐑚𐑲 𐑓𐑴𐑤𐑛𐑦𐑙 𐑩 𐑖𐑰𐑑 𐑝 𐑐𐑱𐑐𐑼 𐑑𐑢𐑲𐑕 𐑑 𐑓𐑹𐑥 𐑓𐑹 𐑤𐑰𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "4|02194304-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑔𐑮𐑰.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "4|13766444-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑔𐑮𐑰 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "5-hitter|00476672-n": {
+    "transliterated_definition": "𐑩 𐑜𐑱𐑥 𐑦𐑯 𐑢𐑦𐑗 𐑩 𐑐𐑦𐑗𐑼 𐑩𐑤𐑬𐑟 𐑞 𐑩𐑐𐑴𐑟𐑦𐑙 𐑑𐑰𐑥 5 𐑣𐑦𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "5-hydroxy-3-methylglutaryl-coenzyme A reductase|14636622-n": {
+    "transliterated_definition": "𐑩 𐑤𐑦𐑝𐑼 𐑧𐑯𐑟𐑲𐑥 𐑞𐑨𐑑 𐑦𐑟 𐑮𐑦𐑕𐑐𐑪𐑯𐑕𐑩𐑚𐑩𐑤 𐑓 𐑐𐑮𐑩𐑛𐑵𐑕𐑦𐑙 𐑒𐑩𐑤𐑧𐑕𐑑𐑼𐑪𐑤.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "5-hydroxytryptamine|14832443-n": {
+    "transliterated_definition": "𐑩 𐑯𐑘𐑫𐑼𐑴𐑑𐑮𐑨𐑯𐑟𐑥𐑦𐑑𐑼 𐑦𐑯𐑝𐑪𐑤𐑝𐑛 𐑦𐑯 𐑰.𐑜. 𐑕𐑤𐑰𐑐 𐑯 𐑛𐑦𐑐𐑮𐑧𐑖𐑩𐑯 𐑯 𐑥𐑧𐑥𐑼𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "5-membered|01506731-s": {
+    "transliterated_definition": "𐑝 𐑩 𐑒𐑧𐑥𐑦𐑒𐑩𐑤 𐑒𐑪𐑥𐑐𐑬𐑯𐑛 𐑣𐑨𐑝𐑦𐑙 𐑩 𐑮𐑦𐑙 𐑢𐑦𐑔 𐑓𐑲𐑝 𐑥𐑧𐑥𐑚𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "50000 Quaoar|09424625-n": {
+    "transliterated_definition": "𐑩 [𐑐𐑤𐑭𐑯𐑧𐑑𐑶𐑛 / 𐑐𐑤𐑨𐑯𐑩𐑑𐑶𐑛 / 𐑐𐑤𐑭𐑯𐑧𐑑𐑴𐑦𐑛] 𐑛𐑦𐑕𐑒𐑳𐑝𐑼𐑛 𐑦𐑯 2002.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "500th|02220021-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑓𐑲𐑝 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "500|02206300-s": {
+    "transliterated_definition": "𐑛𐑦𐑯𐑴𐑑𐑦𐑙 𐑩 𐑒𐑢𐑪𐑯𐑑𐑦𐑑𐑦 𐑒𐑩𐑯𐑕𐑦𐑕𐑑𐑦𐑙 𐑝 500 𐑲𐑑𐑩𐑥𐑟 𐑹 𐑿𐑯𐑦𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "500|13772852-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑐𐑮𐑪𐑛𐑳𐑒𐑑 𐑝 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑯 𐑓𐑲𐑝.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "50th|02215814-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑓𐑦𐑓𐑑𐑦 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "50|02198871-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑧𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑓𐑹𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "50|13771784-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑐𐑮𐑪𐑛𐑳𐑒𐑑 𐑝 𐑑𐑧𐑯 𐑯 𐑓𐑲𐑝.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "51|02198975-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑓𐑦𐑓𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "52|02199066-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑵 𐑥𐑹 𐑞𐑨𐑯 𐑓𐑦𐑓𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "53|02199158-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑔𐑮𐑰 𐑥𐑹 𐑞𐑨𐑯 𐑓𐑦𐑓𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "54|02199255-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑓𐑹 𐑥𐑹 𐑞𐑨𐑯 𐑓𐑦𐑓𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "55th|02215939-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑓𐑦𐑓𐑑𐑦-𐑓𐑲𐑝 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "55|02199349-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑓𐑲𐑝 𐑥𐑹 𐑞𐑨𐑯 𐑓𐑦𐑓𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "56|02199442-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑕𐑦𐑒𐑕 𐑥𐑹 𐑞𐑨𐑯 𐑓𐑦𐑓𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "57|02199534-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑕𐑧𐑝𐑩𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑓𐑦𐑓𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "58|02199631-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑱𐑑 𐑥𐑹 𐑞𐑨𐑯 𐑓𐑦𐑓𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "59|02199729-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑯𐑲𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑓𐑦𐑓𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "5th|02210381-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑓𐑹𐑔 𐑯 𐑡𐑳𐑕𐑑 𐑚𐑦𐑓𐑹 𐑞 𐑕𐑦𐑒𐑕𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "5|02194389-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑓𐑹.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "5|13766661-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑓𐑹 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "6 June 1944|15187570-n": {
+    "transliterated_definition": "𐑛𐑱𐑑 𐑝 𐑞 ·𐑩𐑤𐑲𐑛 𐑤𐑨𐑯𐑛𐑦𐑙 𐑦𐑯 ·𐑓𐑮𐑭𐑯𐑕, ·𐑢𐑻𐑤𐑛 ·𐑢𐑹 II.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "6-membered|01506858-s": {
+    "transliterated_definition": "𐑝 𐑩 𐑒𐑧𐑥𐑦𐑒𐑩𐑤 𐑒𐑪𐑥𐑐𐑬𐑯𐑛 𐑣𐑨𐑝𐑦𐑙 𐑩 𐑮𐑦𐑙 𐑢𐑦𐑔 𐑕𐑦𐑒𐑕 𐑥𐑧𐑥𐑚𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "60 minutes|15252642-n": {
+    "transliterated_definition": "𐑩 𐑐𐑽𐑾𐑛 𐑝 𐑑𐑲𐑥 𐑰𐑒𐑢𐑩𐑤 𐑑 1/24th 𐑝 𐑩 𐑛𐑱.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "60th|02216054-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑕𐑦𐑒𐑕𐑑𐑦 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "60|02199823-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑧𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑓𐑦𐑓𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "60|13771918-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑐𐑮𐑪𐑛𐑳𐑒𐑑 𐑝 𐑑𐑧𐑯 𐑯 𐑕𐑦𐑒𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "61|02199923-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑕𐑦𐑒𐑕𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "62|02200015-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑵 𐑥𐑹 𐑞𐑨𐑯 𐑕𐑦𐑒𐑕𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "63|02200108-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑔𐑮𐑰 𐑥𐑹 𐑞𐑨𐑯 𐑕𐑦𐑒𐑕𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "64th|02216161-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑕𐑦𐑒𐑕𐑑𐑦-𐑓𐑹 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "64|02200206-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑓𐑹 𐑥𐑹 𐑞𐑨𐑯 𐑕𐑦𐑒𐑕𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "65th|02216277-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑕𐑦𐑒𐑕𐑑𐑦-𐑓𐑲𐑝 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "65|02200301-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑓𐑲𐑝 𐑥𐑹 𐑞𐑨𐑯 𐑕𐑦𐑒𐑕𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "66|02200395-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑕𐑦𐑒𐑕 𐑥𐑹 𐑞𐑨𐑯 𐑕𐑦𐑒𐑕𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "67|02200488-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑕𐑧𐑝𐑩𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑕𐑦𐑒𐑕𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "68|02200586-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑱𐑑 𐑥𐑹 𐑞𐑨𐑯 𐑕𐑦𐑒𐑕𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "69|02200685-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑯𐑲𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑕𐑦𐑒𐑕𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "6th|02210523-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑓𐑦𐑓𐑔 𐑯 𐑡𐑳𐑕𐑑 𐑚𐑦𐑓𐑹 𐑞 𐑕𐑧𐑝𐑩𐑯𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "6|02194472-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑓𐑲𐑝.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "6|13766862-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑓𐑲𐑝 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "7-membered|01507054-s": {
+    "transliterated_definition": "𐑝 𐑩 𐑒𐑧𐑥𐑦𐑒𐑩𐑤 𐑒𐑪𐑥𐑐𐑬𐑯𐑛 𐑣𐑨𐑝𐑦𐑙 𐑩 𐑮𐑦𐑙 𐑢𐑦𐑔 𐑕𐑧𐑝𐑩𐑯 𐑥𐑧𐑥𐑚𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "70th|02216392-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑕𐑧𐑝𐑩𐑯𐑑𐑦 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "70|02200780-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑧𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑕𐑦𐑒𐑕𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "70|13772034-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑐𐑮𐑪𐑛𐑳𐑒𐑑 𐑝 𐑑𐑧𐑯 𐑯 𐑕𐑧𐑝𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "71|02200888-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑕𐑧𐑝𐑩𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "72|02200985-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑵 𐑥𐑹 𐑞𐑨𐑯 𐑕𐑧𐑝𐑩𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "73|02201083-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑔𐑮𐑰 𐑥𐑹 𐑞𐑨𐑯 𐑕𐑧𐑝𐑩𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "74|02201186-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑓𐑹 𐑥𐑹 𐑞𐑨𐑯 𐑕𐑧𐑝𐑩𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "75th|02216521-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑕𐑧𐑝𐑩𐑯𐑑𐑦-𐑓𐑲𐑝 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "75|02201286-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑓𐑲𐑝 𐑥𐑹 𐑞𐑨𐑯 𐑕𐑧𐑝𐑩𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "76|02201385-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑕𐑦𐑒𐑕 𐑥𐑹 𐑞𐑨𐑯 𐑕𐑧𐑝𐑩𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "77|02201483-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑕𐑧𐑝𐑩𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑕𐑧𐑝𐑩𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "78|02201586-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑱𐑑 𐑥𐑹 𐑞𐑨𐑯 𐑕𐑧𐑝𐑩𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "78|04185251-n": {
+    "transliterated_definition": "𐑩 𐑖𐑩𐑤𐑨𐑒 𐑚𐑱𐑕𐑑 𐑓𐑴𐑯𐑩𐑜𐑮𐑨𐑓 𐑮𐑧𐑒𐑼𐑛 𐑞𐑨𐑑 𐑐𐑤𐑱𐑛 𐑨𐑑 78 𐑮𐑧𐑝𐑩𐑤𐑵𐑖𐑩𐑯𐑟 𐑐𐑻 𐑥𐑦𐑯𐑦𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "78|13772173-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑕𐑧𐑝𐑩𐑯𐑑𐑦 𐑯 𐑱𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "79|02201690-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑯𐑲𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑕𐑧𐑝𐑩𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "7th|02210648-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑕𐑦𐑒𐑕𐑔 𐑯 𐑡𐑳𐑕𐑑 𐑚𐑦𐑓𐑹 𐑞 𐑱𐑑𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "7|02194609-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑕𐑦𐑒𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "7|13767056-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑕𐑦𐑒𐑕 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "8 May 1945|15187811-n": {
+    "transliterated_definition": "𐑞 𐑛𐑱𐑑 𐑝 ·𐑩𐑤𐑲𐑛 𐑝𐑦𐑒𐑑𐑼𐑦 𐑦𐑯 ·𐑘𐑫𐑼𐑩𐑐, ·𐑢𐑻𐑤𐑛 ·𐑢𐑹 II.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "8-membered|01507183-s": {
+    "transliterated_definition": "𐑝 𐑩 𐑒𐑧𐑥𐑦𐑒𐑩𐑤 𐑒𐑪𐑥𐑐𐑬𐑯𐑛 𐑣𐑨𐑝𐑦𐑙 𐑩 𐑮𐑦𐑙 𐑢𐑦𐑔 𐑱𐑑 𐑥𐑧𐑥𐑚𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "80th|02216640-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑱𐑑𐑦 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "80|02201790-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑧𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑕𐑧𐑝𐑩𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "80|13772304-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑐𐑮𐑪𐑛𐑳𐑒𐑑 𐑝 𐑑𐑧𐑯 𐑯 𐑱𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "81|02201894-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑱𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "82|02201990-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑵 𐑥𐑹 𐑞𐑨𐑯 𐑱𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "83|02202087-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑔𐑮𐑰 𐑥𐑹 𐑞𐑨𐑯 𐑱𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "84|02202189-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑓𐑹 𐑥𐑹 𐑞𐑨𐑯 𐑱𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "85th|02216749-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑱𐑑𐑦-𐑓𐑲𐑝 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "85|02202288-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑓𐑲𐑝 𐑥𐑹 𐑞𐑨𐑯 𐑱𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "86|02202386-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑕𐑦𐑒𐑕 𐑥𐑹 𐑞𐑨𐑯 𐑱𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "87|02202483-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑕𐑧𐑝𐑩𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑱𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "880 yards|13673422-n": {
+    "transliterated_definition": "𐑩 𐑿𐑯𐑦𐑑 𐑝 𐑤𐑧𐑙𐑔 𐑰𐑒𐑢𐑩𐑤 𐑑 𐑣𐑨𐑓 𐑝 1 𐑥𐑲𐑤.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "88|02202585-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑱𐑑 𐑥𐑹 𐑞𐑨𐑯 𐑱𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "89|02202688-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑯𐑲𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑱𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "8th|02210792-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑕𐑧𐑝𐑩𐑯𐑔 𐑯 𐑡𐑳𐑕𐑑 𐑚𐑦𐑓𐑹 𐑞 𐑯𐑲𐑯𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "8vo|05103670-n": {
+    "transliterated_definition": "𐑞 𐑕𐑲𐑟 𐑝 𐑩 𐑚𐑫𐑒 𐑣𐑵𐑟 𐑐𐑱𐑡𐑩𐑟 𐑸 𐑥𐑱𐑛 𐑚𐑲 𐑓𐑴𐑤𐑛𐑦𐑙 𐑩 𐑖𐑰𐑑 𐑝 𐑐𐑱𐑐𐑼 𐑔𐑮𐑰 𐑑𐑲𐑥𐑟 𐑑 𐑓𐑹𐑥 𐑱𐑑 𐑤𐑰𐑝𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "8|02194712-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑕𐑧𐑝𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "8|13767226-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑕𐑧𐑝𐑩𐑯 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "9-11|15325294-n": {
+    "transliterated_definition": "𐑞 𐑛𐑱 𐑦𐑯 2001 𐑢𐑧𐑯 ·𐑨𐑮𐑩𐑚 𐑕𐑵𐑦𐑕𐑲𐑛 𐑚𐑪𐑥𐑼𐑟 𐑣𐑲𐑡𐑨𐑒𐑑 ·𐑿𐑯𐑲𐑑𐑩𐑛 ·𐑕𐑑𐑱𐑑𐑕 𐑺𐑤𐑲𐑯𐑼𐑟 𐑯 𐑿𐑟𐑛 𐑞𐑧𐑥 𐑨𐑟 𐑚𐑪𐑥𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "9-membered|01507312-s": {
+    "transliterated_definition": "𐑝 𐑩 𐑒𐑧𐑥𐑦𐑒𐑩𐑤 𐑒𐑪𐑥𐑐𐑬𐑯𐑛 𐑣𐑨𐑝𐑦𐑙 𐑩 𐑮𐑦𐑙 𐑢𐑦𐑔 𐑯𐑲𐑯 𐑥𐑧𐑥𐑚𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "9/11|15325294-n": {
+    "transliterated_definition": "𐑞 𐑛𐑱 𐑦𐑯 2001 𐑢𐑧𐑯 ·𐑨𐑮𐑩𐑚 𐑕𐑵𐑦𐑕𐑲𐑛 𐑚𐑪𐑥𐑼𐑟 𐑣𐑲𐑡𐑨𐑒𐑑 ·𐑿𐑯𐑲𐑑𐑩𐑛 ·𐑕𐑑𐑱𐑑𐑕 𐑺𐑤𐑲𐑯𐑼𐑟 𐑯 𐑿𐑟𐑛 𐑞𐑧𐑥 𐑨𐑟 𐑚𐑪𐑥𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "90377 Sedna|09452098-n": {
+    "transliterated_definition": "𐑩 [𐑐𐑤𐑭𐑯𐑧𐑑𐑶𐑛 / 𐑐𐑤𐑨𐑯𐑩𐑑𐑶𐑛 / 𐑐𐑤𐑭𐑯𐑧𐑑𐑴𐑦𐑛] 𐑝 𐑮𐑪𐑒 𐑯 𐑲𐑕 𐑩𐑚𐑬𐑑 𐑔𐑮𐑰-𐑒𐑢𐑹𐑑𐑼𐑟 𐑞 𐑕𐑲𐑟 𐑝 ·𐑐𐑤𐑵𐑑𐑴 𐑛𐑦𐑕𐑒𐑳𐑝𐑼𐑛 𐑦𐑯 2003; 𐑞 𐑥𐑴𐑕𐑑 𐑛𐑦𐑕𐑑𐑩𐑯𐑑 𐑪𐑚𐑡𐑧𐑒𐑑 𐑯𐑴𐑯 𐑑 𐑹𐑚𐑦𐑑 𐑼𐑬𐑯𐑛 𐑞 𐑕𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "90th|02216866-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑯𐑲𐑯𐑑𐑦 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "90|02202784-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑧𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑱𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "90|13772437-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑐𐑮𐑪𐑛𐑳𐑒𐑑 𐑝 𐑑𐑧𐑯 𐑯 𐑯𐑲𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "91|02202873-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑯𐑲𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "92|02202967-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑑𐑵 𐑥𐑹 𐑞𐑨𐑯 𐑯𐑲𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "93|02203062-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑔𐑮𐑰 𐑥𐑹 𐑞𐑨𐑯 𐑯𐑲𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "94|02203162-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑓𐑹 𐑥𐑹 𐑞𐑨𐑯 𐑯𐑲𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "95th|02216975-s": {
+    "transliterated_definition": "𐑞 𐑹𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑝 𐑯𐑲𐑯𐑑𐑦-𐑓𐑲𐑝 𐑦𐑯 𐑒𐑬𐑯𐑑𐑦𐑙 𐑹𐑛𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "95|02203259-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑓𐑲𐑝 𐑥𐑹 𐑞𐑨𐑯 𐑯𐑲𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "96|02203355-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑕𐑦𐑒𐑕 𐑥𐑹 𐑞𐑨𐑯 𐑯𐑲𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "97|02203450-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑕𐑧𐑝𐑩𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑯𐑲𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "98|02203550-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑱𐑑 𐑥𐑹 𐑞𐑨𐑯 𐑯𐑲𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "99|02203651-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑤𐑧𐑕 𐑞𐑨𐑯 𐑢𐑳𐑯 𐑣𐑳𐑯𐑛𐑮𐑩𐑛 𐑯 𐑯𐑲𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑯𐑲𐑯𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "9th|02210918-s": {
+    "transliterated_definition": "𐑒𐑳𐑥𐑦𐑙 𐑯𐑧𐑒𐑕𐑑 𐑭𐑓𐑑𐑼 𐑞 𐑱𐑑𐑔 𐑯 𐑡𐑳𐑕𐑑 𐑚𐑦𐑓𐑹 𐑞 𐑑𐑧𐑯𐑔 𐑦𐑯 𐑐𐑩𐑟𐑦𐑖𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "9|02194800-s": {
+    "transliterated_definition": "𐑚𐑰𐑦𐑙 𐑢𐑳𐑯 𐑥𐑹 𐑞𐑨𐑯 𐑱𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "9|13767410-n": {
+    "transliterated_definition": "𐑞 𐑒𐑸𐑛𐑦𐑯𐑩𐑤 𐑯𐑳𐑥𐑚𐑼 𐑞𐑨𐑑 𐑦𐑟 𐑞 𐑕𐑳𐑥 𐑝 𐑱𐑑 𐑯 𐑢𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "à bas|wikt-1": {
+    "transliterated_definition": "𐑛𐑬𐑯 𐑢𐑦𐑔.",
+    "transliterated_examples": [],
+    "transliterated_pos": "intj"
+  },
+  "à bouche|wikt-1": {
+    "transliterated_definition": "𐑣𐑨𐑝𐑦𐑙 𐑩 𐑚𐑵𐑖 𐑪𐑯 𐑞 𐑛𐑧𐑒𐑕𐑑𐑼 𐑕𐑲𐑛.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "à contrecœur|wikt-1": {
+    "transliterated_definition": "𐑮𐑦𐑤𐑳𐑒𐑑𐑩𐑯𐑑𐑤𐑦, 𐑳𐑯𐑢𐑦𐑤𐑦𐑙𐑤𐑦, 𐑢𐑦𐑔 𐑛𐑦𐑕𐑜𐑳𐑕𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑛𐑝𐑻𐑚"
+  },
+  "à gogo|wikt-1": {
+    "transliterated_definition": "𐑦𐑯 𐑩𐑚𐑳𐑯𐑛𐑩𐑯𐑕, 𐑜𐑩𐑤𐑹.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑛𐑝𐑻𐑚"
+  },
+  "à la carte|wikt-1": {
+    "transliterated_definition": "𐑩𐑤𐑬𐑦𐑙 𐑕𐑦𐑤𐑧𐑒𐑖𐑩𐑯 𐑓𐑮𐑪𐑥 𐑩 𐑓𐑦𐑒𐑕𐑑 𐑤𐑦𐑕𐑑 𐑝 𐑦𐑯𐑛𐑦𐑝𐑦𐑡𐑫𐑩𐑤𐑦 𐑐𐑮𐑲𐑕𐑑 𐑪𐑐𐑖𐑩𐑯𐑟 𐑖𐑴𐑯 𐑪𐑯 𐑞 𐑥𐑧𐑯𐑿.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "à la carte|wikt-2": {
+    "transliterated_definition": "𐑕𐑦𐑤𐑧𐑒𐑑𐑦𐑝; 𐑴𐑯𐑤𐑦 𐑗𐑵𐑟𐑦𐑙 𐑢𐑪𐑑 𐑢𐑳𐑯 𐑤𐑲𐑒𐑕 𐑹 𐑛𐑦𐑟𐑲𐑼𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "à la carte|wikt-3": {
+    "transliterated_definition": "𐑩 𐑥𐑰𐑤 𐑚𐑳𐑑 𐑴𐑯𐑤𐑦 𐑞 𐑝𐑲𐑩𐑯𐑛 (𐑢𐑦𐑞𐑬𐑑 𐑮𐑲𐑕).",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "à la carte|wikt-4": {
+    "transliterated_definition": "𐑚𐑲 𐑹𐑛𐑼𐑦𐑙 𐑦𐑯𐑛𐑦𐑝𐑦𐑡𐑫𐑩𐑤𐑦 𐑐𐑮𐑲𐑕𐑑 𐑲𐑑𐑩𐑥𐑟 𐑓𐑮𐑪𐑥 𐑞 𐑥𐑧𐑯𐑿.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑛𐑝𐑻𐑚"
+  },
+  "à propos de bottes|wikt-1": {
+    "transliterated_definition": "𐑨𐑐𐑮𐑩𐑐𐑴 𐑝 𐑯𐑳𐑔𐑦𐑙; 𐑢𐑦𐑞𐑬𐑑 𐑒𐑩𐑯𐑧𐑒𐑖𐑩𐑯 𐑑 𐑧𐑯𐑦𐑔𐑦𐑙; 𐑚𐑲 𐑞 𐑢𐑱, 𐑳𐑯𐑮𐑦𐑤𐑱𐑑𐑩𐑛𐑤𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑛𐑝𐑻𐑚"
+  },
+  "à trois|wikt-1": {
+    "transliterated_definition": "𐑓 𐑹 𐑚𐑦𐑑𐑢𐑰𐑯 𐑔𐑮𐑰 𐑐𐑸𐑑𐑦𐑟. 𐑪𐑓𐑩𐑯 𐑿𐑟𐑛 𐑦𐑯 𐑮𐑧𐑓𐑼𐑩𐑯𐑕 𐑑 𐑩𐑤𐑲𐑩𐑯𐑕𐑩𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "âme damnée|wikt-1": {
+    "transliterated_definition": "𐑕𐑳𐑥𐑢𐑳𐑯 𐑣𐑵 𐑦𐑟 𐑳𐑑𐑼𐑤𐑦 𐑛𐑦𐑝𐑴𐑑𐑩𐑛 𐑑 𐑩𐑯𐑳𐑞𐑼 𐑯 𐑢𐑦𐑤𐑦𐑙 𐑑 𐑒𐑨𐑮𐑦 𐑬𐑑 𐑛𐑦𐑓𐑦𐑒𐑩𐑤𐑑 𐑹 𐑛𐑦𐑕𐑩𐑜𐑮𐑰𐑩𐑚𐑩𐑤 𐑑𐑭𐑕𐑒𐑕 𐑓 𐑞𐑧𐑥; 𐑩 𐑕𐑦𐑥𐑐.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "åland|wikt-1": {
+    "transliterated_definition": "𐑩𐑯 𐑸𐑒𐑦𐑐𐑧𐑤𐑩𐑜𐑴 𐑝 𐑞 ·𐑚𐑷𐑤𐑑𐑦𐑒 ·𐑕𐑰.",
+    "transliterated_examples": [],
+    "transliterated_pos": "name"
+  },
+  "åland|wikt-2": {
+    "transliterated_definition": "𐑩 𐑮𐑰𐑡𐑩𐑯 𐑝 ·𐑓𐑦𐑯𐑤𐑩𐑯𐑛, 𐑒𐑩𐑯𐑕𐑦𐑕𐑑𐑦𐑙 𐑝 𐑞 ·𐑨𐑤𐑩𐑯𐑛 𐑸𐑒𐑦𐑐𐑧𐑤𐑩𐑜𐑴.",
+    "transliterated_examples": [],
+    "transliterated_pos": "name"
+  },
+  "ægean|wikt-1": {
+    "transliterated_definition": "𐑪𐑚𐑕𐑩𐑤𐑰𐑑 𐑓𐑹𐑥 𐑝 ·𐑩𐑡𐑦𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "ægean|wikt-2": {
+    "transliterated_definition": "𐑪𐑚𐑕𐑩𐑤𐑰𐑑 𐑓𐑹𐑥 𐑝 ·𐑩𐑡𐑦𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "name"
+  },
+  "æolia|wikt-1": {
+    "transliterated_definition": "𐑸𐑒𐑱𐑦𐑒 𐑓𐑹𐑥 𐑝 ·𐑱𐑴𐑤𐑦𐑩.",
+    "transliterated_examples": [],
+    "transliterated_pos": "name"
+  },
+  "æolus|wikt-1": {
+    "transliterated_definition": "𐑪𐑚𐑕𐑩𐑤𐑰𐑑 𐑕𐑐𐑧𐑤𐑦𐑙 𐑝 ·𐑱𐑴𐑤𐑩𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "name"
+  },
+  "æquison|wikt-1": {
+    "transliterated_definition": "𐑸𐑒𐑱𐑦𐑒 𐑕𐑐𐑧𐑤𐑦𐑙 𐑝 𐑰𐑒𐑢𐑦𐑕𐑳𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "æsc|wikt-1": {
+    "transliterated_definition": "𐑞 𐑯𐑱𐑥 𐑝 𐑞 ·𐑤𐑨𐑑𐑦𐑯 𐑕𐑒𐑮𐑦𐑐𐑑 𐑤𐑧𐑑𐑼 AE/ae.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "æsir|wikt-1": {
+    "transliterated_definition": "𐑞 𐑐𐑮𐑦𐑯𐑕𐑩𐑐𐑩𐑤 𐑜𐑮𐑵𐑐 𐑝 𐑚𐑦𐑯𐑧𐑝𐑩𐑤𐑩𐑯𐑑 𐑛𐑰𐑦𐑑𐑦𐑟 𐑦𐑯 𐑞 ·𐑯𐑹𐑕 𐑐𐑨𐑯𐑔𐑾𐑯, 𐑮𐑧𐑐𐑮𐑦𐑟𐑧𐑯𐑑𐑦𐑙 𐑐𐑬𐑼 𐑯 𐑢𐑹; 𐑩𐑐𐑴𐑯𐑩𐑯𐑑𐑕 𐑝 𐑞 ·𐑝𐑭𐑯𐑽.",
+    "transliterated_examples": [],
+    "transliterated_pos": "name"
+  },
+  "ébauche|wikt-1": {
+    "transliterated_definition": "𐑩 𐑕𐑒𐑧𐑗.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "ébauche|wikt-2": {
+    "transliterated_definition": "𐑩 𐑥𐑨𐑒𐑧𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "ébauche|wikt-3": {
+    "transliterated_definition": "𐑞 𐑐𐑤𐑱𐑑𐑕 𐑯 𐑚𐑮𐑦𐑡𐑩𐑟 𐑝 𐑩𐑯 𐑳𐑯𐑓𐑦𐑯𐑦𐑖𐑑 𐑢𐑪𐑗.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "éclairs|wikt-1": {
+    "transliterated_definition": "𐑐𐑤𐑫𐑼𐑩𐑤 𐑝 𐑦𐑒𐑤𐑺.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "éclair|wikt-1": {
+    "transliterated_definition": "𐑩 𐑕𐑥𐑷𐑤, 𐑗𐑪𐑒𐑩𐑤𐑩𐑑-𐑒𐑳𐑝𐑼𐑛, 𐑒𐑮𐑧𐑥-𐑓𐑦𐑤𐑛 𐑐𐑱𐑕𐑑𐑮𐑦 𐑐𐑳𐑓 𐑦𐑯 𐑩 𐑡𐑧𐑯𐑼𐑩𐑤 𐑪𐑚𐑤𐑪𐑙 𐑖𐑱𐑐, 𐑑𐑦𐑐𐑦𐑒𐑤𐑦 𐑤𐑸𐑡𐑼 𐑞𐑨𐑯 𐑞 𐑥𐑦𐑯𐑦𐑗𐑼 ·𐑓𐑮𐑧𐑯𐑗 𐑝𐑻𐑠𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "écorché|wikt-1": {
+    "transliterated_definition": "𐑩 𐑓𐑦𐑜𐑘𐑼 𐑛𐑮𐑷𐑯, 𐑐𐑱𐑯𐑑𐑩𐑛 𐑹 𐑕𐑒𐑳𐑤𐑐𐑑𐑩𐑛 𐑕𐑴 𐑨𐑟 𐑑 𐑖𐑴 𐑞 𐑥𐑳𐑕𐑩𐑤𐑟 𐑝 𐑞 𐑚𐑪𐑛𐑦 𐑢𐑦𐑞𐑬𐑑 𐑕𐑒𐑦𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "écu|wikt-1": {
+    "transliterated_definition": "𐑩 𐑕𐑦𐑤𐑝𐑼 𐑒𐑶𐑯 𐑓𐑹𐑥𐑼𐑤𐑦 𐑿𐑟𐑛 𐑦𐑯 ·𐑓𐑮𐑭𐑯𐑕, 𐑢𐑦𐑔 𐑝𐑺𐑦𐑦𐑙 𐑝𐑨𐑤𐑿𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "éminence grise|wikt-1": {
+    "transliterated_definition": "𐑩 𐑕𐑰𐑒𐑮𐑩𐑑 𐑹 𐑳𐑯𐑩𐑓𐑦𐑖𐑩𐑤 𐑛𐑦𐑕𐑦𐑠𐑩𐑯-𐑥𐑱𐑒𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "étourderie|wikt-1": {
+    "transliterated_definition": "𐑔𐑷𐑑𐑤𐑩𐑕𐑯𐑩𐑕, 𐑒𐑺𐑤𐑩𐑕𐑯𐑩𐑕; 𐑩 𐑔𐑷𐑑𐑤𐑩𐑕 𐑨𐑒𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "étui|wikt-1": {
+    "transliterated_definition": "𐑩 𐑕𐑥𐑷𐑤, 𐑹𐑯𐑩𐑥𐑧𐑯𐑑𐑩𐑤 𐑚𐑨𐑜 𐑹 𐑮𐑦𐑡𐑦𐑛 𐑒𐑩𐑯𐑑𐑱𐑯𐑼 𐑿𐑟𐑛 𐑓 𐑣𐑴𐑤𐑛𐑦𐑙 𐑸𐑑𐑦𐑒𐑩𐑤𐑟 𐑕𐑳𐑗 𐑨𐑟 𐑯𐑰𐑛𐑩𐑤𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "óðr|wikt-1": {
+    "transliterated_definition": "𐑦𐑯 ·𐑯𐑹𐑕 𐑥𐑦𐑔𐑪𐑤𐑩𐑡𐑦, 𐑞 𐑣𐑳𐑟𐑚𐑩𐑯𐑛 𐑝 ·𐑓𐑮𐑱𐑩 𐑯 𐑓𐑭𐑞𐑼 𐑝 Hnoss 𐑯 ·𐑠𐑧𐑮𐑟𐑩𐑥𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "name"
+  },
+  "øresund|wikt-1": {
+    "transliterated_definition": "𐑷𐑤𐑑𐑻𐑯𐑩𐑑𐑦𐑝 𐑓𐑹𐑥 𐑝 ·𐑹𐑧𐑕𐑫𐑯𐑛, 𐑩 𐑕𐑑𐑮𐑱𐑑 𐑚𐑦𐑑𐑢𐑰𐑯 ·𐑛𐑧𐑯𐑥𐑸𐑒 𐑯 ·𐑕𐑢𐑰𐑛𐑩𐑯.",
+    "transliterated_examples": [],
+    "transliterated_pos": "name"
+  },
+  "übermensch|wikt-1": {
+    "transliterated_definition": "𐑷𐑤𐑑𐑻𐑯𐑩𐑑𐑦𐑝 𐑤𐑧𐑑𐑼-𐑒𐑱𐑕 𐑓𐑹𐑥 𐑝 ·𐑵𐑚𐑼𐑥𐑧𐑯𐑖.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "übermensch|wikt-2": {
+    "transliterated_definition": "𐑩𐑯 𐑴𐑝𐑼𐑥𐑩𐑯 (“𐑣𐑲𐑼” 𐑥𐑨𐑯) 𐑣𐑵 𐑣𐑨𐑟 𐑴𐑝𐑼𐑒𐑳𐑥 (𐑑𐑮𐑨𐑯𐑕𐑧𐑯𐑛𐑩𐑛) 𐑣𐑦𐑟 (𐑥𐑽) 𐑣𐑿𐑥𐑨𐑯𐑦𐑑𐑦.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "übermensch|wikt-3": {
+    "transliterated_definition": "𐑩 𐑥𐑧𐑥𐑚𐑼 𐑝 𐑞 𐑐𐑮𐑩𐑐𐑴𐑟𐑛 ·𐑺𐑾𐑯 𐑕𐑵𐑐𐑼 𐑮𐑱𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "œcumenic|wikt-1": {
+    "transliterated_definition": "𐑸𐑒𐑱𐑦𐑒 𐑓𐑹𐑥 𐑝 𐑰𐑒𐑿𐑥𐑧𐑯𐑦𐑒.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑨𐑡𐑩𐑒𐑑𐑦𐑝"
+  },
+  "ǃkung|wikt-1": {
+    "transliterated_definition": "𐑩 𐑜𐑮𐑵𐑐 𐑝 ·𐑚𐑫𐑖𐑥𐑧𐑯 𐑐𐑰𐑐𐑩𐑤 𐑤𐑦𐑝𐑦𐑙 𐑦𐑯 𐑞 ·𐑒𐑭𐑤𐑭𐑣𐑸𐑦 ·𐑛𐑧𐑟𐑼𐑑.",
+    "transliterated_examples": [],
+    "transliterated_pos": "name"
+  },
+  "ǃkung|wikt-2": {
+    "transliterated_definition": "𐑩 ·𐑒𐑶𐑕𐑭𐑯 𐑤𐑨𐑙𐑜𐑢𐑦𐑡 𐑕𐑐𐑴𐑒𐑩𐑯 𐑦𐑯 ·𐑯𐑩𐑥𐑦𐑚𐑾, ·𐑨𐑙𐑜𐑴𐑤𐑩, 𐑯 ·𐑕𐑬𐑔 ·𐑨𐑓𐑮𐑦𐑒𐑩, 𐑓𐑱𐑥𐑩𐑕 𐑓 𐑦𐑑𐑕 𐑒𐑤𐑦𐑒 𐑒𐑪𐑯𐑕𐑩𐑯𐑩𐑯𐑑𐑕.",
+    "transliterated_examples": [],
+    "transliterated_pos": "name"
+  },
+  "ʟ-dopa|wikt-1": {
+    "transliterated_definition": "𐑞 𐑤𐑰𐑝𐑴𐑮𐑴𐑑𐑩𐑑𐑼𐑦 𐑓𐑹𐑥 𐑝 ·𐑛𐑴𐑐𐑩, 𐑿𐑟𐑛 𐑑 𐑑𐑮𐑰𐑑 ·𐑐𐑸𐑒𐑦𐑯𐑕𐑩𐑯𐑟 𐑛𐑦𐑟𐑰𐑟.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  },
+  "🦴r|wikt-1": {
+    "transliterated_definition": "𐑓𐑦𐑤𐑑𐑼-𐑩𐑝𐑶𐑛𐑩𐑯𐑕 𐑕𐑐𐑧𐑤𐑦𐑙 𐑝 𐑚𐑴𐑯𐑼.",
+    "transliterated_examples": [],
+    "transliterated_pos": "𐑯𐑬𐑯"
+  }
+}

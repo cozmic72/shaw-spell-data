@@ -22,6 +22,17 @@ site-data/
 hunspell/
 bncfreq/
 
+# ...EXCEPT as shards. The patterns above are unanchored, so they match at any
+# depth and silently swallowed all 135 files under shards/ — `git status` showed
+# nothing to add and a commit would have been empty. The pool and the definitions
+# corpus ARE committed here, split into 27 per-initial shards each, because
+# GitHub rejects any blob over 100 MB and a clone cannot otherwise obtain them.
+#
+# The negation has to name the FILES, not just the directory: git will not
+# re-include a file whose own pattern still matches, so `!shards/` alone leaves
+# every shard ignored. The whole-file forms at the repository root stay ignored.
+!shards/*.json
+
 # Trained models. A model is committed when nothing can rebuild it, and ignored
 # when something can — the test is reproducibility, not size.
 #
