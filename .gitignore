@@ -41,7 +41,15 @@ bncfreq/
 # commits: it was frozen into the tree from an ad-hoc training run and only the
 # inference module came with it. Ignoring it would mean a clone could neither
 # obtain nor rebuild a file the pipeline reads.
-ipa-normalizer-model.json
+#
+# ipa-normalizer-model.json is committed for the same reason, and so is NOT
+# listed below: train_ipa_normalizer.py is checked in but reads
+# external/britfone, which is not a declared submodule, so no clone can train
+# it. The artefact is 92 KB and a pool rebuild needs it.
+#
+# rhoticity-model.pkl stays ignored because it IS reproducible —
+# train_rhoticity_model.py derives it from external/readlex alone, and `make`
+# builds it.
 rhoticity-model.pkl
 
 # Pipeline intermediates and review scratch — regenerated on demand.
