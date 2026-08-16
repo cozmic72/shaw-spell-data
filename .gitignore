@@ -5,6 +5,14 @@ auth/
 *.log
 .editord.*
 
+# Lock sidecars and rename temporaries. Every store here (patches, messages,
+# documents, the document index) writes through a `.lock` sidecar and a `.tmp`
+# rename, and the documents pathspec is a DIRECTORY — so a commit swept
+# docs/.index.json.lock in, and could have captured a half-written `.tmp` had it
+# raced a save.
+*.lock
+*.tmp
+
 # This repo holds ONLY what the editor WRITES: readlex.json and patches/.
 # Everything the editor merely READS — the processed upstream corpora and the
 # trained models — is staged outside git (the editor's build/staged, deployed to
