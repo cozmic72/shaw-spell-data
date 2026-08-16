@@ -6,6 +6,8 @@
 > [Editors: you can — and should — edit this document as the conventions
 > themselves move.]
 
+> Disclaimer: This initial draft was written by Claude based on my briefing - Joro.
+
 ## What Shaw-Spell is
 
 Shaw-Spell extends and modernises the [ReadLex](https://readlex.pythonanywhere.com)

@@ -3,6 +3,8 @@
 > A living document, like its sibling, and provisional throughout. Edit it as
 > the conventions move.
 
+> Disclaimer: This initial draft was written by Claude based on my briefing - Joro.
+
 This is the working guide for editors: the workflows, the records, how patches
 work, and the judgement calls the workbench puts in front of you. For what the
 dictionary is trying to be — the goals, the accent model, what ships and what
