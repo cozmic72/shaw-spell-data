@@ -140,6 +140,11 @@ by their lemma.
   regular inflection means consumers generate it. Filling either "gap" makes
   the data worse.
 
+Every editor accepts on their own authority: an Accept ships the record, it is
+not a proposal awaiting someone else. Every patch records who made it, and the
+editor is shown on the record and can be filtered on, so anyone's work can be
+read back — including your own.
+
 ## Affixes, clitics, and inflections
 
 The main dictionary holds only free-standing written words; the test is
@@ -171,20 +176,12 @@ it anywhere is a separate, human act.
 
 ## Open questions for review (not part of the document)
 
-1. **Who accepts?** Every recorded rule says the project's lead editor
-   accepts. With the team expanding, does an editor's Accept sanction a record
-   directly, or propose it for ratification? The store records the author of
-   every patch, but the authority model is stated nowhere, and this document
-   cannot honestly describe the workflow until it is. Asked plainly: when a
-   new editor presses Accept, does the record ship?
-2. **What is the channel for upstream reports?** "Flag it rather than fixing
+
+1. **What is the channel for upstream reports?** "Flag it rather than fixing
    it by hand" needs a destination — the message board, the backlog, or
    something else. The record does not say; the section currently says "flag
    it" without naming where.
-3. **Merger direction, carried forward.** `docs/dialect-mergers.md` still
-   states the back-vowel merger directions opposite to the code and the
-   decision log; this document avoids quoting a direction, but the sibling
-   does not, and the conflict remains unreconciled in the repo docs.
-4. **The mistagged bare clitics** (`'s`, `'m`, `'ll` carrying implausible
+
+2. **The mistagged bare clitics** (`'s`, `'m`, `'ll` carrying implausible
    tags) are recorded as outstanding retagging work. Should editors fix them
    on sight, or leave them for a ruling? Editors will meet them.

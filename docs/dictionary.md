@@ -141,11 +141,8 @@ to the source material — the two cannot drift apart.
 
 ## Open questions for review (not part of the published document)
 
-1. **Merger direction before publication.** The *pond* and *basket* examples
-   follow the direction the code and your rulings pin; `docs/dialect-mergers.md`
-   still states the opposite direction in places. Flagging again only because
-   this document quotes a direction publicly.
-2. **Second use of the editor-aside device.** I also converted the
+
+1. **Second use of the editor-aside device.** I also converted the
    disclaimer's edit invitation into a square-bracket parenthetical, so the
    document speaks to end users throughout and to editors only inside
    brackets — two uses total. Say the word if the device should be reserved
