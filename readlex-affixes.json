@@ -1,0 +1,995 @@
+{
+    "afro-_PRE_𐑨𐑓𐑮𐑴-": [
+        {
+            "Latn": "afro-",
+            "Shaw": "𐑨𐑓𐑮𐑴-",
+            "pos": "PRE",
+            "ipa": "ˈˌæfrəʊ-",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "afro-",
+                "pos": "PRE",
+                "Shaw": "𐑨𐑓𐑮𐑴-"
+            }
+        }
+    ],
+    "after-_PRE_𐑭𐑓𐑑𐑼-": [
+        {
+            "Latn": "after-",
+            "Shaw": "𐑭𐑓𐑑𐑼-",
+            "pos": "PRE",
+            "ipa": "ˈⱭːftəR-",
+            "freq": 150,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "after-",
+                "pos": "PRE",
+                "Shaw": "𐑭𐑓𐑑𐑼-"
+            }
+        }
+    ],
+    "after-_PRE_𐑨𐑓𐑑𐑼-": [
+        {
+            "Latn": "after-",
+            "Shaw": "𐑨𐑓𐑑𐑼-",
+            "pos": "PRE",
+            "ipa": "ˈÆftəR-",
+            "freq": 150,
+            "var": "RRPVar",
+            "mergers": [
+                "trap-bath"
+            ],
+            "lemma": {
+                "Latn": "after-",
+                "pos": "PRE",
+                "Shaw": "𐑭𐑓𐑑𐑼-"
+            }
+        }
+    ],
+    "anglo-_PRE_𐑨𐑙𐑜𐑤𐑴-": [
+        {
+            "Latn": "anglo-",
+            "Shaw": "𐑨𐑙𐑜𐑤𐑴-",
+            "pos": "PRE",
+            "ipa": "ˈˌæŋɡləʊ-",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "anglo-",
+                "pos": "PRE",
+                "Shaw": "𐑨𐑙𐑜𐑤𐑴-"
+            }
+        }
+    ],
+    "anti-_PRE_𐑨𐑯𐑑𐑦-": [
+        {
+            "Latn": "anti-",
+            "Shaw": "𐑨𐑯𐑑𐑦-",
+            "pos": "PRE",
+            "ipa": "ˈˌænti-",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "anti-",
+                "pos": "PRE",
+                "Shaw": "𐑨𐑯𐑑𐑦-"
+            }
+        }
+    ],
+    "arch-_PRE_𐑸𐑗-": [
+        {
+            "Latn": "arch-",
+            "Shaw": "𐑸𐑗-",
+            "pos": "PRE",
+            "ipa": "ɑːRtʃ-",
+            "freq": 7,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "arch-",
+                "pos": "PRE",
+                "Shaw": "𐑸𐑗-"
+            }
+        }
+    ],
+    "audio-_PRE_𐑷𐑛𐑦𐑴-": [
+        {
+            "Latn": "audio-",
+            "Shaw": "𐑷𐑛𐑦𐑴-",
+            "pos": "PRE",
+            "ipa": "ˈˌɔːdiəʊ-",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "audio-",
+                "pos": "PRE",
+                "Shaw": "𐑷𐑛𐑦𐑴-"
+            }
+        }
+    ],
+    "auto-_PRE_𐑷𐑑𐑴-": [
+        {
+            "Latn": "auto-",
+            "Shaw": "𐑷𐑑𐑴-",
+            "pos": "PRE",
+            "ipa": "ˈˌɔːtəʊ-",
+            "freq": 7,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "auto-",
+                "pos": "PRE",
+                "Shaw": "𐑷𐑑𐑴-"
+            }
+        }
+    ],
+    "bi-_PRE_𐑚𐑲-": [
+        {
+            "Latn": "bi-",
+            "Shaw": "𐑚𐑲-",
+            "pos": "PRE",
+            "ipa": "ˌbaɪ-",
+            "freq": 32,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "bi-",
+                "pos": "PRE",
+                "Shaw": "𐑚𐑲-"
+            }
+        }
+    ],
+    "bond-_PRE_𐑚𐑪𐑯𐑛-": [
+        {
+            "Latn": "bond-",
+            "Shaw": "𐑚𐑪𐑯𐑛-",
+            "pos": "PRE",
+            "ipa": "bɒnd-",
+            "freq": 6,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "bond-",
+                "pos": "PRE",
+                "Shaw": "𐑚𐑪𐑯𐑛-"
+            }
+        }
+    ],
+    "centi-_PRE_𐑕𐑧𐑯𐑑𐑦-": [
+        {
+            "Latn": "centi-",
+            "Shaw": "𐑕𐑧𐑯𐑑𐑦-",
+            "pos": "PRE",
+            "ipa": "ˈsentɪ-",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "centi-",
+                "pos": "PRE",
+                "Shaw": "𐑕𐑧𐑯𐑑𐑦-"
+            }
+        }
+    ],
+    "cine-_PRE_𐑕𐑦𐑯𐑦-": [
+        {
+            "Latn": "cine-",
+            "Shaw": "𐑕𐑦𐑯𐑦-",
+            "pos": "PRE",
+            "ipa": "ˈsɪni-",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "cine-",
+                "pos": "PRE",
+                "Shaw": "𐑕𐑦𐑯𐑦-"
+            }
+        }
+    ],
+    "co-_PRE_𐑒𐑴-": [
+        {
+            "Latn": "co-",
+            "Shaw": "𐑒𐑴-",
+            "pos": "PRE",
+            "ipa": "kəʊ-",
+            "freq": 70,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "co-",
+                "pos": "PRE",
+                "Shaw": "𐑒𐑴-"
+            }
+        }
+    ],
+    "contra-_PRE_𐑒𐑪𐑯𐑑𐑮𐑩-": [
+        {
+            "Latn": "contra-",
+            "Shaw": "𐑒𐑪𐑯𐑑𐑮𐑩-",
+            "pos": "PRE",
+            "ipa": "ˈˌkɒntrə-",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "contra-",
+                "pos": "PRE",
+                "Shaw": "𐑒𐑪𐑯𐑑𐑮𐑩-"
+            }
+        }
+    ],
+    "counter-_PRE_𐑒𐑬𐑯𐑑𐑼-": [
+        {
+            "Latn": "counter-",
+            "Shaw": "𐑒𐑬𐑯𐑑𐑼-",
+            "pos": "PRE",
+            "ipa": "ˈˌkaʊntəR-",
+            "freq": 12,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "counter-",
+                "pos": "PRE",
+                "Shaw": "𐑒𐑬𐑯𐑑𐑼-"
+            }
+        }
+    ],
+    "crypto-_PRE_𐑒𐑮𐑦𐑐𐑑𐑴-": [
+        {
+            "Latn": "crypto-",
+            "Shaw": "𐑒𐑮𐑦𐑐𐑑𐑴-",
+            "pos": "PRE",
+            "ipa": "ˈˌkrɪptəʊ-",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "crypto-",
+                "pos": "PRE",
+                "Shaw": "𐑒𐑮𐑦𐑐𐑑𐑴-"
+            }
+        }
+    ],
+    "deca-_PRE_𐑛𐑧𐑒𐑩-": [
+        {
+            "Latn": "deca-",
+            "Shaw": "𐑛𐑧𐑒𐑩-",
+            "pos": "PRE",
+            "ipa": "ˈˌdekə-",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "deca-",
+                "pos": "PRE",
+                "Shaw": "𐑛𐑧𐑒𐑩-"
+            }
+        }
+    ],
+    "deci-_PRE_𐑛𐑧𐑕𐑦-": [
+        {
+            "Latn": "deci-",
+            "Shaw": "𐑛𐑧𐑕𐑦-",
+            "pos": "PRE",
+            "ipa": "ˈˌdesɪ-",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "deci-",
+                "pos": "PRE",
+                "Shaw": "𐑛𐑧𐑕𐑦-"
+            }
+        }
+    ],
+    "docu-_PRE_𐑛𐑪𐑒𐑿-": [
+        {
+            "Latn": "docu-",
+            "Shaw": "𐑛𐑪𐑒𐑿-",
+            "pos": "PRE",
+            "ipa": "ˈdɒkjuː",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "docu-",
+                "pos": "PRE",
+                "Shaw": "𐑛𐑪𐑒𐑿-"
+            }
+        }
+    ],
+    "electro-_PRE_𐑦𐑤𐑧𐑒𐑑𐑮𐑴-": [
+        {
+            "Latn": "electro-",
+            "Shaw": "𐑦𐑤𐑧𐑒𐑑𐑮𐑴-",
+            "pos": "PRE",
+            "ipa": "ɪˈlektrəʊ-",
+            "freq": 3,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "electro-",
+                "pos": "PRE",
+                "Shaw": "𐑦𐑤𐑧𐑒𐑑𐑮𐑴-"
+            }
+        }
+    ],
+    "ex-_PRE_𐑧𐑒𐑕-": [
+        {
+            "Latn": "ex-",
+            "Shaw": "𐑧𐑒𐑕-",
+            "pos": "PRE",
+            "ipa": "eks-",
+            "freq": 60,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "ex-",
+                "pos": "PRE",
+                "Shaw": "𐑧𐑒𐑕-"
+            }
+        }
+    ],
+    "franco-_PRE_𐑓𐑮𐑨𐑙𐑒𐑴-": [
+        {
+            "Latn": "franco-",
+            "Shaw": "𐑓𐑮𐑨𐑙𐑒𐑴-",
+            "pos": "PRE",
+            "ipa": "ˈfræŋkəʊ-",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "franco-",
+                "pos": "PRE",
+                "Shaw": "𐑓𐑮𐑨𐑙𐑒𐑴-"
+            }
+        }
+    ],
+    "geo-_PRE_𐑡𐑰𐑴-": [
+        {
+            "Latn": "geo-",
+            "Shaw": "𐑡𐑰𐑴-",
+            "pos": "PRE",
+            "ipa": "ˈˌdʒiːəʊ-",
+            "freq": 3,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "geo-",
+                "pos": "PRE",
+                "Shaw": "𐑡𐑰𐑴-"
+            }
+        }
+    ],
+    "grand-_PRE_𐑜𐑮𐑨𐑯𐑛-": [
+        {
+            "Latn": "grand-",
+            "Shaw": "𐑜𐑮𐑨𐑯𐑛-",
+            "pos": "PRE",
+            "ipa": "ɡrænd-",
+            "freq": 43,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "grand-",
+                "pos": "PRE",
+                "Shaw": "𐑜𐑮𐑨𐑯𐑛-"
+            }
+        }
+    ],
+    "hecto-_PRE_𐑣𐑧𐑒𐑑𐑴-": [
+        {
+            "Latn": "hecto-",
+            "Shaw": "𐑣𐑧𐑒𐑑𐑴-",
+            "pos": "PRE",
+            "ipa": "ˈhektəʊ-",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "hecto-",
+                "pos": "PRE",
+                "Shaw": "𐑣𐑧𐑒𐑑𐑴-"
+            }
+        }
+    ],
+    "indo-_PRE_𐑦𐑯𐑛𐑴-": [
+        {
+            "Latn": "indo-",
+            "Shaw": "𐑦𐑯𐑛𐑴-",
+            "pos": "PRE",
+            "ipa": "ˈˌɪndəʊ-",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "indo-",
+                "pos": "PRE",
+                "Shaw": "𐑦𐑯𐑛𐑴-"
+            }
+        }
+    ],
+    "kilo-_PRE_𐑒𐑦𐑤𐑩-": [
+        {
+            "Latn": "kilo-",
+            "Shaw": "𐑒𐑦𐑤𐑩-",
+            "pos": "PRE",
+            "ipa": "ˈkɪlə-",
+            "freq": 4,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "kilo-",
+                "pos": "PRE",
+                "Shaw": "𐑒𐑦𐑤𐑩-"
+            }
+        }
+    ],
+    "maxi-_PRE_𐑥𐑨𐑒𐑕𐑦-": [
+        {
+            "Latn": "maxi-",
+            "Shaw": "𐑥𐑨𐑒𐑕𐑦-",
+            "pos": "PRE",
+            "ipa": "ˈmæksi-",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "maxi-",
+                "pos": "PRE",
+                "Shaw": "𐑥𐑨𐑒𐑕𐑦-"
+            }
+        }
+    ],
+    "milli-_PRE_𐑥𐑦𐑤𐑦-": [
+        {
+            "Latn": "milli-",
+            "Shaw": "𐑥𐑦𐑤𐑦-",
+            "pos": "PRE",
+            "ipa": "ˈmɪli-",
+            "freq": 3,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "milli-",
+                "pos": "PRE",
+                "Shaw": "𐑥𐑦𐑤𐑦-"
+            }
+        }
+    ],
+    "mini-_PRE_𐑥𐑦𐑯𐑦-": [
+        {
+            "Latn": "mini-",
+            "Shaw": "𐑥𐑦𐑯𐑦-",
+            "pos": "PRE",
+            "ipa": "ˈmɪni-",
+            "freq": 7,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "mini-",
+                "pos": "PRE",
+                "Shaw": "𐑥𐑦𐑯𐑦-"
+            }
+        }
+    ],
+    "multi-_PRE_𐑥𐑳𐑤𐑑𐑦-": [
+        {
+            "Latn": "multi-",
+            "Shaw": "𐑥𐑳𐑤𐑑𐑦-",
+            "pos": "PRE",
+            "ipa": "ˈmʌlti-",
+            "freq": 6,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "multi-",
+                "pos": "PRE",
+                "Shaw": "𐑥𐑳𐑤𐑑𐑦-"
+            }
+        }
+    ],
+    "neo-_PRE_𐑯𐑰𐑴-": [
+        {
+            "Latn": "neo-",
+            "Shaw": "𐑯𐑰𐑴-",
+            "pos": "PRE",
+            "ipa": "ˈniːəʊ-",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "neo-",
+                "pos": "PRE",
+                "Shaw": "𐑯𐑰𐑴-"
+            }
+        }
+    ],
+    "non-_PRE_𐑯𐑪𐑯-": [
+        {
+            "Latn": "non-",
+            "Shaw": "𐑯𐑪𐑯-",
+            "pos": "PRE",
+            "ipa": "ˌnɒn-",
+            "freq": 7,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "non-",
+                "pos": "PRE",
+                "Shaw": "𐑯𐑪𐑯-"
+            }
+        }
+    ],
+    "nor'-_PRE_𐑯𐑹-": [
+        {
+            "Latn": "nor'-",
+            "Shaw": "𐑯𐑹-",
+            "pos": "PRE",
+            "ipa": "ˌnɔːR-",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "nor'-",
+                "pos": "PRE",
+                "Shaw": "𐑯𐑹-"
+            }
+        }
+    ],
+    "over-_PRE_𐑴𐑝𐑼-": [
+        {
+            "Latn": "over-",
+            "Shaw": "𐑴𐑝𐑼-",
+            "pos": "PRE",
+            "ipa": "ˈˌəʊvəR-",
+            "freq": 377,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "over-",
+                "pos": "PRE",
+                "Shaw": "𐑴𐑝𐑼-"
+            }
+        }
+    ],
+    "palaeo-_PRE_𐑐𐑨𐑤𐑦𐑴-": [
+        {
+            "Latn": "palaeo-",
+            "Shaw": "𐑐𐑨𐑤𐑦𐑴-",
+            "pos": "PRE",
+            "ipa": "ˈˌpæliəʊ-",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "palaeo-",
+                "pos": "PRE",
+                "Shaw": "𐑐𐑨𐑤𐑦𐑴-"
+            }
+        }
+    ],
+    "pan-_PRE_𐑐𐑨𐑯-": [
+        {
+            "Latn": "pan-",
+            "Shaw": "𐑐𐑨𐑯-",
+            "pos": "PRE",
+            "ipa": "pæn-",
+            "freq": 9,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "pan-",
+                "pos": "PRE",
+                "Shaw": "𐑐𐑨𐑯-"
+            }
+        }
+    ],
+    "petro-_PRE_𐑐𐑧𐑑𐑮𐑴-": [
+        {
+            "Latn": "petro-",
+            "Shaw": "𐑐𐑧𐑑𐑮𐑴-",
+            "pos": "PRE",
+            "ipa": "ˈˌpetrəʊ-",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "petro-",
+                "pos": "PRE",
+                "Shaw": "𐑐𐑧𐑑𐑮𐑴-"
+            }
+        }
+    ],
+    "photo-_PRE_𐑓𐑴𐑑𐑴-": [
+        {
+            "Latn": "photo-",
+            "Shaw": "𐑓𐑴𐑑𐑴-",
+            "pos": "PRE",
+            "ipa": "ˈfəʊtəʊ-",
+            "freq": 26,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "photo-",
+                "pos": "PRE",
+                "Shaw": "𐑓𐑴𐑑𐑴-"
+            }
+        }
+    ],
+    "post-_PRE_𐑐𐑴𐑕𐑑-": [
+        {
+            "Latn": "post-",
+            "Shaw": "𐑐𐑴𐑕𐑑-",
+            "pos": "PRE",
+            "ipa": "pəʊst-",
+            "freq": 20,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "post-",
+                "pos": "PRE",
+                "Shaw": "𐑐𐑴𐑕𐑑-"
+            }
+        }
+    ],
+    "pre-_PRE_𐑐𐑮𐑰-": [
+        {
+            "Latn": "pre-",
+            "Shaw": "𐑐𐑮𐑰-",
+            "pos": "PRE",
+            "ipa": "priː-",
+            "freq": 24,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "pre-",
+                "pos": "PRE",
+                "Shaw": "𐑐𐑮𐑰-"
+            }
+        }
+    ],
+    "pro-_PRE_𐑐𐑮𐑴-": [
+        {
+            "Latn": "pro-",
+            "Shaw": "𐑐𐑮𐑴-",
+            "pos": "PRE",
+            "ipa": "ˌprəʊ-",
+            "freq": 30,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "pro-",
+                "pos": "PRE",
+                "Shaw": "𐑐𐑮𐑴-"
+            }
+        }
+    ],
+    "pseudo-_PRE_𐑕𐑿𐑛𐑴-": [
+        {
+            "Latn": "pseudo-",
+            "Shaw": "𐑕𐑿𐑛𐑴-",
+            "pos": "PRE",
+            "ipa": "ˈˌsjuːdəʊ-",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "pseudo-",
+                "pos": "PRE",
+                "Shaw": "𐑕𐑿𐑛𐑴-"
+            }
+        }
+    ],
+    "quasi-_PRE_𐑒𐑢𐑱𐑟𐑲-": [
+        {
+            "Latn": "quasi-",
+            "Shaw": "𐑒𐑢𐑱𐑟𐑲-",
+            "pos": "PRE",
+            "ipa": "ˈkweɪzaɪ-",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "quasi-",
+                "pos": "PRE",
+                "Shaw": "𐑒𐑢𐑱𐑟𐑲-"
+            }
+        }
+    ],
+    "radio-_PRE_𐑮𐑱𐑛𐑦𐑴-": [
+        {
+            "Latn": "radio-",
+            "Shaw": "𐑮𐑱𐑛𐑦𐑴-",
+            "pos": "PRE",
+            "ipa": "ˈˌreɪdiəʊ-",
+            "freq": 28,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "radio-",
+                "pos": "PRE",
+                "Shaw": "𐑮𐑱𐑛𐑦𐑴-"
+            }
+        }
+    ],
+    "re-_PRE_𐑮𐑰-": [
+        {
+            "Latn": "re-",
+            "Shaw": "𐑮𐑰-",
+            "pos": "PRE",
+            "ipa": "riː-",
+            "freq": 93,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "re-",
+                "pos": "PRE",
+                "Shaw": "𐑮𐑰-"
+            }
+        }
+    ],
+    "self-_PRE_𐑕𐑧𐑤𐑓-": [
+        {
+            "Latn": "self-",
+            "Shaw": "𐑕𐑧𐑤𐑓-",
+            "pos": "PRE",
+            "ipa": "self-",
+            "freq": 28,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "self-",
+                "pos": "PRE",
+                "Shaw": "𐑕𐑧𐑤𐑓-"
+            }
+        }
+    ],
+    "semi-_PRE_𐑕𐑧𐑥𐑦-": [
+        {
+            "Latn": "semi-",
+            "Shaw": "𐑕𐑧𐑥𐑦-",
+            "pos": "PRE",
+            "ipa": "ˈsemi-",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "semi-",
+                "pos": "PRE",
+                "Shaw": "𐑕𐑧𐑥𐑦-"
+            }
+        }
+    ],
+    "servo-_PRE_𐑕𐑻𐑝𐑴-": [
+        {
+            "Latn": "servo-",
+            "Shaw": "𐑕𐑻𐑝𐑴-",
+            "pos": "PRE",
+            "ipa": "ˈsɜːRvəʊ-",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "servo-",
+                "pos": "PRE",
+                "Shaw": "𐑕𐑻𐑝𐑴-"
+            }
+        }
+    ],
+    "socio-_PRE_𐑕𐑴𐑖𐑦𐑴-": [
+        {
+            "Latn": "socio-",
+            "Shaw": "𐑕𐑴𐑖𐑦𐑴-",
+            "pos": "PRE",
+            "ipa": "ˈˌsəʊʃiəʊ-",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "socio-",
+                "pos": "PRE",
+                "Shaw": "𐑕𐑴𐑖𐑦𐑴-"
+            }
+        }
+    ],
+    "step-_PRE_𐑕𐑑𐑧𐑐-": [
+        {
+            "Latn": "step-",
+            "Shaw": "𐑕𐑑𐑧𐑐-",
+            "pos": "PRE",
+            "ipa": "step-",
+            "freq": 45,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "step-",
+                "pos": "PRE",
+                "Shaw": "𐑕𐑑𐑧𐑐-"
+            }
+        }
+    ],
+    "sub-_PRE_𐑕𐑳𐑚-": [
+        {
+            "Latn": "sub-",
+            "Shaw": "𐑕𐑳𐑚-",
+            "pos": "PRE",
+            "ipa": "sʌb-",
+            "freq": 12,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "sub-",
+                "pos": "PRE",
+                "Shaw": "𐑕𐑳𐑚-"
+            }
+        }
+    ],
+    "thermo-_PRE_𐑔𐑻𐑥𐑴-": [
+        {
+            "Latn": "thermo-",
+            "Shaw": "𐑔𐑻𐑥𐑴-",
+            "pos": "PRE",
+            "ipa": "ˈˌθɜːRməʊ-",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "thermo-",
+                "pos": "PRE",
+                "Shaw": "𐑔𐑻𐑥𐑴-"
+            }
+        }
+    ],
+    "trans-_PRE_𐑑𐑮𐑨𐑯𐑟-": [
+        {
+            "Latn": "trans-",
+            "Shaw": "𐑑𐑮𐑨𐑯𐑟-",
+            "pos": "PRE",
+            "ipa": "trænz-",
+            "freq": 7,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "trans-",
+                "pos": "PRE",
+                "Shaw": "𐑑𐑮𐑨𐑯𐑟-"
+            }
+        }
+    ],
+    "tri-_PRE_𐑑𐑮𐑲-": [
+        {
+            "Latn": "tri-",
+            "Shaw": "𐑑𐑮𐑲-",
+            "pos": "PRE",
+            "ipa": "traɪ-",
+            "freq": 8,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "tri-",
+                "pos": "PRE",
+                "Shaw": "𐑑𐑮𐑲-"
+            }
+        }
+    ],
+    "ultra-_PRE_𐑳𐑤𐑑𐑮𐑩-": [
+        {
+            "Latn": "ultra-",
+            "Shaw": "𐑳𐑤𐑑𐑮𐑩-",
+            "pos": "PRE",
+            "ipa": "ˈˌʌltrə-",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "ultra-",
+                "pos": "PRE",
+                "Shaw": "𐑳𐑤𐑑𐑮𐑩-"
+            }
+        }
+    ],
+    "un-_PRE_𐑳𐑯-": [
+        {
+            "Latn": "un-",
+            "Shaw": "𐑳𐑯-",
+            "pos": "PRE",
+            "ipa": "ʌn-",
+            "freq": 55,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "un-",
+                "pos": "PRE",
+                "Shaw": "𐑳𐑯-"
+            }
+        }
+    ],
+    "under-_PRE_𐑳𐑯𐑛𐑼-": [
+        {
+            "Latn": "under-",
+            "Shaw": "𐑳𐑯𐑛𐑼-",
+            "pos": "PRE",
+            "ipa": "ˈʌndəR-",
+            "freq": 92,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "under-",
+                "pos": "PRE",
+                "Shaw": "𐑳𐑯𐑛𐑼-"
+            }
+        }
+    ],
+    "up-_PRE_𐑳𐑐-": [
+        {
+            "Latn": "up-",
+            "Shaw": "𐑳𐑐-",
+            "pos": "PRE",
+            "ipa": "ʌp-",
+            "freq": 1156,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "up-",
+                "pos": "PRE",
+                "Shaw": "𐑳𐑐-"
+            }
+        }
+    ],
+    "vice-_PRE_𐑝𐑲𐑕-": [
+        {
+            "Latn": "vice-",
+            "Shaw": "𐑝𐑲𐑕-",
+            "pos": "PRE",
+            "ipa": "vaɪs-",
+            "freq": 6,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "vice-",
+                "pos": "PRE",
+                "Shaw": "𐑝𐑲𐑕-"
+            }
+        }
+    ],
+    "wash-_PRE_𐑢𐑪𐑖-": [
+        {
+            "Latn": "wash-",
+            "Shaw": "𐑢𐑪𐑖-",
+            "pos": "PRE",
+            "ipa": "wɒʃ-",
+            "freq": 17,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "wash-",
+                "pos": "PRE",
+                "Shaw": "𐑢𐑪𐑖-"
+            }
+        }
+    ],
+    "well-_PRE_𐑢𐑧𐑤-": [
+        {
+            "Latn": "well-",
+            "Shaw": "𐑢𐑧𐑤-",
+            "pos": "PRE",
+            "ipa": "wel-",
+            "freq": 2028,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "well-",
+                "pos": "PRE",
+                "Shaw": "𐑢𐑧𐑤-"
+            }
+        }
+    ],
+    "wich-_PRE_𐑢𐑦𐑗-": [
+        {
+            "Latn": "wich-",
+            "Shaw": "𐑢𐑦𐑗-",
+            "pos": "PRE",
+            "ipa": "wɪtʃ-",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "wich-",
+                "pos": "PRE",
+                "Shaw": "𐑢𐑦𐑗-"
+            }
+        }
+    ],
+    "witch-_PRE_𐑢𐑦𐑗-": [
+        {
+            "Latn": "witch-",
+            "Shaw": "𐑢𐑦𐑗-",
+            "pos": "PRE",
+            "ipa": "wɪtʃ-",
+            "freq": 17,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "witch-",
+                "pos": "PRE",
+                "Shaw": "𐑢𐑦𐑗-"
+            }
+        }
+    ],
+    "wych-_PRE_𐑢𐑦𐑗-": [
+        {
+            "Latn": "wych-",
+            "Shaw": "𐑢𐑦𐑗-",
+            "pos": "PRE",
+            "ipa": "wɪtʃ-",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "wych-",
+                "pos": "PRE",
+                "Shaw": "𐑢𐑦𐑗-"
+            }
+        }
+    ],
+    "yester-_PRE_𐑘𐑧𐑕𐑑𐑼-": [
+        {
+            "Latn": "yester-",
+            "Shaw": "𐑘𐑧𐑕𐑑𐑼-",
+            "pos": "PRE",
+            "ipa": "ˈjestəR-",
+            "freq": 3,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yester-",
+                "pos": "PRE",
+                "Shaw": "𐑘𐑧𐑕𐑑𐑼-"
+            }
+        }
+    ]
+}
