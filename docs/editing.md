@@ -103,12 +103,14 @@ Your verdicts:
   decision can be seen and rolled back.
 - **Flag** — looked at, no verdict yet.
 
-These surface in the ledger as the review states: `unreviewed`, `accepted`,
-`edited` (accept with edits), `dirty` (an Edit awaiting Accept), `dropped`,
-`flagged`, and `orphaned` — a decision whose record upstream has drifted out
-from under, kept visible for re-anchoring rather than silently lost. A record
-you create from nothing is a *manual* record: manual is an origin, not a
-verdict, and it awaits acceptance like anything else.
+The ledger shows where each record stands: `unreviewed`, `accepted`, `dropped`
+or `flagged`. Editing does not move it — an Edit awaiting Accept still reads
+`unreviewed` — so look for your unaccepted work under the `edited` chip rather
+than in this column. A separate `orphaned` marking means the record upstream
+has drifted out from under a decision, and is kept visible for re-anchoring
+rather than silently lost. A record you create from nothing is a *manual*
+record: manual is an origin, not a verdict, and it awaits acceptance like
+anything else.
 
 One guard to know: the editor refuses an Accept when another accepted record
 already claims the same word, part of speech and accent with a different
@@ -166,10 +168,11 @@ and are pruned at export. Reviewing them matters anyway: a wrongly generated
 regular form is exactly the error class this arrangement exists to make
 visible.
 
-## Publishing
+## Committing
 
-The Commit action publishes `readlex.json` and `readlex-affixes.json`
-together, in one commit alongside the patch store, so the published dictionary
-can never disagree with the decisions that produced it. The editor is the sole
-publisher of both files, and Commit records the publication locally — pushing
-it anywhere is a separate, human act.
+The Commit action derives `readlex.json` and `readlex-affixes.json` together
+and writes them in one commit alongside the patch store, so the committed
+dictionary can never disagree with the decisions that produced it. The editor
+is the sole publisher of both files — nothing else derives them — and Commit
+records that work in local version control. Pushing it anywhere is a separate,
+human act, and nothing downstream picks the data up until someone moves it.

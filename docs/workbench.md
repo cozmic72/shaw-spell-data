@@ -19,23 +19,24 @@ material you can arrive at with a question.
 ## The workflow
 
 The pipeline harvests candidate dictionary entries from several sources and
-scores them. **Every one of them is unreviewed until you say otherwise.** Your
-job is to work through them and decide. The loop:
+scores them. **Every one of them is unreviewed until you say otherwise.** The
+workbench can be used to work through them and decide. The loop:
 
 1. **Narrow.** Set filters until the ledger shows a population you can judge —
    typically `Review:unreviewed` plus something that makes the batch coherent.
 2. **Judge.** Click a row. The detail pane shows the record and its evidence:
    where it came from, how confident the pipeline is, what the definitions
    corpus says, which related entries exist.
-3. **Decide.** **Accept** (`A`) sanctions it and ships it; **Drop** (`X`) emits
-   nothing; **Flag** (`F`) records that you looked and did not rule. Correct the
-   fields first if they need it — an accept ships your edits, not the
-   pipeline's guess.
-4. **Commit.** From the burger menu, when you want the work published. Commit
-   derives the dictionary from the patch store and commits both together.
+3. **Decide.** **Accept** (`A`) sanctions the record and puts it in the
+   exported dictionary; **Drop** (`X`) emits nothing; **Flag** (`F`) records
+   that you looked and did not rule. Correct the fields first if they need it —
+   an accept exports your edits, not the pipeline's guess.
+4. **Commit.** From the burger menu, when the work should go into version
+   control. Commit derives the dictionary from the patch store and commits both
+   together.
 
-Nothing is ever accepted for you. The pipeline proposes and prioritises; every
-sanction in the store is one somebody pressed a key for.
+Nothing is ever accepted for you. The pipeline proposes and prioritises; you
+decide.
 
 ### The five concepts everything else assumes
 
@@ -46,21 +47,20 @@ sanction in the store is one somebody pressed a key for.
 expandable row, so records differing only by part of speech or accent sit
 together. Filters and page counts are group-denominated.
 
-**Patch.** What your decision writes. The pipeline's output is never edited in
-place: your verdicts and field changes live in a separate store
-(`data/patches/patches.jsonl`) and are laid over the pipeline's records. This
-is why a decision can always be reversed, and why re-running the pipeline never
-loses your work.
+**Patch.** What your decision writes. Your verdicts and field changes live in
+a separate store (`data/patches/patches.jsonl`), laid over the pipeline's
+records — so a decision can always be reversed, and re-running the pipeline
+never loses your work.
 
-**Intrinsic versus derived.** You may edit the fields that state what the word
-*is*; you may not edit what the pipeline *computed about it*. Confidence,
-source and the classifier outcomes are recomputed on every build, so storing
-one would freeze a value the pipeline owns. See *Which fields you can edit*.
+**Editable versus read-only.** You can edit any field that ends up in the
+final dictionary data. The rest of the record is informational metadata: it is
+shown to help you judge, and does not get exported. See *Which fields you can
+edit*.
 
 **Affix.** A bound form — a prefix, suffix or clitic — which publishes to
-`readlex-affixes.json` rather than the main dictionary. The code calls the
-generalisation `bound_form`. Affix records carry two controls free words do not
-(*regular* and *productive*), so the term recurs below.
+`readlex-affixes.json` rather than the main dictionary. Affix records carry two
+controls free words do not (*regular* and *productive*), so the term recurs
+below.
 
 ### What the numbers on screen mean
 
@@ -81,13 +81,12 @@ filter is exactly `unreviewed`, and it counts groups, not records.
 
 ### Groups and how they page
 
-The `group_key` is the Latin word lowercased, the Shavian spelling, and the
-variation set (the mergers plus the `variant` flag). **Identity only** —
-editorial state never partitions a group, so an accepted record and an
-unreviewed one sharing those three things are one group.
+Records group by the Latin word (lowercased), the Shavian spelling, and the
+variation set (the mergers plus the `variant` flag). Your verdicts never split
+a group: an accepted record and an unreviewed one sharing those three things
+are one group.
 
-The daemon computes the partition and the client renders what it is sent, which
-has two consequences you will see:
+Two consequences you will see:
 
 - **A group is served whole.** If any member matches your filter, every member
   arrives — including siblings that do not match. A group is never split across
@@ -114,11 +113,10 @@ The `state` cell carries a glyph: `?` unreviewed, `✓` accepted, `✕` dropped,
 glyph of the verdict it recorded and turns **yellow**: the shape says what was
 decided, the colour says it no longer resolves. Flags never orphan.
 
-Two review states never appear as their own glyph. `edited` — an accept
-carrying field changes — displays as `accepted`; `dirty` — an unaccepted edit —
-displays as `unreviewed`. Both are decorations on a verdict rather than
-verdicts, which is why a dirty row is invisible here and identifiable only by
-the purple border in the detail pane and the `Data:edited` chip.
+Two conditions have no glyph of their own. An accept carrying field changes
+shows as `accepted`; an unaccepted edit shows as `unreviewed`. So an edit you
+have not accepted is invisible in this column: spot it by the purple border in
+the detail pane, or with the `Data:edited` chip.
 
 ### Selection
 
@@ -128,10 +126,10 @@ selection, and a verdict over ten or more rows asks for confirmation first.
 
 ### Why the list does not move under you
 
-The filtered list is a materialised working set. A row you have just decided
-stays where it is, showing its new content and stamp — it does not vanish
-because it no longer matches. The list re-syncs only when the filter re-runs:
-the `⟳` refresh button, or any change to the filters.
+A row you have just decided stays where it is, showing its new content and
+stamp — it does not vanish because it no longer matches the filter. The list
+re-syncs only when the filter re-runs: the `⟳` refresh button, or any change to
+the filters.
 
 ## Filters
 
@@ -163,9 +161,9 @@ Cmd/Ctrl+K opens the Shavian keyboard.
 
 `unreviewed`, `accepted`, `dropped`, `flagged`, and `mixed`.
 
-A record is in exactly one of the first four. The two decorations fan out on
-the wire: ticking `accepted` also matches records in the `edited` state, and
-ticking `unreviewed` also matches `dirty` ones.
+A record is in exactly one of the first four. Field changes do not move it:
+an accept carrying changes is still `accepted`, and an edit you have not
+accepted is still `unreviewed`.
 
 `mixed` is the one value that asks about a **group** rather than a record: it
 selects groups whose members do not all share one verdict.
@@ -174,43 +172,36 @@ selects groups whose members do not all share one verdict.
 
 ### Data — origin and nature
 
-Non-mutually-exclusive predicates; a record can satisfy several.
+These are not mutually exclusive — a record can match several.
 
 | Chip | Matches |
 |---|---|
 | `manual` | A record a human created — a patch with no anchor. |
 | `orphaned` | An anchored patch whose basis record is gone. |
-| `generated` | The RRP generator synthesized it — `source` *contains* `generated`, so a wiktionary+generated record counts. |
-| `supplement` | Harvested from a supplement source: `source` contains an origin outside the core. A generated+wiktionary record is **both** generated and supplement. |
-| `promoted` | The record carries `orig_var`: a pipeline transform rewrote its accent lane. The detail pane shows the same fact as a "was GenAm" pill. |
+| `generated` | The RRP generator synthesized it. A record from more than one source still counts. |
+| `supplement` | Harvested from a source outside ReadLex core. A generated+wiktionary record is **both** generated and supplement. |
+| `promoted` | The pipeline rewrote the record's accent lane. The detail pane shows the same fact as a "was GenAm" pill. |
 | `has definition` / `no definition` | Whether the definitions corpus covers the headword. |
 | `inflection` | A tier recategorised the record's POS — either tier. |
 | `own lemma` | The record is its own lemma. Computed by identity, not stored. |
 | `affix` | The bound forms — affixes and clitics alike. See below. |
 | `edited` | The record's patch overrides one or more fields. |
 
-**`affix` is one chip**, asked of the same predicate the export uses
-(`basis.is_bound_form`), so what it lists is exactly what ships to
+**`affix` is one chip**, and what it lists is exactly what ships to
 `readlex-affixes.json`. Two different tests qualify a record:
 
 - **An affix** carries the attachment hyphen on **both** its spellings —
-  leading (`-ness`) or trailing (`anti-`). The POS tag says nothing here, and a
-  record hyphenated on one spelling only is malformed data rather than an affix.
-- **A clitic** is on the roster in `basis.BOUND_CLITICS`, because clitic status
-  cannot be read off a spelling: the pool writes them bare (`'s`, `'ll`) and
-  `'em` opens the same way while being a whole word.
+  leading (`-ness`) or trailing (`anti-`). The POS tag says nothing here.
+- **A clitic** (`'s`, `'ll`, `n't`) is on a fixed roster, because clitic status
+  cannot be read off a spelling — `'em` opens the same way while being a whole
+  word.
 
-No stored flag stands beside the hyphen: the respelling *is* the redirect.
+There is no separate flag to set: the hyphen *is* what makes it an affix.
 
-⚠ **`edited` here is not the `edited` review state.** This chip means "carries
-field overrides", and a dropped or flagged record with overrides qualifies. The
-review state `edited` means "accepted, with changes", and is mutually exclusive
-with dropped and flagged. A record can satisfy one without the other. The
-collision is known and is being addressed separately.
-
-The unticked complements — untiered records, linked lemmas, free words — carry
-no chip of their own, because a facet that OR-s positives already says them by
-leaving them out.
+⚠ **`edited` is not a verdict.** The chip means "the patch overrides one or
+more fields", whether or not you have accepted it — so it catches the row you
+have typed into and left unaccepted, which the Review facet still counts as
+`unreviewed`.
 
 ### Novelty — newness against upstream ReadLex
 
@@ -218,21 +209,19 @@ leaving them out.
 
 `upstream` is the baseline: a ReadLex-core row. The three `new-*` values
 classify a supplement record against that baseline, and an upstream row never
-matches them. Novelty is measured against upstream **only**, never against
-sanctioned patches — so accepting a record never changes its novelty.
+matches them. Novelty is measured against upstream only, so accepting a record
+never changes its novelty.
 
 ### The rest
 
-**Source**, **POS**, **Var** and **Conf ≥/≤** filter on the values they name;
-POS and Var are served by the daemon rather than hardcoded, so they list
-exactly what the data holds. The four with a rule you could not guess:
+**Source**, **POS**, **Var** and **Conf ≥/≤** filter on the values they name,
+and list exactly what the data holds. The four with a rule you could not guess:
 
 - **Words** — `multi-word` or `single-word`, split on internal whitespace after
   trimming. Hyphens do not split a phrase.
 - **Annotation** — a regex over the record's `info` entries: the quality tags,
-  the `note:` free text, the `accent: unstated` signature. Deliberately
-  separate from the headword search, so a note-carrying record is not a hit for
-  an unrelated word.
+  the `note:` free text, the `accent: unstated` signature. Separate from the
+  headword search.
 - **Variations** — the union of the mergers list and the `variant` boolean, the
   same tag set the detail editor edits as toggles. `(none / canonical)` selects
   records carrying no variation at all.
@@ -257,46 +246,29 @@ The pane edits whatever the ledger has focused — one record, or a whole group.
 
 Editable: **word, pos, shaw, var, ipa, freq, lemma**, the variation toggles
 (mergers and `variant`), and the two conditional checkboxes *regular* and
-*productive*. These are the **intrinsic** fields, listed in
-`basis.INTRINSIC_FIELDS`, and they are the only keys a patch may carry.
+*productive*. These are the fields that end up in the exported dictionary.
 
-Everything else is **derived** and read-only: `source`, `confidence`, `info`,
-`orig_var`, the inflection tier, the classifier outcomes. The
-pipeline recomputes them on every build. Storing one in a patch would freeze a
-value the pipeline owns, so the editor does not offer them.
-
-`freq` is intrinsic despite looking derived: the corpus stage runs *before* the
-overlay, so nothing recomputes it afterwards and a patched frequency is the
-last word. `lemma` is intrinsic for the same reason — upstream states it, but
-the owner can override which lemma a record belongs to.
+Everything else is read-only informational metadata — `source`, `confidence`,
+`info`, `orig_var`, the inflection tier, the classifier outcomes. It is there
+to inform your judgement and is not exported.
 
 ### The two conditional checkboxes
 
-Both sit in the glance area after the POS, and both are **hidden** — not
-disabled — where the question does not arise, so a control you cannot see is
-one that could not apply.
+Both sit in the glance area after the POS, and both are **hidden** where the
+question does not arise — a control you cannot see is one that could not apply.
 
 **`regular`** appears only on the inflected C5 tags: `NN2`, `VVD`, `VVG`,
 `VVN`, `VVZ`, `AJC`, `AJS`. Ticked means **both the Latin and the Shavian are
 derivable from the lemma** — the form the affix table produces, and therefore
-one the export prunes. Unticking stores `false` — a refutation, not silence.
-The stored field is tri-state, and its third state, absent, is the one the
-checkbox cannot express: hiding the control on every other tag is what leaves
-it reachable.
+one the export prunes.
 
-**`productive`** appears only on affixes, tested by the attachment hyphen on
-the Latin spelling. It is a **licence**: ticked means a consumer may apply this
-affix to any stem of the right POS and the result is a word. Unticked is not a
-refusal to answer — it says the record is a **witness**, held so the definition
-can be shown, and nothing is generated from it.
+**`productive`** appears only on affixes. It is a **licence**: ticked means a
+consumer may apply this affix to any stem of the right POS and the result is a
+word. Unticked says the record is a **witness**, held so the definition can be
+shown, with nothing generated from it.
 
-⚠ **`productive` is yours alone.** No producer proposes a value, and the field
-ships **absent on every record** until you tick one. Unticking deletes the
-field rather than storing `false`: absence is what says "witness only", so the
-two states the checkbox shows are the only two that exist. Unlike `regular` it is
-published, because the licence is *for* the consumer: withholding it would
-leave shaw-spell unable to tell an affix it may apply from one it may only
-display.
+⚠ **`productive` is yours alone.** No producer proposes a value — every record
+ships without it until you tick one.
 
 In a mixed group both boxes start unticked and contribute nothing until you
 move one, so an untouched group edit cannot rewrite each member's flags.
@@ -305,21 +277,15 @@ move one, so an untouched group edit cannot rewrite each member's flags.
 
 Editing **word**, **shaw** or **ipa** on an affix rewrites the attachment
 hyphen on the other two to match, on blur — so the three spellings cannot drift
-apart. The field you edited is the one that decides, and a form hyphenated on
-both sides is malformed rather than doubly bound.
-
-Storage stays symmetric this way, and a reader sees the fragment marker on
-whichever field they happen to be looking at.
+apart. The field you edited is the one that decides.
 
 ### Field markings
 
 - **Purple border** — the field carries an explicit patch override: this value
-  is the owner's, not upstream's. It is joined by a small `edited` tag beside
-  the label. The marking never appears on an unoverridden field, even a focused
-  one, so a cursor alone can never read as "patched".
-- **Green** — unsaved typing in this session. Live editing wins over the purple
-  tint in the cascade, so a field you are changing right now looks changed, not
-  merely overridden.
+  is yours, not upstream's. A small `edited` tag sits beside the label.
+- **Green** — unsaved typing in this session. It wins over the purple, so a
+  field you are changing right now looks changed rather than merely
+  overridden.
 
 ### Editing a group
 
@@ -330,9 +296,7 @@ Select several records and the fields speak for all of them:
   placeholder, and the distinct values listed beside it. It contributes nothing
   to the verdict unless you type into it — so a group verdict cannot silently
   overwrite one member's value with another's.
-- The purple override marking uses the **intersection** of the members'
-  override sets, not the union: marking it otherwise would let one member's
-  edit vouch for values the others never touched.
+- The purple override marking shows only what **every** member overrides.
 
 The note field follows the same rule. A group whose members' Latin words differ
 (case-insensitively) gets the editor alone, without the evidence panes.
@@ -343,18 +307,18 @@ Below the editor, two collapsible panes whose open state persists across
 selections and reloads.
 
 **Related entries** gathers every record sharing the Latin word
-(case-insensitively) **or** the Shavian spelling **or** the lemma's word and
-POS. Each union brings in something the others miss: the shared spelling brings
-variant siblings (*estrogen* / *oestrogen*, same Shavian, different word), the
-lemma brings the inflections (*abacus* / *abaci*), which share neither. Each
-row opens in a modal where it can be decided without leaving the record you are
-on.
+(case-insensitively), the Shavian spelling, or the lemma's word and POS. Each
+of the three brings in something the others miss: the shared spelling brings
+variant siblings (*estrogen* / *oestrogen*), the lemma brings the inflections
+(*abacus* / *abaci*). Each row opens in a modal where it can be decided without
+leaving the record you are on.
 
 **Definitions** is a read-only view of the Shavian definitions corpus for the
 headword. Of the reference links beside the fields (Wiktionary, Cambridge,
 Merriam-Webster, OED, Wordnet), the last is the gloss source itself, so a
-definition can be checked against what it was derived from. A missing transliteration or an empty sense list is a coverage gap, and
-the pane says so rather than hiding it.
+definition can be checked against what it was derived from. A missing
+transliteration or an empty sense list is a coverage gap, and the pane says so
+rather than hiding it.
 
 The `✎` button beside a sense corrects **that sense's** transliteration; the
 gloss and the synset are stable identity and cannot be edited. The correction
@@ -365,36 +329,33 @@ correction is an edit, not a sanction.
 ### The note
 
 A full-width fold below the fields. The notes already in the store are machine
-provenance written by the pipeline (`shave_says`, `ml_disagrees`, `r_gap`), not
-prose; they are shown as they stand, and anything you type replaces the note on
-the patch your next verdict writes.
+provenance written by the pipeline, not prose; they are shown as they stand,
+and anything you type replaces the note on the patch your next verdict
+writes.
 
 ## Verdicts
 
 **editing.md** says what each one means editorially; this is what each does.
 
-| Button | Key | Writes | Effect |
-|---|---|---|---|
-| **Accept** | `A` | `op:accept` | Sanctions the record with your edits laid over it. Reviewed, and it ships. |
-| **Drop** | `X` | `op:drop` | The record emits nothing. The row stays visible so the decision can be seen and rolled back. |
-| **Flag** | `F` | `op:flag` | Looked at, no verdict. A no-op for production output. |
-| **Clear** | `C` | deletes the patch | Reverts to the untouched source. No-ops on an unreviewed row. |
+| Button | Key | Effect |
+|---|---|---|
+| **Accept** | `A` | Sanctions the record with your edits laid over it. Reviewed, and it ships. |
+| **Drop** | `X` | The record emits nothing. The row stays visible so the decision can be seen and rolled back. |
+| **Flag** | `F` | Looked at, no verdict. Nothing changes in the exported dictionary. |
+| **Clear** | `C` | Deletes the patch, reverting to the untouched source. Does nothing on an unreviewed row. |
 
 ### Why there is no Edit button
 
 `E` focuses the Shavian field; an edit you make and then navigate away from is
-auto-saved as a **dirty** patch — persisted `op:edit`, recorded but neither
-reviewed nor shipped. Only an explicit Accept ships it. **This is the mechanism
-behind "never auto-accept": leaving a row can persist your work, but it can
-never sanction it.**
+auto-saved — recorded, but neither reviewed nor shipped, and still reading
+`unreviewed`. Only an explicit Accept ships it. **Leaving a row can persist your work, but it
+can never sanction it.**
 
 "Navigating away" means moving the detail pane to another record — clicking a
-row, stepping, or changing the selection. The save targets the record you are
-leaving, so it cannot race the one you land on. **Closing the tab is not a
-navigation and does not save.** Cmd/Ctrl+Enter saves without moving.
+row, stepping, or changing the selection. **Closing the tab is not a navigation
+and does not save.** Cmd/Ctrl+Enter saves without moving.
 
-Auto-save is skipped for a group edit — a divergent group has no single record
-to save, and its boxes read blank — so group edits commit only through an
+Auto-save is skipped for a group edit, so group edits commit only through an
 explicit verdict.
 
 ### The two guards on Accept
@@ -402,11 +363,10 @@ explicit verdict.
 - Shavian cannot be empty, and frequency must be a whole number. Either failure
   raises before anything is written.
 - The editor refuses an Accept when another **accepted, canonical** record
-  already claims the same word, POS and accent with a different spelling. One
-  canonical spelling per slot; genuine homographs are separated by their lemma.
-  A record carrying a merger or the `variant` flag is not canonical and is
-  exempt — which is why flagging one of a colliding pair as a variant resolves
-  the conflict.
+  already claims the same word, POS and accent with a different spelling — one
+  canonical spelling per slot. A record carrying a merger or the `variant` flag
+  is not canonical and is exempt, so marking one of a colliding pair as a
+  variant resolves the conflict.
 
 ### Undoing
 
@@ -422,14 +382,13 @@ revert to, so a drop and a clear are the same act.
 The `+` button opens a blank create form; **Clone** opens it prepopulated from
 the focused record — the path for adding a dialect sibling.
 
-Both write a manual patch with no anchor. A new manual record is created
-**dirty** — unreviewed, shipping nothing — and takes a verdict like any other
-row. Re-deciding it edits that manual patch in place rather than writing an
-anchored one, which would orphan the decision.
+Creating a record is itself a verdict: **Create** lands it `accepted` and ships
+it, exactly as Accept does elsewhere. The form's **Flag** button lands the same
+record `flagged` instead — recorded, but not yet sanctioned.
 
 The form checks distinctness as you type, disabling the verdict buttons on a
 collision. It looks only at **live** siblings: a dropped record has vacated its
-slot, so authoring the same anchor again is legitimate.
+slot, so authoring the same word again is legitimate.
 
 ## Keyboard
 
@@ -451,8 +410,8 @@ naming the count. **It cannot be undone.**
 
 Editors' notes to each other, newest first, in their own store
 (`data/messages.jsonl`). They are not patches and are never published. A
-message is an atomic append — nothing replaces one. Text is posted and rendered
-as plain text, never as markup, because another editor wrote it.
+message cannot be edited or deleted once posted, and is rendered as plain text,
+never as markup.
 
 The board opens on every page load.
 
@@ -463,19 +422,18 @@ each a plain markdown file with no serialisation around it. A document opens
 rendered; the Edit button swaps in a textarea. **This document is one of them,
 and this is where you edit it.**
 
-Saving is guarded by a revision hash of the file's bytes, not an mtime. If
-someone saved first, **nothing is written**: you are told who and when, and
-your text stays in the textarea. It warns; it never locks.
+If someone else saved while you were editing, **nothing is written**: you are
+told who and when, and your text stays in the textarea. It warns; it never
+locks.
 
-Documents are rendered inside this dialog rather than served as pages, so a
-markdown link from one document to another cannot resolve. Name a sibling
+A markdown link from one document to another does not resolve. Name a sibling
 document and let the reader pick it from the chooser.
 
 ## Commit
 
-Commit publishes. It is in the burger menu, and the trigger carries an
-`uncommitted` marker so pending work stays visible while the button is tucked
-away.
+Commit writes the work to version control. It is in the burger menu, and the
+trigger carries an `uncommitted` marker so pending work stays visible while the
+button is tucked away.
 
 The dialog offers a checkbox per category — **Patches**, **Messages**,
 **Documents**. They exist to *narrow* a commit; the common case is committing
@@ -483,22 +441,20 @@ everything pending. Only the ticked categories' stores are staged; the rest of
 the working tree is never swept in. The subject line is generated and not
 editable; the body is yours.
 
-⚠ **The dictionary publish rides Patches alone.** Ticking Patches derives
+⚠ **The dictionary derivation rides Patches alone.** Ticking Patches derives
 `readlex.json` and `readlex-affixes.json` from the on-disk patch store and
-commits them alongside it, so the published dictionary can never disagree with
+commits them alongside it, so the committed dictionary can never disagree with
 the decisions that produced it. A messages-only commit derives nothing.
 
-The derivation runs **before** git touches anything: if it fails the whole
-commit aborts with nothing staged, so the patch store is never committed ahead
-of the artifacts it ships with. Publishing also requires the frequency corpus —
-the editor runs without it, but a published `readlex.json` must match
-production, so its absence fails the commit rather than shipping a
-frequency-less file.
+If the derivation fails the whole commit aborts with nothing staged. It needs
+the frequency corpus — the editor runs without it, but a commit without it
+fails rather than publishing a frequency-less dictionary.
 
-Orphaned patches do not block a publish: they are skipped, retained in the
+Orphaned patches do not block a commit: they are skipped, retained in the
 store, and summarised in the log.
 
-**Commit is a local git commit.** Pushing it anywhere is a separate, human act.
+**Commit is a local git commit.** Pushing it anywhere is a separate, human act,
+and nothing downstream picks the data up until someone moves it.
 
 ---
 

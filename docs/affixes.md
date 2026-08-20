@@ -1,118 +1,91 @@
 # Bound forms and regular inflections
 
 > Disclaimer: This initial draft was written by Claude based on my briefing - Joro.
+>
+> The contract below is stated as it will hold; the published data does not yet
+> populate all of it, and the commands below report what is actually there on
+> the day you run them.
 
-Two things a consumer of `readlex.json` needs and cannot read off the file: what
-`readlex-affixes.json` holds, and how to reproduce the regular inflections the
-export leaves out.
+**A consumer should not have to hardcode English morphology.** Between the two
+published files and the conventions below, a client has what it needs to spell
+an inflected form it has never seen: the affix file carries the bound forms and
+which POS each produces, this document carries the conditions for attaching
+them, and the main lexicon carries the forms no rule can produce. Everything
+that follows is shaped by that aim — including the resolution contract, which
+looks in the lexicon first because a miss there is itself the signal that the
+regular rule applies.
 
-The second is the reason this document exists. The export is designed to prune
-regular inflected forms because a client can derive them. That is a bargain: the
-dictionary stays small on the promise that the rules below are enough to get the
-forms back. Everything here is stated so that promise can be kept.
+The split between the files runs along a single line: what a client can derive,
+and what it cannot. Regular inflections may be absent from the main lexicon,
+because the conventions below are enough to get them back. **Irregular
+inflections are stored in the main lexicon**, always, because nothing derives
+them. That is what makes checking first informative rather than merely empty.
 
-**Pruning is not yet in effect.** As of 2026-08-20 the published `readlex.json`
-still carries its regular inflections — the export stage runs but prunes
-nothing, because the judgement it reads is not yet stamped on the published
-basis. So a form's absence today usually means the dictionary never had it, not
-that it was pruned. Write your reader to generate on absence anyway: that is the
-contract the file is moving towards, and generating a form that also ships costs
-you a duplicate, while failing to generate one costs you the form.
-
-    python3 -c "import json;d=json.load(open('readlex.json'));\
-    print(sum(1 for v in d.values() for r in v if r['pos'] in\
-    ('NN2','VVZ','VVD','VVN','VVG','AJC','AJS')),'inflected records still shipping')"
+`readlex.json` holds free-standing written words; bound forms — anything that is
+not one — publish to `readlex-affixes.json` in the **identical schema**, so a
+consumer reading only the main dictionary never meets `-'ll` or `-ness` and
+cannot mistake one for a word. Both files are written by the same commit, so
+they cannot disagree.
 
 The record schema, the accent lanes and the editorial vocabulary belong to
 [`editing.md`](editing.md) and [`dictionary.md`](dictionary.md); this document
 assumes them and does not restate them.
 
+## The contract
+
+To resolve a form:
+
+1. **Check whether an explicit entry for the word exists in the main lexicon
+   first**, under the POS you want. A record found is the answer; stop.
+2. **On a miss, find the affix whose `pos` matches the POS you want.** A
+   suffix's `pos` is what it **produces**.
+3. **Apply it if the affix is `productive`.** An affix without `productive` is
+   in the file so its definition can be shown; it is a witness rather than a
+   licence to generate.
+4. **Fuse per the phonotactic conventions below**, in both scripts.
+
+Step one is what makes the rest safe, and the pruner is deliberately cautious to
+keep it so. A record is dropped only when **both** spellings are derivable from
+the lemma, because this dictionary is bidirectional and pruning asserts that a
+client going either way can regenerate the form; one regular in Shavian but not
+in Latin still ships. So **absence of a record is a positive claim: the regular
+form is correct, in both scripts. Generate it.**
+
 ## `readlex-affixes.json`
 
-Bound forms — anything that is not a free-standing written word — publish here
-instead of `readlex.json`, in the **identical schema**. The split is so that a
-consumer reading only the main dictionary never meets `-'ll` or `-ness` and
-cannot mistake one for a word. Both files are written by the same commit, so
-they cannot disagree.
+Because the schema is shared with the main lexicon, an affix record needs some
+way to say which side it attaches to, and the hyphen is it. **A form is bound
+iff its Latin spelling carries a hyphen on one end — and its Shavian carries it
+on the same end.** Trailing for a prefix (`anti-`, `𐑨𐑯𐑑𐑦-`), leading for a
+suffix (`-ness`, `-𐑯𐑩𐑕`). Clitics are stored hyphenated too (`-'s`, `-'ll`), so
+the one test covers them. The hyphen is the only encoding: it states the
+attachment side and marks the entry as a fragment to the eye.
 
-**A form is bound iff its Latin spelling carries a hyphen on one end — and its
-Shavian carries it on the same end.** Trailing for a prefix (`anti-`, `𐑨𐑯𐑑𐑦-`),
-leading for a suffix (`-ness`, `-𐑯𐑩𐑕`). Clitics are stored hyphenated too
-(`-'s`, `-'ll`), so the one test covers them. The hyphen is the only encoding:
-it states the attachment side and marks the entry as a fragment to the eye. A
-record hyphenated on one side only is malformed, not a licence to complete the
-other.
+That is why dispatch goes on the hyphen's position together with the produced
+POS, rather than on the POS tag alone. **A suffix's `pos` names what it makes,
+not what it attaches to**, which is the orientation a generating client wants:
+`-ness` is `NN1` because it makes nouns, `-ish` is `AJ0` because it makes
+adjectives. A client wanting to build a noun from an adjective therefore looks
+for `NN1`-tagged suffixes.
 
-Do not key on the POS tag. `PRE` is ReadLex's own extension with no suffix
-counterpart, and a suffix's tag is needed for something else — see below.
-
-    python3 -c "import json;d=json.load(open('readlex-affixes.json'));\
-    print(sum(len(v) for v in d.values()),'records')"
-
-### What it holds today
-
-**Every published record is currently a prefix, tagged `PRE`.** As of
-2026-08-20 the file publishes 66 records, all trailing-hyphen, all `PRE`, all
-`var: RRP`. No suffix and no clitic has yet been published.
-
-This matters for planning against the file: the suffix and clitic machinery is
-built and tested, and `editing.md` describes `-ness` and `'ll` as belonging
-here, but nothing has been moved yet. **Write your reader to dispatch on the
-hyphen's position, not on `PRE`**, and it will keep working when suffixes
-arrive. Check the distribution rather than assuming it:
+`productive` is the licence to generate: which affixes a client may still apply
+to a stem the dictionary has never paired them with. Ticked, a client may apply
+the affix to any stem of the right POS and trust the result. **Absent is a
+positive statement, not a gap** — the affix is recorded for what it explains
+about existing words, not for making new ones.
 
     python3 -c "import json,collections;d=json.load(open('readlex-affixes.json'));\
-    print(collections.Counter(r['pos'] for v in d.values() for r in v))"
+    print(sum(len(v) for v in d.values()),'records',\
+    collections.Counter(r['pos'] for v in d.values() for r in v),\
+    sum(1 for v in d.values() for r in v if r.get('productive')),'productive')"
 
-### `pos` on a suffix, when suffixes ship
+## Phonotactic conventions
 
-A suffix's `pos` names what it **produces**, not what it attaches to: `-ness` is
-`NN1` because it makes nouns, `-ish` is `AJ0` because it makes adjectives. A
-client wanting to build a noun from an adjective therefore looks for
-`NN1`-tagged suffixes. A prefix's `PRE` says only "prefix" and names nothing.
-
-Expect `UNC` to be common among harvested suffixes: where no source states what
-a suffix produces, the tag records that silence rather than a guess. **`UNC` is
-not a produced POS** — do not read it as one.
-
-### `productive`
-
-The field that would license generation. Ticked, a client may apply the affix to
-any stem of the right POS and trust the result; **absent, the record is a
-witness only** — it exists so a definition can be shown, and you must not
-generate from it. Absence is a positive statement, not a gap.
-
-**It is populated on no record today**, because the value is the owner's
-editorial judgement rather than anything the pipeline can measure. Until it
-appears, treat every affix as witness-only.
-
-## Reproducing pruned inflections
-
-A record is pruned only when **both** its Latin and its Shavian are derivable
-from its lemma. So for the seven tags below:
-
-> **Absence of a record is a positive claim: the regular form is correct, in
-> both scripts. Generate it.**
-
-An **attested irregular suppresses generation for its own POS slot only.**
-*children* ships, so generate no `NN2` for *child* — but a headword with an
-irregular plural still takes a regular past tense, and vice versa. The mask is
-per (lemma, POS), never per lemma. *fly* is the case to reason from: it carries
-irregular *flew* (`VVD`) and *flown* (`VVN`), and a client that let those
-suppress the whole headword would lose the perfectly regular *flies*. Apply the
-mask per slot and you get all three right.
-
-Every record carries a `lemma` link, so segmenting a derived form is a lookup,
-not a parse.
-
-    python3 -c "import json,collections;d=json.load(open('readlex.json'));\
-    print(collections.Counter(r['pos'] for v in d.values() for r in v\
-    if r['pos'] in ('NN2','VVZ','VVD','VVN','VVG','AJC','AJS')))"
+How the affix fuses to the stem — the part the two files cannot state entry by
+entry, and what the pruning bargain rests on. Seven tags take regular
+inflections: `NN2`, `VVZ`, `VVD`, `VVN`, `VVG`, `AJC`, `AJS`.
 
 ### Shavian
-
-Measured over the published set at 2026-08-20, the conditioning below is
-exceptionless within each environment.
 
 `-s` — `NN2`, `VVZ`:
 
@@ -131,16 +104,15 @@ exceptionless within each environment.
 | elsewhere | `𐑛` | *paddled* 𐑐𐑨𐑛𐑩𐑤𐑛 |
 
 **The epenthetic schwa voices the following obstruent.** Once a vowel is
-inserted, the ending is necessarily `𐑟` / `𐑛` — so the `-s` set is three
-allomorphs, not four, and there is **no `-𐑩𐑕`** and **no `-𐑩𐑑`**. Composing
-"insert a schwa after a sibilant" with "devoice after a voiceless obstruent" as
+inserted, the ending is necessarily `𐑟` / `𐑛` — so each set above is three
+allomorphs, and there is **no `-𐑩𐑕`** and **no `-𐑩𐑑`**. Composing "insert a
+schwa after a sibilant" with "devoice after a voiceless obstruent" as
 independent rules yields a fourth cell that does not exist. It looks like a 2×2
 grid; it is three cells.
 
-`-𐑩𐑕` *is* a real ending elsewhere — `-ness`, `-ess`, `-ous` (*politeness*
-𐑐𐑩𐑤𐑲𐑑𐑯𐑩𐑕, *abacus* 𐑨𐑚𐑩𐑒𐑩𐑕). There the schwa is **lexical**, part of the
-suffix itself, so nothing voices what follows. Same shape, different
-phenomenon.
+`-𐑩𐑕` *is* a real ending elsewhere — `-ess`, `-ous` (*politeness* 𐑐𐑩𐑤𐑲𐑑𐑯𐑩𐑕,
+*abacus* 𐑨𐑚𐑩𐑒𐑩𐑕). There the schwa is **lexical**, part of the suffix itself,
+so nothing voices what follows. Same shape, different phenomenon.
 
 The remaining three take one form each, with no allomorphy:
 
@@ -154,7 +126,10 @@ Note `AJS` carries its own schwa — `𐑩𐑕𐑑`, not `𐑕𐑑`.
 
 ### Latin
 
-Not symmetric with the Shavian, and not deterministic. Applied in this order:
+Not symmetric with the Shavian, and **set-valued**: English licenses more than
+one regular spelling for some stems, so generate the set and accept any member.
+Electing a favourite would call the other spelling irregular, which is a claim
+the data does not make.
 
 | Rule | Condition | Example |
 |---|---|---|
@@ -162,126 +137,42 @@ Not symmetric with the Shavian, and not deterministic. Applied in this order:
 | `y` → `i` | stem ends consonant + `y`; **blocked before `-ing`** | *carry* → *carried*, *carries*; but *carrying* |
 | silent-`e` deletion | stem ends `e`, before a vowel-initial suffix | *hope* → *hoping* |
 | consonant doubling | CVC-final **and final syllable stressed** | *permit* → *permitted*; *benefit* → *benefited* |
+| `-l` doubling | stem ends `l`, **unconditionally** | *travel* → *travelled*, *traveled* |
 
 **Doubling is conditioned on stress, not on letters.** *permit* and *benefit*
 end in the same three letter-shapes and behave oppositely. Stress must be read
 from the lemma's `ipa`; with no pronunciation available, no doubling is
 licensed. `qu` counts as the consonant it is spoken as, so *acquit* is CVC.
 
-**This rule is not exact.** Taken together, the four rules above reproduce about
-96% of the published inflected forms (measured 2026-08-20; the command below
-re-runs it). Two consequences a client must handle:
+**`-l` stems are the exception: they double regardless of stress.** *travelled*
+and *traveled* are both correct, one per variety, and `var` does **not**
+separate them — both sit under plain `RRP`. The Shavian is identical either
+way; doubling is a Latin-side phenomenon only.
 
-- **`-l` stems admit both spellings.** *travelled* and *traveled* are both
-  correct, one per variety, and `var` does **not** separate them — both sit
-  under plain `RRP`. Treat `-l` doubling as optional in both directions, and
-  note the Shavian is the same for both.
-- **The residue is real.** Because more than one spelling can be regular, the
-  pipeline's own test accepts a **set** of licensed spellings rather than
-  electing a favourite, and prunes only when the attested form is in that set.
-  *benefited* and *benefitted* both ship for this reason.
+## What the lexicon answers instead
 
-So: an absent record licenses you to generate the regular form; it does **not**
-guarantee your single guess matches what we would have written. Where a client
-needs certainty for a specific stem, generate the set and accept any member.
-
-To re-measure, with `src/tools` from
-[`shaw-spell-editor`](https://github.com/cozmic72/shaw-spell-editor) on the path
-— `latin_forms` is the rule as the pipeline applies it:
-
-```python
-import json, collections
-from inflection import latin_forms
-d = json.load(open("readlex.json"))
-ipa = {}
-for v in d.values():
-    for r in v:
-        ipa.setdefault((r["Latn"].lower(), r["pos"]), r.get("ipa", ""))
-res = collections.Counter()
-for v in d.values():
-    for r in v:
-        lem = r.get("lemma")
-        if r["pos"] not in ("NN2","VVZ","VVD","VVN","VVG","AJC","AJS") or not lem:
-            continue
-        b, f = lem["Latn"].lower(), r["Latn"].lower()
-        if not b.isalpha() or not f.isalpha():
-            continue
-        res[f in latin_forms(b, r["pos"], ipa.get((b, lem["pos"]), ""))] += 1
-print(res, res[True] / sum(res.values()))
-```
-
-### What not to derive
-
-**Stem alternations are lexical. Look them up; do not compute them.** Final
-`f`→`v` and `th`→`dh` alternate in some plurals and not others, and the stem's
-sounds do not predict which: *elf* → *elves* alternates while *belief* →
+**Stem alternations are lexical, so they are looked up rather than computed.**
+Final `f`→`v` and `th`→`dh` alternate in some plurals and not others, and the
+stem's sounds do not predict which: *elf* → *elves* alternates while *belief* →
 *beliefs* (𐑚𐑦𐑤𐑰𐑓𐑕) does not, though both stems end in the same 𐑓. *bath* →
-*baths* alternates; *month* → *months* does not. Roughly a fifth of eligible
-stems alternate, so a rule guessing either way is wrong most of the time it
-fires.
+*baths* alternates; *month* → *months* does not.
 
 *bath* also shows the alternation is per slot, not per stem: the noun plural is
 𐑚𐑭𐑞𐑟 while the verb `VVZ` of the same spelling is 𐑚𐑭𐑔𐑕.
 
-An inverse recognition rule is worse. "Final 𐑝𐑟 may be an f-stem plural" fires
-on several times more records than it should, most of them wrong.
+The guess is never needed, and this is the pruning bargain paying out. An
+alternating plural is not its stem plus any listed affix, so the pruner classes
+it irregular and **it always ships** — the lookup is guaranteed to be there.
+Generation happens only where the record is absent, and by construction those
+are the non-alternating cases.
 
-You never need the guess. An alternating plural is not its stem plus any listed
-affix, so the pruner classes it irregular and **it always ships** — the lookup
-is guaranteed to be there. Generate only where the record is absent, and by
-construction those are the non-alternating cases.
+**An attested irregular suppresses generation for its own POS slot only.**
+*children* ships, so *child* needs no generated `NN2` — but a headword with an
+irregular plural still takes a regular past tense, and vice versa. The mask is
+per (lemma, POS), never per lemma. *fly* is the case to reason from: it carries
+irregular *flew* (`VVD`) and *flown* (`VVN`), and a client that let those
+suppress the whole headword would lose the perfectly regular *flies*. Apply the
+mask per slot and you get all three right.
 
-```python
-import json, collections
-d = json.load(open("readlex.json"))
-alt = collections.Counter()
-for v in d.values():
-    for r in v:
-        lem = r.get("lemma")
-        if r["pos"] != "NN2" or not lem: continue
-        ls, s = lem["Shaw"], r["Shaw"]
-        if not ls.endswith("\U00010453"): continue          # stem ends f
-        if s.startswith(ls[:-1] + "\U0001045D"): alt["v"] += 1
-        elif s.startswith(ls): alt["f"] += 1
-print(alt)
-```
-
-### Worked examples
-
-*abatement* (`NN1`, 𐑩𐑚𐑱𐑑𐑥𐑩𐑯𐑑) — no `NN2` is published, so generate one:
-
-| Tag | Latin | Shavian | Rule |
-|---|---|---|---|
-| `NN2` | *abatements* | 𐑩𐑚𐑱𐑑𐑥𐑩𐑯𐑑𐑕 | stem ends 𐑑, voiceless → `𐑕`; plain `-s` |
-
-*permit* (`VVI`, 𐑐𐑼𐑥𐑦𐑑, `pəRˈmɪt`) — the full paradigm, and the doubling case:
-
-| Tag | Latin | Shavian | Rule |
-|---|---|---|---|
-| `VVZ` | *permits* | 𐑐𐑼𐑥𐑦𐑑𐑕 | stem ends 𐑑, voiceless → `𐑕` |
-| `VVD`/`VVN` | *permitted* | 𐑐𐑼𐑥𐑦𐑑𐑩𐑛 | stem ends 𐑑 → `𐑩𐑛` |
-| `VVG` | *permitting* | 𐑐𐑼𐑥𐑦𐑑𐑦𐑙 | invariant `𐑦𐑙` |
-
-Latin doubles: CVC-final and `ˈ` falls on the last syllable. *benefit*
-(`ˈbenɪfɪt`) is the same CVC shape with initial stress, so it does not double —
-though the published set attests *benefitted* alongside *benefited*, which is
-what the set-valued rule above is for. Note the Shavian is identical either way:
-doubling is a Latin-side phenomenon only.
-
-*box* (`NN1`, 𐑚𐑪𐑒𐑕) — the epenthesis case:
-
-| Tag | Latin | Shavian | Rule |
-|---|---|---|---|
-| `NN2` | *boxes* | 𐑚𐑪𐑒𐑕𐑩𐑟 | stem ends 𐑕, sibilant → `𐑩𐑟`; Latin takes `-es` |
-
-The epenthetic schwa forces `𐑟`; `𐑚𐑪𐑒𐑕𐑩𐑕` is not a possible form.
-
-### Known gaps
-
-- **Doubling's residue is not fully characterised.** The rule above is the one
-  the pipeline applies; the forms it misses are shipped rather than pruned, so
-  no data is lost — but a client generating from the rule alone will
-  occasionally differ from us on a stem where we would have shipped.
-- **Stress comes from the lemma's `ipa`.** A lemma with no pronunciation
-  licenses no doubling, so a regular doubled form under such a lemma is shipped
-  rather than pruned.
+Every record carries a `lemma` link, so segmenting a derived form is a lookup,
+not a parse.
