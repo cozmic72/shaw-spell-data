@@ -4,6 +4,10 @@ What the Shaw-Spell editor publishes: the Shavian lexicon and the editorial
 patches it was built from.
 
 - `readlex.json` — the published lexicon, 61,222 entries across 115,530 senses.
+- `readlex-affixes.json` — the bound forms (prefixes, suffixes, clitics), same
+  schema, kept apart so nothing reading the lexicon mistakes a fragment for a
+  word. What it holds, and the rules for attaching affixes and reproducing
+  regular inflections, are in [`docs/affixes.md`](docs/affixes.md).
 - `patches/patches.jsonl` — the editorial patch store. Each line records one
   decision, its author and its reasoning.
 

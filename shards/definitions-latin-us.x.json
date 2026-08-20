@@ -2,2020 +2,1449 @@
   "X chromosome|05450170-n": {
     "definition": "the sex chromosome that is present in both sexes: singly in males and doubly in females",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X ray|04107714-n": {
     "definition": "a radiogram made by exposing photographic film to X rays; used in medical diagnosis",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X ray|11547628-n": {
     "definition": "electromagnetic radiation of short wavelength produced when high-speed electrons strike a solid target",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X-OR circuit|04616711-n": {
     "definition": "gate for exclusive OR; a circuit in a computer that fires only if only one of its inputs fire",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X-SCID|14152833-n": {
     "definition": "SCID in male children resulting from mutation of a gene that codes for a protein on the surface of T cells that allows them to develop a growth factor receptor",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X-linked SCID|14152833-n": {
     "definition": "SCID in male children resulting from mutation of a gene that codes for a protein on the surface of T cells that allows them to develop a growth factor receptor",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X-linked dominant inheritance|04930476-n": {
     "definition": "hereditary pattern in which a dominant gene on the X chromosome causes a characteristic to be manifested in the offspring",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X-linked gene|05449505-n": {
     "definition": "a gene located on an X chromosome",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X-linked recessive inheritance|04930673-n": {
     "definition": "hereditary pattern in which a recessive gene on the X chromosome results in the manifestation of characteristics in male offspring and a carrier state in female offspring",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X-linked|03156978-a": {
     "definition": "relating to genes or characteristics or conditions carried on the X chromosome",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "X-radiation|00903014-n": {
     "definition": "obtaining images by the use of X rays",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X-radiation|11547628-n": {
     "definition": "electromagnetic radiation of short wavelength produced when high-speed electrons strike a solid target",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X-ray diffraction|11547837-n": {
     "definition": "the scattering of X rays by the atoms of a crystal; the diffraction pattern shows structure of the crystal",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X-ray film|04616888-n": {
     "definition": "photographic film used to make X-ray pictures",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X-ray machine|04617008-n": {
     "definition": "an apparatus that provides a source of X rays",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X-ray photography|00906321-n": {
     "definition": "radiography that uses X-rays to produce a roentgenogram",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X-ray photograph|04107714-n": {
     "definition": "a radiogram made by exposing photographic film to X rays; used in medical diagnosis",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X-ray picture|04107714-n": {
     "definition": "a radiogram made by exposing photographic film to X rays; used in medical diagnosis",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X-ray therapy|00707386-n": {
     "definition": "the therapeutic use of X rays",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X-ray tube|04617168-n": {
     "definition": "a vacuum tube containing a metal target onto which a beam of electrons is directed at high energy for the generation of X rays",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X-raying|00903014-n": {
     "definition": "obtaining images by the use of X rays",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X-ray|04107714-n": {
     "definition": "a radiogram made by exposing photographic film to X rays; used in medical diagnosis",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X-ray|11547628-n": {
     "definition": "electromagnetic radiation of short wavelength produced when high-speed electrons strike a solid target",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X-tail|92459287-n": {
     "definition": "an unconventional arrangement of the tail control surfaces that replaces the traditional fin and horizontal surfaces with four surfaces set in an X-shaped configuration when viewed from the front or rear of the aircraft.",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XC|13772437-n": {
     "definition": "the cardinal number that is the product of ten and nine",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XIII|13769339-n": {
     "definition": "the cardinal number that is the sum of twelve and one",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XII|13768925-n": {
     "definition": "the cardinal number that is the sum of eleven and one",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XIV|13769488-n": {
     "definition": "the cardinal number that is the sum of thirteen and one",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XIX|13770129-n": {
     "definition": "the cardinal number that is the sum of eighteen and one",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XI|13768812-n": {
     "definition": "the cardinal number that is the sum of ten and one",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XL|13771667-n": {
     "definition": "the cardinal number that is the product of ten and four",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XOR circuit|04616711-n": {
     "definition": "gate for exclusive OR; a circuit in a computer that fires only if only one of its inputs fire",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XOR gate|04616711-n": {
     "definition": "gate for exclusive OR; a circuit in a computer that fires only if only one of its inputs fire",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XTC|02681592-n": {
     "definition": "street names for methylenedioxymethamphetamine",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XT|07445847-n": {
     "definition": "the presence of an unwanted signal via an accidental coupling",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XVIII|13770005-n": {
     "definition": "the cardinal number that is the sum of seventeen and one",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XVII|13769865-n": {
     "definition": "the cardinal number that is the sum of sixteen and one",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XVI|13769746-n": {
     "definition": "the cardinal number that is the sum of fifteen and one",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XV|13769609-n": {
     "definition": "the cardinal number that is the sum of fourteen and one",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XXIII|13770633-n": {
     "definition": "the cardinal number that is the sum of twenty-two and one",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XXII|13770507-n": {
     "definition": "the cardinal number that is the sum of twenty-one and one",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XXIV|13770762-n": {
     "definition": "the cardinal number that is the sum of twenty-three and one",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XXIX|13771418-n": {
     "definition": "the cardinal number that is the sum of twenty-eight and one",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XXI|13770386-n": {
     "definition": "the cardinal number that is the sum of twenty and one",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XXVIII|13771286-n": {
     "definition": "the cardinal number that is the sum of twenty-seven and one",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XXVII|13771157-n": {
     "definition": "the cardinal number that is the sum of twenty-six and one",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XXVI|13771030-n": {
     "definition": "the cardinal number that is the sum of twenty-five and one",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XXV|13770903-n": {
     "definition": "the cardinal number that is the sum of twenty-four and one",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XXX|05450492-n": {
     "definition": "(genetics) abnormal complement of three X chromosomes in a female",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XXX|13771547-n": {
     "definition": "the cardinal number that is the product of ten and three",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XXY-syndrome|14329902-n": {
     "definition": "syndrome in males that is characterized by small testes and long legs and enlarged breasts and reduced sperm production and mental retardation; a genetic defect in which an extra X chromosome (XXY) is present in the male",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XXY|05450626-n": {
     "definition": "(genetics) abnormal complement of sex hormones in a male resulting in Klinefelter's syndrome",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XX|05450365-n": {
     "definition": "(genetics) normal complement of sex chromosomes in a female",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XX|13770268-n": {
     "definition": "the cardinal number that is the sum of nineteen and one",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XYY|05450909-n": {
     "definition": "(genetics) abnormal complement of sex hormones in a male who has two Y chromosomes",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "XY|05450787-n": {
     "definition": "(genetics) normal complement of sex hormones in a male",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xanax|02702202-n": {
     "definition": "an antianxiety agent (trade name Xanax) of the benzodiazepine class",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xanthium|12053408-n": {
     "definition": "coarse herbs having small heads of greenish flowers followed by burrs with hooked bristles",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xanthomonas|01364106-n": {
     "definition": "a genus of bacteria similar to Pseudomonas but producing a yellow pigment that is not soluble in water",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xanthophyceae|01403413-n": {
     "definition": "yellow-green algae",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xanthorrhoeaceae|12486301-n": {
     "definition": "one of many subfamilies into which some classification systems subdivide the Liliaceae but not widely accepted, comprising three subfamilies: Asphodeloideae, Hemerocallidoideae and Xanthorrhoeoideae (Xanthorrhoeaceae)",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xanthorroea|12486539-n": {
     "definition": "grass trees; sometimes placed in family Xanthorrhoeaceae",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xanthosoma atrovirens|11813872-n": {
     "definition": "tropical American aroid having edible tubers that are cooked and eaten like yams or potatoes",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xanthosoma sagittifolium|11813872-n": {
     "definition": "tropical American aroid having edible tubers that are cooked and eaten like yams or potatoes",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xanthosoma|11813721-n": {
     "definition": "tropical American tuberous perennials",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xantusiidae|01686069-n": {
     "definition": "night lizards",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xavier|11421005-n": {
     "definition": "Spanish missionary and Jesuit who establish missionaries in Japan and Ceylon and the East Indies (1506-1552)",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xenarthra|02456521-n": {
     "definition": "armadillos; American anteaters; sloths",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xenicidae|01590813-n": {
     "definition": "alternative names for the family comprising the New Zealand wrens",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xenicus gilviventris|01591366-n": {
     "definition": "short-tailed bird resembling a wren",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xenicus|01591230-n": {
     "definition": "type genus for the Xenicidae",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xenophanes|11421190-n": {
     "definition": "Greek philosopher (560-478 BC)",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xenophon|11421278-n": {
     "definition": "Greek general and historian; student of Socrates (430-354 BC)",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xenopodidae|01656886-n": {
     "definition": "in some classifications the family of the genus Xenopus which is otherwise included in the family Pipidae",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xenopus laevis|01657278-n": {
     "definition": "a tongueless frog native to Africa; established in the United States as result of release of laboratory and aquarium animals",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xenopus|01657070-n": {
     "definition": "an African clawed frog; in some classifications made the type genus of a separate family Xenopodidae",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xenorhyncus asiaticus|02007146-n": {
     "definition": "large mostly white Australian stork",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xenorhyncus|02006997-n": {
     "definition": "East Indian and Australian storks",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xenosauridae|01693344-n": {
     "definition": "monotypic family of Mexican lizards",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xenosaurus|01693498-n": {
     "definition": "type and sole genus of Xenosauridae: slender-bodied Mexican lizards having the upper surface covered with tiny granules and tubercles",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xeranthemum annuum|12054178-n": {
     "definition": "mostly widely cultivated species of everlasting flowers having usually purple flowers; southern Europe to Iran; naturalized elsewhere",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xerobates|01673953-n": {
     "definition": "possible new genus for desert and Texas tortoises based on recent research",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xerophyllum tenax|12486062-n": {
     "definition": "plant of western North America having woody rhizomes and tufts of stiff grasslike basal leaves and spikes of creamy white flowers",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xerophyllum|12485826-n": {
     "definition": "small genus of North American herbs having grasslike basal leaves: squaw grass; sometimes placed in family Melanthiaceae",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xerox machine|04616281-n": {
     "definition": "a duplicator (trade mark Xerox) that copies graphic matter by the action of light on an electrically charged photoconductive insulating surface in which the latent image is developed with a resinous powder",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xerox|04616281-n": {
     "definition": "a duplicator (trade mark Xerox) that copies graphic matter by the action of light on an electrically charged photoconductive insulating surface in which the latent image is developed with a resinous powder",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xerxes I|11421414-n": {
     "definition": "king of Persia who led a vast army against Greece and won the battle of Thermopylae but was eventually defeated (518-465 BC)",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xerxes the Great|11421414-n": {
     "definition": "king of Persia who led a vast army against Greece and won the battle of Thermopylae but was eventually defeated (518-465 BC)",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xestobium rufovillosum|02180427-n": {
     "definition": "bores through wood making a ticking sound popularly thought to presage death",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xe|14685453-n": {
     "definition": "a colorless odorless inert gaseous element occurring in the earth's atmosphere in trace amounts",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xhosa language|07007360-n": {
     "definition": "a Bantu language closely related to Zulu, it is the second most common home language in South Africa",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xhosa|07007360-n": {
     "definition": "a Bantu language closely related to Zulu, it is the second most common home language in South Africa",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xhosa|08506295-n": {
     "definition": "a community of Negroid people in southern South Africa",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xhosa|09770827-n": {
     "definition": "a member of the Negroid people of southern South Africa",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xi'an|08747285-n": {
     "definition": "a city of central China; capital of ancient Chinese empire 221-206 BC",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xian|08747285-n": {
     "definition": "a city of central China; capital of ancient Chinese empire 221-206 BC",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Ximenesia encelioides|12051608-n": {
     "definition": "coarse greyish-green annual yellow-flowered herb; southwestern United States to Mexico",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xinhai Revolution|01306073-n": {
     "definition": "the republican revolution against the Manchu dynasty in China; 1911-1912",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xinjiang Uighur Autonomous Region|08747459-n": {
     "definition": "an autonomous province in far northwestern China on the border with Mongolia and Kazakhstan; the largest province in the People's Republic of China and the homeland of the Uighur people",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xinjiang|08747459-n": {
     "definition": "an autonomous province in far northwestern China on the border with Mongolia and Kazakhstan; the largest province in the People's Republic of China and the homeland of the Uighur people",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xiphias gladius|02632346-n": {
     "definition": "large toothless marine food fish with a long swordlike upper jaw; not completely cold-blooded i.e. they are able to warm their brains and eyes: worldwide in warm waters but feed on cold ocean floor coming to surface at night",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xiphias|02632211-n": {
     "definition": "type genus of the Xiphiidae",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xiphiidae|02632065-n": {
     "definition": "comprising the common swordfishes",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xiphosura|01790042-n": {
     "definition": "horseshoe crabs and extinct forms",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xiphosurus polyphemus|01790476-n": {
     "definition": "large marine arthropod of the Atlantic coast of North America having a domed carapace that is shaped like a horseshoe and a stiff pointed tail; a living fossil related to the wood louse",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xishuangbanna Dai|06948091-n": {
     "definition": "a branch of the Tai languages, spoken in Southern Yunnan Province, Xishuangbanna Dai autonomous prefecture, 3 counties: Jinghong (Chiang Hung, Chien Rung), Menghai, and Mengla, also a few in Simao municipal prefecture, Jiangcheng Hani and Yi Autonomous counties",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xizang|08926725-n": {
     "definition": "an autonomous region of the Peoples Republic of China; located in the Himalayas",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xmas|15221021-n": {
     "definition": "a Christian holiday celebrating the birth of Christ; a quarter day in England, Wales, and Ireland",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xylaria mali|12987564-n": {
     "definition": "fungus causing black root rot in apples",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xylaria polymorpha|12987705-n": {
     "definition": "the fruiting bodies of the fungi of the genus Xylaria",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xylariaceae|12987146-n": {
     "definition": "family of fungi characterized by dark brown to black spores",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xylaria|12987341-n": {
     "definition": "type genus of Xylariaceae; fungi with perithecia in the upper part of erect black woody stromata",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xylocaine|03667342-n": {
     "definition": "a local anesthetic (trade names Lidocaine and Xylocaine) used topically on the skin and mucous membranes",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xylocopa|02211882-n": {
     "definition": "carpenter bees",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xylomelum pyriforme|12244657-n": {
     "definition": "tree bearing pear-shaped fruit with a thick woody epicarp",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xylomelum|12244467-n": {
     "definition": "small species of Australian trees or shrubs; grown for their fruit and flowers",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xylopia aethiopica|11717404-n": {
     "definition": "tropical west African evergreen tree bearing pungent aromatic seeds used as a condiment and in folk medicine",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xylopia|11717245-n": {
     "definition": "tropical evergreen trees or shrubs; chiefly African",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xylosma congestum|12401612-n": {
     "definition": "shrub or small tree grown as an ornamental in mild climates for its neat evergreen foliage and fragrant late flowers; native of China",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xyphophorus helleri|01450932-n": {
     "definition": "freshwater fish of Central America having a long swordlike tail; popular aquarium fish",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xyphophorus|01450806-n": {
     "definition": "swordtails",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xyridaceae|12626076-n": {
     "definition": "plants of tropical to temperate regions; usually in wet places",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xyridales|12625780-n": {
     "definition": "an order of monocotyledonous herbs",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xyris operculata|12626633-n": {
     "definition": "of Australia",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "Xyris|12626280-n": {
     "definition": "chiefly American marsh plants, having usually yellow flowers",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X|02681592-n": {
     "definition": "street names for methylenedioxymethamphetamine",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X|06846713-n": {
     "definition": "the 24th letter of the Roman alphabet",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "X|13768652-n": {
     "definition": "the cardinal number that is the sum of nine and one; the base of the decimal system",
     "examples": [],
-    "pos": "n"
-  },
-  "x disease|wikt-1": {
-    "confidence": 80,
-    "definition": "Alternative form of X-disease.",
-    "examples": [],
     "pos": "n",
-    "source": "generated"
-  },
-  "x's|wikt-1": {
-    "confidence": 100,
-    "definition": "plural of x",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "x's|wikt-2": {
-    "confidence": 100,
-    "definition": "plural of X",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
+    "accepted": true
   },
   "x-axis|06018582-n": {
     "definition": "the horizontal axis in a plane coordinate system",
     "examples": [],
-    "pos": "n"
-  },
-  "x-disease|wikt-1": {
-    "confidence": 80,
-    "definition": "Any of various diseases of plants or animals whose origin was at first a mystery, especially:",
-    "examples": [],
-    "pos": "name",
-    "source": "generated"
-  },
-  "x-disease|wikt-2": {
-    "confidence": 80,
-    "definition": "Any of various diseases of plants or animals whose origin was at first a mystery, especially:",
-    "examples": [],
-    "pos": "name",
-    "source": "generated"
-  },
-  "x-rayed|wikt-1": {
-    "confidence": 100,
-    "definition": "simple past and past participle of X-ray",
-    "examples": [],
-    "pos": "v",
-    "source": "generated"
-  },
-  "x-rayed|wikt-2": {
-    "confidence": 100,
-    "definition": "simple past and past participle of x-ray",
-    "examples": [],
-    "pos": "v",
-    "source": "generated"
-  },
-  "x-raying|wikt-1": {
-    "confidence": 95,
-    "definition": "present participle and gerund of X-ray",
-    "examples": [],
-    "pos": "v",
-    "source": "generated"
-  },
-  "x-raying|wikt-2": {
-    "confidence": 95,
-    "definition": "present participle and gerund of x-ray",
-    "examples": [],
-    "pos": "v",
-    "source": "generated"
-  },
-  "x-rays|wikt-1": {
-    "confidence": 100,
-    "definition": "plural of X-ray",
-    "examples": [],
     "pos": "n",
-    "source": "generated"
-  },
-  "x-rays|wikt-2": {
-    "confidence": 95,
-    "definition": "third-person singular simple present indicative of X-ray",
-    "examples": [],
-    "pos": "v",
-    "source": "generated"
-  },
-  "x-rays|wikt-3": {
-    "confidence": 100,
-    "definition": "plural of x-ray",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "x-rays|wikt-4": {
-    "confidence": 95,
-    "definition": "third-person singular simple present indicative of x-ray",
-    "examples": [],
-    "pos": "v",
-    "source": "generated"
+    "accepted": true
   },
   "x-ray|01005930-v": {
     "definition": "take an x-ray of something or somebody",
     "examples": [],
-    "pos": "v"
+    "pos": "v",
+    "accepted": true
   },
   "x-ray|02154216-v": {
     "definition": "examine by taking x-rays",
     "examples": [],
-    "pos": "v"
-  },
-  "x-sampa|wikt-1": {
-    "confidence": 80,
-    "definition": "A SAMPA-inspired transcription of the entire International Phonetic Alphabet (IPA) into ASCII.",
-    "examples": [],
-    "pos": "name",
-    "source": "generated"
+    "pos": "v",
+    "accepted": true
   },
   "x64|90007891-n": {
     "definition": "the 64-bit version of the x86 architecture",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "x86|90007211-n": {
     "definition": "a computer architecture based on the Intel 8086 chip",
     "examples": [],
-    "pos": "n"
-  },
-  "xamar|wikt-1": {
-    "confidence": 80,
-    "definition": "Mogadishu (the capital city of Somalia).",
-    "examples": [],
-    "pos": "name",
-    "source": "generated"
-  },
-  "xanadu|wikt-1": {
-    "confidence": 65,
-    "definition": "The summer capital of the Yuan dynasty, now an archaeological site in Zhenglan, Xilingol, Inner Mongolia, China.",
-    "examples": [],
-    "pos": "name",
-    "source": "generated"
-  },
-  "xanadu|wikt-2": {
-    "confidence": 80,
-    "definition": "A place full of beauty, happiness and wonder.",
-    "examples": [],
     "pos": "n",
-    "source": "generated"
-  },
-  "xanadu|wikt-3": {
-    "confidence": 80,
-    "definition": "An opulent building or resort that provides entertainment or luxurious living.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xanatos|wikt-1": {
-    "confidence": 80,
-    "definition": "A male given name used in modern fiction.",
-    "examples": [],
-    "pos": "name",
-    "source": "generated"
-  },
-  "xanbie|wikt-1": {
-    "confidence": 59,
-    "definition": "Someone who acts like a zombie after consuming large quantities of Xanax or other benzodiazepines, often in combination with alcohol.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xander|wikt-1": {
-    "confidence": 59,
-    "definition": "A diminutive of the male given name Alexander, from Ancient Greek, of modern usage.",
-    "examples": [],
-    "pos": "name",
-    "source": "generated"
+    "accepted": true
   },
   "xanthate|15137395-n": {
     "definition": "a salt or ester of xanthic acid",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xanthelasma|14256637-n": {
     "definition": "xanthoma of the eyelids; occurs chiefly in the elderly",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xanthemia|14590187-n": {
     "definition": "excess carotene in the blood stream; can cause the skin to turn a pale yellow or red color",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xanthic acid|15137499-n": {
     "definition": "any of a class of unstable organic acids containing sulphur",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xanthine|15137617-n": {
     "definition": "crystalline oxidation product of the metabolism of nucleoproteins; precursor of uric acid; found in many organs and in urine",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xanthoma disseminatum|14257027-n": {
     "definition": "rare chronic xanthoma of adults in which orange or brownish papules develop on many surfaces of the body",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xanthoma multiplex|14257199-n": {
     "definition": "widespread xanthomas (especially on elbows and knees); often associated with a disorder of lipid metabolism",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xanthomatosis|14257199-n": {
     "definition": "widespread xanthomas (especially on elbows and knees); often associated with a disorder of lipid metabolism",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xanthoma|14256749-n": {
     "definition": "a skin problem marked by the development (on the eyelids and neck and back) of irregular yellow nodules; sometimes attributable to disturbances of cholesterol metabolism",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xanthomonad|01364324-n": {
     "definition": "bacteria producing yellow non-water-soluble pigments; some pathogenic for plants",
     "examples": [],
-    "pos": "n"
-  },
-  "xanthone|wikt-1": {
-    "confidence": 80,
-    "definition": "An aromatic ketone, 9-oxo-xanthene, that is used as an insecticide.",
-    "examples": [],
     "pos": "n",
-    "source": "generated"
+    "accepted": true
   },
   "xanthophyll|14745796-n": {
     "definition": "yellow carotenoid pigments in plants and animal fats and egg yolks",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xanthophyl|14745796-n": {
     "definition": "yellow carotenoid pigments in plants and animal fats and egg yolks",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xanthopsia|14597737-n": {
     "definition": "visual defect in which objects appear to have a yellowish hue; sometimes occurs in cases of jaundice",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xanthosis|14257456-n": {
     "definition": "an abnormal yellow discoloration of the skin",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xanthous|00386818-s": {
     "definition": "of the color intermediate between green and orange in the color spectrum; of something resembling the color of an egg yolk",
     "examples": [],
-    "pos": "a"
-  },
-  "xbone|wikt-1": {
-    "confidence": 80,
-    "definition": "Abbreviation of Xbox One.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xbone|wikt-2": {
-    "confidence": 100,
-    "definition": "Synonym of Xbox.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xbone|wikt-3": {
-    "confidence": 80,
-    "definition": "Synonym of Xbox One.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xbox|wikt-1": {
-    "confidence": 80,
-    "definition": "Any of the home consoles in Microsoft's Xbox product line, especially the original Xbox.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xbox|wikt-2": {
-    "confidence": 80,
-    "definition": "To play a video game using an Xbox home console.",
-    "examples": [],
-    "pos": "v",
-    "source": "generated"
-  },
-  "xbox|wikt-3": {
-    "confidence": 100,
-    "definition": "Misspelling of Xbox.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
+    "pos": "a",
+    "accepted": true
   },
   "xciii|02203062-s": {
     "definition": "being three more than ninety",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xcii|02202967-s": {
     "definition": "being two more than ninety",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xciv|02203162-s": {
     "definition": "being four more than ninety",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xci|02202873-s": {
     "definition": "being one more than ninety",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xcl|02205856-s": {
     "definition": "being ten more than one hundred eighty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xcviii|02203550-s": {
     "definition": "being eight more than ninety",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xcvii|02203450-s": {
     "definition": "being seven more than ninety",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xcvi|02203355-s": {
     "definition": "being six more than ninety",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xcv|02203259-s": {
     "definition": "being five more than ninety",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xc|02202784-s": {
     "definition": "being ten more than eighty",
     "examples": [],
-    "pos": "a"
-  },
-  "xebec|wikt-1": {
-    "confidence": 7,
-    "definition": "A small two-masted, and later three-masted, Mediterranean transport ship with an overhanging bow and stern.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xenagogue|wikt-1": {
-    "confidence": 59,
-    "definition": "One who guides strangers; a guide or tour guide.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xena|wikt-1": {
-    "confidence": 59,
-    "definition": "A female given name from Ancient Greek of modern usage.",
-    "examples": [],
-    "pos": "name",
-    "source": "generated"
-  },
-  "xena|wikt-2": {
-    "confidence": 100,
-    "definition": "Eris (dwarf planet)",
-    "examples": [],
-    "pos": "name",
-    "source": "generated"
-  },
-  "xena|wikt-3": {
-    "confidence": 82,
-    "definition": "A tough, physical, confident woman.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xenelasia|wikt-1": {
-    "confidence": 90,
-    "definition": "Synonym of xenelasy (“the practice of expelling foreigners in Doric Crete and Lacedaemonia”).",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xenelasy|wikt-1": {
-    "confidence": 90,
-    "definition": "The practice of expelling foreigners in Doric Crete and Lacedaemonia.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xenium|wikt-1": {
-    "confidence": 82,
-    "definition": "A gift or offering.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xenium|wikt-2": {
-    "confidence": 82,
-    "definition": "A gift or offering.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xennial|wikt-1": {
-    "confidence": 80,
-    "definition": "A person born late in Generation X or early in Generation Y, that is, sometime in the late 1970s or early 1980s; a member of the Oregon Trail Generation.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xennial|wikt-2": {
-    "confidence": 80,
-    "definition": "Alternative letter-case form of xennial.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xenobiology|wikt-1": {
-    "confidence": 80,
-    "definition": "The speculative biology of extraterrestrial life forms.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xenobiology|wikt-2": {
-    "confidence": 80,
-    "definition": "The biology of life forms with nonstandard biochemistry or codes, including synthetic life and mirror life.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xenoclitic|wikt-1": {
-    "confidence": 80,
-    "definition": "Having an inflection and stress pattern characteristic of European vocabulary.",
-    "examples": [],
     "pos": "a",
-    "source": "generated"
-  },
-  "xenodochium|wikt-1": {
-    "confidence": 82,
-    "definition": "A room (or separate guesthouse) in a monastery for the temporary accommodation of guests or pilgrims.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xenogender|wikt-1": {
-    "confidence": 82,
-    "definition": "A non-binary gender that is defined not in relation to male or female but by characteristics connected to a thing or concept.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
+    "accepted": true
   },
   "xenogeneic|02606374-a": {
     "definition": "denoting or relating to cells or tissues from individuals belonging to different species",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xenogenesis|11444308-n": {
     "definition": "the alternation of two or more different forms in the life cycle of a plant or animal",
     "examples": [],
-    "pos": "n"
-  },
-  "xenogenous|wikt-1": {
-    "confidence": 80,
-    "definition": "Of foreign origin; xenogenic.",
-    "examples": [],
-    "pos": "a",
-    "source": "generated"
-  },
-  "xenogenous|wikt-2": {
-    "confidence": 80,
-    "definition": "Caused by a foreign body; originating outside the organism.",
-    "examples": [],
-    "pos": "a",
-    "source": "generated"
+    "pos": "n",
+    "accepted": true
   },
   "xenograft|05591274-n": {
     "definition": "tissue from an animal of one species used as a temporary graft (as in cases of severe burns) on an individual of another species",
     "examples": [],
-    "pos": "n"
-  },
-  "xenointoxication|wikt-1": {
-    "confidence": 80,
-    "definition": "A form of pest control in which an ectoparasite's host animal is dosed with a substance that is poisonous to the parasite.",
-    "examples": [],
     "pos": "n",
-    "source": "generated"
-  },
-  "xenolalia|wikt-1": {
-    "confidence": 80,
-    "definition": "The ability to speak in a language which the individual has not learned.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
+    "accepted": true
   },
   "xenolith|09504250-n": {
     "definition": "(geology) a piece of rock of different origin from the igneous rock in which it is embedded",
     "examples": [],
-    "pos": "n"
-  },
-  "xenology|wikt-1": {
-    "confidence": 80,
-    "definition": "The study of alien life.",
-    "examples": [],
     "pos": "n",
-    "source": "generated"
-  },
-  "xenology|wikt-2": {
-    "confidence": 80,
-    "definition": "Homology from horizontal gene transfer.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xenomorph|wikt-1": {
-    "confidence": 80,
-    "definition": "A strange form, an alien creature.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xenomorph|wikt-2": {
-    "confidence": 80,
-    "definition": "An allotriomorph.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
+    "accepted": true
   },
   "xenon|14685453-n": {
     "confidence": 82,
     "definition": "a colorless odorless inert gaseous element occurring in the earth's atmosphere in trace amounts",
     "examples": [],
     "pos": "n",
-    "source": "wordnet"
-  },
-  "xenophilia|wikt-1": {
-    "confidence": 80,
-    "definition": "An attraction to or love of foreign people, manners or culture.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xenophilia|wikt-2": {
-    "confidence": 100,
-    "definition": "Love (especially sexual love) between humans and extraterrestrials.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xenophobe|wikt-1": {
-    "confidence": 59,
-    "definition": "One who hates or fears strangers or foreigners.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xenophobe|wikt-2": {
-    "confidence": 59,
-    "definition": "One who hates or fears extraterrestial life.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
+    "source": "wordnet",
+    "accepted": true
   },
   "xenophobia|14409427-n": {
     "definition": "a fear of foreigners or strangers",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xenophobic|00081983-s": {
     "definition": "suffering from xenophobia; having abnormal fear or hatred of the strange or foreign",
     "examples": [],
-    "pos": "a"
-  },
-  "xenophone|wikt-1": {
-    "confidence": 80,
-    "definition": "A sound in speech that is not native to the language being spoken; a sound from a foreign language.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xenophonian|wikt-1": {
-    "confidence": 59,
-    "definition": "Of or relating to Xenophon, an Ancient Greek historian, soldier, and philosopher.",
-    "examples": [],
     "pos": "a",
-    "source": "generated"
-  },
-  "xenophontic|wikt-1": {
-    "confidence": 80,
-    "definition": "Of or relating to the language or style of Xenophon.",
-    "examples": [],
-    "pos": "a",
-    "source": "generated"
-  },
-  "xenophyophore|wikt-1": {
-    "confidence": 80,
-    "definition": "A giant unicellular organism found in deep parts of the ocean.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
+    "accepted": true
   },
   "xenotime|15130522-n": {
     "definition": "a brown-to-yellow mineral that is a phosphate of yttrium in crystalline form",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xenotransplantation|01270764-n": {
     "definition": "a surgical procedure in which tissue or whole organs are transferred from one species to another species",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xenotransplant|01270764-n": {
     "definition": "a surgical procedure in which tissue or whole organs are transferred from one species to another species",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xeranthemum|12053973-n": {
     "definition": "any plant of the genus Xeranthemum native to southern Europe having chaffy or silvery flower heads with purplish tubular flowers",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xeric|02599077-a": {
     "definition": "being deficient in moisture",
     "examples": [],
-    "pos": "a"
-  },
-  "xeriscape|wikt-1": {
-    "confidence": 82,
-    "definition": "A kind of landscape design for arid regions, minimising the need for irrigation.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xeriscape|wikt-2": {
-    "confidence": 82,
-    "definition": "To landscape in a water-friendly manner.",
-    "examples": [],
-    "pos": "v",
-    "source": "generated"
-  },
-  "xerocracy|wikt-1": {
-    "confidence": 100,
-    "definition": "Political influence achieved by copying and distributing leaflets and similar material.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
+    "pos": "a",
+    "accepted": true
   },
   "xeroderma pigmentosum|14561337-n": {
     "definition": "a rare genetic condition characterized by an eruption of exposed skin occurring in childhood and photosensitivity with severe sunburn; inherited as a recessive autosomal trait in which DNA repair processes are defective so they are more likely to chromosome breaks and cancers when exposed to ultraviolet light",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xeroderma|14561165-n": {
     "definition": "a mild form of ichthyosis characterized by abnormal dryness and roughness of the skin",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xerodermia|14561165-n": {
     "definition": "a mild form of ichthyosis characterized by abnormal dryness and roughness of the skin",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xerographic copier|04616281-n": {
     "definition": "a duplicator (trade mark Xerox) that copies graphic matter by the action of light on an electrically charged photoconductive insulating surface in which the latent image is developed with a resinous powder",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xerographic printer|04616167-n": {
     "definition": "a page printer that uses the xerographic process",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xerographic|03142526-a": {
     "definition": "of or relating to xerography",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xerography|00906602-n": {
     "definition": "forming an image by the action of light on a specially coated charged plate; the latent image is developed with powders that adhere only to electrically charged areas",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xeroma|14561715-n": {
     "definition": "abnormal dryness of the conjunctiva and cornea of the eyes; may be due to a systemic deficiency of vitamin A",
     "examples": [],
-    "pos": "n"
-  },
-  "xerophagy|wikt-1": {
-    "confidence": 80,
-    "definition": "A restrictive diet (of bread and water, for example) as a punishment or religious form of discipline.",
-    "examples": [],
     "pos": "n",
-    "source": "generated"
+    "accepted": true
   },
   "xerophile|13141863-n": {
     "definition": "plant adapted for life with a limited supply of water; compare hydrophyte and mesophyte",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xerophilous plant|13141863-n": {
     "definition": "plant adapted for life with a limited supply of water; compare hydrophyte and mesophyte",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xerophthalmia|14561715-n": {
     "definition": "abnormal dryness of the conjunctiva and cornea of the eyes; may be due to a systemic deficiency of vitamin A",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xerophthalmus|14561715-n": {
     "definition": "abnormal dryness of the conjunctiva and cornea of the eyes; may be due to a systemic deficiency of vitamin A",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xerophyte|13141863-n": {
     "definition": "plant adapted for life with a limited supply of water; compare hydrophyte and mesophyte",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xerophytic plant|13141863-n": {
     "definition": "plant adapted for life with a limited supply of water; compare hydrophyte and mesophyte",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xerophytic|02599230-s": {
     "definition": "adapted to a xeric (or dry) environment",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xeroradiography|00906890-n": {
     "definition": "radiography using X-rays and xerographic (rather than roentgenographic) techniques",
     "examples": [],
-    "pos": "n"
-  },
-  "xerosol|wikt-1": {
-    "confidence": 82,
-    "definition": "A very dry soil.",
-    "examples": [],
     "pos": "n",
-    "source": "generated"
+    "accepted": true
   },
   "xerostomia|14561931-n": {
     "definition": "abnormal dryness of the mouth resulting from decreased secretion of saliva",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xerotes|14560040-n": {
     "definition": "the condition of not containing or being covered by a liquid (especially water)",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xerox copy|04616593-n": {
     "definition": "a copy made by a xerographic copier",
     "examples": [],
-    "pos": "n"
-  },
-  "xeroxed|wikt-1": {
-    "confidence": 100,
-    "definition": "simple past and past participle of xerox",
-    "examples": [],
-    "pos": "v",
-    "source": "generated"
-  },
-  "xeroxed|wikt-2": {
-    "confidence": 100,
-    "definition": "simple past and past participle of Xerox",
-    "examples": [],
-    "pos": "v",
-    "source": "generated"
-  },
-  "xeroxes|wikt-1": {
-    "confidence": 100,
-    "definition": "plural of xerox",
-    "examples": [],
     "pos": "n",
-    "source": "generated"
-  },
-  "xeroxes|wikt-2": {
-    "confidence": 95,
-    "definition": "third-person singular simple present indicative of xerox",
-    "examples": [],
-    "pos": "v",
-    "source": "generated"
-  },
-  "xeroxes|wikt-3": {
-    "confidence": 100,
-    "definition": "plural of Xerox",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xeroxes|wikt-4": {
-    "confidence": 95,
-    "definition": "third-person singular simple present indicative of Xerox",
-    "examples": [],
-    "pos": "v",
-    "source": "generated"
-  },
-  "xeroxing|wikt-1": {
-    "confidence": 95,
-    "definition": "present participle and gerund of xerox",
-    "examples": [],
-    "pos": "v",
-    "source": "generated"
-  },
-  "xeroxing|wikt-2": {
-    "confidence": 95,
-    "definition": "present participle and gerund of Xerox",
-    "examples": [],
-    "pos": "v",
-    "source": "generated"
+    "accepted": true
   },
   "xerox|01740180-v": {
     "definition": "reproduce by xerography",
     "examples": [],
-    "pos": "v"
+    "pos": "v",
+    "accepted": true
   },
   "xerox|04616593-n": {
     "definition": "a copy made by a xerographic copier",
     "examples": [],
-    "pos": "n"
-  },
-  "xerxes|wikt-1": {
-    "confidence": 50,
-    "definition": "Xerxes I, a Persian king of the Achaemenid dynasty who reigned 485-465 BC.",
-    "examples": [],
-    "pos": "name",
-    "source": "generated"
-  },
-  "xerxes|wikt-2": {
-    "confidence": 59,
-    "definition": "Xerxes II, a Persian king who ruled for 45 days in 424 BC before being assassinated.",
-    "examples": [],
-    "pos": "name",
-    "source": "generated"
-  },
-  "xerxes|wikt-3": {
-    "confidence": 80,
-    "definition": "A male given name from Old Persian mainly applied to historical and fictional characters.",
-    "examples": [],
-    "pos": "name",
-    "source": "generated"
-  },
-  "xhitter|wikt-1": {
-    "confidence": 100,
-    "definition": "Twitter.",
-    "examples": [],
-    "pos": "name",
-    "source": "generated"
-  },
-  "xiaolongbao|wikt-1": {
-    "confidence": 65,
-    "definition": "A type of dumpling or steamed bun (baozi) associated with eastern China, particularly Nanxiang near Shanghai.",
-    "examples": [],
     "pos": "n",
-    "source": "generated"
-  },
-  "xia|wikt-1": {
-    "confidence": 65,
-    "definition": "An ancient dynasty in China.",
-    "examples": [],
-    "pos": "name",
-    "source": "generated"
-  },
-  "xia|wikt-2": {
-    "confidence": 82,
-    "definition": "A surname.",
-    "examples": [],
-    "pos": "name",
-    "source": "generated"
-  },
-  "xia|wikt-3": {
-    "confidence": 65,
-    "definition": "A county of Yuncheng, Shanxi, China.",
-    "examples": [],
-    "pos": "name",
-    "source": "generated"
+    "accepted": true
   },
   "xiii|02195245-s": {
     "definition": "being one more than twelve",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xii|02195104-s": {
     "definition": "being one more than eleven",
     "examples": [],
-    "pos": "a"
-  },
-  "xiphidiocercaria|wikt-1": {
-    "confidence": 80,
-    "definition": "A cercaria having a stylet in the anterior rim of its oral sucker with which it actively penetrates its host.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
+    "pos": "a",
+    "accepted": true
   },
   "xiphium iris|12436100-n": {
     "definition": "bulbous iris of western Mediterranean region having usually violet-purple flowers",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xiphoid process|05289190-n": {
     "definition": "smallest of the three parts of the breastbone; articulates with the corpus sternum and the seventh rib",
     "examples": [],
-    "pos": "n"
-  },
-  "xique-xique|wikt-1": {
-    "confidence": 80,
-    "definition": "A species of tree cactus, Pilosocereus gounellei, of northern Brazil.",
-    "examples": [],
     "pos": "n",
-    "source": "generated"
-  },
-  "xir|wikt-1": {
-    "confidence": 80,
-    "definition": "Belonging to xe, their (singular). Gender-neutral third-person singular possessive adjective, coordinate with his and her.",
-    "examples": [],
-    "pos": "det",
-    "source": "generated"
-  },
-  "xir|wikt-2": {
-    "confidence": 80,
-    "definition": "A humorous term of address to someone of equal or higher rank or position, usually when informing them of something.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xir|wikt-3": {
-    "confidence": 82,
-    "definition": "A humorous term of address to someone assumed to use or be tolerant to neopronouns, as a form of mockery.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xitler|wikt-1": {
-    "confidence": 50,
-    "definition": "Xi Jinping (Chinese leader).",
-    "examples": [],
-    "pos": "name",
-    "source": "generated"
-  },
-  "xitler|wikt-2": {
-    "confidence": 80,
-    "definition": "Elon Musk (American businessman).",
-    "examples": [],
-    "pos": "name",
-    "source": "generated"
-  },
-  "xitsonga|wikt-1": {
-    "confidence": 80,
-    "definition": "The Tsonga language.",
-    "examples": [],
-    "pos": "name",
-    "source": "generated"
-  },
-  "xitter|wikt-1": {
-    "confidence": 100,
-    "definition": "Twitter.",
-    "examples": [],
-    "pos": "name",
-    "source": "generated"
+    "accepted": true
   },
   "xiv|02195338-s": {
     "definition": "being one more than thirteen",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xix|02195844-s": {
     "definition": "being one more than eighteen",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xi|02195018-s": {
     "definition": "being one more than ten",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xi|06848575-n": {
     "definition": "the 14th letter of the Greek alphabet",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xliii|02198201-s": {
     "definition": "being three more than forty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xlii|02198108-s": {
     "definition": "being two more than forty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xliv|02198299-s": {
     "definition": "being four more than forty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xli|02198016-s": {
     "definition": "being one more than forty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xlviii|02198679-s": {
     "definition": "being eight more than forty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xlvii|02198581-s": {
     "definition": "being seven more than forty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xlvi|02198488-s": {
     "definition": "being six more than forty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xlv|02198394-s": {
     "definition": "being five more than forty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xl|02197917-s": {
     "definition": "being ten more than thirty",
     "examples": [],
-    "pos": "a"
-  },
-  "xmases|wikt-1": {
-    "confidence": 100,
-    "definition": "plural of Xmas",
-    "examples": [],
-    "pos": "name",
-    "source": "generated"
-  },
-  "xmases|wikt-2": {
-    "confidence": 100,
-    "definition": "plural of xmas",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xoanon|wikt-1": {
-    "confidence": 80,
-    "definition": "A wooden statue used as a cult image in Ancient Greece.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xoloitzcuintle|wikt-1": {
-    "confidence": 100,
-    "definition": "Mexican hairless dog.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xoloitzcuintli|wikt-1": {
-    "confidence": 82,
-    "definition": "A breed of dog, the Mexican Hairless.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xolo|wikt-1": {
-    "confidence": 100,
-    "definition": "Clipping of Xoloitzcuintli (“Mexican hairless dog”).",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xorn|wikt-1": {
-    "confidence": 80,
-    "definition": "A fictional monster that devours earthen and silicate materials and can move freely through earth.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xtal|wikt-1": {
-    "confidence": 100,
-    "definition": "Abbreviation of crystal.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xuixo|wikt-1": {
-    "confidence": 82,
-    "definition": "A viennoiserie pastry filled with crema catalana, from Girona in Catalonia, Spain.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
+    "pos": "a",
+    "accepted": true
   },
   "xviii|02195747-s": {
     "definition": "being one more than seventeen",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xvii|02195634-s": {
     "definition": "being one more than sixteen",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xvi|02195542-s": {
     "definition": "being one more than fifteen",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xv|02195432-s": {
     "definition": "being one more than fourteen",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xxiii|02196259-s": {
     "definition": "being three more than twenty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xxii|02196164-s": {
     "definition": "being two more than twenty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xxiv|02196359-s": {
     "definition": "being four more than twenty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xxix|02196848-s": {
     "definition": "being nine more than twenty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xxi|02196070-s": {
     "definition": "being one more than twenty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xxviii|02196747-s": {
     "definition": "being eight more than twenty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xxvii|02196647-s": {
     "definition": "being seven more than twenty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xxvi|02196552-s": {
     "definition": "being six more than twenty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xxv|02196456-s": {
     "definition": "being five more than twenty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xxxiii|02197226-s": {
     "definition": "being three more than thirty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xxxii|02197130-s": {
     "definition": "being two more than thirty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xxxiv|02197327-s": {
     "definition": "being four more than thirty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xxxi|02197035-s": {
     "definition": "being one more than thirty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xxxviii|02197719-s": {
     "definition": "being eight more than thirty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xxxvii|02197618-s": {
     "definition": "being seven more than thirty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xxxvi|02197522-s": {
     "definition": "being six more than thirty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xxxv|02197425-s": {
     "definition": "being five more than thirty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xxx|02196945-s": {
     "definition": "being ten more than twenty",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "xx|02195956-s": {
     "definition": "being one more than nineteen",
     "examples": [],
-    "pos": "a"
-  },
-  "xylarium|wikt-1": {
-    "confidence": 80,
-    "definition": "A herbarium specialising in specimens of wood.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xylematic|wikt-1": {
-    "confidence": 80,
-    "definition": "Via xylem",
-    "examples": [],
     "pos": "a",
-    "source": "generated"
+    "accepted": true
   },
   "xylem|13119407-n": {
     "definition": "the woody part of plants: the supporting and water-conducting tissue, consisting primarily of tracheids and vessels",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xylene|15130710-n": {
     "definition": "a colorless flammable volatile liquid hydrocarbon used as a solvent",
     "examples": [],
-    "pos": "n"
-  },
-  "xylitol|wikt-1": {
-    "confidence": 82,
-    "definition": "A pentahydric alcohol, C₅H₁₂O₅, penta-hydroxy pentane; derived from xylose; used as a sweetener.",
-    "examples": [],
     "pos": "n",
-    "source": "generated"
-  },
-  "xylograph|wikt-1": {
-    "confidence": 80,
-    "definition": "An engraving in wood or woodcut, especially one used in printing predating the Western tradition (14th c.).",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xylograph|wikt-2": {
-    "confidence": 80,
-    "definition": "A print taken from such an engraving.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xylograph|wikt-3": {
-    "confidence": 80,
-    "definition": "To make a print from an engraving in wood.",
-    "examples": [],
-    "pos": "v",
-    "source": "generated"
+    "accepted": true
   },
   "xylol|15130710-n": {
     "definition": "a colorless flammable volatile liquid hydrocarbon used as a solvent",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xylometer|92459134-n": {
     "definition": "an instrument used to determine the specific gravity of wood",
     "examples": [],
-    "pos": "n"
-  },
-  "xylophones|wikt-1": {
-    "confidence": 100,
-    "definition": "plural of xylophone",
-    "examples": [],
     "pos": "n",
-    "source": "generated"
-  },
-  "xylophones|wikt-2": {
-    "confidence": 95,
-    "definition": "third-person singular simple present indicative of xylophone",
-    "examples": [],
-    "pos": "v",
-    "source": "generated"
+    "accepted": true
   },
   "xylophone|03726875-n": {
     "definition": "a percussion instrument with wooden bars tuned to produce a chromatic scale and with resonators; played with small mallets",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xylophonist|10821301-n": {
     "definition": "someone who plays a xylophone",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xylose|15128347-n": {
     "definition": "a sugar extracted from wood or straw; used in foods for diabetics",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   },
   "xylosma|12401612-n": {
     "definition": "shrub or small tree grown as an ornamental in mild climates for its neat evergreen foliage and fragrant late flowers; native of China",
     "examples": [],
-    "pos": "n"
-  },
-  "xylospongium|wikt-1": {
-    "confidence": 59,
-    "definition": "A Greek and Roman utensil consisting of a sea sponge fixed to the end of a wooden stick, typically thought to have been used for anal hygiene or as a toilet brush.",
-    "examples": [],
     "pos": "n",
-    "source": "generated"
-  },
-  "xylostyptic|wikt-1": {
-    "confidence": 80,
-    "definition": "Applied to a substance with styptic and hemostatic properties, made by dissolving tannic acid in a mixture of alcohol, ether, and collodion.",
-    "examples": [],
-    "pos": "a",
-    "source": "generated"
-  },
-  "xyr|wikt-1": {
-    "confidence": 80,
-    "definition": "Belonging to xe, their (singular). Gender-neutral third-person singular possessive adjective, coordinate with his and her.",
-    "examples": [],
-    "pos": "det",
-    "source": "generated"
-  },
-  "xyr|wikt-2": {
-    "confidence": 80,
-    "definition": "The form of xe used after a preposition or as the object of a verb, coordinate with him and her.",
-    "examples": [],
-    "pos": "pron",
-    "source": "generated"
-  },
-  "xyster|wikt-1": {
-    "confidence": 82,
-    "definition": "A surgical instrument used to scrape bones.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xyz|wikt-1": {
-    "confidence": 80,
-    "definition": "The color space of the tristimulus values X, Y, and Z.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xyz|wikt-2": {
-    "confidence": 80,
-    "definition": "A generic placeholder representing a specific name or thing.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xyz|wikt-3": {
-    "confidence": 80,
-    "definition": "Describing a URL scheme for providing map tiles, where X and Y refer to coordinates, while Z refers to zoom level.",
-    "examples": [],
-    "pos": "n",
-    "source": "generated"
-  },
-  "xyz|wikt-4": {
-    "confidence": 80,
-    "definition": "Initialism of examine your zipper: a discreet warning that one’s trouser fly is undone.",
-    "examples": [],
-    "pos": "phrase",
-    "source": "generated"
+    "accepted": true
   },
   "x|02194935-s": {
     "definition": "being one more than nine",
     "examples": [],
-    "pos": "a"
+    "pos": "a",
+    "accepted": true
   },
   "x|06846713-n": {
     "definition": "the 24th letter of the Roman alphabet",
     "examples": [],
-    "pos": "n"
+    "pos": "n",
+    "accepted": true
   }
 }

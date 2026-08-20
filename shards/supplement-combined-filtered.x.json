@@ -292,6 +292,294 @@
             }
         }
     ],
+    "XA_NN1_𐑧𐑒𐑕 𐑨𐑦": [
+        {
+            "Latn": "XA",
+            "Shaw": "𐑧𐑒𐑕 𐑨𐑦",
+            "pos": "NN1",
+            "ipa": "eks æɪ",
+            "freq": 0,
+            "var": "GenAus",
+            "confidence": 29,
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "XA",
+                "pos": "NN1",
+                "Shaw": "𐑧𐑒𐑕 𐑨𐑦"
+            },
+            "has_definition": false,
+            "rrp_outcome": "SKIP_JUDGE_REJECT",
+            "rrp_tier": "B",
+            "variant": true,
+            "votes": {
+                "judge_reject": 1.0,
+                "rrp_tier": 0.75,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 1.0
+            }
+        },
+        {
+            "Latn": "XA",
+            "Shaw": "𐑧𐑒𐑕 𐑨𐑦",
+            "pos": "NN1",
+            "ipa": "eks æɪ",
+            "freq": 0,
+            "var": "NZ",
+            "confidence": 29,
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "XA",
+                "pos": "NN1",
+                "Shaw": "𐑧𐑒𐑕 𐑨𐑦"
+            },
+            "has_definition": false,
+            "rrp_outcome": "SKIP_JUDGE_REJECT",
+            "rrp_tier": "B",
+            "variant": true,
+            "votes": {
+                "judge_reject": 1.0,
+                "rrp_tier": 0.75,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 1.0
+            }
+        }
+    ],
+    "XA_NN1_𐑧𐑒𐑕 𐑱": [
+        {
+            "Latn": "XA",
+            "Shaw": "𐑧𐑒𐑕 𐑱",
+            "pos": "NN1",
+            "ipa": "eks eɪ",
+            "freq": 0,
+            "var": "RRP",
+            "confidence": 59,
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "XA",
+                "pos": "NN1",
+                "Shaw": "𐑧𐑒𐑕 𐑱"
+            },
+            "has_definition": false,
+            "rrp_outcome": "PASS",
+            "rrp_tier": "B",
+            "orig_var": "GenAm",
+            "votes": {
+                "judge_pass": 0.0,
+                "rrp_tier": 0.75,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 1.0
+            }
+        }
+    ],
+    "XA_NP0_𐑧𐑒𐑕 𐑨𐑦": [
+        {
+            "Latn": "XA",
+            "Shaw": "𐑧𐑒𐑕 𐑨𐑦",
+            "pos": "NP0",
+            "ipa": "eks æɪ",
+            "freq": 0,
+            "var": "GenAus",
+            "confidence": 29,
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "XA",
+                "pos": "NP0",
+                "Shaw": "𐑧𐑒𐑕 𐑨𐑦"
+            },
+            "has_definition": false,
+            "rrp_outcome": "SKIP_JUDGE_REJECT",
+            "rrp_tier": "B",
+            "variant": true,
+            "votes": {
+                "judge_reject": 1.0,
+                "rrp_tier": 0.75,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 1.0
+            }
+        },
+        {
+            "Latn": "XA",
+            "Shaw": "𐑧𐑒𐑕 𐑨𐑦",
+            "pos": "NP0",
+            "ipa": "eks æɪ",
+            "freq": 0,
+            "var": "NZ",
+            "confidence": 29,
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "XA",
+                "pos": "NP0",
+                "Shaw": "𐑧𐑒𐑕 𐑨𐑦"
+            },
+            "has_definition": false,
+            "rrp_outcome": "SKIP_JUDGE_REJECT",
+            "rrp_tier": "B",
+            "variant": true,
+            "votes": {
+                "judge_reject": 1.0,
+                "rrp_tier": 0.75,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 1.0
+            }
+        }
+    ],
+    "XA_NP0_𐑧𐑒𐑕 𐑱": [
+        {
+            "Latn": "XA",
+            "Shaw": "𐑧𐑒𐑕 𐑱",
+            "pos": "NP0",
+            "ipa": "eks eɪ",
+            "freq": 0,
+            "var": "RRP",
+            "confidence": 59,
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "XA",
+                "pos": "NP0",
+                "Shaw": "𐑧𐑒𐑕 𐑱"
+            },
+            "has_definition": false,
+            "rrp_outcome": "PASS",
+            "rrp_tier": "B",
+            "orig_var": "GenAm",
+            "votes": {
+                "judge_pass": 0.0,
+                "rrp_tier": 0.75,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 1.0
+            }
+        }
+    ],
+    "XAs_NN2_𐑧𐑒𐑕 𐑨𐑦𐑟": [
+        {
+            "Latn": "XAs",
+            "Shaw": "𐑧𐑒𐑕 𐑨𐑦𐑟",
+            "pos": "NN2",
+            "ipa": "eks æɪz",
+            "freq": 0,
+            "var": "GenAus",
+            "confidence": 49,
+            "inflection": "attested",
+            "inflection_base": "XA",
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "XA",
+                "pos": "NN1",
+                "Shaw": "𐑧𐑒𐑕 𐑨𐑦"
+            },
+            "has_definition": false,
+            "rrp_outcome": "SKIP_JUDGE_REJECT",
+            "rrp_tier": "B",
+            "variant": true,
+            "votes": {
+                "judge_reject": 1.0,
+                "rrp_tier": 0.75,
+                "inflection_attested": 1.0,
+                "lemma_linked": 1.0,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 1.0
+            },
+            "regular_inflection": true
+        },
+        {
+            "Latn": "XAs",
+            "Shaw": "𐑧𐑒𐑕 𐑨𐑦𐑟",
+            "pos": "NN2",
+            "ipa": "eks æɪz",
+            "freq": 0,
+            "var": "NZ",
+            "confidence": 49,
+            "inflection": "attested",
+            "inflection_base": "XA",
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "XA",
+                "pos": "NN1",
+                "Shaw": "𐑧𐑒𐑕 𐑨𐑦"
+            },
+            "has_definition": false,
+            "rrp_outcome": "SKIP_JUDGE_REJECT",
+            "rrp_tier": "B",
+            "variant": true,
+            "votes": {
+                "judge_reject": 1.0,
+                "rrp_tier": 0.75,
+                "inflection_attested": 1.0,
+                "lemma_linked": 1.0,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 1.0
+            },
+            "regular_inflection": true
+        }
+    ],
+    "XAs_NN2_𐑧𐑒𐑕 𐑱𐑟": [
+        {
+            "Latn": "XAs",
+            "Shaw": "𐑧𐑒𐑕 𐑱𐑟",
+            "pos": "NN2",
+            "ipa": "eks eɪz",
+            "freq": 0,
+            "var": "RRP",
+            "confidence": 79,
+            "inflection": "attested",
+            "inflection_base": "XA",
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "XA",
+                "pos": "NN1",
+                "Shaw": "𐑧𐑒𐑕 𐑱"
+            },
+            "has_definition": false,
+            "rrp_outcome": "PASS",
+            "rrp_tier": "B",
+            "orig_var": "GenAm",
+            "votes": {
+                "judge_pass": 0.0,
+                "rrp_tier": 0.75,
+                "inflection_attested": 1.0,
+                "lemma_linked": 1.0,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 1.0
+            },
+            "regular_inflection": true
+        }
+    ],
     "XOR_NN1_𐑟𐑷𐑮": [
         {
             "Latn": "XOR",
@@ -301,6 +589,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -340,6 +631,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -379,6 +673,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -418,6 +715,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -448,6 +748,99 @@
             }
         }
     ],
+    "XP_NN1_𐑧𐑒𐑕 𐑐𐑰": [
+        {
+            "Latn": "XP",
+            "Shaw": "𐑧𐑒𐑕 𐑐𐑰",
+            "pos": "NN1",
+            "ipa": "eks piː",
+            "freq": 0,
+            "var": "RRP",
+            "confidence": 63,
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "XP",
+                "pos": "NN1",
+                "Shaw": "𐑧𐑒𐑕 𐑐𐑰"
+            },
+            "has_definition": false,
+            "rrp_outcome": "PASS",
+            "rrp_tier": "B",
+            "orig_var": "GenAus",
+            "votes": {
+                "judge_pass": 0.143803,
+                "rrp_tier": 0.75,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 1.0
+            }
+        }
+    ],
+    "XP_NP0_𐑧𐑒𐑕 𐑐𐑰": [
+        {
+            "Latn": "XP",
+            "Shaw": "𐑧𐑒𐑕 𐑐𐑰",
+            "pos": "NP0",
+            "ipa": "eks piː",
+            "freq": 0,
+            "var": "RRP",
+            "confidence": 63,
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "XP",
+                "pos": "NP0",
+                "Shaw": "𐑧𐑒𐑕 𐑐𐑰"
+            },
+            "has_definition": false,
+            "rrp_outcome": "PASS",
+            "rrp_tier": "B",
+            "orig_var": "GenAus",
+            "votes": {
+                "judge_pass": 0.143803,
+                "rrp_tier": 0.75,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 1.0
+            }
+        }
+    ],
+    "XP_UNC_𐑧𐑒𐑕 𐑐𐑰": [
+        {
+            "Latn": "XP",
+            "Shaw": "𐑧𐑒𐑕 𐑐𐑰",
+            "pos": "UNC",
+            "ipa": "eks piː",
+            "freq": 0,
+            "var": "RRP",
+            "confidence": 63,
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "XP",
+                "pos": "UNC",
+                "Shaw": "𐑧𐑒𐑕 𐑐𐑰"
+            },
+            "has_definition": false,
+            "rrp_outcome": "PASS",
+            "rrp_tier": "B",
+            "orig_var": "GenAus",
+            "votes": {
+                "judge_pass": 0.143803,
+                "rrp_tier": 0.75,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 1.0
+            }
+        }
+    ],
     "XUL_NP0_𐑟𐑵𐑤": [
         {
             "Latn": "XUL",
@@ -457,6 +850,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 41,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -478,7 +874,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.614123,
+                "judge_reject": 0.605387,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -496,6 +892,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 42,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -517,7 +916,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.57103,
+                "judge_reject": 0.56584,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -535,6 +934,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -574,6 +976,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -613,6 +1018,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -652,6 +1060,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 42,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -673,7 +1084,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.57103,
+                "judge_reject": 0.56584,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -721,7 +1132,7 @@
             "ipa": "ˌekseksˈeks",
             "freq": 0,
             "var": "RRP",
-            "confidence": 83,
+            "confidence": 84,
             "source": [
                 "wiktionary"
             ],
@@ -735,7 +1146,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.731272,
+                "judge_pass": 0.741131,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -783,7 +1194,7 @@
             "ipa": "ˌekseksˈeks",
             "freq": 0,
             "var": "RRP",
-            "confidence": 83,
+            "confidence": 84,
             "source": [
                 "wiktionary"
             ],
@@ -797,7 +1208,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.731272,
+                "judge_pass": 0.741131,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -845,7 +1256,7 @@
             "ipa": "ˌekseksˈeks",
             "freq": 0,
             "var": "RRP",
-            "confidence": 83,
+            "confidence": 84,
             "source": [
                 "wiktionary"
             ],
@@ -859,7 +1270,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.731272,
+                "judge_pass": 0.741131,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -907,7 +1318,7 @@
             "ipa": "ˌekseksˈeks",
             "freq": 0,
             "var": "RRP",
-            "confidence": 83,
+            "confidence": 84,
             "source": [
                 "wiktionary"
             ],
@@ -921,7 +1332,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.731272,
+                "judge_pass": 0.741131,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -1059,7 +1470,7 @@
             "pos": "AJ0",
             "ipa": "ks",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 49,
             "source": [
                 "wiktionary"
@@ -1090,7 +1501,7 @@
             "pos": "AJ0",
             "ipa": "kʃ",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -1121,7 +1532,7 @@
             "pos": "AJ0",
             "ipa": "ʃ",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -1152,7 +1563,7 @@
             "pos": "AJ0",
             "ipa": "ɡz",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -1183,7 +1594,7 @@
             "pos": "AJ0",
             "ipa": "ɡʒ",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -1214,7 +1625,7 @@
             "pos": "AJ0",
             "ipa": "z",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -1247,6 +1658,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 84,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -1276,7 +1690,7 @@
             "pos": "CRD",
             "ipa": "ks",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 49,
             "source": [
                 "wiktionary"
@@ -1307,7 +1721,7 @@
             "pos": "CRD",
             "ipa": "kʃ",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -1338,7 +1752,7 @@
             "pos": "CRD",
             "ipa": "ʃ",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -1369,7 +1783,7 @@
             "pos": "CRD",
             "ipa": "ɡz",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -1400,7 +1814,7 @@
             "pos": "CRD",
             "ipa": "ɡʒ",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -1431,7 +1845,7 @@
             "pos": "CRD",
             "ipa": "z",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -1464,6 +1878,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 84,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -1493,7 +1910,7 @@
             "pos": "NN1",
             "ipa": "ks",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 49,
             "source": [
                 "wiktionary"
@@ -1524,7 +1941,7 @@
             "pos": "NN1",
             "ipa": "kʃ",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -1555,7 +1972,7 @@
             "pos": "NN1",
             "ipa": "ʃ",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -1586,7 +2003,7 @@
             "pos": "NN1",
             "ipa": "ɡz",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -1617,7 +2034,7 @@
             "pos": "NN1",
             "ipa": "ɡʒ",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -1648,7 +2065,7 @@
             "pos": "NN1",
             "ipa": "z",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -1681,6 +2098,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 84,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -1710,7 +2130,7 @@
             "pos": "NP0",
             "ipa": "ks",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 49,
             "source": [
                 "wiktionary"
@@ -1741,7 +2161,7 @@
             "pos": "NP0",
             "ipa": "kʃ",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -1772,7 +2192,7 @@
             "pos": "NP0",
             "ipa": "ʃ",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -1803,7 +2223,7 @@
             "pos": "NP0",
             "ipa": "ɡz",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -1834,7 +2254,7 @@
             "pos": "NP0",
             "ipa": "ɡʒ",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -1865,7 +2285,7 @@
             "pos": "NP0",
             "ipa": "z",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -1898,6 +2318,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 84,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -1927,7 +2350,7 @@
             "pos": "UNC",
             "ipa": "ks",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 49,
             "source": [
                 "wiktionary"
@@ -1958,7 +2381,7 @@
             "pos": "UNC",
             "ipa": "kʃ",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -1989,7 +2412,7 @@
             "pos": "UNC",
             "ipa": "ʃ",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -2020,7 +2443,7 @@
             "pos": "UNC",
             "ipa": "ɡz",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -2051,7 +2474,7 @@
             "pos": "UNC",
             "ipa": "ɡʒ",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -2082,7 +2505,7 @@
             "pos": "UNC",
             "ipa": "z",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -2115,6 +2538,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 84,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -2144,7 +2570,7 @@
             "pos": "VVI",
             "ipa": "ks",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 49,
             "source": [
                 "wiktionary"
@@ -2175,7 +2601,7 @@
             "pos": "VVI",
             "ipa": "kʃ",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -2206,7 +2632,7 @@
             "pos": "VVI",
             "ipa": "ʃ",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -2237,7 +2663,7 @@
             "pos": "VVI",
             "ipa": "ɡz",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -2268,7 +2694,7 @@
             "pos": "VVI",
             "ipa": "ɡʒ",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -2299,7 +2725,7 @@
             "pos": "VVI",
             "ipa": "z",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -2332,6 +2758,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 84,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -2394,6 +2823,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 54,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -2601,8 +3033,8 @@
             "pos": "NP0",
             "ipa": "zʌːndəR",
             "freq": 0,
-            "var": "RRP",
-            "confidence": 61,
+            "var": "GenAus",
+            "confidence": 31,
             "source": [
                 "wiktionary"
             ],
@@ -2612,10 +3044,11 @@
                 "Shaw": "𐑟𐑳𐑯𐑛𐑼"
             },
             "has_definition": true,
-            "rrp_outcome": "PASS",
+            "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
+            "variant": true,
             "votes": {
-                "judge_pass": 0.0,
+                "judge_reject": 1.0,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2633,6 +3066,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 53,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -2654,7 +3090,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.199168,
+                "judge_reject": 0.192347,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2671,7 +3107,10 @@
             "ipa": "ˈsɑːntən",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 43,
+            "confidence": 44,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -2693,7 +3132,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.541175,
+                "judge_reject": 0.519097,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2711,6 +3150,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 42,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -2732,7 +3174,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.586616,
+                "judge_reject": 0.566137,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2750,6 +3192,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 56,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -2771,7 +3216,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.104703,
+                "judge_reject": 0.095879,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2788,7 +3233,10 @@
             "ipa": "ˈzænθi+ən",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 40,
+            "confidence": 39,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -2810,7 +3258,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.647209,
+                "judge_reject": 0.662252,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2827,7 +3275,10 @@
             "ipa": "ˈzænθi+ən",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 40,
+            "confidence": 39,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -2849,7 +3300,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.647209,
+                "judge_reject": 0.662252,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2866,7 +3317,7 @@
             "ipa": "zænˈθɪpi",
             "freq": 0,
             "var": "RRP",
-            "confidence": 74,
+            "confidence": 73,
             "source": [
                 "wiktionary"
             ],
@@ -2880,7 +3331,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.423193,
+                "judge_pass": 0.399702,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2898,6 +3349,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 51,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -2919,7 +3373,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.278528,
+                "judge_reject": 0.291121,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2962,37 +3416,6 @@
                 "has_definition": 0.0
             },
             "confidence": 54
-        }
-    ],
-    "Xavier_NP0_𐑟𐑨𐑝𐑦𐑱": [
-        {
-            "Latn": "Xavier",
-            "Shaw": "𐑟𐑨𐑝𐑦𐑱",
-            "pos": "NP0",
-            "ipa": "ˈzævieɪ",
-            "freq": 0,
-            "var": "RRP",
-            "confidence": 38,
-            "review": "r_gap:spelling=1,ipa=0; missing_r:spelling_has_r_but_shaw_has_none; shave_says:𐑟𐑭𐑝𐑦𐑺",
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "Xavier",
-                "pos": "NP0",
-                "Shaw": "𐑟𐑨𐑝𐑦𐑱"
-            },
-            "has_definition": true,
-            "rrp_outcome": "PASS",
-            "rrp_tier": "B",
-            "votes": {
-                "judge_pass": 0.687083,
-                "rrp_tier": 0.75,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 1.0,
-                "clean_base": 0.0
-            }
         }
     ],
     "Xavier_NP0_𐑟𐑨𐑝𐑽": [
@@ -3046,7 +3469,7 @@
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "votes": {
-                "judge_reject": 0.283488,
+                "judge_reject": 0.262991,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3063,7 +3486,7 @@
             "ipa": "zeɪvɪəR",
             "freq": 0,
             "var": "RRP",
-            "confidence": 67,
+            "confidence": 66,
             "source": [
                 "wiktionary"
             ],
@@ -3076,7 +3499,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.229753,
+                "judge_pass": 0.204136,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3091,7 +3514,7 @@
             "ipa": "ˈzeɪviəR",
             "freq": 0,
             "var": "RRP",
-            "confidence": 86,
+            "confidence": 87,
             "source": [
                 "wiktionary"
             ],
@@ -3105,7 +3528,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.845363,
+                "judge_pass": 0.860602,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3123,6 +3546,9 @@
             "freq": 0,
             "var": "GenAm",
             "confidence": 31,
+            "info": [
+                "note: approximating Spanish"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -3152,7 +3578,7 @@
             "ipa": "ɪɡˈzeɪvjəR",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 36,
+            "confidence": 37,
             "source": [
                 "wiktionary"
             ],
@@ -3165,7 +3591,7 @@
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "votes": {
-                "judge_reject": 0.827507,
+                "judge_reject": 0.803669,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3304,6 +3730,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -3461,6 +3890,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 80,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -3492,6 +3924,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 44,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -3693,6 +4128,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -3888,6 +4326,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 59,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -3926,6 +4367,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 56,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -3965,6 +4409,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 31,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -3995,6 +4442,48 @@
             }
         }
     ],
+    "Xi_NP0_𐑕𐑰": [
+        {
+            "Latn": "Xi",
+            "Shaw": "𐑕𐑰",
+            "pos": "NP0",
+            "ipa": "siː",
+            "freq": 0,
+            "var": "RSSB",
+            "confidence": 31,
+            "info": [
+                "accent: unstated"
+            ],
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "Xi",
+                "pos": "NP0",
+                "Shaw": "𐑕𐑰"
+            },
+            "has_definition": true,
+            "rrp_outcome": "SKIP_JUDGE_REJECT",
+            "rrp_tier": "B",
+            "generated_shaw": "𐑕𐑰",
+            "generated_tier": "B",
+            "generated_method": "ipa-converter",
+            "generated_from": {
+                "basis": "ipa",
+                "outcome": "GEN",
+                "witnesses": [],
+                "notes": []
+            },
+            "votes": {
+                "judge_reject": 1.0,
+                "rrp_tier": 0.75,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 1.0,
+                "clean_base": 1.0
+            }
+        }
+    ],
     "Xi_NP0_𐑖𐑰": [
         {
             "Latn": "Xi",
@@ -4004,6 +4493,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 31,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -4016,90 +4508,6 @@
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "generated_shaw": "𐑖𐑰",
-            "generated_tier": "B",
-            "generated_method": "ipa-converter",
-            "generated_from": {
-                "basis": "ipa",
-                "outcome": "GEN",
-                "witnesses": [],
-                "notes": []
-            },
-            "votes": {
-                "judge_reject": 1.0,
-                "rrp_tier": 0.75,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 1.0,
-                "clean_base": 1.0
-            }
-        }
-    ],
-    "Xi_NP0_𐑗𐑰": [
-        {
-            "Latn": "Xi",
-            "Shaw": "𐑗𐑰",
-            "pos": "NP0",
-            "ipa": "tʃiː",
-            "freq": 0,
-            "var": "RSSB",
-            "confidence": 31,
-            "info": [
-                "note: hyperforeign"
-            ],
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "Xi",
-                "pos": "NP0",
-                "Shaw": "𐑗𐑰"
-            },
-            "has_definition": true,
-            "rrp_outcome": "SKIP_JUDGE_REJECT",
-            "rrp_tier": "B",
-            "generated_shaw": "𐑗𐑰",
-            "generated_tier": "B",
-            "generated_method": "ipa-converter",
-            "generated_from": {
-                "basis": "ipa",
-                "outcome": "GEN",
-                "witnesses": [],
-                "notes": []
-            },
-            "votes": {
-                "judge_reject": 1.0,
-                "rrp_tier": 0.75,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 1.0,
-                "clean_base": 1.0
-            }
-        }
-    ],
-    "Xi_NP0_𐑠𐑰": [
-        {
-            "Latn": "Xi",
-            "Shaw": "𐑠𐑰",
-            "pos": "NP0",
-            "ipa": "ʒiː",
-            "freq": 0,
-            "var": "RSSB",
-            "confidence": 31,
-            "info": [
-                "note: hyperforeign"
-            ],
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "Xi",
-                "pos": "NP0",
-                "Shaw": "𐑠𐑰"
-            },
-            "has_definition": true,
-            "rrp_outcome": "SKIP_JUDGE_REJECT",
-            "rrp_tier": "B",
-            "generated_shaw": "𐑠𐑰",
             "generated_tier": "B",
             "generated_method": "ipa-converter",
             "generated_from": {
@@ -4166,6 +4574,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -4205,6 +4616,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 54,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -4244,6 +4658,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 54,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -4283,6 +4700,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -4322,6 +4742,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 35,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -4361,6 +4784,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -4400,6 +4826,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 54,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -4439,6 +4868,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 27,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -4478,6 +4910,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -4517,6 +4952,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -4556,6 +4994,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -4595,6 +5036,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 37,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -4634,6 +5078,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 54,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -4673,6 +5120,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 54,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -4712,6 +5162,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -4751,6 +5204,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 47,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -4782,6 +5238,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 84,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -4850,6 +5309,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -4889,6 +5351,10 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 47,
+            "info": [
+                "note: chiefly crosswording",
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -4928,6 +5394,10 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "note: Spanish-influenced",
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -4967,6 +5437,10 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 47,
+            "info": [
+                "note: chiefly crosswording",
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5006,6 +5480,10 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "note: Spanish-influenced",
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5045,6 +5523,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5084,6 +5565,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 47,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5123,6 +5607,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 30,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5162,6 +5649,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5201,6 +5691,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5240,6 +5733,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5279,6 +5775,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 54,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5318,6 +5817,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 31,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5357,6 +5859,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5396,6 +5901,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5435,6 +5943,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5474,6 +5985,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 38,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5513,6 +6027,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5552,6 +6069,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5591,6 +6111,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 54,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5630,6 +6153,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 34,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5669,6 +6195,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5708,6 +6237,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 39,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5747,6 +6279,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5786,6 +6321,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5825,6 +6363,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5864,6 +6405,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 31,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5894,48 +6438,6 @@
             }
         }
     ],
-    "Xinjiang_NP0_𐑖𐑦𐑯𐑡𐑘𐑭𐑙": [
-        {
-            "Latn": "Xinjiang",
-            "Shaw": "𐑖𐑦𐑯𐑡𐑘𐑭𐑙",
-            "pos": "NP0",
-            "ipa": "ˈʃɪnˈdʒjɑːŋ",
-            "freq": 0,
-            "var": "RSSB",
-            "confidence": 31,
-            "info": [
-                "note: hyperforeign"
-            ],
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "Xinjiang",
-                "pos": "NP0",
-                "Shaw": "𐑖𐑦𐑯𐑡𐑘𐑭𐑙"
-            },
-            "has_definition": true,
-            "rrp_outcome": "SKIP_JUDGE_REJECT",
-            "rrp_tier": "B",
-            "generated_shaw": "𐑖𐑦𐑯𐑡𐑘𐑭𐑙",
-            "generated_tier": "B",
-            "generated_method": "ipa-converter",
-            "generated_from": {
-                "basis": "ipa",
-                "outcome": "GEN",
-                "witnesses": [],
-                "notes": []
-            },
-            "votes": {
-                "judge_reject": 1.0,
-                "rrp_tier": 0.75,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 1.0,
-                "clean_base": 1.0
-            }
-        }
-    ],
     "Xiong'an_NP0_𐑖𐑘𐑩𐑙𐑭𐑯": [
         {
             "Latn": "Xiong'an",
@@ -5945,6 +6447,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -5984,6 +6489,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -6023,6 +6531,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 42,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -6062,6 +6573,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -6101,6 +6615,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -6140,6 +6657,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -6180,7 +6700,8 @@
             "var": "RSSB",
             "confidence": 29,
             "info": [
-                "note: RA"
+                "note: RA",
+                "accent: unstated"
             ],
             "source": [
                 "wiktionary"
@@ -6316,6 +6837,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 59,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -6354,6 +6878,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 31,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -6393,6 +6920,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 46,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -6424,6 +6954,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 46,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -6455,6 +6988,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 86,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -6518,6 +7054,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 47,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -6569,7 +7108,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.541391,
+                "judge_pass": 0.544755,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -6665,6 +7204,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -6704,6 +7246,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 57,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -6744,6 +7289,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -6783,6 +7331,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 27,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -6822,6 +7373,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 83,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -6835,7 +7389,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.955753,
+                "judge_pass": 0.969832,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -6876,6 +7430,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -7078,7 +7635,8 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "regular_inflection": true
         }
     ],
     "x-rayed_VVN_𐑧𐑒𐑕-𐑮𐑱𐑛": [
@@ -7101,7 +7659,8 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "regular_inflection": true
         }
     ],
     "x-raying_VVG_𐑧𐑒𐑕-𐑮𐑱𐑦𐑙": [
@@ -7124,7 +7683,8 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "regular_inflection": true
         }
     ],
     "x-rays_NN2_𐑧𐑒𐑕-𐑮𐑱𐑟": [
@@ -7147,7 +7707,8 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "regular_inflection": true
         }
     ],
     "x-rays_VVZ_𐑧𐑒𐑕-𐑮𐑱𐑟": [
@@ -7170,7 +7731,8 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "regular_inflection": true
         }
     ],
     "x_CJC_𐑒𐑕": [
@@ -7180,7 +7742,7 @@
             "pos": "CJC",
             "ipa": "ks",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 49,
             "source": [
                 "wiktionary"
@@ -7211,7 +7773,7 @@
             "pos": "CJC",
             "ipa": "kʃ",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -7242,7 +7804,7 @@
             "pos": "CJC",
             "ipa": "ʃ",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -7273,7 +7835,7 @@
             "pos": "CJC",
             "ipa": "ɡz",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -7304,7 +7866,7 @@
             "pos": "CJC",
             "ipa": "ɡʒ",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -7335,7 +7897,7 @@
             "pos": "CJC",
             "ipa": "z",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 31,
             "source": [
                 "wiktionary"
@@ -7368,6 +7930,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 84,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -7422,6 +7987,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -7461,6 +8029,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 40,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -7496,10 +8067,10 @@
             "Latn": "xaliproden",
             "Shaw": "𐑟𐑩𐑤𐑦𐑐𐑮𐑩𐑛𐑧𐑯",
             "pos": "NN1",
-            "ipa": "zəlɪprəden",
+            "ipa": "zəˈlɪprəden",
             "freq": 0,
-            "var": "RSSB",
-            "confidence": 32,
+            "var": "GenAm",
+            "confidence": 48,
             "source": [
                 "wiktionary"
             ],
@@ -7512,7 +8083,7 @@
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "generated_shaw": "𐑟𐑩𐑤𐑦𐑐𐑮𐑩𐑛𐑧𐑯",
-            "generated_tier": "C",
+            "generated_tier": "B",
             "generated_method": "ipa-converter",
             "generated_from": {
                 "basis": "ipa",
@@ -7521,8 +8092,8 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.847371,
-                "rrp_tier": 0.625,
+                "judge_reject": 0.377123,
+                "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
@@ -7593,6 +8164,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 56,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -7646,7 +8220,7 @@
             "rrp_tier": "A",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.946211,
+                "judge_pass": 0.956335,
                 "rrp_tier": 1.0,
                 "source_agree": 0.5,
                 "ipa_present": 1.0,
@@ -7664,6 +8238,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 56,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -7685,7 +8262,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.091736,
+                "judge_reject": 0.091846,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -7703,6 +8280,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 61,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wordnet",
                 "wiktionary"
@@ -7725,7 +8305,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.319984,
+                "judge_reject": 0.326815,
                 "rrp_tier": 0.875,
                 "source_agree": 0.5,
                 "ipa_present": 1.0,
@@ -7742,7 +8322,10 @@
             "ipa": "ˈzænθin",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 53,
+            "confidence": 54,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -7764,7 +8347,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.21312,
+                "judge_reject": 0.187747,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -7782,6 +8365,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 57,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -7803,7 +8389,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.070656,
+                "judge_reject": 0.064558,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -7862,7 +8448,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.6614,
+                "judge_pass": 0.656491,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -7892,7 +8478,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.547406,
+                "judge_pass": 0.554011,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -7910,6 +8496,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 81,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -7923,7 +8512,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.874543,
+                "judge_pass": 0.862549,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -7941,6 +8530,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 84,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -7954,13 +8546,46 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.970645,
+                "judge_pass": 0.970434,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
             }
+        }
+    ],
+    "xanthium_NN1_𐑟𐑨𐑯𐑔𐑦𐑩𐑥": [
+        {
+            "Latn": "xanthium",
+            "Shaw": "𐑟𐑨𐑯𐑔𐑦𐑩𐑥",
+            "pos": "NN1",
+            "var": "RRP",
+            "freq": 4,
+            "synthetic": true,
+            "shaw_source": "shave-g2p",
+            "origin": "shave-g2p from wordnet-speculative",
+            "tier": "shave-g2p-speculative",
+            "source": [
+                "generated"
+            ],
+            "lemma": {
+                "Latn": "xanthium",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑨𐑯𐑔𐑦𐑩𐑥"
+            },
+            "has_definition": true,
+            "rrp_outcome": "PASS",
+            "rrp_tier": "B",
+            "votes": {
+                "judge_pass": 1.0,
+                "rrp_tier": 0.75,
+                "shave_agree": 0.35,
+                "source_agree": 0.0,
+                "ipa_present": 0.0,
+                "has_definition": 1.0
+            },
+            "confidence": 50
         }
     ],
     "xanthochroic_AJ0_𐑟𐑨𐑯𐑔𐑩𐑒𐑮𐑴𐑦𐑒": [
@@ -7972,6 +8597,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 40,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -7993,7 +8621,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.572995,
+                "judge_reject": 0.565056,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8010,7 +8638,10 @@
             "ipa": "zænˈθəʊkrɔɪd",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 48,
+            "confidence": 47,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -8032,7 +8663,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.387921,
+                "judge_reject": 0.399693,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8049,7 +8680,10 @@
             "ipa": "zænˈθəʊkrɔɪd",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 48,
+            "confidence": 47,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -8071,7 +8705,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.387921,
+                "judge_reject": 0.399693,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8088,7 +8722,10 @@
             "ipa": "zænθəkrəʊɪzəm",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 45,
+            "confidence": 44,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -8110,7 +8747,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.416703,
+                "judge_reject": 0.43485,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8128,6 +8765,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 44,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -8149,7 +8789,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.453634,
+                "judge_reject": 0.444018,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8188,7 +8828,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.979523,
+                "judge_reject": 0.97819,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8206,6 +8846,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 58,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -8227,13 +8870,46 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.04398,
+                "judge_reject": 0.050686,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
             }
+        }
+    ],
+    "xanthomonas_NN1_𐑟𐑨𐑯𐑔𐑴𐑥𐑴𐑯𐑩𐑟": [
+        {
+            "Latn": "xanthomonas",
+            "Shaw": "𐑟𐑨𐑯𐑔𐑴𐑥𐑴𐑯𐑩𐑟",
+            "pos": "NN1",
+            "var": "RRP",
+            "freq": 2,
+            "synthetic": true,
+            "shaw_source": "shave-g2p",
+            "origin": "shave-g2p from wordnet-speculative",
+            "tier": "shave-g2p-speculative",
+            "source": [
+                "generated"
+            ],
+            "lemma": {
+                "Latn": "xanthomonas",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑨𐑯𐑔𐑴𐑥𐑴𐑯𐑩𐑟"
+            },
+            "has_definition": true,
+            "rrp_outcome": "PASS",
+            "rrp_tier": "B",
+            "votes": {
+                "judge_pass": 1.0,
+                "rrp_tier": 0.75,
+                "shave_agree": 0.35,
+                "source_agree": 0.0,
+                "ipa_present": 0.0,
+                "has_definition": 1.0
+            },
+            "confidence": 50
         }
     ],
     "xanthone_NN1_𐑟𐑨𐑯𐑔𐑴𐑯": [
@@ -8244,7 +8920,7 @@
             "ipa": "ˈzanθəʊn",
             "freq": 0,
             "var": "RRP",
-            "confidence": 80,
+            "confidence": 81,
             "source": [
                 "wiktionary"
             ],
@@ -8258,7 +8934,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.606693,
+                "judge_pass": 0.626468,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8274,7 +8950,7 @@
             "pos": "NN1",
             "ipa": "zænθəˈfoʊbi+ə",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 29,
             "source": [
                 "wiktionary"
@@ -8315,6 +8991,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 36,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -8336,7 +9015,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.708937,
+                "judge_reject": 0.697687,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8353,7 +9032,7 @@
             "ipa": "zænˈθoʊsɪs",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 33,
+            "confidence": 32,
             "source": [
                 "wiktionary"
             ],
@@ -8375,7 +9054,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.947816,
+                "judge_reject": 0.958522,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8446,7 +9125,7 @@
             "rrp_tier": "A",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.887763,
+                "judge_pass": 0.882224,
                 "rrp_tier": 1.0,
                 "source_agree": 0.5,
                 "ipa_present": 1.0,
@@ -8463,7 +9142,10 @@
             "ipa": "kɑːt",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 40,
+            "confidence": 39,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -8485,7 +9167,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.636384,
+                "judge_reject": 0.677948,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8503,6 +9185,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 42,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -8575,6 +9260,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 31,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wordnet"
             ],
@@ -8769,6 +9457,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 46,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -8808,6 +9499,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 57,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -8847,6 +9541,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 46,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -8886,6 +9583,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 57,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -8925,6 +9625,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 39,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -8964,6 +9667,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -9003,6 +9709,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -9042,6 +9751,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -9142,6 +9854,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 48,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -9181,6 +9896,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 48,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -9220,6 +9938,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 40,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -9351,6 +10072,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 48,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -9382,6 +10106,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 84,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -9413,6 +10140,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 48,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -9444,6 +10174,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 84,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -9475,6 +10208,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 54,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -9532,6 +10268,40 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
+            }
+        }
+    ],
+    "xenna-_UNC_𐑟𐑧𐑯𐑩-": [
+        {
+            "Latn": "xenna-",
+            "Shaw": "𐑟𐑧𐑯𐑩-",
+            "pos": "UNC",
+            "ipa": "ˈzenə",
+            "freq": 0,
+            "var": "RRP",
+            "confidence": 41,
+            "info": [
+                "accent: unstated"
+            ],
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "xenna-",
+                "pos": "UNC",
+                "Shaw": "𐑟𐑧𐑯𐑩-"
+            },
+            "has_definition": false,
+            "rrp_outcome": "PASS",
+            "rrp_tier": "B",
+            "orig_var": "RSSB",
+            "votes": {
+                "judge_pass": 0.647449,
+                "rrp_tier": 0.75,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 0.15
             }
         }
     ],
@@ -9634,6 +10404,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 27,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -9675,6 +10448,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 40,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -9836,6 +10612,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 50,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -9875,6 +10654,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 84,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -9906,6 +10688,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 55,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -9998,6 +10783,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 47,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -10037,6 +10825,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 36,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -10076,6 +10867,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 33,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -10177,6 +10971,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 44,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -10216,6 +11013,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 27,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -10255,6 +11055,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 43,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -10294,6 +11097,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 70,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -10377,22 +11183,27 @@
             }
         }
     ],
-    "xenogeneses_NN1_𐑟𐑧𐑯𐑴𐑡𐑧𐑯𐑩𐑕𐑰𐑟": [
+    "xenogeneses_NN2_𐑟𐑧𐑯𐑴𐑡𐑧𐑯𐑩𐑕𐑰𐑟": [
         {
             "Latn": "xenogeneses",
             "Shaw": "𐑟𐑧𐑯𐑴𐑡𐑧𐑯𐑩𐑕𐑰𐑟",
-            "pos": "NN1",
+            "pos": "NN2",
             "ipa": "zenəʊˈdʒenəsiːz",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 51,
+            "confidence": 71,
+            "inflection": "attested",
+            "inflection_base": "xenogenesis",
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
             "lemma": {
-                "Latn": "xenogeneses",
+                "Latn": "xenogenesis",
                 "pos": "NN1",
-                "Shaw": "𐑟𐑧𐑯𐑴𐑡𐑧𐑯𐑩𐑕𐑰𐑟"
+                "Shaw": "𐑟𐑧𐑯𐑴𐑡𐑧𐑯𐑩𐑕𐑦𐑕"
             },
             "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
@@ -10409,6 +11220,8 @@
             "votes": {
                 "judge_reject": 0.280547,
                 "rrp_tier": 0.75,
+                "inflection_attested": 1.0,
+                "lemma_linked": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
@@ -10457,6 +11270,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 19,
+            "info": [
+                "accent: unstated"
+            ],
             "review": "ml_disagrees:𐑟𐑧𐑯𐑴𐑡𐑦𐑯𐑧𐑑𐑦𐑒",
             "source": [
                 "wiktionary"
@@ -10497,6 +11313,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 52,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -10566,6 +11385,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 52,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -10605,6 +11427,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 27,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -10644,6 +11469,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 44,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -10683,6 +11511,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 41,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -10722,6 +11553,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 84,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -10753,6 +11587,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 58,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -10784,6 +11621,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 64,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wordnet",
                 "wiktionary"
@@ -10824,6 +11664,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 39,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -10863,6 +11706,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 54,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -10902,6 +11748,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 39,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -10941,6 +11790,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 76,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -11207,6 +12059,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 42,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -11246,6 +12101,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 27,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -11316,6 +12174,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 33,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -11355,6 +12216,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 53,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -11385,29 +12249,29 @@
             }
         }
     ],
-    "xenon_NN1_𐑟𐑧𐑯𐑷𐑯": [
+    "xenon_NN1_𐑟𐑧𐑯𐑭𐑯": [
         {
             "Latn": "xenon",
-            "Shaw": "𐑟𐑧𐑯𐑷𐑯",
+            "Shaw": "𐑟𐑧𐑯𐑭𐑯",
             "pos": "NN1",
-            "ipa": "zenɔːn",
+            "ipa": "ˈzenɑːn",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 31,
+            "confidence": 46,
             "source": [
                 "wiktionary"
             ],
             "lemma": {
                 "Latn": "xenon",
                 "pos": "NN1",
-                "Shaw": "𐑟𐑧𐑯𐑷𐑯"
+                "Shaw": "𐑟𐑧𐑯𐑭𐑯"
             },
             "has_definition": true,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 1.0,
+                "judge_reject": 0.505423,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -11503,37 +12367,6 @@
             }
         }
     ],
-    "xenon_NN1_𐑟𐑰𐑯𐑷𐑯": [
-        {
-            "Latn": "xenon",
-            "Shaw": "𐑟𐑰𐑯𐑷𐑯",
-            "pos": "NN1",
-            "ipa": "ziːnɔːn",
-            "freq": 0,
-            "var": "GenAm",
-            "confidence": 62,
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "xenon",
-                "pos": "NN1",
-                "Shaw": "𐑟𐑰𐑯𐑷𐑯"
-            },
-            "has_definition": true,
-            "mergers": [
-                "cot-caught"
-            ],
-            "rrp_outcome": "SKIP_MERGER",
-            "votes": {
-                "accent_corroborated": 1.0,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 1.0,
-                "clean_base": 1.0
-            }
-        }
-    ],
     "xenonym_NN1_𐑟𐑦𐑯𐑩𐑯𐑦𐑥": [
         {
             "Latn": "xenonym",
@@ -11541,7 +12374,7 @@
             "pos": "NN1",
             "ipa": "ˈzɪnənɪm",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 56,
             "source": [
                 "wiktionary"
@@ -11574,6 +12407,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 84,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -11596,6 +12432,37 @@
             }
         }
     ],
+    "xenonym_NN1_𐑟𐑰𐑯𐑩𐑯𐑦𐑥": [
+        {
+            "Latn": "xenonym",
+            "Shaw": "𐑟𐑰𐑯𐑩𐑯𐑦𐑥",
+            "pos": "NN1",
+            "ipa": "ˈziːnənɪm",
+            "freq": 0,
+            "var": "GenAm",
+            "confidence": 56,
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "xenonym",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑰𐑯𐑩𐑯𐑦𐑥"
+            },
+            "has_definition": false,
+            "rrp_outcome": "SKIP_JUDGE_REJECT",
+            "rrp_tier": "B",
+            "variant": true,
+            "votes": {
+                "judge_reject": 0.097426,
+                "rrp_tier": 0.75,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 1.0
+            }
+        }
+    ],
     "xenoparous_AJ0_𐑟𐑧𐑯𐑩𐑐𐑼𐑩𐑕": [
         {
             "Latn": "xenoparous",
@@ -11605,6 +12472,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 45,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -11646,6 +12516,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 78,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -11677,6 +12550,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 27,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -11989,10 +12865,10 @@
             "Latn": "xenophobic",
             "Shaw": "𐑟𐑰𐑯𐑩𐑓𐑴𐑚𐑦𐑒",
             "pos": "AJ0",
-            "ipa": "ˌziːnəˈfoʊbik",
+            "ipa": "ˌziːnəˈfoʊbɪk",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 31,
+            "confidence": 35,
             "source": [
                 "wiktionary"
             ],
@@ -12006,7 +12882,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 1.0,
+                "judge_reject": 0.876966,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -12048,10 +12924,10 @@
             "Latn": "xenophobic",
             "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑚𐑦𐑒",
             "pos": "NN1",
-            "ipa": "ˌzenəˈfoʊbik",
+            "ipa": "ˌzenəˈfoʊbɪk",
             "freq": 0,
             "var": "RRP",
-            "confidence": 67,
+            "confidence": 71,
             "source": [
                 "wiktionary"
             ],
@@ -12065,7 +12941,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.088143,
+                "judge_pass": 0.225454,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -12079,10 +12955,10 @@
             "Latn": "xenophobic",
             "Shaw": "𐑟𐑰𐑯𐑩𐑓𐑴𐑚𐑦𐑒",
             "pos": "NN1",
-            "ipa": "ˌziːnəˈfoʊbik",
+            "ipa": "ˌziːnəˈfoʊbɪk",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 31,
+            "confidence": 35,
             "source": [
                 "wiktionary"
             ],
@@ -12096,7 +12972,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 1.0,
+                "judge_reject": 0.876966,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -12183,6 +13059,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 54,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -12222,6 +13101,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 27,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -12261,6 +13143,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -12300,6 +13185,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 47,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -12339,6 +13227,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 45,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -12378,6 +13269,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 36,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -12795,6 +13689,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 32,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -12864,6 +13761,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 47,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wordnet",
                 "wiktionary"
@@ -13391,7 +14291,8 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "regular_inflection": true
         }
     ],
     "xeroxed_VVN_𐑟𐑽𐑪𐑒𐑕𐑑": [
@@ -13414,7 +14315,8 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "regular_inflection": true
         }
     ],
     "xeroxes_NN2_𐑟𐑽𐑪𐑒𐑕𐑩𐑟": [
@@ -13437,7 +14339,8 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "regular_inflection": true
         }
     ],
     "xeroxes_VVZ_𐑟𐑽𐑪𐑒𐑕𐑩𐑟": [
@@ -13460,7 +14363,8 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "regular_inflection": true
         }
     ],
     "xeroxing_VVG_𐑟𐑽𐑪𐑒𐑕𐑦𐑙": [
@@ -13483,7 +14387,8 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "regular_inflection": true
         }
     ],
     "xertz_VVI_𐑟𐑻𐑑𐑕": [
@@ -13495,6 +14400,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 40,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -13534,6 +14442,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 31,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -13573,6 +14484,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 46,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wordnet",
                 "wiktionary"
@@ -13613,6 +14527,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 31,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -13653,7 +14570,8 @@
             "var": "RSSB",
             "confidence": 31,
             "info": [
-                "nonstandard"
+                "nonstandard",
+                "accent: unstated"
             ],
             "source": [
                 "wiktionary"
@@ -13694,6 +14612,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 31,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -13733,6 +14654,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 35,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -13772,6 +14696,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 33,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -13811,6 +14738,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 54,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -13850,6 +14780,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 36,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -13889,6 +14822,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -13928,6 +14864,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -13967,6 +14906,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -13993,6 +14935,96 @@
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
+                "clean_base": 1.0
+            }
+        }
+    ],
+    "xiaolongbao_NN1_𐑕𐑘𐑬𐑤𐑪𐑙𐑚𐑬": [
+        {
+            "Latn": "xiaolongbao",
+            "Shaw": "𐑕𐑘𐑬𐑤𐑪𐑙𐑚𐑬",
+            "pos": "NN1",
+            "ipa": "ˈsjaʊlɒŋbaʊ",
+            "freq": 0,
+            "var": "RRP",
+            "confidence": 61,
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "xiaolongbao",
+                "pos": "NN1",
+                "Shaw": "𐑕𐑘𐑬𐑤𐑪𐑙𐑚𐑬"
+            },
+            "has_definition": true,
+            "rrp_outcome": "PASS",
+            "rrp_tier": "B",
+            "votes": {
+                "judge_pass": 0.0,
+                "rrp_tier": 0.75,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 1.0,
+                "clean_base": 1.0
+            }
+        }
+    ],
+    "xiaolongbao_NN1_𐑖𐑘𐑬𐑤𐑪𐑙𐑚𐑬": [
+        {
+            "Latn": "xiaolongbao",
+            "Shaw": "𐑖𐑘𐑬𐑤𐑪𐑙𐑚𐑬",
+            "pos": "NN1",
+            "ipa": "ˈʃjaʊlɒŋbaʊ",
+            "freq": 0,
+            "var": "RRP",
+            "confidence": 61,
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "xiaolongbao",
+                "pos": "NN1",
+                "Shaw": "𐑖𐑘𐑬𐑤𐑪𐑙𐑚𐑬"
+            },
+            "has_definition": true,
+            "rrp_outcome": "PASS",
+            "rrp_tier": "B",
+            "votes": {
+                "judge_pass": 0.0,
+                "rrp_tier": 0.75,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 1.0,
+                "clean_base": 1.0
+            }
+        }
+    ],
+    "xiaolongbao_NN1_𐑖𐑘𐑬𐑤𐑷𐑙𐑚𐑬": [
+        {
+            "Latn": "xiaolongbao",
+            "Shaw": "𐑖𐑘𐑬𐑤𐑷𐑙𐑚𐑬",
+            "pos": "NN1",
+            "ipa": "ˈʃjaʊlɔŋˈbaʊ",
+            "freq": 0,
+            "var": "RRP",
+            "confidence": 61,
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "xiaolongbao",
+                "pos": "NN1",
+                "Shaw": "𐑖𐑘𐑬𐑤𐑷𐑙𐑚𐑬"
+            },
+            "has_definition": true,
+            "rrp_outcome": "PASS",
+            "rrp_tier": "B",
+            "votes": {
+                "judge_pass": 0.0,
+                "rrp_tier": 0.75,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 1.0,
                 "clean_base": 1.0
             }
         }
@@ -14066,6 +15098,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 27,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -14171,6 +15206,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -14210,6 +15248,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -14247,7 +15288,7 @@
             "pos": "NN1",
             "ipa": "ˈzɪpəmaɪd",
             "freq": 0,
-            "var": "RSSB",
+            "var": "GenAm",
             "confidence": 54,
             "source": [
                 "wiktionary"
@@ -14287,9 +15328,10 @@
             "ipa": "ˈzɪfiəs",
             "freq": 0,
             "var": "RRP",
-            "confidence": 82,
+            "confidence": 93,
             "source": [
-                "wiktionary"
+                "wiktionary",
+                "wordnet"
             ],
             "lemma": {
                 "Latn": "xiphias",
@@ -14298,11 +15340,12 @@
             },
             "has_definition": true,
             "rrp_outcome": "PASS",
-            "rrp_tier": "B",
+            "rrp_tier": "A",
+            "orig_var": "RSSB",
             "votes": {
                 "judge_pass": 0.83385,
-                "rrp_tier": 0.75,
-                "source_agree": 0.0,
+                "rrp_tier": 1.0,
+                "source_agree": 0.5,
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
@@ -14344,6 +15387,74 @@
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
+                "clean_base": 1.0
+            }
+        }
+    ],
+    "xiphioid_AJ0_𐑟𐑦𐑓𐑦𐑶𐑛": [
+        {
+            "Latn": "xiphioid",
+            "Shaw": "𐑟𐑦𐑓𐑦𐑶𐑛",
+            "pos": "AJ0",
+            "ipa": "ˈzɪfiɔɪd",
+            "freq": 0,
+            "var": "RRP",
+            "confidence": 84,
+            "info": [
+                "accent: unstated"
+            ],
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "xiphioid",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑦𐑓𐑦𐑶𐑛"
+            },
+            "has_definition": false,
+            "rrp_outcome": "PASS",
+            "rrp_tier": "B",
+            "orig_var": "RSSB",
+            "votes": {
+                "judge_pass": 0.985255,
+                "rrp_tier": 0.75,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 1.0
+            }
+        }
+    ],
+    "xiphioid_NN1_𐑟𐑦𐑓𐑦𐑶𐑛": [
+        {
+            "Latn": "xiphioid",
+            "Shaw": "𐑟𐑦𐑓𐑦𐑶𐑛",
+            "pos": "NN1",
+            "ipa": "ˈzɪfiɔɪd",
+            "freq": 0,
+            "var": "RRP",
+            "confidence": 84,
+            "info": [
+                "accent: unstated"
+            ],
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "xiphioid",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑦𐑓𐑦𐑶𐑛"
+            },
+            "has_definition": false,
+            "rrp_outcome": "PASS",
+            "rrp_tier": "B",
+            "orig_var": "RSSB",
+            "votes": {
+                "judge_pass": 0.985255,
+                "rrp_tier": 0.75,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -14395,6 +15506,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 57,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -14434,6 +15548,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 57,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -14742,6 +15859,147 @@
             }
         }
     ],
+    "xirs_NN2_𐑒𐑕𐑻𐑟": [
+        {
+            "Latn": "xirs",
+            "Shaw": "𐑒𐑕𐑻𐑟",
+            "pos": "NN2",
+            "ipa": "ksɜːRz",
+            "freq": 0,
+            "var": "RRP",
+            "confidence": 82,
+            "inflection": "attested",
+            "inflection_base": "xir",
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "xir",
+                "pos": "NN1",
+                "Shaw": "𐑠𐑻"
+            },
+            "has_definition": false,
+            "rrp_outcome": "PASS",
+            "rrp_tier": "B",
+            "orig_var": "GenAm",
+            "votes": {
+                "judge_pass": 0.121566,
+                "rrp_tier": 0.75,
+                "inflection_attested": 1.0,
+                "lemma_linked": 1.0,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 1.0
+            }
+        }
+    ],
+    "xirs_NN2_𐑖𐑻𐑟": [
+        {
+            "Latn": "xirs",
+            "Shaw": "𐑖𐑻𐑟",
+            "pos": "NN2",
+            "ipa": "ʃɜːRz",
+            "freq": 0,
+            "var": "RRP",
+            "confidence": 79,
+            "inflection": "attested",
+            "inflection_base": "xir",
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "xir",
+                "pos": "NN1",
+                "Shaw": "𐑠𐑻"
+            },
+            "has_definition": false,
+            "rrp_outcome": "PASS",
+            "rrp_tier": "B",
+            "orig_var": "GenAm",
+            "votes": {
+                "judge_pass": 0.0,
+                "rrp_tier": 0.75,
+                "inflection_attested": 1.0,
+                "lemma_linked": 1.0,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 1.0
+            }
+        }
+    ],
+    "xirs_NN2_𐑟𐑻𐑟": [
+        {
+            "Latn": "xirs",
+            "Shaw": "𐑟𐑻𐑟",
+            "pos": "NN2",
+            "ipa": "zɜːRz",
+            "freq": 0,
+            "var": "RRP",
+            "confidence": 79,
+            "inflection": "attested",
+            "inflection_base": "xir",
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "xir",
+                "pos": "NN1",
+                "Shaw": "𐑠𐑻"
+            },
+            "has_definition": false,
+            "rrp_outcome": "PASS",
+            "rrp_tier": "B",
+            "orig_var": "GenAm",
+            "votes": {
+                "judge_pass": 0.0,
+                "rrp_tier": 0.75,
+                "inflection_attested": 1.0,
+                "lemma_linked": 1.0,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 1.0
+            }
+        }
+    ],
+    "xirs_NN2_𐑠𐑻𐑟": [
+        {
+            "Latn": "xirs",
+            "Shaw": "𐑠𐑻𐑟",
+            "pos": "NN2",
+            "ipa": "ʒɜːRz",
+            "freq": 0,
+            "var": "RRP",
+            "confidence": 79,
+            "inflection": "attested",
+            "inflection_base": "xir",
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "xir",
+                "pos": "NN1",
+                "Shaw": "𐑠𐑻"
+            },
+            "has_definition": false,
+            "rrp_outcome": "PASS",
+            "rrp_tier": "B",
+            "orig_var": "GenAm",
+            "votes": {
+                "judge_pass": 0.0,
+                "rrp_tier": 0.75,
+                "inflection_attested": 1.0,
+                "lemma_linked": 1.0,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 1.0
+            },
+            "regular_inflection": true
+        }
+    ],
     "xit_NN1_𐑖𐑰𐑑": [
         {
             "Latn": "xit",
@@ -14751,6 +16009,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 35,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -14790,6 +16051,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 49,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -14829,6 +16093,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 35,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -14868,6 +16135,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 49,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -14907,6 +16177,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -15113,6 +16386,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 46,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wordnet"
             ],
@@ -15201,7 +16477,8 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "regular_inflection": true
         }
     ],
     "xnipec_NN1_𐑖𐑯𐑦𐑐𐑧𐑒": [
@@ -15213,6 +16490,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -15313,6 +16593,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -15352,6 +16635,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -15391,6 +16677,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -15430,6 +16719,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -15469,6 +16761,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -15508,6 +16803,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -15585,7 +16883,10 @@
             "ipa": "eksəʊeksəʊ",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 28,
+            "confidence": 27,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -15607,7 +16908,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.986052,
+                "judge_reject": 0.997314,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -15648,6 +16949,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -15687,6 +16991,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -15726,6 +17033,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -15804,6 +17114,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -15898,6 +17211,90 @@
                 "has_definition": 1.0
             },
             "confidence": 50
+        }
+    ],
+    "xvideo_NN1_𐑧𐑒𐑕𐑝𐑦𐑛𐑦𐑴": [
+        {
+            "Latn": "xvideo",
+            "Shaw": "𐑧𐑒𐑕𐑝𐑦𐑛𐑦𐑴",
+            "pos": "NN1",
+            "ipa": "eksˈvɪdioʊ",
+            "freq": 0,
+            "var": "RSSB",
+            "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "xvideo",
+                "pos": "NN1",
+                "Shaw": "𐑧𐑒𐑕𐑝𐑦𐑛𐑦𐑴"
+            },
+            "has_definition": false,
+            "rrp_outcome": "SKIP_JUDGE_REJECT",
+            "rrp_tier": "B",
+            "generated_shaw": "𐑧𐑒𐑕𐑝𐑦𐑛𐑦𐑴",
+            "generated_tier": "B",
+            "generated_method": "ipa-converter",
+            "generated_from": {
+                "basis": "ipa",
+                "outcome": "GEN",
+                "witnesses": [],
+                "notes": []
+            },
+            "votes": {
+                "judge_reject": 1.0,
+                "rrp_tier": 0.75,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 1.0
+            }
+        }
+    ],
+    "xvideo_NP0_𐑧𐑒𐑕𐑝𐑦𐑛𐑦𐑴": [
+        {
+            "Latn": "xvideo",
+            "Shaw": "𐑧𐑒𐑕𐑝𐑦𐑛𐑦𐑴",
+            "pos": "NP0",
+            "ipa": "eksˈvɪdioʊ",
+            "freq": 0,
+            "var": "RSSB",
+            "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "xvideo",
+                "pos": "NP0",
+                "Shaw": "𐑧𐑒𐑕𐑝𐑦𐑛𐑦𐑴"
+            },
+            "has_definition": false,
+            "rrp_outcome": "SKIP_JUDGE_REJECT",
+            "rrp_tier": "B",
+            "generated_shaw": "𐑧𐑒𐑕𐑝𐑦𐑛𐑦𐑴",
+            "generated_tier": "B",
+            "generated_method": "ipa-converter",
+            "generated_from": {
+                "basis": "ipa",
+                "outcome": "GEN",
+                "witnesses": [],
+                "notes": []
+            },
+            "votes": {
+                "judge_reject": 1.0,
+                "rrp_tier": 0.75,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 1.0
+            }
         }
     ],
     "xviii_AJ0_𐑧𐑒𐑕𐑝𐑲𐑦": [
@@ -16120,7 +17517,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.307152,
+                "judge_reject": 0.311315,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -16137,7 +17534,7 @@
             "ipa": "zaɪleəriəm",
             "freq": 0,
             "var": "RRP",
-            "confidence": 81,
+            "confidence": 80,
             "source": [
                 "wiktionary"
             ],
@@ -16150,7 +17547,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.77872,
+                "judge_pass": 0.768674,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -16168,6 +17565,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 50,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -16181,7 +17581,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.295551,
+                "judge_reject": 0.295965,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -16199,6 +17599,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 81,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -16212,7 +17615,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.866726,
+                "judge_pass": 0.858369,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -16230,6 +17633,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 97,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wordnet",
                 "wiktionary"
@@ -16244,7 +17650,7 @@
             "rrp_tier": "A",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.993682,
+                "judge_pass": 0.994607,
                 "rrp_tier": 1.0,
                 "source_agree": 0.5,
                 "ipa_present": 1.0,
@@ -16261,7 +17667,7 @@
             "ipa": "ˌzaɪləˈmætɪk",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 61,
+            "confidence": 60,
             "source": [
                 "wiktionary"
             ],
@@ -16283,7 +17689,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.02432,
+                "judge_reject": 0.031563,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -16301,6 +17707,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 97,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wordnet",
                 "wiktionary"
@@ -16315,7 +17724,7 @@
             "rrp_tier": "A",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.985572,
+                "judge_pass": 0.991617,
                 "rrp_tier": 1.0,
                 "source_agree": 0.5,
                 "ipa_present": 1.0,
@@ -16333,6 +17742,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 58,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -16354,7 +17766,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.033369,
+                "judge_reject": 0.033378,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -16371,7 +17783,10 @@
             "ipa": "zaɪˈlɪndiɪn",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 48,
+            "confidence": 49,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -16393,7 +17808,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.364413,
+                "judge_reject": 0.350732,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -16410,7 +17825,10 @@
             "ipa": "zaɪˈlɪndiːn",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 47,
+            "confidence": 48,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -16432,7 +17850,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.393394,
+                "judge_reject": 0.3805,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -16462,7 +17880,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.783707,
+                "judge_pass": 0.77895,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -16499,6 +17917,40 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
+            }
+        }
+    ],
+    "xylo-_UNC_𐑟𐑲𐑤𐑴-": [
+        {
+            "Latn": "xylo-",
+            "Shaw": "𐑟𐑲𐑤𐑴-",
+            "pos": "UNC",
+            "ipa": "ˈzaɪloʊ",
+            "freq": 0,
+            "var": "RRP",
+            "confidence": 25,
+            "info": [
+                "accent: unstated"
+            ],
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "xylo-",
+                "pos": "UNC",
+                "Shaw": "𐑟𐑲𐑤𐑴-"
+            },
+            "has_definition": false,
+            "rrp_outcome": "PASS",
+            "rrp_tier": "B",
+            "orig_var": "RSSB",
+            "votes": {
+                "judge_pass": 0.0,
+                "rrp_tier": 0.75,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 0.15
             }
         }
     ],
@@ -16588,7 +18040,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.985911,
+                "judge_pass": 0.987676,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -16619,7 +18071,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.754288,
+                "judge_pass": 0.757016,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -16681,7 +18133,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.985911,
+                "judge_pass": 0.987676,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -16712,7 +18164,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.754288,
+                "judge_pass": 0.757016,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -16747,7 +18199,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.945827,
+                "judge_pass": 0.952202,
                 "rrp_tier": 0.75,
                 "shave_agree": 0.35,
                 "source_agree": 0.0,
@@ -16765,6 +18217,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -16788,6 +18243,67 @@
             "votes": {
                 "judge_reject": 1.0,
                 "rrp_tier": 0.75,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 1.0
+            }
+        }
+    ],
+    "xylophagous_AJ0_𐑟𐑲𐑤𐑪𐑓𐑩𐑜𐑩𐑕": [
+        {
+            "Latn": "xylophagous",
+            "Shaw": "𐑟𐑲𐑤𐑪𐑓𐑩𐑜𐑩𐑕",
+            "pos": "AJ0",
+            "ipa": "zaɪˈlɒfəɡəs",
+            "freq": 0,
+            "var": "RRP",
+            "confidence": 82,
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "xylophagous",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑲𐑤𐑪𐑓𐑩𐑜𐑩𐑕"
+            },
+            "has_definition": false,
+            "rrp_outcome": "PASS",
+            "rrp_tier": "B",
+            "votes": {
+                "judge_pass": 0.903992,
+                "rrp_tier": 0.75,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 1.0
+            }
+        }
+    ],
+    "xylophagous_AJ0_𐑟𐑲𐑤𐑭𐑓𐑩𐑜𐑩𐑕": [
+        {
+            "Latn": "xylophagous",
+            "Shaw": "𐑟𐑲𐑤𐑭𐑓𐑩𐑜𐑩𐑕",
+            "pos": "AJ0",
+            "ipa": "zaɪˈlɑːfəɡəs",
+            "freq": 0,
+            "var": "GenAm",
+            "confidence": 60,
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "xylophagous",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑲𐑤𐑭𐑓𐑩𐑜𐑩𐑕"
+            },
+            "has_definition": false,
+            "mergers": [
+                "lot-palm"
+            ],
+            "rrp_outcome": "SKIP_MERGER",
+            "votes": {
+                "accent_corroborated": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
@@ -16840,7 +18356,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "votes": {
-                "judge_pass": 0.701209,
+                "judge_pass": 0.706856,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -16898,7 +18414,8 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "regular_inflection": true
         }
     ],
     "xylophonist_NN1_𐑟𐑲𐑤𐑪𐑓𐑩𐑯𐑦𐑕𐑑": [
@@ -16960,7 +18477,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.97883,
+                "judge_pass": 0.979206,
                 "rrp_tier": 0.75,
                 "shave_agree": 0.35,
                 "source_agree": 0.0,
@@ -16991,7 +18508,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.854246,
+                "judge_pass": 0.852419,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17022,7 +18539,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.790928,
+                "judge_pass": 0.791338,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17053,13 +18570,46 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.829939,
+                "judge_pass": 0.826738,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
             }
+        }
+    ],
+    "xyphophorus_NN1_𐑟𐑲𐑓𐑩𐑓𐑹𐑩𐑕": [
+        {
+            "Latn": "xyphophorus",
+            "Shaw": "𐑟𐑲𐑓𐑩𐑓𐑹𐑩𐑕",
+            "pos": "NN1",
+            "var": "RRP",
+            "freq": 1,
+            "synthetic": true,
+            "shaw_source": "shave-g2p",
+            "origin": "shave-g2p from wordnet-speculative",
+            "tier": "shave-g2p-speculative",
+            "source": [
+                "generated"
+            ],
+            "lemma": {
+                "Latn": "xyphophorus",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑲𐑓𐑩𐑓𐑹𐑩𐑕"
+            },
+            "has_definition": true,
+            "rrp_outcome": "PASS",
+            "rrp_tier": "B",
+            "votes": {
+                "judge_pass": 1.0,
+                "rrp_tier": 0.75,
+                "shave_agree": 0.35,
+                "source_agree": 0.0,
+                "ipa_present": 0.0,
+                "has_definition": 1.0
+            },
+            "confidence": 50
         }
     ],
     "xyr_DT0_𐑟𐑦𐑮": [
@@ -17084,7 +18634,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.765126,
+                "judge_reject": 0.771505,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17146,7 +18696,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.765126,
+                "judge_reject": 0.771505,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17195,6 +18745,9 @@
             "freq": 0,
             "var": "RSSB",
             "confidence": 19,
+            "info": [
+                "accent: unstated"
+            ],
             "review": "ml_disagrees:𐑟𐑲𐑮𐑦𐑛",
             "source": [
                 "wiktionary"
@@ -17217,7 +18770,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.202332,
+                "judge_reject": 0.203931,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17235,6 +18788,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 84,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -17248,7 +18804,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.992199,
+                "judge_pass": 0.993085,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17265,7 +18821,7 @@
             "ipa": "zɪstər",
             "freq": 0,
             "var": "RRP",
-            "confidence": 67,
+            "confidence": 68,
             "source": [
                 "wiktionary"
             ],
@@ -17279,7 +18835,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.240694,
+                "judge_pass": 0.258335,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17297,6 +18853,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 84,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -17310,7 +18869,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.990907,
+                "judge_pass": 0.991162,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17361,6 +18920,9 @@
             "freq": 0,
             "var": "RRP",
             "confidence": 84,
+            "info": [
+                "accent: unstated"
+            ],
             "source": [
                 "wiktionary"
             ],
@@ -17374,7 +18936,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.989322,
+                "judge_pass": 0.989951,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
