@@ -5,29 +5,25 @@
 > conventions are still evolving, and this text evolves with them.
 > [Editors: you can — and should — edit this document as the conventions
 > themselves move.]
-
-> Disclaimer: This initial draft was written by Claude based on my briefing - Joro.
+> 
+> Disclaimer (JORO): This initial draft was largely written by Claude 
+> based on my briefing - I have given it a once over but it's not yet where 
+> I want it.  Feel free to chip in!
 
 ## What Shaw-Spell is
 
-Shaw-Spell extends and modernises the [ReadLex](https://readlex.pythonanywhere.com)
-(Kingsley Read Lexicon), the Shavian pronunciation dictionary. ReadLex is our
-core: its entries arrive intact, and where it covers a word we treat it as
-authoritative. On that foundation we do two things:
+Shaw-Spell is built on top of the [ReadLex](https://readlex.pythonanywhere.com)
+(Kingsley Read Lexicon), the Shavian pronunciation dictionary by [Shavian.info](https://shavian.info).  Shaw-spell takes the latest version of Readlex and on top of that, it:
 
-- **expand the vocabulary**, spelling new words as ReadLex itself would spell
-  them; and
-- **capture the major mainstream variations in pronunciation** — the spoken
-  language as it is evolving — as entries in their own right, alongside the
-  canonical ones.
+- **expands the vocabulary**, spelling new words following the same conventions 
+  as laid out by Realex's author
+- **adds new ponunciations**, to offer Shavian users the option to spell words   
+  the way they say them 
 
 The second goal is where we go beyond ReadLex's remit. ReadLex describes
-itself as neither prescriptive nor descriptive but *selective*: one standard
-spelling per word, for stability. We keep that selective standard as our
-canonical layer, and add a more descriptive layer on top of it, recording the
-principal ways pronunciation genuinely differs across the mainstream accents.
-As ever with Shavian: nobody is told how to spell. This is a reference, not a
-rulebook.
+itself as neither prescriptive nor descriptive but *selective*: typically it
+has just one standard spelling per word, variant spellings are few and far between. 
+Shaw-spell sticks to Readlex's selective standard as its default dictionary entries, but adds many more pronunciations across more mainstream accents.
 
 ## Compatibility with ReadLex
 
@@ -46,29 +42,28 @@ differences:
 - **Bound forms live in a separate file.** Prefixes, suffixes and clitics —
   anything that cannot stand alone as a written word — publish to
   `readlex-affixes.json`, in the identical schema, with a hyphen marking the
-  attachment side. The main dictionary contains only free-standing words, so
-  nothing in it can be mistaken for one.
+  attachment side. The `readlex.json` export contains only free-standing words.
 - **Regular inflections are not listed.** Consumers generate regular plurals
   and verb forms themselves; the dictionary lists only irregular ones, and the
   presence of an irregular form is the signal not to generate a regular one.
+  
+[Note to editors (JORO): this last point  is not entirely true yet.  This is where we are heading though.]
 
 ## How words are spelled
 
-We adopt ReadLex's spelling principles wholesale for the canonical layer,
-including its most consequential choice: spellings are based on **rhotic
-Received Pronunciation (RRP)** — RP with every R pronounced. Because RRP keeps
-every vowel and consonant distinction that the major accents make between
-them, one RRP spelling can stand for all of them.
+We adopt ReadLex's spelling principles for the default entries of 
+words.  Default spellings are always based on **rhotic
+Received Pronunciation (RRP)** — RP with every R pronounced.
 
-That gives the dictionary its shape:
+Following Readlex's structure:
 
-- **An entry with only an RRP spelling covers every accent.** Most words need
-  nothing more.
-- **Where an accent genuinely differs, it gets its own entry**, labelled with
+- **An entry with only an RRP spelling is used for every dialect.**
+- **Where a major dialect genuinely differs, it gets its own entry**, labelled with
   that accent (General American, Canadian, Australian, and so on).
-- **Absence is meaningful.** If a word has no General American entry, that is
-  not a gap: it means the RRP spelling already covers American speech for that
-  word.
+- In cases where there are multiple variants of a word in one major dialect, 
+  we will flag alternatives as 'variations', using the '-Var' suffix for the 
+  region, and one or more flags specifying what specific kind of variation it is.
+
 
 ## Accents, mergers, and variants
 
@@ -84,33 +79,15 @@ merger its spelling reflects. Three mergers are currently modelled:
   characteristic of North American speech.
 - **lot–palm** (father–bother) — the LOT and PALM vowels collapsed, so
   *father* and *bother* rhyme: American *pond* 𐑐𐑭𐑯𐑛 beside canonical 𐑐𐑪𐑯𐑛.
+- **other** - variations that don't clearly fall under the three mergers
+  listed get put into a separate 'other' bucket.
 
-The governing rule: **the variety that distinguishes the vowels is the
-default; the one that merges them carries the flag.** RRP distinguishes
-everything, so the canonical layer never needs a flag.
-
-A few properties of the system worth knowing:
-
-- **Flags are detected, never invented.** A merger flag is applied only where
-  the merged spelling is an exact vowel-for-vowel counterpart of an attested
-  unmerged spelling of the same word. We record variation the sources show;
-  we do not generate it.
-- **Before /r/, the same mergers surface on the r-coloured letters** (𐑹, 𐑸)
-  rather than the plain vowels — the same sound change, written the way
-  Shavian writes vowels before R.
-- **One accent can hold both forms.** Merged and unmerged pronunciations are
-  both mainstream in American English, so a word may carry more than one
-  American entry, each right for its speakers.
-- **The merged forms are optional by construction.** A reader or tool that
-  wants no merged spellings can ignore flagged entries entirely and fall back
-  on the canonical spelling, which always exists.
-- Variation that no named merger accounts for is marked as a plain variant
-  rather than forced into a category.
+As a rule, **the variety that distinguishes the vowels is the
+default; the one that merges them carries the flag.**  
 
 [Editors: the merger system is very much still work in progress. Which mergers
 are named, the direction conventions, and how the flags publish are all still
-being settled — expect this section to change, and check the decision log
-before relying on details.]
+being settled — expect this section to change.]
 
 ## What gets an entry
 
@@ -124,26 +101,10 @@ An entry in the main dictionary is a free-standing written word. Beyond that:
 - **Inflections**: only irregular ones (*sheep* as its own plural, *went*,
   *better*). Regular inflections are derivable and deliberately not listed.
 
-## How entries are reviewed
+## How new dictionary entries are curated
 
-Most candidate entries are produced by an automated pipeline from sources such
-as WordNet and Wiktionary. **Nothing that pipeline produces is published
-without human review**: every generated spelling, harvested variant and merger
+Candidate entries are produced by an automated pipeline from sources such
+as WordNet and Wiktionary, or they are entered into the system by hand. 
+**Nothing that pipeline produces is published without human review**: every generated spelling, harvested variant and merger
 tag is a candidate until an editor examines it and accepts, corrects, or
 rejects it — no confidence score or batch rule substitutes for that judgement.
-The one exception is the ReadLex core itself, which arrives already trusted.
-
-Every editorial decision is recorded, attributed and reversible, and the
-published dictionary is always exactly the result of those decisions applied
-to the source material — the two cannot drift apart.
-
----
-
-## Open questions for review (not part of the published document)
-
-
-1. **Second use of the editor-aside device.** I also converted the
-   disclaimer's edit invitation into a square-bracket parenthetical, so the
-   document speaks to end users throughout and to editors only inside
-   brackets — two uses total. Say the word if the device should be reserved
-   for the merger note alone.

@@ -2,8 +2,10 @@
 
 > A living document, like its sibling, and provisional throughout. Edit it as
 > the conventions move.
-
-> Disclaimer: This initial draft was written by Claude based on my briefing - Joro.
+>
+> Disclaimer: This initial draft was written by Claude based on my briefing.
+>    When I find the time I'll either get it to write a better one or I'll
+>    write one by hand :P - Joro.
 
 This is the working guide for editors: the workflows, the records, how patches
 work, and the judgement calls the workbench puts in front of you. For what the
@@ -171,17 +173,3 @@ together, in one commit alongside the patch store, so the published dictionary
 can never disagree with the decisions that produced it. The editor is the sole
 publisher of both files, and Commit records the publication locally — pushing
 it anywhere is a separate, human act.
-
----
-
-## Open questions for review (not part of the document)
-
-
-1. **What is the channel for upstream reports?** "Flag it rather than fixing
-   it by hand" needs a destination — the message board, the backlog, or
-   something else. The record does not say; the section currently says "flag
-   it" without naming where.
-
-2. **The mistagged bare clitics** (`'s`, `'m`, `'ll` carrying implausible
-   tags) are recorded as outstanding retagging work. Should editors fix them
-   on sight, or leave them for a ruling? Editors will meet them.
