@@ -7,7 +7,7 @@
             "ipa": "ˈeksdɪziz",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 61,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -16,7 +16,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑧𐑒𐑕𐑛𐑦𐑟𐑦𐑟"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_OOV",
             "rrp_tier": "B",
             "generated_shaw": "𐑧𐑒𐑕𐑛𐑦𐑟𐑦𐑟",
@@ -32,7 +32,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -45,7 +45,7 @@
             "ipa": "ˌeksˈsæmpə",
             "freq": 0,
             "var": "RRP",
-            "confidence": 77,
+            "confidence": 75,
             "source": [
                 "wiktionary"
             ],
@@ -54,7 +54,7 @@
                 "pos": "NP0",
                 "Shaw": "𐑧𐑒𐑕-𐑕𐑨𐑥𐑐𐑩"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "orig_var": "GenAm",
@@ -63,7 +63,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             },
             "orig_shaw": "𐑧𐑒𐑕𐑕𐑨𐑥𐑐𐑩"
@@ -77,7 +77,7 @@
             "ipa": "ˈeksdɪziz",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 44,
+            "confidence": 42,
             "source": [
                 "wiktionary"
             ],
@@ -86,7 +86,7 @@
                 "pos": "NP0",
                 "Shaw": "𐑧𐑒𐑕-𐑛𐑦𐑟𐑦𐑟"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "generated_shaw": "𐑧𐑒𐑕𐑛𐑦𐑟𐑦𐑟",
@@ -103,7 +103,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             },
             "orig_shaw": "𐑧𐑒𐑕𐑛𐑦𐑟𐑦𐑟"
@@ -507,7 +507,7 @@
                 "has_definition": 0.0,
                 "clean_base": 1.0
             },
-            "regular_inflection": true
+            "regular": true
         },
         {
             "Latn": "XAs",
@@ -541,7 +541,7 @@
                 "has_definition": 0.0,
                 "clean_base": 1.0
             },
-            "regular_inflection": true
+            "regular": true
         }
     ],
     "XAs_NN2_𐑧𐑒𐑕 𐑱𐑟": [
@@ -577,7 +577,7 @@
                 "has_definition": 0.0,
                 "clean_base": 1.0
             },
-            "regular_inflection": true
+            "regular": true
         }
     ],
     "XOR_NN1_𐑟𐑷𐑮": [
@@ -1349,7 +1349,7 @@
             "ipa": "ˌekswaɪˈzed",
             "freq": 0,
             "var": "RRP",
-            "confidence": 61,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -1358,7 +1358,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑧𐑒𐑕𐑢𐑲𐑟𐑧𐑛"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -1366,7 +1366,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -1379,7 +1379,7 @@
             "ipa": "ˌekswaɪˈziː",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 31,
+            "confidence": 29,
             "source": [
                 "wiktionary"
             ],
@@ -1388,7 +1388,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑧𐑒𐑕𐑢𐑲𐑟𐑰"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "variant": true,
@@ -1397,7 +1397,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -1410,7 +1410,7 @@
             "ipa": "ˌekswaɪˈzed",
             "freq": 0,
             "var": "RRP",
-            "confidence": 61,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -1419,7 +1419,7 @@
                 "pos": "UNC",
                 "Shaw": "𐑧𐑒𐑕𐑢𐑲𐑟𐑧𐑛"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -1427,7 +1427,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -1440,7 +1440,7 @@
             "ipa": "ˌekswaɪˈziː",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 31,
+            "confidence": 29,
             "source": [
                 "wiktionary"
             ],
@@ -1449,7 +1449,7 @@
                 "pos": "UNC",
                 "Shaw": "𐑧𐑒𐑕𐑢𐑲𐑟𐑰"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "variant": true,
@@ -1458,7 +1458,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -2791,7 +2791,7 @@
             "ipa": "hɑːmɑːR",
             "freq": 0,
             "var": "RRP",
-            "confidence": 61,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -2800,7 +2800,7 @@
                 "pos": "NP0",
                 "Shaw": "𐑣𐑭𐑥𐑸"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "orig_var": "GenAm",
@@ -2809,7 +2809,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -2822,7 +2822,7 @@
             "ipa": "ˈzænəduː",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 54,
+            "confidence": 52,
             "info": [
                 "accent: unstated"
             ],
@@ -2834,7 +2834,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑨𐑯𐑩𐑛𐑵"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "generated_shaw": "𐑟𐑨𐑯𐑩𐑛𐑵",
@@ -2847,11 +2847,11 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.228485,
+                "judge_reject": 0.227393,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -2864,7 +2864,7 @@
             "ipa": "ˈzænəˌtɑːs",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 37,
+            "confidence": 34,
             "source": [
                 "wiktionary"
             ],
@@ -2873,7 +2873,7 @@
                 "pos": "NP0",
                 "Shaw": "𐑟𐑨𐑯𐑩𐑑𐑭𐑕"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "generated_shaw": "𐑟𐑨𐑯𐑩𐑑𐑭𐑕",
@@ -2886,11 +2886,11 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.809002,
+                "judge_reject": 0.844043,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -2903,7 +2903,7 @@
             "ipa": "ˈzænəˌtoʊs",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 31,
+            "confidence": 29,
             "source": [
                 "wiktionary"
             ],
@@ -2912,7 +2912,7 @@
                 "pos": "NP0",
                 "Shaw": "𐑟𐑨𐑯𐑩𐑑𐑴𐑕"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "generated_shaw": "𐑟𐑨𐑯𐑩𐑑𐑴𐑕",
@@ -2929,7 +2929,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -2956,7 +2956,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.987083,
+                "judge_pass": 0.98971,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2973,7 +2973,7 @@
             "ipa": "ˈzændəR",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 62,
+            "confidence": 60,
             "source": [
                 "wiktionary"
             ],
@@ -2982,7 +2982,7 @@
                 "pos": "NP0",
                 "Shaw": "𐑟𐑨𐑯𐑛𐑼"
             },
-            "has_definition": true,
+            "has_definition": false,
             "mergers": [
                 "trap-bath"
             ],
@@ -2991,7 +2991,7 @@
                 "accent_corroborated": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -3004,7 +3004,7 @@
             "ipa": "zɑːndəR",
             "freq": 0,
             "var": "RRP",
-            "confidence": 68,
+            "confidence": 67,
             "source": [
                 "wiktionary"
             ],
@@ -3013,15 +3013,15 @@
                 "pos": "NP0",
                 "Shaw": "𐑟𐑭𐑯𐑛𐑼"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.288732,
+                "judge_pass": 0.297526,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -3034,7 +3034,7 @@
             "ipa": "zʌːndəR",
             "freq": 0,
             "var": "GenAus",
-            "confidence": 31,
+            "confidence": 29,
             "source": [
                 "wiktionary"
             ],
@@ -3043,7 +3043,7 @@
                 "pos": "NP0",
                 "Shaw": "𐑟𐑳𐑯𐑛𐑼"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "variant": true,
@@ -3052,7 +3052,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -3639,7 +3639,7 @@
             "ipa": "ˈeksbəʊn",
             "freq": 0,
             "var": "RRP",
-            "confidence": 86,
+            "confidence": 84,
             "source": [
                 "wiktionary"
             ],
@@ -3648,7 +3648,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑧𐑒𐑕𐑚𐑴𐑯"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -3656,7 +3656,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -3669,7 +3669,7 @@
             "ipa": "ˈeks bɒks",
             "freq": 0,
             "var": "RRP",
-            "confidence": 73,
+            "confidence": 71,
             "source": [
                 "wiktionary"
             ],
@@ -3678,7 +3678,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑧𐑒𐑕 𐑚𐑪𐑒𐑕"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -3686,7 +3686,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -3699,7 +3699,7 @@
             "ipa": "ˈeks bɒks",
             "freq": 0,
             "var": "RRP",
-            "confidence": 73,
+            "confidence": 71,
             "source": [
                 "wiktionary"
             ],
@@ -3708,7 +3708,7 @@
                 "pos": "VVI",
                 "Shaw": "𐑧𐑒𐑕 𐑚𐑪𐑒𐑕"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -3716,7 +3716,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -3771,7 +3771,7 @@
             "ipa": "ˈziːnə",
             "freq": 0,
             "var": "RRP",
-            "confidence": 90,
+            "confidence": 88,
             "source": [
                 "wiktionary"
             ],
@@ -3780,7 +3780,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑰𐑯𐑩"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "votes": {
@@ -3788,7 +3788,7 @@
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         },
@@ -3799,7 +3799,7 @@
             "ipa": "ˈziːnə",
             "freq": 0,
             "var": "RRP",
-            "confidence": 90,
+            "confidence": 88,
             "source": [
                 "wiktionary"
             ],
@@ -3808,7 +3808,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑰𐑯𐑩"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "orig_var": "GenAm",
@@ -3817,7 +3817,7 @@
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -3830,7 +3830,7 @@
             "ipa": "ˈziːnə",
             "freq": 0,
             "var": "RRP",
-            "confidence": 90,
+            "confidence": 88,
             "source": [
                 "wiktionary"
             ],
@@ -3839,7 +3839,7 @@
                 "pos": "NP0",
                 "Shaw": "𐑟𐑰𐑯𐑩"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "votes": {
@@ -3847,7 +3847,7 @@
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         },
@@ -3858,7 +3858,7 @@
             "ipa": "ˈziːnə",
             "freq": 0,
             "var": "RRP",
-            "confidence": 90,
+            "confidence": 88,
             "source": [
                 "wiktionary"
             ],
@@ -3867,7 +3867,7 @@
                 "pos": "NP0",
                 "Shaw": "𐑟𐑰𐑯𐑩"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "orig_var": "GenAm",
@@ -3876,7 +3876,7 @@
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -4026,7 +4026,7 @@
             "ipa": "ˌzenəˈfəʊni+ən",
             "freq": 0,
             "var": "RRP",
-            "confidence": 79,
+            "confidence": 77,
             "source": [
                 "wiktionary"
             ],
@@ -4035,7 +4035,7 @@
                 "pos": "AJ0",
                 "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑯𐑦𐑩𐑯"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "orig_var": "GenAm",
@@ -4044,7 +4044,7 @@
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -4057,7 +4057,7 @@
             "ipa": "ˌziːnoʊˈfɑːntɪk",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 32,
+            "confidence": 30,
             "source": [
                 "wiktionary"
             ],
@@ -4066,7 +4066,7 @@
                 "pos": "AJ0",
                 "Shaw": "𐑟𐑰𐑯𐑴𐑓𐑭𐑯𐑑𐑦𐑒"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "generated_shaw": "𐑟𐑰𐑯𐑴𐑓𐑭𐑯𐑑𐑦𐑒",
@@ -4083,7 +4083,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -4096,7 +4096,7 @@
             "ipa": "zɜːRksiːz",
             "freq": 0,
             "var": "RRP",
-            "confidence": 74,
+            "confidence": 72,
             "source": [
                 "wiktionary"
             ],
@@ -4105,7 +4105,7 @@
                 "pos": "NP0",
                 "Shaw": "𐑟𐑻𐑒𐑕𐑰𐑟"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "orig_var": "GenAm",
@@ -4114,7 +4114,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -4169,7 +4169,7 @@
             "ipa": "ʒɪtəR",
             "freq": 0,
             "var": "RRP",
-            "confidence": 61,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -4178,7 +4178,7 @@
                 "pos": "NP0",
                 "Shaw": "𐑠𐑦𐑑𐑼"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "orig_var": "GenAm",
@@ -4187,7 +4187,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -4534,7 +4534,7 @@
             "ipa": "ʃɑː",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 31,
+            "confidence": 29,
             "source": [
                 "wiktionary"
             ],
@@ -4543,7 +4543,7 @@
                 "pos": "NP0",
                 "Shaw": "𐑖𐑭"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "generated_shaw": "𐑖𐑭",
@@ -4560,7 +4560,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -6698,7 +6698,7 @@
             "ipa": "ʃɪtləR",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 29,
+            "confidence": 27,
             "info": [
                 "note: RA",
                 "accent: unstated"
@@ -6711,7 +6711,7 @@
                 "pos": "NP0",
                 "Shaw": "𐑖𐑦𐑑𐑤𐑼"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "generated_shaw": "𐑖𐑦𐑑𐑤𐑼",
@@ -6731,7 +6731,7 @@
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -6744,7 +6744,7 @@
             "ipa": "ʃiːˈtsɒŋɡə",
             "freq": 0,
             "var": "RRP",
-            "confidence": 69,
+            "confidence": 67,
             "source": [
                 "wiktionary"
             ],
@@ -6753,7 +6753,7 @@
                 "pos": "NP0",
                 "Shaw": "𐑖𐑰𐑑𐑕𐑪𐑙𐑜𐑩"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -6761,7 +6761,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -6774,7 +6774,7 @@
             "ipa": "ʃiːˈtsɔːŋɡə",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 62,
+            "confidence": 60,
             "source": [
                 "wiktionary"
             ],
@@ -6783,7 +6783,7 @@
                 "pos": "NP0",
                 "Shaw": "𐑖𐑰𐑑𐑕𐑷𐑙𐑜𐑩"
             },
-            "has_definition": true,
+            "has_definition": false,
             "mergers": [
                 "cot-caught"
             ],
@@ -6792,7 +6792,7 @@
                 "accent_corroborated": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -6805,7 +6805,7 @@
             "ipa": "ʃɪtəR",
             "freq": 0,
             "var": "RRP",
-            "confidence": 61,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -6814,7 +6814,7 @@
                 "pos": "NP0",
                 "Shaw": "𐑖𐑦𐑑𐑼"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "orig_var": "GenAm",
@@ -6823,7 +6823,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -6936,7 +6936,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.512554,
+                "judge_reject": 0.512506,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -6970,7 +6970,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.512554,
+                "judge_reject": 0.512506,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -7004,7 +7004,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.991588,
+                "judge_pass": 0.991244,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -7021,7 +7021,7 @@
             "ipa": "ˈeksməsƏz",
             "freq": 0,
             "var": "RRP",
-            "confidence": 86,
+            "confidence": 84,
             "review": "ipa_source:copied-homograph",
             "ipa_source": "copied-homograph",
             "source": [
@@ -7032,15 +7032,15 @@
                 "pos": "NP0",
                 "Shaw": "𐑧𐑒𐑕𐑥𐑩𐑕𐑩𐑟"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.997626,
+                "judge_pass": 0.997605,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -7053,7 +7053,7 @@
             "ipa": "eksɒɡrəfi",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 47,
+            "confidence": 46,
             "info": [
                 "accent: unstated"
             ],
@@ -7078,7 +7078,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.362236,
+                "judge_reject": 0.391338,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -7095,7 +7095,7 @@
             "ipa": "ˈʃəʊləʊ",
             "freq": 0,
             "var": "RRP",
-            "confidence": 75,
+            "confidence": 73,
             "source": [
                 "wiktionary"
             ],
@@ -7104,7 +7104,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑖𐑴𐑤𐑴"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -7112,7 +7112,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -7125,7 +7125,7 @@
             "ipa": "ʃoʊloʊiːtsˈkwiːntleɪ",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 31,
+            "confidence": 29,
             "source": [
                 "wiktionary"
             ],
@@ -7134,7 +7134,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑖𐑴𐑤𐑴𐑰𐑑𐑕𐑒𐑢𐑰𐑯𐑑𐑤𐑱"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "generated_shaw": "𐑖𐑴𐑤𐑴𐑰𐑑𐑕𐑒𐑢𐑰𐑯𐑑𐑤𐑱",
@@ -7151,7 +7151,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -7164,7 +7164,7 @@
             "ipa": "ˌʃoʊloʊɪtsˈkwɪntli",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 31,
+            "confidence": 29,
             "source": [
                 "wiktionary"
             ],
@@ -7173,7 +7173,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑖𐑴𐑤𐑴𐑦𐑑𐑕𐑒𐑢𐑦𐑯𐑑𐑤𐑦"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "generated_shaw": "𐑖𐑴𐑤𐑴𐑦𐑑𐑕𐑒𐑢𐑦𐑯𐑑𐑤𐑦",
@@ -7190,7 +7190,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -7414,7 +7414,7 @@
             "source": [
                 "readlex"
             ],
-            "has_definition": true,
+            "has_definition": false,
             "votes": {
                 "upstream": 1.0
             },
@@ -7631,12 +7631,12 @@
             "source": [
                 "readlex"
             ],
-            "has_definition": true,
+            "has_definition": false,
             "votes": {
                 "upstream": 1.0
             },
             "confidence": 100,
-            "regular_inflection": true
+            "regular": true
         }
     ],
     "x-rayed_VVN_𐑧𐑒𐑕-𐑮𐑱𐑛": [
@@ -7655,12 +7655,12 @@
             "source": [
                 "readlex"
             ],
-            "has_definition": true,
+            "has_definition": false,
             "votes": {
                 "upstream": 1.0
             },
             "confidence": 100,
-            "regular_inflection": true
+            "regular": true
         }
     ],
     "x-raying_VVG_𐑧𐑒𐑕-𐑮𐑱𐑦𐑙": [
@@ -7684,7 +7684,7 @@
                 "upstream": 1.0
             },
             "confidence": 100,
-            "regular_inflection": true
+            "regular": true
         }
     ],
     "x-rays_NN2_𐑧𐑒𐑕-𐑮𐑱𐑟": [
@@ -7703,12 +7703,12 @@
             "source": [
                 "readlex"
             ],
-            "has_definition": true,
+            "has_definition": false,
             "votes": {
                 "upstream": 1.0
             },
             "confidence": 100,
-            "regular_inflection": true
+            "regular": true
         }
     ],
     "x-rays_VVZ_𐑧𐑒𐑕-𐑮𐑱𐑟": [
@@ -7727,12 +7727,12 @@
             "source": [
                 "readlex"
             ],
-            "has_definition": true,
+            "has_definition": false,
             "votes": {
                 "upstream": 1.0
             },
             "confidence": 100,
-            "regular_inflection": true
+            "regular": true
         }
     ],
     "x_CJC_𐑒𐑕": [
@@ -8117,7 +8117,7 @@
             "source": [
                 "readlex"
             ],
-            "has_definition": true,
+            "has_definition": false,
             "votes": {
                 "upstream": 1.0
             },
@@ -8132,7 +8132,7 @@
             "ipa": "ˈzænbi",
             "freq": 0,
             "var": "RRP",
-            "confidence": 89,
+            "confidence": 87,
             "source": [
                 "wiktionary"
             ],
@@ -8141,16 +8141,16 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑨𐑯𐑚𐑦"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.959124,
+                "judge_pass": 0.953678,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -8188,7 +8188,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.111687,
+                "judge_reject": 0.113212,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8920,7 +8920,7 @@
             "ipa": "ˈzanθəʊn",
             "freq": 0,
             "var": "RRP",
-            "confidence": 81,
+            "confidence": 79,
             "source": [
                 "wiktionary"
             ],
@@ -8929,7 +8929,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑨𐑯𐑔𐑴𐑯"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "orig_var": "GenAm",
@@ -8938,7 +8938,7 @@
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -9394,7 +9394,7 @@
             "ipa": "zɪˈbek",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 47,
+            "confidence": 45,
             "source": [
                 "wiktionary"
             ],
@@ -9403,7 +9403,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑦𐑚𐑧𐑒"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "variant": true,
@@ -9412,7 +9412,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -9425,7 +9425,7 @@
             "ipa": "ˈziːbek",
             "freq": 0,
             "var": "RRP",
-            "confidence": 88,
+            "confidence": 86,
             "source": [
                 "wiktionary"
             ],
@@ -9434,7 +9434,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑰𐑚𐑧𐑒"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "orig_var": "GenAm",
@@ -9443,7 +9443,7 @@
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -9792,7 +9792,7 @@
             "ipa": "ˈzenəɡɒɡ",
             "freq": 0,
             "var": "RRP",
-            "confidence": 85,
+            "confidence": 83,
             "source": [
                 "wiktionary"
             ],
@@ -9801,7 +9801,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑧𐑯𐑩𐑜𐑪𐑜"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -9809,7 +9809,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -9822,7 +9822,7 @@
             "ipa": "ˈzenəˌɡɑːɡ",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 62,
+            "confidence": 60,
             "source": [
                 "wiktionary"
             ],
@@ -9831,7 +9831,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑧𐑯𐑩𐑜𐑭𐑜"
             },
-            "has_definition": true,
+            "has_definition": false,
             "mergers": [
                 "lot-palm"
             ],
@@ -9840,7 +9840,7 @@
                 "accent_corroborated": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -9979,7 +9979,7 @@
             "ipa": "zeniləˈsiː+ə",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 35,
+            "confidence": 33,
             "source": [
                 "wiktionary"
             ],
@@ -9988,7 +9988,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑧𐑯𐑦𐑤𐑩𐑕𐑰𐑩"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "variant": true,
@@ -9997,7 +9997,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -10010,7 +10010,7 @@
             "ipa": "zeniːləˈsiːə",
             "freq": 0,
             "var": "RRP",
-            "confidence": 66,
+            "confidence": 64,
             "source": [
                 "wiktionary"
             ],
@@ -10019,7 +10019,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑧𐑯𐑰𐑤𐑩𐑕𐑰𐑩"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -10027,7 +10027,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -10040,7 +10040,7 @@
             "ipa": "zeˈniːləsi",
             "freq": 0,
             "var": "RRP",
-            "confidence": 80,
+            "confidence": 78,
             "source": [
                 "wiktionary"
             ],
@@ -10049,7 +10049,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑧𐑯𐑰𐑤𐑩𐑕𐑦"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "orig_var": "GenAm",
@@ -10058,7 +10058,7 @@
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -10249,7 +10249,7 @@
             "ipa": "ˈziːniəm",
             "freq": 0,
             "var": "RRP",
-            "confidence": 84,
+            "confidence": 82,
             "source": [
                 "wiktionary"
             ],
@@ -10258,7 +10258,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑰𐑯𐑾𐑥"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -10266,7 +10266,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -10313,7 +10313,7 @@
             "ipa": "ˈzenɪəl",
             "freq": 0,
             "var": "RRP",
-            "confidence": 90,
+            "confidence": 88,
             "source": [
                 "wiktionary"
             ],
@@ -10322,7 +10322,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑧𐑯𐑾𐑤"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "votes": {
@@ -10330,7 +10330,7 @@
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         },
@@ -10341,7 +10341,7 @@
             "ipa": "ˈzeniəl",
             "freq": 0,
             "var": "RRP",
-            "confidence": 85,
+            "confidence": 83,
             "source": [
                 "wiktionary"
             ],
@@ -10350,7 +10350,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑧𐑯𐑾𐑤"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "orig_var": "GenAm",
@@ -10359,7 +10359,7 @@
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -10372,7 +10372,7 @@
             "ipa": "eksˈenɪəl",
             "freq": 0,
             "var": "RRP",
-            "confidence": 77,
+            "confidence": 75,
             "source": [
                 "wiktionary"
             ],
@@ -10381,7 +10381,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑧𐑒𐑕𐑧𐑯𐑾𐑤"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "orig_var": "GenAm",
@@ -10390,7 +10390,7 @@
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -10489,7 +10489,7 @@
             "ipa": "ˌzenəʊbaɪˈɒlədʒi",
             "freq": 0,
             "var": "RRP",
-            "confidence": 83,
+            "confidence": 81,
             "source": [
                 "wiktionary"
             ],
@@ -10498,7 +10498,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑧𐑯𐑴𐑚𐑲𐑪𐑤𐑩𐑡𐑦"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -10506,7 +10506,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -10519,7 +10519,7 @@
             "ipa": "ˌzenoʊbaɪˈɑːlədʒi",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 62,
+            "confidence": 60,
             "source": [
                 "wiktionary"
             ],
@@ -10528,7 +10528,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑧𐑯𐑴𐑚𐑲𐑭𐑤𐑩𐑡𐑦"
             },
-            "has_definition": true,
+            "has_definition": false,
             "mergers": [
                 "lot-palm"
             ],
@@ -10537,7 +10537,7 @@
                 "accent_corroborated": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -10550,7 +10550,7 @@
             "ipa": "ˌziːnəʊbaɪˈɒlədʒi",
             "freq": 0,
             "var": "RRP",
-            "confidence": 85,
+            "confidence": 83,
             "source": [
                 "wiktionary"
             ],
@@ -10559,7 +10559,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑰𐑯𐑴𐑚𐑲𐑪𐑤𐑩𐑡𐑦"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -10567,7 +10567,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -10580,7 +10580,7 @@
             "ipa": "ˈziːnoʊbaɪˌɑːlədʒi",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 62,
+            "confidence": 60,
             "source": [
                 "wiktionary"
             ],
@@ -10589,7 +10589,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑰𐑯𐑴𐑚𐑲𐑭𐑤𐑩𐑡𐑦"
             },
-            "has_definition": true,
+            "has_definition": false,
             "mergers": [
                 "lot-palm"
             ],
@@ -10598,7 +10598,7 @@
                 "accent_corroborated": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -10721,7 +10721,7 @@
             "ipa": "ˈzenəʊklɪtɪk",
             "freq": 0,
             "var": "RRP",
-            "confidence": 79,
+            "confidence": 77,
             "source": [
                 "wiktionary"
             ],
@@ -10730,7 +10730,7 @@
                 "pos": "AJ0",
                 "Shaw": "𐑟𐑧𐑯𐑴𐑒𐑤𐑦𐑑𐑦𐑒"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -10738,7 +10738,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -10751,7 +10751,7 @@
             "ipa": "ˈziːnoʊklɪtɪk",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 34,
+            "confidence": 32,
             "source": [
                 "wiktionary"
             ],
@@ -10760,7 +10760,7 @@
                 "pos": "AJ0",
                 "Shaw": "𐑟𐑰𐑯𐑴𐑒𐑤𐑦𐑑𐑦𐑒"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "variant": true,
@@ -10769,7 +10769,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -10908,7 +10908,7 @@
             "ipa": "ˌzenəˈdəʊkiəm",
             "freq": 0,
             "var": "RRP",
-            "confidence": 88,
+            "confidence": 86,
             "source": [
                 "wiktionary"
             ],
@@ -10917,7 +10917,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑧𐑯𐑩𐑛𐑴𐑒𐑾𐑥"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "orig_var": "GenAm",
@@ -10926,7 +10926,7 @@
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -10939,7 +10939,7 @@
             "ipa": "ˌzenəʊˈdəʊkiəm",
             "freq": 0,
             "var": "RRP",
-            "confidence": 85,
+            "confidence": 83,
             "source": [
                 "wiktionary"
             ],
@@ -10948,7 +10948,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑧𐑯𐑴𐑛𐑴𐑒𐑾𐑥"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "orig_var": "GenAm",
@@ -10957,7 +10957,7 @@
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -11130,7 +11130,7 @@
             "ipa": "zenədʒendəR",
             "freq": 0,
             "var": "RRP",
-            "confidence": 78,
+            "confidence": 76,
             "source": [
                 "wiktionary"
             ],
@@ -11139,7 +11139,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑧𐑯𐑩𐑡𐑧𐑯𐑛𐑼"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -11147,7 +11147,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -11160,7 +11160,7 @@
             "ipa": "ˌziːnoʊˈdʒendəR",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 37,
+            "confidence": 35,
             "source": [
                 "wiktionary"
             ],
@@ -11169,7 +11169,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑰𐑯𐑴𐑡𐑧𐑯𐑛𐑼"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "variant": true,
@@ -11178,7 +11178,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -11354,7 +11354,7 @@
             "ipa": "zeˈnɒdʒənəs",
             "freq": 0,
             "var": "RRP",
-            "confidence": 82,
+            "confidence": 80,
             "source": [
                 "wiktionary"
             ],
@@ -11363,7 +11363,7 @@
                 "pos": "AJ0",
                 "Shaw": "𐑟𐑧𐑯𐑪𐑡𐑩𐑯𐑩𐑕"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -11371,7 +11371,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -11823,7 +11823,7 @@
             "ipa": "ˌzenəɪntɒksɪˈkeɪʃən",
             "freq": 0,
             "var": "RRP",
-            "confidence": 79,
+            "confidence": 77,
             "source": [
                 "wiktionary"
             ],
@@ -11832,7 +11832,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑧𐑯𐑩𐑦𐑯𐑑𐑪𐑒𐑕𐑦𐑒𐑱𐑖𐑩𐑯"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -11840,7 +11840,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -11853,7 +11853,7 @@
             "ipa": "ˌzenəɪntɑːksɪˈkeɪʃən",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 62,
+            "confidence": 60,
             "source": [
                 "wiktionary"
             ],
@@ -11862,7 +11862,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑧𐑯𐑩𐑦𐑯𐑑𐑭𐑒𐑕𐑦𐑒𐑱𐑖𐑩𐑯"
             },
-            "has_definition": true,
+            "has_definition": false,
             "mergers": [
                 "lot-palm"
             ],
@@ -11871,7 +11871,7 @@
                 "accent_corroborated": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -11884,7 +11884,7 @@
             "ipa": "ˌzenoʊˈleɪliə",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 37,
+            "confidence": 35,
             "source": [
                 "wiktionary"
             ],
@@ -11893,7 +11893,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑧𐑯𐑴𐑤𐑱𐑤𐑾"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "generated_shaw": "𐑟𐑧𐑯𐑴𐑤𐑱𐑤𐑾",
@@ -11910,7 +11910,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -11923,7 +11923,7 @@
             "ipa": "ˌziːnoʊˈleɪliə",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 38,
+            "confidence": 36,
             "source": [
                 "wiktionary"
             ],
@@ -11932,7 +11932,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑰𐑯𐑴𐑤𐑱𐑤𐑾"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "generated_shaw": "𐑟𐑰𐑯𐑴𐑤𐑱𐑤𐑾",
@@ -11949,7 +11949,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -11997,7 +11997,7 @@
             "ipa": "zəˈnɒlədʒɪ",
             "freq": 0,
             "var": "RRP",
-            "confidence": 78,
+            "confidence": 76,
             "source": [
                 "wiktionary"
             ],
@@ -12006,7 +12006,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑩𐑯𐑪𐑤𐑩𐑡𐑦"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -12014,7 +12014,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -12027,7 +12027,7 @@
             "ipa": "zəˈnɑːlədʒi",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 62,
+            "confidence": 60,
             "source": [
                 "wiktionary"
             ],
@@ -12036,7 +12036,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑩𐑯𐑭𐑤𐑩𐑡𐑦"
             },
-            "has_definition": true,
+            "has_definition": false,
             "mergers": [
                 "lot-palm"
             ],
@@ -12045,7 +12045,7 @@
                 "accent_corroborated": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -12142,7 +12142,7 @@
             "ipa": "zenəʊmɔːRf",
             "freq": 0,
             "var": "RRP",
-            "confidence": 73,
+            "confidence": 71,
             "source": [
                 "wiktionary"
             ],
@@ -12151,7 +12151,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑧𐑯𐑴𐑥𐑹𐑓"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "orig_var": "GenAm",
@@ -12160,7 +12160,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -12622,7 +12622,7 @@
             "source": [
                 "readlex"
             ],
-            "has_definition": true,
+            "has_definition": false,
             "votes": {
                 "upstream": 1.0
             },
@@ -12637,7 +12637,7 @@
             "ipa": "ˈzenəfoʊb",
             "freq": 0,
             "var": "RRP",
-            "confidence": 65,
+            "confidence": 63,
             "source": [
                 "wiktionary"
             ],
@@ -12646,7 +12646,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑚"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "orig_var": "GenAm",
@@ -12655,7 +12655,7 @@
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         },
@@ -12666,7 +12666,7 @@
             "ipa": "ˈzenəfəʊb",
             "freq": 0,
             "var": "RRP",
-            "confidence": 90,
+            "confidence": 88,
             "source": [
                 "wiktionary"
             ],
@@ -12675,7 +12675,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑚"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "votes": {
@@ -12683,7 +12683,7 @@
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -12696,7 +12696,7 @@
             "ipa": "ˈziːnəfoʊb",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 31,
+            "confidence": 29,
             "source": [
                 "wiktionary"
             ],
@@ -12705,7 +12705,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑰𐑯𐑩𐑓𐑴𐑚"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "variant": true,
@@ -12714,7 +12714,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -12989,7 +12989,7 @@
             "ipa": "ˈzenəfəʊn",
             "freq": 0,
             "var": "RRP",
-            "confidence": 86,
+            "confidence": 84,
             "source": [
                 "wiktionary"
             ],
@@ -12998,7 +12998,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑯"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -13006,7 +13006,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -13019,7 +13019,7 @@
             "ipa": "ˌziːnoʊˈfaɪoʊˌfɔːR",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 31,
+            "confidence": 29,
             "source": [
                 "wiktionary"
             ],
@@ -13028,7 +13028,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑰𐑯𐑴𐑓𐑲𐑴𐑓𐑹"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "generated_shaw": "𐑟𐑰𐑯𐑴𐑓𐑲𐑴𐑓𐑹",
@@ -13045,7 +13045,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -13441,7 +13441,7 @@
             "ipa": "ˈzerɪskeɪp",
             "freq": 0,
             "var": "RRP",
-            "confidence": 86,
+            "confidence": 84,
             "source": [
                 "wiktionary"
             ],
@@ -13450,7 +13450,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑧𐑮𐑦𐑕𐑒𐑱𐑐"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -13458,7 +13458,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -13471,7 +13471,7 @@
             "ipa": "ˈzerəskeɪp",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 61,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -13480,7 +13480,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑧𐑮𐑩𐑕𐑒𐑱𐑐"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_OCCUPIED",
             "rrp_tier": "B",
             "variant": true,
@@ -13488,7 +13488,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -13501,7 +13501,7 @@
             "ipa": "ˈzerɪskeɪp",
             "freq": 0,
             "var": "RRP",
-            "confidence": 86,
+            "confidence": 84,
             "source": [
                 "wiktionary"
             ],
@@ -13510,7 +13510,7 @@
                 "pos": "VVI",
                 "Shaw": "𐑟𐑧𐑮𐑦𐑕𐑒𐑱𐑐"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -13518,7 +13518,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -13531,7 +13531,7 @@
             "ipa": "ˈzerəskeɪp",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 61,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -13540,7 +13540,7 @@
                 "pos": "VVI",
                 "Shaw": "𐑟𐑧𐑮𐑩𐑕𐑒𐑱𐑐"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_OCCUPIED",
             "rrp_tier": "B",
             "variant": true,
@@ -13548,7 +13548,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -13561,7 +13561,7 @@
             "ipa": "ziːˈrɑːkrəsi",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 40,
+            "confidence": 38,
             "source": [
                 "wiktionary"
             ],
@@ -13570,7 +13570,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑰𐑮𐑭𐑒𐑮𐑩𐑕𐑦"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "variant": true,
@@ -13579,7 +13579,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -13592,7 +13592,7 @@
             "ipa": "zɪərɒkrəsi",
             "freq": 0,
             "var": "RRP",
-            "confidence": 75,
+            "confidence": 73,
             "source": [
                 "wiktionary"
             ],
@@ -13601,7 +13601,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑽𐑪𐑒𐑮𐑩𐑕𐑦"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -13609,7 +13609,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -13730,7 +13730,7 @@
             "ipa": "zɪərɒfədʒi",
             "freq": 0,
             "var": "RRP",
-            "confidence": 76,
+            "confidence": 74,
             "source": [
                 "wiktionary"
             ],
@@ -13739,7 +13739,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑽𐑪𐑓𐑩𐑡𐑦"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -13747,7 +13747,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -13803,7 +13803,7 @@
             "ipa": "ˈzerəˌsɑːl",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 49,
+            "confidence": 47,
             "source": [
                 "wiktionary"
             ],
@@ -13812,7 +13812,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑧𐑮𐑩𐑕𐑭𐑤"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "generated_shaw": "𐑟𐑧𐑮𐑩𐑕𐑭𐑤",
@@ -13829,7 +13829,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -13842,7 +13842,7 @@
             "ipa": "ˈzeroʊˌsɑːl",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 31,
+            "confidence": 29,
             "source": [
                 "wiktionary"
             ],
@@ -13851,7 +13851,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑧𐑮𐑴𐑕𐑭𐑤"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "generated_shaw": "𐑟𐑧𐑮𐑴𐑕𐑭𐑤",
@@ -13868,7 +13868,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -14264,7 +14264,7 @@
             "source": [
                 "readlex"
             ],
-            "has_definition": true,
+            "has_definition": false,
             "votes": {
                 "upstream": 1.0
             },
@@ -14287,12 +14287,12 @@
             "source": [
                 "readlex"
             ],
-            "has_definition": true,
+            "has_definition": false,
             "votes": {
                 "upstream": 1.0
             },
             "confidence": 100,
-            "regular_inflection": true
+            "regular": true
         }
     ],
     "xeroxed_VVN_𐑟𐑽𐑪𐑒𐑕𐑑": [
@@ -14311,12 +14311,12 @@
             "source": [
                 "readlex"
             ],
-            "has_definition": true,
+            "has_definition": false,
             "votes": {
                 "upstream": 1.0
             },
             "confidence": 100,
-            "regular_inflection": true
+            "regular": true
         }
     ],
     "xeroxes_NN2_𐑟𐑽𐑪𐑒𐑕𐑩𐑟": [
@@ -14335,12 +14335,12 @@
             "source": [
                 "readlex"
             ],
-            "has_definition": true,
+            "has_definition": false,
             "votes": {
                 "upstream": 1.0
             },
             "confidence": 100,
-            "regular_inflection": true
+            "regular": true
         }
     ],
     "xeroxes_VVZ_𐑟𐑽𐑪𐑒𐑕𐑩𐑟": [
@@ -14359,12 +14359,12 @@
             "source": [
                 "readlex"
             ],
-            "has_definition": true,
+            "has_definition": false,
             "votes": {
                 "upstream": 1.0
             },
             "confidence": 100,
-            "regular_inflection": true
+            "regular": true
         }
     ],
     "xeroxing_VVG_𐑟𐑽𐑪𐑒𐑕𐑦𐑙": [
@@ -14383,12 +14383,12 @@
             "source": [
                 "readlex"
             ],
-            "has_definition": true,
+            "has_definition": false,
             "votes": {
                 "upstream": 1.0
             },
             "confidence": 100,
-            "regular_inflection": true
+            "regular": true
         }
     ],
     "xertz_VVI_𐑟𐑻𐑑𐑕": [
@@ -14947,7 +14947,7 @@
             "ipa": "ˈsjaʊlɒŋbaʊ",
             "freq": 0,
             "var": "RRP",
-            "confidence": 61,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -14956,7 +14956,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑕𐑘𐑬𐑤𐑪𐑙𐑚𐑬"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -14964,7 +14964,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -14977,7 +14977,7 @@
             "ipa": "ˈʃjaʊlɒŋbaʊ",
             "freq": 0,
             "var": "RRP",
-            "confidence": 61,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -14986,7 +14986,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑖𐑘𐑬𐑤𐑪𐑙𐑚𐑬"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -14994,7 +14994,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -15007,7 +15007,7 @@
             "ipa": "ˈʃjaʊlɔŋˈbaʊ",
             "freq": 0,
             "var": "RRP",
-            "confidence": 61,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -15016,7 +15016,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑖𐑘𐑬𐑤𐑷𐑙𐑚𐑬"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -15024,7 +15024,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -15037,7 +15037,7 @@
             "ipa": "ˈʃaʊlɒŋbaʊ",
             "freq": 0,
             "var": "RRP",
-            "confidence": 70,
+            "confidence": 68,
             "source": [
                 "wiktionary"
             ],
@@ -15046,7 +15046,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑖𐑬𐑤𐑪𐑙𐑚𐑬"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -15054,7 +15054,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -15067,7 +15067,7 @@
             "ipa": "ˈʃaʊlɔŋbaʊ",
             "freq": 0,
             "var": "RRP",
-            "confidence": 61,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -15076,7 +15076,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑖𐑬𐑤𐑷𐑙𐑚𐑬"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -15084,7 +15084,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -15360,7 +15360,7 @@
             "ipa": "zəˌfɪdioʊsɜːRˈkeri+ə",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 29,
+            "confidence": 27,
             "source": [
                 "wiktionary"
             ],
@@ -15369,7 +15369,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑩𐑓𐑦𐑛𐑦𐑴𐑕𐑻𐑒𐑧𐑮𐑦𐑩"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "C",
             "generated_shaw": "𐑟𐑩𐑓𐑦𐑛𐑦𐑴𐑕𐑻𐑒𐑧𐑮𐑦𐑩",
@@ -15386,7 +15386,7 @@
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -15589,7 +15589,7 @@
             "ipa": "ˈʃiːkʃiːk",
             "freq": 0,
             "var": "RRP",
-            "confidence": 64,
+            "confidence": 62,
             "source": [
                 "wiktionary"
             ],
@@ -15598,7 +15598,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑖𐑰𐑒𐑖𐑰𐑒"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -15606,7 +15606,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -15619,7 +15619,7 @@
             "ipa": "ksɜːR",
             "freq": 0,
             "var": "RRP",
-            "confidence": 61,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -15628,7 +15628,7 @@
                 "pos": "DT0",
                 "Shaw": "𐑒𐑕𐑻"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "orig_var": "GenAm",
@@ -15637,7 +15637,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -15650,7 +15650,7 @@
             "ipa": "ʃɜːR",
             "freq": 0,
             "var": "RRP",
-            "confidence": 61,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -15659,7 +15659,7 @@
                 "pos": "DT0",
                 "Shaw": "𐑖𐑻"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "orig_var": "GenAm",
@@ -15668,7 +15668,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -15681,7 +15681,7 @@
             "ipa": "zɜːR",
             "freq": 0,
             "var": "RRP",
-            "confidence": 61,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -15690,7 +15690,7 @@
                 "pos": "DT0",
                 "Shaw": "𐑟𐑻"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "orig_var": "GenAm",
@@ -15699,7 +15699,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -15712,7 +15712,7 @@
             "ipa": "ʒɜːR",
             "freq": 0,
             "var": "RRP",
-            "confidence": 61,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -15721,7 +15721,7 @@
                 "pos": "DT0",
                 "Shaw": "𐑠𐑻"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "orig_var": "GenAm",
@@ -15730,7 +15730,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -15743,7 +15743,7 @@
             "ipa": "ksɜːR",
             "freq": 0,
             "var": "RRP",
-            "confidence": 61,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -15752,7 +15752,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑒𐑕𐑻"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "orig_var": "GenAm",
@@ -15761,7 +15761,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -15774,7 +15774,7 @@
             "ipa": "ʃɜːR",
             "freq": 0,
             "var": "RRP",
-            "confidence": 61,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -15783,7 +15783,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑖𐑻"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "orig_var": "GenAm",
@@ -15792,7 +15792,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -15805,7 +15805,7 @@
             "ipa": "zɜːR",
             "freq": 0,
             "var": "RRP",
-            "confidence": 61,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -15814,7 +15814,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑻"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "orig_var": "GenAm",
@@ -15823,7 +15823,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -15836,7 +15836,7 @@
             "ipa": "ʒɜːR",
             "freq": 0,
             "var": "RRP",
-            "confidence": 61,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -15845,7 +15845,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑠𐑻"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "orig_var": "GenAm",
@@ -15854,7 +15854,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -15997,7 +15997,7 @@
                 "has_definition": 0.0,
                 "clean_base": 1.0
             },
-            "regular_inflection": true
+            "regular": true
         }
     ],
     "xit_NN1_𐑖𐑰𐑑": [
@@ -16368,7 +16368,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.733831,
+                "judge_pass": 0.758398,
                 "rrp_tier": 0.75,
                 "shave_agree": 0.35,
                 "source_agree": 0.0,
@@ -16402,7 +16402,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.512554,
+                "judge_reject": 0.512506,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -16473,12 +16473,12 @@
             "source": [
                 "readlex"
             ],
-            "has_definition": true,
+            "has_definition": false,
             "votes": {
                 "upstream": 1.0
             },
             "confidence": 100,
-            "regular_inflection": true
+            "regular": true
         }
     ],
     "xnipec_NN1_𐑖𐑯𐑦𐑐𐑧𐑒": [
@@ -16531,7 +16531,7 @@
             "ipa": "ˈzəʊənɒn",
             "freq": 0,
             "var": "RRP",
-            "confidence": 82,
+            "confidence": 80,
             "source": [
                 "wiktionary"
             ],
@@ -16540,15 +16540,15 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑴𐑩𐑯𐑪𐑯"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.83839,
+                "judge_pass": 0.826626,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -16561,7 +16561,7 @@
             "ipa": "ˈzoʊənɑːn",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 62,
+            "confidence": 60,
             "source": [
                 "wiktionary"
             ],
@@ -16570,7 +16570,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑴𐑩𐑯𐑭𐑯"
             },
-            "has_definition": true,
+            "has_definition": false,
             "mergers": [
                 "lot-palm"
             ],
@@ -16579,7 +16579,7 @@
                 "accent_corroborated": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -16844,7 +16844,7 @@
             "ipa": "zorn",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 31,
+            "confidence": 29,
             "source": [
                 "wiktionary"
             ],
@@ -16853,7 +16853,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑪𐑮𐑯"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "generated_shaw": "𐑟𐑪𐑮𐑯",
@@ -16870,7 +16870,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -16933,7 +16933,7 @@
             "source": [
                 "readlex"
             ],
-            "has_definition": true,
+            "has_definition": false,
             "votes": {
                 "upstream": 1.0
             },
@@ -17074,7 +17074,7 @@
             "ipa": "ˈʃuʃoʊ",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 31,
+            "confidence": 29,
             "source": [
                 "wiktionary"
             ],
@@ -17083,7 +17083,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑖𐑫𐑖𐑴"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "generated_shaw": "𐑖𐑫𐑖𐑴",
@@ -17100,7 +17100,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -17503,7 +17503,7 @@
             "ipa": "zaɪˈleriəm",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 52,
+            "confidence": 50,
             "source": [
                 "wiktionary"
             ],
@@ -17512,7 +17512,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑲𐑤𐑧𐑮𐑾𐑥"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "variant": true,
@@ -17521,7 +17521,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -17534,7 +17534,7 @@
             "ipa": "zaɪleəriəm",
             "freq": 0,
             "var": "RRP",
-            "confidence": 80,
+            "confidence": 78,
             "source": [
                 "wiktionary"
             ],
@@ -17543,7 +17543,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑲𐑤𐑺𐑾𐑥"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -17551,7 +17551,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -17667,7 +17667,7 @@
             "ipa": "ˌzaɪləˈmætɪk",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 60,
+            "confidence": 58,
             "source": [
                 "wiktionary"
             ],
@@ -17676,7 +17676,7 @@
                 "pos": "AJ0",
                 "Shaw": "𐑟𐑲𐑤𐑩𐑥𐑨𐑑𐑦𐑒"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "generated_shaw": "𐑟𐑲𐑤𐑩𐑥𐑨𐑑𐑦𐑒",
@@ -17693,7 +17693,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -17867,7 +17867,7 @@
             "ipa": "ˈzaɪlɪtɒl",
             "freq": 0,
             "var": "RRP",
-            "confidence": 81,
+            "confidence": 79,
             "source": [
                 "wiktionary"
             ],
@@ -17876,7 +17876,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑲𐑤𐑦𐑑𐑪𐑤"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -17884,7 +17884,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -17897,7 +17897,7 @@
             "ipa": "ˈzaɪlɪtɑːl",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 62,
+            "confidence": 60,
             "source": [
                 "wiktionary"
             ],
@@ -17906,7 +17906,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑲𐑤𐑦𐑑𐑭𐑤"
             },
-            "has_definition": true,
+            "has_definition": false,
             "mergers": [
                 "lot-palm"
             ],
@@ -17915,7 +17915,7 @@
                 "accent_corroborated": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -17995,7 +17995,7 @@
             "ipa": "ˈzaɪləɡræf",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 62,
+            "confidence": 60,
             "source": [
                 "wiktionary"
             ],
@@ -18004,7 +18004,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑲𐑤𐑩𐑜𐑮𐑨𐑓"
             },
-            "has_definition": true,
+            "has_definition": false,
             "mergers": [
                 "trap-bath"
             ],
@@ -18013,7 +18013,7 @@
                 "accent_corroborated": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -18026,7 +18026,7 @@
             "ipa": "zaɪləɡrɑːf",
             "freq": 0,
             "var": "RRP",
-            "confidence": 52,
+            "confidence": 50,
             "review": "ml_disagrees:𐑟𐑲𐑤𐑩𐑜𐑮𐑪𐑨𐑓; shave_agrees",
             "source": [
                 "wiktionary"
@@ -18036,7 +18036,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑲𐑤𐑩𐑜𐑮𐑭𐑓"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -18044,7 +18044,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 0.15
             }
         }
@@ -18057,7 +18057,7 @@
             "ipa": "zaɪləʊɡrɑːf",
             "freq": 0,
             "var": "RRP",
-            "confidence": 46,
+            "confidence": 44,
             "review": "ml_disagrees:𐑟𐑲𐑤𐑴𐑜𐑮𐑪𐑨𐑓; shave_agrees",
             "source": [
                 "wiktionary"
@@ -18067,7 +18067,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑲𐑤𐑴𐑜𐑮𐑭𐑓"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -18075,7 +18075,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 0.15
             }
         }
@@ -18088,7 +18088,7 @@
             "ipa": "ˈzaɪləɡræf",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 62,
+            "confidence": 60,
             "source": [
                 "wiktionary"
             ],
@@ -18097,7 +18097,7 @@
                 "pos": "VVI",
                 "Shaw": "𐑟𐑲𐑤𐑩𐑜𐑮𐑨𐑓"
             },
-            "has_definition": true,
+            "has_definition": false,
             "mergers": [
                 "trap-bath"
             ],
@@ -18106,7 +18106,7 @@
                 "accent_corroborated": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -18119,7 +18119,7 @@
             "ipa": "zaɪləɡrɑːf",
             "freq": 0,
             "var": "RRP",
-            "confidence": 52,
+            "confidence": 50,
             "review": "ml_disagrees:𐑟𐑲𐑤𐑩𐑜𐑮𐑪𐑨𐑓; shave_agrees",
             "source": [
                 "wiktionary"
@@ -18129,7 +18129,7 @@
                 "pos": "VVI",
                 "Shaw": "𐑟𐑲𐑤𐑩𐑜𐑮𐑭𐑓"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -18137,7 +18137,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 0.15
             }
         }
@@ -18150,7 +18150,7 @@
             "ipa": "zaɪləʊɡrɑːf",
             "freq": 0,
             "var": "RRP",
-            "confidence": 46,
+            "confidence": 44,
             "review": "ml_disagrees:𐑟𐑲𐑤𐑴𐑜𐑮𐑪𐑨𐑓; shave_agrees",
             "source": [
                 "wiktionary"
@@ -18160,7 +18160,7 @@
                 "pos": "VVI",
                 "Shaw": "𐑟𐑲𐑤𐑴𐑜𐑮𐑭𐑓"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
@@ -18168,7 +18168,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 0.15
             }
         }
@@ -18410,12 +18410,12 @@
             "source": [
                 "readlex"
             ],
-            "has_definition": true,
+            "has_definition": false,
             "votes": {
                 "upstream": 1.0
             },
             "confidence": 100,
-            "regular_inflection": true
+            "regular": true
         }
     ],
     "xylophonist_NN1_𐑟𐑲𐑤𐑪𐑓𐑩𐑯𐑦𐑕𐑑": [
@@ -18494,7 +18494,7 @@
             "ipa": "ˌzaɪləˈspʌndʒiəm",
             "freq": 0,
             "var": "RRP",
-            "confidence": 86,
+            "confidence": 84,
             "source": [
                 "wiktionary"
             ],
@@ -18503,7 +18503,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑲𐑤𐑩𐑕𐑐𐑳𐑯𐑡𐑾𐑥"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "orig_var": "GenAm",
@@ -18512,7 +18512,7 @@
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -18525,7 +18525,7 @@
             "ipa": "ˌzaɪləʊˈspʌndʒiəm",
             "freq": 0,
             "var": "RRP",
-            "confidence": 85,
+            "confidence": 83,
             "source": [
                 "wiktionary"
             ],
@@ -18534,7 +18534,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑲𐑤𐑴𐑕𐑐𐑳𐑯𐑡𐑾𐑥"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "orig_var": "GenAm",
@@ -18543,7 +18543,7 @@
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -18556,7 +18556,7 @@
             "ipa": "ˌzaɪləʊˈstɪptɪk",
             "freq": 0,
             "var": "RRP",
-            "confidence": 86,
+            "confidence": 84,
             "source": [
                 "wiktionary"
             ],
@@ -18565,7 +18565,7 @@
                 "pos": "AJ0",
                 "Shaw": "𐑟𐑲𐑤𐑴𐑕𐑑𐑦𐑐𐑑𐑦𐑒"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "orig_var": "GenAm",
@@ -18574,7 +18574,7 @@
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -18620,7 +18620,7 @@
             "ipa": "zɪr",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 38,
+            "confidence": 36,
             "source": [
                 "wiktionary"
             ],
@@ -18629,7 +18629,7 @@
                 "pos": "DT0",
                 "Shaw": "𐑟𐑦𐑮"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "variant": true,
@@ -18638,7 +18638,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -18651,7 +18651,7 @@
             "ipa": "zɪər",
             "freq": 0,
             "var": "RRP",
-            "confidence": 61,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -18660,7 +18660,7 @@
                 "pos": "DT0",
                 "Shaw": "𐑟𐑽"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "orig_var": "GenAm",
@@ -18669,7 +18669,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -18682,7 +18682,7 @@
             "ipa": "zɪr",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 38,
+            "confidence": 36,
             "source": [
                 "wiktionary"
             ],
@@ -18691,7 +18691,7 @@
                 "pos": "PNP",
                 "Shaw": "𐑟𐑦𐑮"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "variant": true,
@@ -18700,7 +18700,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -18713,7 +18713,7 @@
             "ipa": "zɪər",
             "freq": 0,
             "var": "RRP",
-            "confidence": 61,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -18722,7 +18722,7 @@
                 "pos": "PNP",
                 "Shaw": "𐑟𐑽"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "orig_var": "GenAm",
@@ -18731,7 +18731,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
@@ -18821,7 +18821,7 @@
             "ipa": "zɪstər",
             "freq": 0,
             "var": "RRP",
-            "confidence": 68,
+            "confidence": 66,
             "source": [
                 "wiktionary"
             ],
@@ -18830,7 +18830,7 @@
                 "pos": "NN1",
                 "Shaw": "𐑟𐑦𐑕𐑑𐑼"
             },
-            "has_definition": true,
+            "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "orig_var": "GenAm",
@@ -18839,7 +18839,7 @@
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
-                "has_definition": 1.0,
+                "has_definition": 0.0,
                 "clean_base": 1.0
             }
         }
