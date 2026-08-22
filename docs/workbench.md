@@ -425,8 +425,9 @@ If someone else saved while you were editing, **nothing is written**: you are
 told who and when, and your text stays in the textarea. It warns; it never
 locks.
 
-A markdown link from one document to another does not resolve. Name a sibling
-document and let the reader pick it from the chooser.
+A markdown link to a sibling resolves: write `[editing.md](editing.md)` and it
+opens that document here. A link to a document that does not exist says so
+rather than doing nothing. An external `http(s)` link opens in a new tab.
 
 ## Commit
 
