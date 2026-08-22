@@ -9,9 +9,8 @@
 
 This describes the controls: what each one does, and what happens when you use
 it. For the judgement behind the decisions — which candidates deserve which
-verdict, and why — read **editing.md**, the editorial handbook, which this
-document does not repeat. Open it from the same Documents chooser this document
-came from.
+verdict, and why — read [editing.md](editing.md), the editorial handbook, which this
+document does not repeat.
 
 **Read the overview; consult the rest.** Everything after it is reference
 material you can arrive at with a question.
@@ -41,7 +40,7 @@ decide.
 ### The five concepts everything else assumes
 
 **Record.** One dictionary entry — one natural key, defined exactly in
-**editing.md**. A row in the ledger.
+[editing.md](editing.md). A row in the ledger.
 
 **Group.** Records sharing a spelling and variation set, shown as one
 expandable row, so records differing only by part of speech or accent sit
@@ -335,7 +334,7 @@ writes.
 
 ## Verdicts
 
-**editing.md** says what each one means editorially; this is what each does.
+[editing.md](editing.md) says what each one means editorially; this is what each does.
 
 | Button | Key | Effect |
 |---|---|---|
@@ -458,5 +457,5 @@ and nothing downstream picks the data up until someone moves it.
 
 ---
 
-*Sibling documents, both in the Documents chooser: **editing.md** — the
-editorial handbook; **dictionary.md** — what the dictionary is for.*
+*Sibling documents, both in the Documents chooser: [editing.md](editing.md) — the
+editorial handbook; [dictionary.md](dictionary.md) — what the dictionary is for.*
