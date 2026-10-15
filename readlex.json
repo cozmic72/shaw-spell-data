@@ -559,7 +559,8 @@
                 "Latn": "abaft",
                 "pos": "PRP",
                 "Shaw": "𐑩𐑚𐑭𐑓𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "abaft",
@@ -575,7 +576,8 @@
                 "Latn": "abaft",
                 "pos": "PRP",
                 "Shaw": "𐑩𐑚𐑭𐑓𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "abandon_NN1_𐑩𐑚𐑨𐑯𐑛𐑩𐑯": [
@@ -11049,7 +11051,8 @@
                 "Latn": "acoustics",
                 "pos": "NN1",
                 "Shaw": "𐑩𐑒𐑵𐑕𐑑𐑦𐑒𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "acqua_UNC_𐑨𐑒𐑢𐑩": [
@@ -18103,7 +18106,8 @@
                 "Latn": "advance",
                 "pos": "AJ0",
                 "Shaw": "𐑩𐑛𐑝𐑭𐑯𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "advance_NN1_𐑩𐑛𐑝𐑭𐑯𐑕": [
@@ -18147,7 +18151,8 @@
                 "Latn": "advance",
                 "pos": "NN1",
                 "Shaw": "𐑩𐑛𐑝𐑭𐑯𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "advances",
@@ -18259,7 +18264,8 @@
                 "Latn": "advance",
                 "pos": "VVI",
                 "Shaw": "𐑩𐑛𐑝𐑭𐑯𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "advance",
@@ -18322,7 +18328,8 @@
                 "Latn": "advanced",
                 "pos": "AJ0",
                 "Shaw": "𐑩𐑛𐑝𐑭𐑯𐑕𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "advancement_NN1_𐑩𐑛𐑝𐑭𐑯𐑕𐑥𐑩𐑯𐑑": [
@@ -18353,7 +18360,8 @@
                 "Latn": "advancement",
                 "pos": "NN1",
                 "Shaw": "𐑩𐑛𐑝𐑭𐑯𐑕𐑥𐑩𐑯𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "advancing_AJ0_𐑩𐑛𐑝𐑭𐑯𐑕𐑦𐑙": [
@@ -20601,7 +20609,8 @@
                 "Latn": "aesthetics",
                 "pos": "NN1",
                 "Shaw": "𐑦𐑕𐑔𐑧𐑑𐑦𐑒𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "aethelbert_NP0_𐑨𐑔𐑩𐑤𐑚𐑻𐑑": [
@@ -22524,7 +22533,8 @@
                 "Latn": "afghanistan",
                 "pos": "NP0",
                 "Shaw": "𐑨𐑓𐑜𐑨𐑯𐑦𐑕𐑑𐑭𐑯"
-            }
+            },
+            "supplement": true
         }
     ],
     "afghanistani_AJ0_𐑨𐑓𐑜𐑨𐑯𐑦𐑕𐑑𐑭𐑯𐑦": [
@@ -23073,7 +23083,8 @@
                 "Latn": "aft",
                 "pos": "AJ0",
                 "Shaw": "𐑭𐑓𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "aft_AV0_𐑭𐑓𐑑": [
@@ -23104,7 +23115,8 @@
                 "Latn": "aft",
                 "pos": "AV0",
                 "Shaw": "𐑭𐑓𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "after_AJ0_𐑭𐑓𐑑𐑼": [
@@ -23180,7 +23192,8 @@
                 "Latn": "after",
                 "pos": "PRP",
                 "Shaw": "𐑭𐑓𐑑𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "after",
@@ -23196,7 +23209,8 @@
                 "Latn": "after",
                 "pos": "PRP",
                 "Shaw": "𐑭𐑓𐑑𐑼"
-            }
+            },
+            "supplement": true
         }
     ],
     "aftercare_NN1_𐑭𐑓𐑑𐑼𐑒𐑺": [
@@ -23440,7 +23454,8 @@
                 "Latn": "afterlife",
                 "pos": "NN1",
                 "Shaw": "𐑭𐑓𐑑𐑼𐑤𐑲𐑓"
-            }
+            },
+            "supplement": true
         }
     ],
     "aftermath_NN1_𐑭𐑓𐑑𐑼𐑥𐑨𐑔": [
@@ -23471,7 +23486,8 @@
                 "Latn": "aftermath",
                 "pos": "NN1",
                 "Shaw": "𐑭𐑓𐑑𐑼𐑥𐑨𐑔"
-            }
+            },
+            "supplement": true
         }
     ],
     "afternoon_NN1_𐑭𐑓𐑑𐑼𐑯𐑵𐑯": [
@@ -23666,7 +23682,8 @@
                 "Latn": "afterthought",
                 "pos": "NN1",
                 "Shaw": "𐑭𐑓𐑑𐑼𐑔𐑷𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "afterthoughts",
@@ -23713,7 +23730,8 @@
                 "Latn": "afterward",
                 "pos": "AV0",
                 "Shaw": "𐑭𐑓𐑑𐑼𐑢𐑼𐑛"
-            }
+            },
+            "supplement": true
         }
     ],
     "afterwards_AV0_𐑭𐑓𐑑𐑼𐑢𐑼𐑛𐑟": [
@@ -23744,7 +23762,8 @@
                 "Latn": "afterwards",
                 "pos": "AV0",
                 "Shaw": "𐑭𐑓𐑑𐑼𐑢𐑼𐑛𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "again_AV0_𐑩𐑜𐑧𐑯": [
@@ -23772,7 +23791,8 @@
                 "Latn": "again",
                 "pos": "AV0",
                 "Shaw": "𐑩𐑜𐑧𐑯"
-            }
+            },
+            "supplement": true
         }
     ],
     "against_PRP_𐑩𐑜𐑧𐑯𐑕𐑑": [
@@ -23800,7 +23820,8 @@
                 "Latn": "against",
                 "pos": "PRP",
                 "Shaw": "𐑩𐑜𐑧𐑯𐑕𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "agape_AJ0_𐑩𐑜𐑱𐑐": [
@@ -25425,7 +25446,8 @@
                 "Latn": "aghast",
                 "pos": "AJ0",
                 "Shaw": "𐑩𐑜𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "agile_AJ0_𐑨𐑡𐑲𐑤": [
@@ -26881,7 +26903,8 @@
                 "Latn": "aide",
                 "pos": "NN1",
                 "Shaw": "𐑱𐑛"
-            }
+            },
+            "supplement": true
         }
     ],
     "aided_AJ0_𐑱𐑛𐑩𐑛": [
@@ -26924,7 +26947,8 @@
                 "Latn": "aids",
                 "pos": "NN1",
                 "Shaw": "𐑱𐑛𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "aiello_NP0_𐑲𐑧𐑤𐑴": [
@@ -30511,7 +30535,8 @@
                 "Latn": "alexander",
                 "pos": "NP0",
                 "Shaw": "𐑨𐑤𐑦𐑜𐑟𐑭𐑯𐑛𐑼"
-            }
+            },
+            "supplement": true
         }
     ],
     "alexandra_NP0_𐑨𐑤𐑦𐑜𐑟𐑭𐑯𐑛𐑮𐑩": [
@@ -30542,7 +30567,8 @@
                 "Latn": "alexandra",
                 "pos": "NP0",
                 "Shaw": "𐑨𐑤𐑦𐑜𐑟𐑭𐑯𐑛𐑮𐑩"
-            }
+            },
+            "supplement": true
         }
     ],
     "alexandras_NP0_𐑨𐑤𐑦𐑜𐑟𐑭𐑯𐑛𐑮𐑩𐑟": [
@@ -34722,7 +34748,8 @@
                 "Latn": "alphanumeric",
                 "pos": "AJ0",
                 "Shaw": "𐑨𐑤𐑓𐑩𐑯𐑿𐑥𐑧𐑮𐑦𐑒"
-            }
+            },
+            "supplement": true
         }
     ],
     "alphanumeric_NN1_𐑨𐑤𐑓𐑩𐑯𐑿𐑥𐑧𐑮𐑦𐑒": [
@@ -35555,7 +35582,8 @@
                 "Latn": "altitude",
                 "pos": "NN1",
                 "Shaw": "𐑨𐑤𐑑𐑦𐑑𐑿𐑛"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "altitudes",
@@ -37901,7 +37929,8 @@
                 "Latn": "amends",
                 "pos": "NN2",
                 "Shaw": "𐑩𐑥𐑧𐑯𐑛𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "amenity_NN1_𐑩𐑥𐑰𐑯𐑦𐑑𐑦": [
@@ -42836,7 +42865,8 @@
                 "Latn": "anesthetic",
                 "pos": "AJ0",
                 "Shaw": "𐑨𐑯𐑦𐑕𐑔𐑧𐑑𐑦𐑒"
-            }
+            },
+            "supplement": true
         }
     ],
     "anesthetic_NN1_𐑨𐑯𐑦𐑕𐑔𐑧𐑑𐑦𐑒": [
@@ -42851,7 +42881,8 @@
                 "Latn": "anesthetic",
                 "pos": "NN1",
                 "Shaw": "𐑨𐑯𐑦𐑕𐑔𐑧𐑑𐑦𐑒"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "anesthetics",
@@ -45387,7 +45418,8 @@
                 "Latn": "anna",
                 "pos": "NN1",
                 "Shaw": "𐑨𐑯𐑩"
-            }
+            },
+            "supplement": true
         }
     ],
     "anna_NP0_𐑨𐑯𐑩": [
@@ -45753,7 +45785,8 @@
                 "Latn": "annexe",
                 "pos": "NN1",
                 "Shaw": "𐑨𐑯𐑧𐑒𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "annexed_AJ0_𐑩𐑯𐑧𐑒𐑕𐑑": [
@@ -47412,7 +47445,8 @@
                 "Latn": "answer",
                 "pos": "NN1",
                 "Shaw": "𐑭𐑯𐑕𐑼"
-            }
+            },
+            "supplement": true
         }
     ],
     "answer_VVI_𐑭𐑯𐑕𐑼": [
@@ -47508,7 +47542,8 @@
                 "Latn": "answer",
                 "pos": "VVI",
                 "Shaw": "𐑭𐑯𐑕𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "answer",
@@ -47633,7 +47668,8 @@
                 "Latn": "answering",
                 "pos": "NN1",
                 "Shaw": "𐑭𐑯𐑕𐑼𐑦𐑙"
-            }
+            },
+            "supplement": true
         }
     ],
     "ant-eater_NN1_𐑨𐑯𐑑-𐑰𐑑𐑼": [
@@ -49599,7 +49635,8 @@
                 "Latn": "antifa",
                 "pos": "NN1",
                 "Shaw": "𐑨𐑯𐑑𐑰𐑓𐑩"
-            }
+            },
+            "supplement": true
         }
     ],
     "antifreeze_NN1_𐑨𐑯𐑑𐑦𐑓𐑮𐑰𐑟": [
@@ -65406,7 +65443,8 @@
                 "Latn": "ask",
                 "pos": "VVI",
                 "Shaw": "𐑭𐑕𐑒"
-            }
+            },
+            "supplement": true
         }
     ],
     "askance_AV0_𐑩𐑕𐑒𐑨𐑯𐑕": [
@@ -65497,7 +65535,8 @@
                 "Latn": "asking",
                 "pos": "NN1",
                 "Shaw": "𐑭𐑕𐑒𐑦𐑙"
-            }
+            },
+            "supplement": true
         }
     ],
     "aslant_AV0_𐑩𐑕𐑤𐑭𐑯𐑑": [
@@ -65543,7 +65582,8 @@
                 "Latn": "aslant",
                 "pos": "PRP",
                 "Shaw": "𐑩𐑕𐑤𐑭𐑯𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "aslant",
@@ -65559,7 +65599,8 @@
                 "Latn": "aslant",
                 "pos": "PRP",
                 "Shaw": "𐑩𐑕𐑤𐑭𐑯𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "asleep_AJ0_𐑩𐑕𐑤𐑰𐑐": [
@@ -65867,7 +65908,8 @@
                 "Latn": "asphalt",
                 "pos": "NN1",
                 "Shaw": "𐑨𐑕𐑓𐑷𐑤𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "asphalt_VVI_𐑨𐑕𐑓𐑷𐑤𐑑": [
@@ -65960,7 +66002,8 @@
                 "Latn": "asphalt",
                 "pos": "VVI",
                 "Shaw": "𐑨𐑕𐑓𐑷𐑤𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "asphalt",
@@ -75856,7 +75899,8 @@
                 "Latn": "aunt",
                 "pos": "NN1",
                 "Shaw": "𐑭𐑯𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "aunts",
@@ -75916,7 +75960,8 @@
                 "Latn": "auntie",
                 "pos": "NN1",
                 "Shaw": "𐑭𐑯𐑑𐑦"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "aunties",
@@ -77850,7 +77895,8 @@
                 "Latn": "automat",
                 "pos": "NN1",
                 "Shaw": "𐑷𐑑𐑩𐑥𐑨𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "automate_VVI_𐑷𐑑𐑩𐑥𐑱𐑑": [
@@ -78456,7 +78502,8 @@
                 "Latn": "avalanche",
                 "pos": "NN1",
                 "Shaw": "𐑨𐑝𐑩𐑤𐑭𐑯𐑗"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "avalanches",
@@ -78578,7 +78625,8 @@
                 "Latn": "avast",
                 "pos": "ITJ",
                 "Shaw": "𐑩𐑝𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "avatar_NN1_𐑨𐑝𐑩𐑑𐑸": [
@@ -80848,7 +80896,8 @@
                 "Latn": "ax",
                 "pos": "VVI",
                 "Shaw": "𐑨𐑒𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "axing",
@@ -80928,7 +80977,8 @@
                 "Latn": "axe",
                 "pos": "NN1",
                 "Shaw": "𐑨𐑒𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "axe_VVI_𐑨𐑒𐑕": [
@@ -80982,7 +81032,8 @@
                 "Latn": "axe",
                 "pos": "VVI",
                 "Shaw": "𐑨𐑒𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "axed",
@@ -80995,7 +81046,8 @@
                 "Latn": "axe",
                 "pos": "VVI",
                 "Shaw": "𐑨𐑒𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "axed",
@@ -81008,7 +81060,8 @@
                 "Latn": "axe",
                 "pos": "VVI",
                 "Shaw": "𐑨𐑒𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "axed_AJ0_𐑨𐑒𐑕𐑑": [
@@ -89683,7 +89736,8 @@
                 "Latn": "banal",
                 "pos": "AJ0",
                 "Shaw": "𐑚𐑩𐑯𐑭𐑤"
-            }
+            },
+            "supplement": true
         }
     ],
     "banality_NN1_𐑚𐑩𐑯𐑨𐑤𐑦𐑑𐑦": [
@@ -89755,7 +89809,8 @@
                 "Latn": "banana",
                 "pos": "NN1",
                 "Shaw": "𐑚𐑩𐑯𐑭𐑯𐑩"
-            }
+            },
+            "supplement": true
         }
     ],
     "banbury_NP0_𐑚𐑨𐑯𐑚𐑼𐑦": [
@@ -90420,7 +90475,8 @@
                 "Latn": "bandpass",
                 "pos": "AJ0",
                 "Shaw": "𐑚𐑨𐑯𐑛𐑐𐑭𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "bandsman_NN1_𐑚𐑨𐑯𐑛𐑟𐑥𐑩𐑯": [
@@ -96944,7 +97000,8 @@
                 "Latn": "base",
                 "pos": "NN1",
                 "Shaw": "𐑚𐑱𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "bases",
@@ -97662,7 +97719,8 @@
                 "Latn": "bask",
                 "pos": "VVI",
                 "Shaw": "𐑚𐑭𐑕𐑒"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "basking",
@@ -97800,7 +97858,8 @@
                 "Latn": "basket",
                 "pos": "NN1",
                 "Shaw": "𐑚𐑭𐑕𐑒𐑩𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "baskets",
@@ -98197,7 +98256,8 @@
                 "Latn": "bastard",
                 "pos": "NN1",
                 "Shaw": "𐑚𐑭𐑕𐑑𐑼𐑛"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "bastards",
@@ -98309,7 +98369,8 @@
                 "Latn": "bastardise",
                 "pos": "VVI",
                 "Shaw": "𐑚𐑭𐑕𐑑𐑼𐑛𐑲𐑟"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "bastardise",
@@ -98532,7 +98593,8 @@
                 "Latn": "bastardize",
                 "pos": "VVI",
                 "Shaw": "𐑚𐑭𐑕𐑑𐑼𐑛𐑲𐑟"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "bastardize",
@@ -98671,7 +98733,8 @@
                 "Latn": "bastardy",
                 "pos": "NN1",
                 "Shaw": "𐑚𐑭𐑕𐑑𐑼𐑛𐑦"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "bastardies",
@@ -99238,7 +99301,8 @@
                 "Latn": "bath",
                 "pos": "NN1",
                 "Shaw": "𐑚𐑭𐑔"
-            }
+            },
+            "supplement": true
         }
     ],
     "bath_NP0_𐑚𐑭𐑔": [
@@ -99269,7 +99333,8 @@
                 "Latn": "bath",
                 "pos": "NP0",
                 "Shaw": "𐑚𐑭𐑔"
-            }
+            },
+            "supplement": true
         }
     ],
     "bath_VVI_𐑚𐑭𐑔": [
@@ -99365,7 +99430,8 @@
                 "Latn": "bath",
                 "pos": "VVI",
                 "Shaw": "𐑚𐑭𐑔"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "bath",
@@ -99836,7 +99902,8 @@
                 "Latn": "bathrobe",
                 "pos": "NN1",
                 "Shaw": "𐑚𐑭𐑔𐑮𐑴𐑚"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "bathrobes",
@@ -99896,7 +99963,8 @@
                 "Latn": "bathroom",
                 "pos": "NN1",
                 "Shaw": "𐑚𐑭𐑔𐑮𐑵𐑥"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "bathrooms",
@@ -99956,7 +100024,8 @@
                 "Latn": "bathtub",
                 "pos": "NN1",
                 "Shaw": "𐑚𐑭𐑔𐑑𐑳𐑚"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "bathtubs",
@@ -107990,7 +108059,8 @@
                 "Latn": "behalf",
                 "pos": "NN1",
                 "Shaw": "𐑚𐑦𐑣𐑭𐑓"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "behalves",
@@ -113990,7 +114060,8 @@
                 "Latn": "berkelium",
                 "pos": "NN1",
                 "Shaw": "𐑚𐑻𐑒𐑤𐑾𐑥"
-            }
+            },
+            "supplement": true
         }
     ],
     "berkhamsted_NP0_𐑚𐑻𐑒𐑩𐑥𐑕𐑑𐑧𐑛": [
@@ -117533,7 +117604,8 @@
                 "Latn": "bevel",
                 "pos": "VVI",
                 "Shaw": "𐑚𐑧𐑝𐑩𐑤𐑟"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "bevel",
@@ -121547,7 +121619,8 @@
                 "Latn": "billiards",
                 "pos": "NN1",
                 "Shaw": "𐑚𐑦𐑤𐑘𐑼𐑛𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "billing_NN1_𐑚𐑦𐑤𐑦𐑙": [
@@ -127200,7 +127273,8 @@
                 "Latn": "blackwell",
                 "pos": "AJ0",
                 "Shaw": "𐑚𐑤𐑨𐑒𐑢𐑧𐑤"
-            }
+            },
+            "supplement": true
         }
     ],
     "blackwood_NP0_𐑚𐑤𐑨𐑒𐑢𐑫𐑛": [
@@ -127840,7 +127914,8 @@
                 "Latn": "blanch",
                 "pos": "VVI",
                 "Shaw": "𐑚𐑤𐑭𐑯𐑗"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "blanch",
@@ -128976,7 +129051,8 @@
                 "Latn": "blast",
                 "pos": "NN1",
                 "Shaw": "𐑚𐑤𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "blasts",
@@ -129088,7 +129164,8 @@
                 "Latn": "blast",
                 "pos": "VVI",
                 "Shaw": "𐑚𐑤𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "blasts",
@@ -129151,7 +129228,8 @@
                 "Latn": "blasted",
                 "pos": "AJ0",
                 "Shaw": "𐑚𐑤𐑭𐑕𐑑𐑩𐑛"
-            }
+            },
+            "supplement": true
         }
     ],
     "blasting_AJ0_𐑚𐑤𐑭𐑕𐑑𐑦𐑙": [
@@ -133832,7 +133910,8 @@
                 "Latn": "bloodbath",
                 "pos": "NN1",
                 "Shaw": "𐑚𐑤𐑳𐑛𐑚𐑭𐑔"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "bloodbaths",
@@ -149637,7 +149716,8 @@
                 "Latn": "bowls",
                 "pos": "NN1",
                 "Shaw": "𐑚𐑴𐑤𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "bowman_NN1_𐑚𐑴𐑥𐑩𐑯": [
@@ -152397,7 +152477,8 @@
                 "Latn": "branch",
                 "pos": "NN1",
                 "Shaw": "𐑚𐑮𐑭𐑯𐑗"
-            }
+            },
+            "supplement": true
         }
     ],
     "branch_VVI_𐑚𐑮𐑭𐑯𐑗": [
@@ -152493,7 +152574,8 @@
                 "Latn": "branch",
                 "pos": "VVI",
                 "Shaw": "𐑚𐑮𐑭𐑯𐑗"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "branch",
@@ -153267,7 +153349,8 @@
                 "Latn": "brass",
                 "pos": "NN1",
                 "Shaw": "𐑚𐑮𐑭𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "brasses",
@@ -153439,7 +153522,8 @@
                 "Latn": "brassy",
                 "pos": "AJ0",
                 "Shaw": "𐑚𐑮𐑭𐑕𐑦"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "brassier",
@@ -156284,7 +156368,8 @@
                 "Latn": "breeches",
                 "pos": "NN2",
                 "Shaw": "𐑚𐑮𐑦𐑗𐑩𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "breed_NN1_𐑚𐑮𐑰𐑛": [
@@ -156835,7 +156920,8 @@
                 "Latn": "brethren",
                 "pos": "NN2",
                 "Shaw": "𐑚𐑮𐑧𐑞𐑮𐑩𐑯"
-            }
+            },
+            "supplement": true
         }
     ],
     "brett_NP0_𐑚𐑮𐑧𐑑": [
@@ -160639,7 +160725,8 @@
                 "Latn": "broadcast",
                 "pos": "NN1",
                 "Shaw": "𐑚𐑮𐑷𐑛𐑒𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "broadcasts",
@@ -160764,7 +160851,8 @@
                 "Latn": "broadcast",
                 "pos": "VVI",
                 "Shaw": "𐑚𐑮𐑷𐑛𐑒𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "broadcast",
@@ -160935,7 +161023,8 @@
                 "Latn": "broadcaster",
                 "pos": "NN1",
                 "Shaw": "𐑚𐑮𐑷𐑛𐑒𐑭𐑕𐑑𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "broadcasters",
@@ -160982,7 +161071,8 @@
                 "Latn": "broadcasting",
                 "pos": "AJ0",
                 "Shaw": "𐑚𐑮𐑷𐑛𐑒𐑭𐑕𐑑𐑦𐑙"
-            }
+            },
+            "supplement": true
         }
     ],
     "broadcasting_NN1_𐑚𐑮𐑷𐑛𐑒𐑭𐑕𐑑𐑦𐑙": [
@@ -161013,7 +161103,8 @@
                 "Latn": "broadcasting",
                 "pos": "NN1",
                 "Shaw": "𐑚𐑮𐑷𐑛𐑒𐑭𐑕𐑑𐑦𐑙"
-            }
+            },
+            "supplement": true
         }
     ],
     "broadcloth_NN1_𐑚𐑮𐑷𐑛𐑒𐑤𐑪𐑔": [
@@ -162699,7 +162790,8 @@
                 "Latn": "bros",
                 "pos": "NN2",
                 "Shaw": "𐑚𐑮𐑴𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "bros_NP0_𐑚𐑮𐑴𐑟": [
@@ -176906,7 +176998,8 @@
                 "Latn": "bypass",
                 "pos": "NN1",
                 "Shaw": "𐑚𐑲𐑐𐑭𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "bypasses",
@@ -177018,7 +177111,8 @@
                 "Latn": "bypass",
                 "pos": "VVI",
                 "Shaw": "𐑚𐑲𐑐𐑭𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "bypass",
@@ -177173,7 +177267,8 @@
                 "Latn": "bypath",
                 "pos": "NN1",
                 "Shaw": "𐑚𐑲𐑐𐑭𐑔"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "bypaths",
@@ -181037,7 +181132,8 @@
                 "Latn": "calf",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑭𐑓"
-            }
+            },
+            "supplement": true
         }
     ],
     "calhoun_NP0_𐑒𐑨𐑤𐑣𐑵𐑯": [
@@ -182668,7 +182764,8 @@
                 "Latn": "calve",
                 "pos": "VVI",
                 "Shaw": "𐑒𐑭𐑝"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "calve",
@@ -184525,7 +184622,8 @@
                 "Latn": "camshaft",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑨𐑥𐑖𐑭𐑓𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "camshafts",
@@ -197370,7 +197468,8 @@
                 "Latn": "cask",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑭𐑕𐑒"
-            }
+            },
+            "supplement": true
         }
     ],
     "casket_NN1_𐑒𐑭𐑕𐑒𐑩𐑑": [
@@ -197786,7 +197885,8 @@
                 "Latn": "cast",
                 "pos": "AJ0",
                 "Shaw": "𐑒𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "cast_NN1_𐑒𐑭𐑕𐑑": [
@@ -197830,7 +197930,8 @@
                 "Latn": "cast",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "casts",
@@ -197942,7 +198043,8 @@
                 "Latn": "cast",
                 "pos": "VVI",
                 "Shaw": "𐑒𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "cast",
@@ -198021,7 +198123,8 @@
                 "Latn": "castanets",
                 "pos": "NN2",
                 "Shaw": "𐑒𐑨𐑕𐑑𐑩𐑯𐑧𐑑𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "castaway_NN1_𐑒𐑭𐑕𐑑𐑩𐑢𐑱": [
@@ -198065,7 +198168,8 @@
                 "Latn": "castaway",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑭𐑕𐑑𐑩𐑢𐑱"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "castaways",
@@ -198125,7 +198229,8 @@
                 "Latn": "caste",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "castes",
@@ -198200,7 +198305,8 @@
                 "Latn": "caster",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑭𐑕𐑑𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "casters",
@@ -198398,7 +198504,8 @@
                 "Latn": "casting",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑭𐑕𐑑𐑦𐑙"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "castings",
@@ -198458,7 +198565,8 @@
                 "Latn": "castle",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑭𐑕𐑩𐑤"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "castles",
@@ -198570,7 +198678,8 @@
                 "Latn": "castle",
                 "pos": "VVI",
                 "Shaw": "𐑒𐑭𐑕𐑩𐑤"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "castle",
@@ -198681,7 +198790,8 @@
                 "Latn": "castleford",
                 "pos": "NP0",
                 "Shaw": "𐑒𐑭𐑕𐑩𐑤𐑓𐑼𐑛"
-            }
+            },
+            "supplement": true
         }
     ],
     "castor oil_NN1_𐑒𐑭𐑕𐑑𐑼 𐑶𐑤": [
@@ -198712,7 +198822,8 @@
                 "Latn": "castor oil",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑭𐑕𐑑𐑼 𐑶𐑤"
-            }
+            },
+            "supplement": true
         }
     ],
     "castor_NN1_𐑒𐑭𐑕𐑑𐑼": [
@@ -198756,7 +198867,8 @@
                 "Latn": "castor",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑭𐑕𐑑𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "castors",
@@ -205323,7 +205435,8 @@
                 "Latn": "cenotaph",
                 "pos": "NN1",
                 "Shaw": "𐑕𐑧𐑯𐑩𐑑𐑭𐑓"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "cenotaphs",
@@ -210175,7 +210288,8 @@
                 "Latn": "chance",
                 "pos": "NN1",
                 "Shaw": "𐑗𐑭𐑯𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "chance_VVI_𐑗𐑭𐑯𐑕": [
@@ -210302,7 +210416,8 @@
                 "Latn": "chancel",
                 "pos": "NN1",
                 "Shaw": "𐑗𐑭𐑯𐑕𐑩𐑤"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "chancels",
@@ -210529,7 +210644,8 @@
                 "Latn": "chancy",
                 "pos": "AJ0",
                 "Shaw": "𐑗𐑭𐑯𐑕𐑦"
-            }
+            },
+            "supplement": true
         }
     ],
     "chandelier_NN1_𐑖𐑨𐑯𐑛𐑩𐑤𐑽": [
@@ -210601,7 +210717,8 @@
                 "Latn": "chandler",
                 "pos": "NN1",
                 "Shaw": "𐑗𐑭𐑯𐑛𐑤𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "chandlers",
@@ -211098,7 +211215,8 @@
                 "Latn": "chant",
                 "pos": "NN1",
                 "Shaw": "𐑗𐑭𐑯𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "chants",
@@ -211210,7 +211328,8 @@
                 "Latn": "chant",
                 "pos": "VVI",
                 "Shaw": "𐑗𐑭𐑯𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "chant",
@@ -222899,7 +223018,8 @@
                 "Latn": "choose",
                 "pos": "VVI",
                 "Shaw": "𐑗𐑵𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "choosey_AJ0_𐑗𐑵𐑟𐑦": [
@@ -223367,7 +223487,8 @@
                 "Latn": "chorale",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑼𐑭𐑤"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "chorales",
@@ -226226,7 +226347,8 @@
                 "Latn": "chuse",
                 "pos": "VVI",
                 "Shaw": "𐑗𐑵𐑟"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "chose",
@@ -229995,7 +230117,8 @@
                 "Latn": "clad",
                 "pos": "VVI",
                 "Shaw": "𐑒𐑤𐑨𐑛"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "clad",
@@ -230008,7 +230131,8 @@
                 "Latn": "clad",
                 "pos": "VVI",
                 "Shaw": "𐑒𐑤𐑨𐑛"
-            }
+            },
+            "supplement": true
         }
     ],
     "cladding_NN1_𐑒𐑤𐑨𐑛𐑦𐑙": [
@@ -232318,7 +232442,8 @@
                 "Latn": "clasp",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑤𐑭𐑕𐑐"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "clasps",
@@ -232430,7 +232555,8 @@
                 "Latn": "clasp",
                 "pos": "VVI",
                 "Shaw": "𐑒𐑤𐑭𐑕𐑐"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "clasp",
@@ -232750,7 +232876,8 @@
                 "Latn": "class",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑤𐑭𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "class_VVI_𐑒𐑤𐑭𐑕": [
@@ -232846,7 +232973,8 @@
                 "Latn": "class",
                 "pos": "VVI",
                 "Shaw": "𐑒𐑤𐑭𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "classing",
@@ -233237,7 +233365,8 @@
                 "Latn": "classless",
                 "pos": "AJ0",
                 "Shaw": "𐑒𐑤𐑭𐑕𐑤𐑩𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "classmate_NN1_𐑒𐑤𐑭𐑕𐑥𐑱𐑑": [
@@ -233281,7 +233410,8 @@
                 "Latn": "classmate",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑤𐑭𐑕𐑥𐑱𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "classmates",
@@ -254777,7 +254907,8 @@
                 "Latn": "command",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑩𐑥𐑭𐑯𐑛"
-            }
+            },
+            "supplement": true
         }
     ],
     "command_VVI_𐑒𐑩𐑥𐑭𐑯𐑛": [
@@ -254873,7 +255004,8 @@
                 "Latn": "command",
                 "pos": "VVI",
                 "Shaw": "𐑒𐑩𐑥𐑭𐑯𐑛"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "command",
@@ -255056,7 +255188,8 @@
                 "Latn": "commander",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑩𐑥𐑭𐑯𐑛𐑼"
-            }
+            },
+            "supplement": true
         }
     ],
     "commanding_AJ0_𐑒𐑩𐑥𐑭𐑯𐑛𐑦𐑙": [
@@ -255087,7 +255220,8 @@
                 "Latn": "commanding",
                 "pos": "AJ0",
                 "Shaw": "𐑒𐑩𐑥𐑭𐑯𐑛𐑦𐑙"
-            }
+            },
+            "supplement": true
         }
     ],
     "commandment_NN1_𐑒𐑩𐑥𐑭𐑯𐑛𐑥𐑩𐑯𐑑": [
@@ -255131,7 +255265,8 @@
                 "Latn": "commandment",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑩𐑥𐑭𐑯𐑛𐑥𐑩𐑯𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "commandments",
@@ -255204,7 +255339,8 @@
                 "Latn": "commando",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑩𐑥𐑭𐑯𐑛𐑴"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "commandoes",
@@ -291092,7 +291228,8 @@
                 "Latn": "corral",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑼𐑭𐑤"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "corrals",
@@ -291204,7 +291341,8 @@
                 "Latn": "corral",
                 "pos": "VVI",
                 "Shaw": "𐑒𐑼𐑭𐑤"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "corral",
@@ -297154,7 +297292,8 @@
                 "Latn": "countermand",
                 "pos": "VVI",
                 "Shaw": "𐑒𐑬𐑯𐑑𐑼𐑥𐑭𐑯𐑛"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "countermands",
@@ -302560,7 +302699,8 @@
                 "Latn": "craft",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑮𐑭𐑓𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "crafts",
@@ -302672,7 +302812,8 @@
                 "Latn": "craft",
                 "pos": "VVI",
                 "Shaw": "𐑒𐑮𐑭𐑓𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "craft",
@@ -302860,7 +303001,8 @@
                 "Latn": "craftsman",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑮𐑭𐑓𐑑𐑕𐑥𐑩𐑯"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "craftsmen",
@@ -302907,7 +303049,8 @@
                 "Latn": "craftsmanship",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑮𐑭𐑓𐑑𐑕𐑥𐑩𐑯𐑖𐑦𐑐"
-            }
+            },
+            "supplement": true
         }
     ],
     "crafty_AJ0_𐑒𐑮𐑭𐑓𐑑𐑦": [
@@ -302964,7 +303107,8 @@
                 "Latn": "crafty",
                 "pos": "AJ0",
                 "Shaw": "𐑒𐑮𐑭𐑓𐑑𐑦"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "craftier",
@@ -304168,7 +304312,8 @@
                 "Latn": "craps",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑮𐑨𐑐𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "crash-dive_NN1_𐑒𐑮𐑨𐑖-𐑛𐑲𐑝": [
@@ -308091,7 +308236,8 @@
                 "Latn": "crew",
                 "pos": "VVI",
                 "Shaw": "𐑒𐑮𐑵"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "crewed",
@@ -320682,7 +320828,8 @@
                 "Latn": "cure",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑘𐑫𐑼"
-            }
+            },
+            "supplement": true
         }
     ],
     "cure_NN1_𐑒𐑘𐑫𐑼𐑱": [
@@ -326499,7 +326646,8 @@
                 "Latn": "daft",
                 "pos": "AJ0",
                 "Shaw": "𐑛𐑭𐑓𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "dafter",
@@ -328798,7 +328946,8 @@
                 "Latn": "dance",
                 "pos": "NN1",
                 "Shaw": "𐑛𐑭𐑯𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "dance_VVI_𐑛𐑭𐑯𐑕": [
@@ -328894,7 +329043,8 @@
                 "Latn": "dance",
                 "pos": "VVI",
                 "Shaw": "𐑛𐑭𐑯𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "dance",
@@ -328985,7 +329135,8 @@
                 "Latn": "dancer",
                 "pos": "NN1",
                 "Shaw": "𐑛𐑭𐑯𐑕𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "dancers",
@@ -329047,7 +329198,8 @@
                 "Latn": "dancing",
                 "pos": "NN1",
                 "Shaw": "𐑛𐑭𐑯𐑕𐑦𐑙"
-            }
+            },
+            "supplement": true
         }
     ],
     "dandelion_NN1_𐑛𐑨𐑯𐑛𐑦𐑤𐑲𐑩𐑯": [
@@ -351231,7 +351383,8 @@
                 "Latn": "demand",
                 "pos": "NN1",
                 "Shaw": "𐑛𐑦𐑥𐑭𐑯𐑛"
-            }
+            },
+            "supplement": true
         }
     ],
     "demand_VVI_𐑛𐑦𐑥𐑭𐑯𐑛": [
@@ -351327,7 +351480,8 @@
                 "Latn": "demand",
                 "pos": "VVI",
                 "Shaw": "𐑛𐑦𐑥𐑭𐑯𐑛"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "demand",
@@ -367127,7 +367281,8 @@
                 "Latn": "deuce",
                 "pos": "NN1",
                 "Shaw": "𐑛𐑿𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "deuces",
@@ -367701,7 +367856,8 @@
                 "Latn": "develope",
                 "pos": "VVI",
                 "Shaw": "𐑛𐑦𐑝𐑧𐑤𐑩𐑐"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "developed",
@@ -367714,7 +367870,8 @@
                 "Latn": "develope",
                 "pos": "VVI",
                 "Shaw": "𐑛𐑦𐑝𐑧𐑤𐑩𐑐"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "developed",
@@ -367727,7 +367884,8 @@
                 "Latn": "develope",
                 "pos": "VVI",
                 "Shaw": "𐑛𐑦𐑝𐑧𐑤𐑩𐑐"
-            }
+            },
+            "supplement": true
         }
     ],
     "developed_AJ0_𐑛𐑦𐑝𐑧𐑤𐑩𐑐𐑑": [
@@ -369241,7 +369399,8 @@
                 "Latn": "dew",
                 "pos": "NN1",
                 "Shaw": "𐑛𐑿"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "dews",
@@ -369390,7 +369549,8 @@
                 "Latn": "dewy",
                 "pos": "AJ0",
                 "Shaw": "𐑛𐑿𐑦"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "dewier",
@@ -376747,7 +376907,8 @@
                 "Latn": "diorama",
                 "pos": "NN1",
                 "Shaw": "𐑛𐑲𐑼𐑭𐑥𐑩"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "dioramas",
@@ -378454,7 +378615,8 @@
                 "Latn": "disadvantage",
                 "pos": "NN1",
                 "Shaw": "𐑛𐑦𐑕𐑩𐑛𐑝𐑭𐑯𐑑𐑦𐑡"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "disadvantages",
@@ -378501,7 +378663,8 @@
                 "Latn": "disadvantaged",
                 "pos": "AJ0",
                 "Shaw": "𐑛𐑦𐑕𐑩𐑛𐑝𐑭𐑯𐑑𐑦𐑡𐑛"
-            }
+            },
+            "supplement": true
         }
     ],
     "disadvantageous_AJ0_𐑛𐑦𐑕𐑨𐑛𐑝𐑩𐑯𐑑𐑱𐑡𐑩𐑕": [
@@ -379970,7 +380133,8 @@
                 "Latn": "disaster",
                 "pos": "NN1",
                 "Shaw": "𐑛𐑦𐑟𐑭𐑕𐑑𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "disasters",
@@ -380017,7 +380181,8 @@
                 "Latn": "disastrous",
                 "pos": "AJ0",
                 "Shaw": "𐑛𐑦𐑟𐑭𐑕𐑑𐑮𐑩𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "disastrously_AV0_𐑛𐑦𐑟𐑭𐑕𐑑𐑮𐑩𐑕𐑤𐑦": [
@@ -380048,7 +380213,8 @@
                 "Latn": "disastrously",
                 "pos": "AV0",
                 "Shaw": "𐑛𐑦𐑟𐑭𐑕𐑑𐑮𐑩𐑕𐑤𐑦"
-            }
+            },
+            "supplement": true
         }
     ],
     "disavow_VVI_𐑛𐑦𐑕𐑩𐑝𐑬": [
@@ -384900,7 +385066,8 @@
                 "Latn": "disenchant",
                 "pos": "VVI",
                 "Shaw": "𐑛𐑦𐑕𐑦𐑯𐑗𐑭𐑯𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "disenchant",
@@ -395557,7 +395724,8 @@
                 "Latn": "distaff",
                 "pos": "NN1",
                 "Shaw": "𐑛𐑦𐑕𐑑𐑭𐑓"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "distaffs",
@@ -400610,7 +400778,8 @@
                 "Latn": "diy",
                 "pos": "NN1",
                 "Shaw": "𐑛𐑰𐑲𐑢𐑲"
-            }
+            },
+            "supplement": true
         }
     ],
     "dizzied_AJ0_𐑛𐑦𐑟𐑦𐑛": [
@@ -406839,7 +407008,8 @@
                 "Latn": "dos",
                 "pos": "NN1",
                 "Shaw": "𐑛𐑵𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "dos_NP0_𐑛𐑪𐑕": [
@@ -409786,7 +409956,8 @@
                 "Latn": "downcast",
                 "pos": "AJ0",
                 "Shaw": "𐑛𐑬𐑯𐑒𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "downed_AJ0_𐑛𐑬𐑯𐑛": [
@@ -411472,7 +411643,8 @@
                 "Latn": "draft",
                 "pos": "NN1",
                 "Shaw": "𐑛𐑮𐑭𐑓𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "drafts",
@@ -411584,7 +411756,8 @@
                 "Latn": "draft",
                 "pos": "VVI",
                 "Shaw": "𐑛𐑮𐑭𐑓𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "drafts",
@@ -412560,7 +412733,8 @@
                 "Latn": "drama",
                 "pos": "NN1",
                 "Shaw": "𐑛𐑮𐑭𐑥𐑩"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "dramas",
@@ -413331,7 +413505,8 @@
                 "Latn": "draught",
                 "pos": "AJ0",
                 "Shaw": "𐑛𐑮𐑭𐑓𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "draught_NN1_𐑛𐑮𐑭𐑓𐑑": [
@@ -413362,7 +413537,8 @@
                 "Latn": "draught",
                 "pos": "NN1",
                 "Shaw": "𐑛𐑮𐑭𐑓𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "draught_VVI_𐑛𐑮𐑭𐑓𐑑": [
@@ -413458,7 +413634,8 @@
                 "Latn": "draught",
                 "pos": "VVI",
                 "Shaw": "𐑛𐑮𐑭𐑓𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "draught",
@@ -413581,7 +413758,8 @@
                 "Latn": "draughts",
                 "pos": "NN1",
                 "Shaw": "𐑛𐑮𐑭𐑓𐑑𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "draughts",
@@ -413597,7 +413775,8 @@
                 "Latn": "draughts",
                 "pos": "NN1",
                 "Shaw": "𐑛𐑮𐑭𐑓𐑑𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "draughtsman_NN1_𐑛𐑮𐑨𐑓𐑑𐑕𐑥𐑩𐑯": [
@@ -419985,7 +420164,8 @@
                 "Latn": "dry",
                 "pos": "VVI",
                 "Shaw": "𐑛𐑮𐑲"
-            }
+            },
+            "supplement": true
         }
     ],
     "dryad_NN1_𐑛𐑮𐑲𐑨𐑛": [
@@ -420260,7 +420440,8 @@
                 "Latn": "duality",
                 "pos": "NN1",
                 "Shaw": "𐑛𐑿𐑨𐑤𐑦𐑑𐑦"
-            }
+            },
+            "supplement": true
         }
     ],
     "dub_AJ0_𐑛𐑳𐑚": [
@@ -420766,7 +420947,8 @@
                 "Latn": "duck",
                 "pos": "NN0",
                 "Shaw": "𐑛𐑳𐑒"
-            }
+            },
+            "supplement": true
         }
     ],
     "duck_VVI_𐑛𐑳𐑒": [
@@ -422207,7 +422389,8 @@
                 "Latn": "duke",
                 "pos": "NN1",
                 "Shaw": "𐑛𐑿𐑒"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "dukes",
@@ -426486,7 +426669,8 @@
                 "Latn": "dye",
                 "pos": "VVI",
                 "Shaw": "𐑛𐑲"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "dyed",
@@ -429725,7 +429909,8 @@
                 "Latn": "eaves",
                 "pos": "NN2",
                 "Shaw": "𐑰𐑝𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "eavesdrop_VVI_𐑰𐑝𐑟𐑛𐑮𐑪𐑐": [
@@ -434786,7 +434971,8 @@
                 "Latn": "eggplant",
                 "pos": "NN1",
                 "Shaw": "𐑧𐑜𐑐𐑤𐑭𐑯𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "eggplants",
@@ -437117,7 +437303,8 @@
                 "Latn": "elder",
                 "pos": "AJC",
                 "Shaw": "𐑧𐑤𐑛𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "eldest",
@@ -439750,7 +439937,8 @@
                 "Latn": "ellipse",
                 "pos": "NN1",
                 "Shaw": "𐑦𐑤𐑦𐑐𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "ellipses",
@@ -447544,7 +447732,8 @@
                 "Latn": "enchant",
                 "pos": "VVI",
                 "Shaw": "𐑦𐑯𐑗𐑭𐑯𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "enchants",
@@ -447591,7 +447780,8 @@
                 "Latn": "enchanted",
                 "pos": "AJ0",
                 "Shaw": "𐑦𐑯𐑗𐑭𐑯𐑑𐑩𐑛"
-            }
+            },
+            "supplement": true
         }
     ],
     "enchanter_NN1_𐑦𐑯𐑗𐑭𐑯𐑑𐑼": [
@@ -447635,7 +447825,8 @@
                 "Latn": "enchanter",
                 "pos": "NN1",
                 "Shaw": "𐑦𐑯𐑗𐑭𐑯𐑑𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "enchanters",
@@ -447682,7 +447873,8 @@
                 "Latn": "enchanting",
                 "pos": "AJ0",
                 "Shaw": "𐑦𐑯𐑗𐑭𐑯𐑑𐑦𐑙"
-            }
+            },
+            "supplement": true
         }
     ],
     "enchantingly_AV0_𐑦𐑯𐑗𐑭𐑯𐑑𐑦𐑙𐑤𐑦": [
@@ -447713,7 +447905,8 @@
                 "Latn": "enchantingly",
                 "pos": "AV0",
                 "Shaw": "𐑦𐑯𐑗𐑭𐑯𐑑𐑦𐑙𐑤𐑦"
-            }
+            },
+            "supplement": true
         }
     ],
     "enchantment_NN1_𐑦𐑯𐑗𐑭𐑯𐑑𐑥𐑩𐑯𐑑": [
@@ -447757,7 +447950,8 @@
                 "Latn": "enchantment",
                 "pos": "NN1",
                 "Shaw": "𐑦𐑯𐑗𐑭𐑯𐑑𐑥𐑩𐑯𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "enchantments",
@@ -452870,7 +453064,8 @@
                 "Latn": "enhance",
                 "pos": "VVI",
                 "Shaw": "𐑦𐑯𐑣𐑭𐑯𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "enhance",
@@ -453025,7 +453220,8 @@
                 "Latn": "enhancement",
                 "pos": "NN1",
                 "Shaw": "𐑦𐑯𐑣𐑭𐑯𐑕𐑥𐑩𐑯𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "enhancements",
@@ -453085,7 +453281,8 @@
                 "Latn": "enhancer",
                 "pos": "NN1",
                 "Shaw": "𐑦𐑯𐑣𐑭𐑯𐑕𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "enhancers",
@@ -456962,7 +457159,8 @@
                 "Latn": "enthral",
                 "pos": "VVI",
                 "Shaw": "𐑦𐑯𐑔𐑮𐑷𐑤"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "enthralled",
@@ -456975,7 +457173,8 @@
                 "Latn": "enthral",
                 "pos": "VVI",
                 "Shaw": "𐑦𐑯𐑔𐑮𐑷𐑤"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "enthralled",
@@ -456988,7 +457187,8 @@
                 "Latn": "enthral",
                 "pos": "VVI",
                 "Shaw": "𐑦𐑯𐑔𐑮𐑷𐑤"
-            }
+            },
+            "supplement": true
         }
     ],
     "enthrall_VVI_𐑦𐑯𐑔𐑮𐑷𐑤": [
@@ -459282,7 +459482,8 @@
                 "Latn": "enumeration",
                 "pos": "NN1",
                 "Shaw": "𐑦𐑯𐑿𐑥𐑼𐑱𐑖𐑩𐑯"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "enumerations",
@@ -461312,7 +461513,8 @@
                 "Latn": "epitaph",
                 "pos": "NN1",
                 "Shaw": "𐑧𐑐𐑦𐑑𐑭𐑓"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "epitaphs",
@@ -463112,7 +463314,8 @@
                 "Latn": "erase",
                 "pos": "VVI",
                 "Shaw": "𐑦𐑮𐑱𐑟"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "erase",
@@ -464218,7 +464421,8 @@
                 "Latn": "err",
                 "pos": "VVI",
                 "Shaw": "𐑻"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "err",
@@ -465976,7 +466180,8 @@
                 "Latn": "esperanto",
                 "pos": "NN1",
                 "Shaw": "𐑧𐑕𐑐𐑼𐑭𐑯𐑑𐑴"
-            }
+            },
+            "supplement": true
         }
     ],
     "esperanto_NP0_𐑧𐑕𐑐𐑼𐑭𐑯𐑑𐑴": [
@@ -466007,7 +466212,8 @@
                 "Latn": "esperanto",
                 "pos": "NP0",
                 "Shaw": "𐑧𐑕𐑐𐑼𐑭𐑯𐑑𐑴"
-            }
+            },
+            "supplement": true
         }
     ],
     "espionage_NN1_𐑧𐑕𐑐𐑾𐑯𐑭𐑠": [
@@ -467418,7 +467624,8 @@
                 "Latn": "estrogen",
                 "pos": "NN1",
                 "Shaw": "𐑧𐑕𐑑𐑮𐑩𐑡𐑩𐑯"
-            }
+            },
+            "supplement": true
         }
     ],
     "estuary_NN1_𐑧𐑕𐑗𐑫𐑼𐑦": [
@@ -467951,7 +468158,8 @@
                 "Latn": "ethics",
                 "pos": "NN1",
                 "Shaw": "𐑧𐑔𐑦𐑒𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "ethiopia_NP0_𐑰𐑔𐑦𐑴𐑐𐑾": [
@@ -470656,7 +470864,8 @@
                 "Latn": "evening",
                 "pos": "NN1",
                 "Shaw": "𐑰𐑝𐑩𐑯𐑦𐑙"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "evenings",
@@ -471020,7 +471229,8 @@
                 "Latn": "everlasting",
                 "pos": "AJ0",
                 "Shaw": "𐑧𐑝𐑼𐑤𐑭𐑕𐑑𐑦𐑙"
-            }
+            },
+            "supplement": true
         }
     ],
     "everlastingly_AV0_𐑧𐑝𐑼𐑤𐑭𐑕𐑑𐑦𐑙𐑤𐑦": [
@@ -473055,7 +473265,8 @@
                 "Latn": "example",
                 "pos": "NN1",
                 "Shaw": "𐑦𐑜𐑟𐑭𐑥𐑐𐑩𐑤"
-            }
+            },
+            "supplement": true
         }
     ],
     "exasperate_VVI_𐑦𐑜𐑟𐑨𐑕𐑐𐑼𐑱𐑑": [
@@ -486545,7 +486756,8 @@
                 "Latn": "eyeglass",
                 "pos": "NN1",
                 "Shaw": "𐑲𐑜𐑤𐑭𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "eyeglasses",
@@ -492276,7 +492488,8 @@
                 "Latn": "fankenstein",
                 "pos": "NP0",
                 "Shaw": "𐑓𐑮𐑨𐑙𐑒𐑩𐑯𐑕𐑑𐑲𐑯"
-            }
+            },
+            "supplement": true
         }
     ],
     "fanlight_NN1_𐑓𐑨𐑯𐑤𐑲𐑑": [
@@ -494371,7 +494584,8 @@
                 "Latn": "fast",
                 "pos": "AJ0",
                 "Shaw": "𐑓𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "fastest",
@@ -494418,7 +494632,8 @@
                 "Latn": "fast",
                 "pos": "AV0",
                 "Shaw": "𐑓𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "fast_NN1_𐑓𐑭𐑕𐑑": [
@@ -494462,7 +494677,8 @@
                 "Latn": "fast",
                 "pos": "NN1",
                 "Shaw": "𐑓𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "fasts",
@@ -494574,7 +494790,8 @@
                 "Latn": "fast",
                 "pos": "VVI",
                 "Shaw": "𐑓𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "fasts",
@@ -494749,7 +494966,8 @@
                 "Latn": "fasten",
                 "pos": "VVI",
                 "Shaw": "𐑓𐑭𐑕𐑩𐑯"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "fasten",
@@ -494841,7 +495059,8 @@
                 "Latn": "fastener",
                 "pos": "NN1",
                 "Shaw": "𐑓𐑭𐑕𐑩𐑯𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "fasteners",
@@ -495067,7 +495286,8 @@
                 "Latn": "fastness",
                 "pos": "NN1",
                 "Shaw": "𐑓𐑭𐑕𐑑𐑯𐑩𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "fastnesses",
@@ -499103,7 +499323,8 @@
                 "Latn": "fee",
                 "pos": "NN1",
                 "Shaw": "𐑓𐑰"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "fees",
@@ -505634,7 +505855,8 @@
                 "Latn": "fifths",
                 "pos": "NN2",
                 "Shaw": "𐑓𐑦𐑓𐑔𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "fifties_CRD_𐑓𐑦𐑓𐑑𐑦𐑟": [
@@ -506181,7 +506403,8 @@
                 "Latn": "figurine",
                 "pos": "NN1",
                 "Shaw": "𐑓𐑦𐑜𐑘𐑼𐑰𐑯"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "figurines",
@@ -512050,7 +512273,8 @@
                 "Latn": "firsts",
                 "pos": "NN2",
                 "Shaw": "𐑓𐑻𐑕𐑑𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "firth_NN1_𐑓𐑻𐑔": [
@@ -512220,7 +512444,8 @@
                 "Latn": "fish",
                 "pos": "NN0",
                 "Shaw": "𐑓𐑦𐑖"
-            }
+            },
+            "supplement": true
         }
     ],
     "fish_VVI_𐑓𐑦𐑖": [
@@ -514461,7 +514686,8 @@
                 "Latn": "flabbergast",
                 "pos": "VVI",
                 "Shaw": "𐑓𐑤𐑨𐑚𐑼𐑜𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "flabbergast",
@@ -514556,7 +514782,8 @@
                 "Latn": "flabbergasted",
                 "pos": "AJ0",
                 "Shaw": "𐑓𐑤𐑨𐑚𐑼𐑜𐑭𐑕𐑑𐑩𐑛"
-            }
+            },
+            "supplement": true
         }
     ],
     "flabbily_AV0_𐑓𐑤𐑨𐑚𐑦𐑤𐑦": [
@@ -515203,7 +515430,8 @@
                 "Latn": "flagstaff",
                 "pos": "NN1",
                 "Shaw": "𐑓𐑤𐑨𐑜𐑕𐑑𐑭𐑓"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "flagstaffs",
@@ -516004,7 +516232,8 @@
                 "Latn": "flanders",
                 "pos": "NP0",
                 "Shaw": "𐑓𐑤𐑭𐑯𐑛𐑼𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "flange_NN1_𐑓𐑤𐑨𐑯𐑡": [
@@ -516996,7 +517225,8 @@
                 "Latn": "flask",
                 "pos": "NN1",
                 "Shaw": "𐑓𐑤𐑭𐑕𐑒"
-            }
+            },
+            "supplement": true
         }
     ],
     "flat-bottomed_AJ0_𐑓𐑤𐑨𐑑-𐑚𐑪𐑑𐑩𐑥𐑛": [
@@ -530329,7 +530559,8 @@
                 "Latn": "footpath",
                 "pos": "NN1",
                 "Shaw": "𐑓𐑫𐑑𐑐𐑭𐑔"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "footpaths",
@@ -532361,7 +532592,8 @@
                 "Latn": "forecast",
                 "pos": "NN1",
                 "Shaw": "𐑓𐑹𐑒𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "forecasts",
@@ -532499,7 +532731,8 @@
                 "Latn": "forecast",
                 "pos": "VVI",
                 "Shaw": "𐑓𐑹𐑒𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "forecast",
@@ -532686,7 +532919,8 @@
                 "Latn": "forecaster",
                 "pos": "NN1",
                 "Shaw": "𐑓𐑹𐑒𐑭𐑕𐑑𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "forecasters",
@@ -533715,7 +533949,8 @@
                 "Latn": "foremast",
                 "pos": "NN1",
                 "Shaw": "𐑓𐑹𐑥𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "foremasts",
@@ -541300,7 +541535,8 @@
                 "Latn": "fragilely",
                 "pos": "AV0",
                 "Shaw": "𐑓𐑮𐑨𐑡𐑲𐑤𐑤𐑦"
-            }
+            },
+            "supplement": true
         }
     ],
     "fragility_NN1_𐑓𐑮𐑩𐑡𐑦𐑤𐑦𐑑𐑦": [
@@ -541921,7 +542157,8 @@
                 "Latn": "france",
                 "pos": "NP0",
                 "Shaw": "𐑓𐑮𐑭𐑯𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "frances_NP0_𐑓𐑮𐑭𐑯𐑕𐑦𐑕": [
@@ -544371,7 +544608,8 @@
                 "Latn": "freelance",
                 "pos": "NN1",
                 "Shaw": "𐑓𐑮𐑰𐑤𐑭𐑯𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "freelances",
@@ -544483,7 +544721,8 @@
                 "Latn": "freelance",
                 "pos": "VVI",
                 "Shaw": "𐑓𐑮𐑰𐑤𐑭𐑯𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "freelances",
@@ -550723,7 +550962,8 @@
                 "Latn": "fry",
                 "pos": "NN0",
                 "Shaw": "𐑓𐑮𐑲"
-            }
+            },
+            "supplement": true
         }
     ],
     "fry_VVI_𐑓𐑮𐑲": [
@@ -551803,7 +552043,8 @@
                 "Latn": "fulfil",
                 "pos": "VVI",
                 "Shaw": "𐑓𐑫𐑤𐑓𐑦𐑤"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "fulfilled",
@@ -551816,7 +552057,8 @@
                 "Latn": "fulfil",
                 "pos": "VVI",
                 "Shaw": "𐑓𐑫𐑤𐑓𐑦𐑤"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "fulfilled",
@@ -551829,7 +552071,8 @@
                 "Latn": "fulfil",
                 "pos": "VVI",
                 "Shaw": "𐑓𐑫𐑤𐑓𐑦𐑤"
-            }
+            },
+            "supplement": true
         }
     ],
     "fulfill_VVI_𐑓𐑫𐑤𐑓𐑦𐑤": [
@@ -553002,7 +553245,8 @@
                 "Latn": "fun",
                 "pos": "NN1",
                 "Shaw": "𐑓𐑳𐑯"
-            }
+            },
+            "supplement": true
         }
     ],
     "function_NN1_𐑓𐑳𐑙𐑒𐑖𐑩𐑯": [
@@ -557676,7 +557920,8 @@
                 "Latn": "gala",
                 "pos": "NN1",
                 "Shaw": "𐑜𐑭𐑤𐑩"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "galas",
@@ -564167,7 +564412,8 @@
                 "Latn": "gasp",
                 "pos": "NN1",
                 "Shaw": "𐑜𐑭𐑕𐑐"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "gasps",
@@ -564279,7 +564525,8 @@
                 "Latn": "gasp",
                 "pos": "VVI",
                 "Shaw": "𐑜𐑭𐑕𐑐"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "gasps",
@@ -565999,7 +566246,8 @@
                 "Latn": "gaza",
                 "pos": "NP0",
                 "Shaw": "𐑜𐑭𐑟𐑩"
-            }
+            },
+            "supplement": true
         }
     ],
     "gaze_NN1_𐑜𐑱𐑟": [
@@ -567436,7 +567684,8 @@
                 "Latn": "gen",
                 "pos": "NN1",
                 "Shaw": "𐑡𐑧𐑯"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "gens",
@@ -567684,7 +567933,8 @@
                 "Latn": "gene",
                 "pos": "NN1",
                 "Shaw": "𐑡𐑰𐑯"
-            }
+            },
+            "supplement": true
         }
     ],
     "gene_NP0_𐑡𐑰𐑯": [
@@ -571501,7 +571751,8 @@
                 "Latn": "ghana",
                 "pos": "NP0",
                 "Shaw": "𐑜𐑭𐑯𐑩"
-            }
+            },
+            "supplement": true
         }
     ],
     "ghanaian_AJ0_𐑜𐑭𐑯𐑱𐑩𐑯": [
@@ -571752,7 +572003,8 @@
                 "Latn": "ghastly",
                 "pos": "AJ0",
                 "Shaw": "𐑜𐑭𐑕𐑑𐑤𐑦"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "ghastlier",
@@ -575773,7 +576025,8 @@
                 "Latn": "glance",
                 "pos": "NN1",
                 "Shaw": "𐑜𐑤𐑭𐑯𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "glance_VVI_𐑜𐑤𐑭𐑯𐑕": [
@@ -575869,7 +576122,8 @@
                 "Latn": "glance",
                 "pos": "VVI",
                 "Shaw": "𐑜𐑤𐑭𐑯𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "glance",
@@ -575916,7 +576170,8 @@
                 "Latn": "glancing",
                 "pos": "AJ0",
                 "Shaw": "𐑜𐑤𐑭𐑯𐑕𐑦𐑙"
-            }
+            },
+            "supplement": true
         }
     ],
     "gland_NN1_𐑜𐑤𐑨𐑯𐑛": [
@@ -576353,7 +576608,8 @@
                 "Latn": "glass",
                 "pos": "NN1",
                 "Shaw": "𐑜𐑤𐑭𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "glass_VVI_𐑜𐑤𐑭𐑕": [
@@ -576449,7 +576705,8 @@
                 "Latn": "glass",
                 "pos": "VVI",
                 "Shaw": "𐑜𐑤𐑭𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "glass",
@@ -576648,7 +576905,8 @@
                 "Latn": "glasshouse",
                 "pos": "NN1",
                 "Shaw": "𐑜𐑤𐑭𐑕𐑣𐑬𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "glasshouses",
@@ -576845,7 +577103,8 @@
                 "Latn": "glassy",
                 "pos": "AJ0",
                 "Shaw": "𐑜𐑤𐑭𐑕𐑦"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "glassier",
@@ -588734,7 +588993,8 @@
                 "Latn": "graffiti",
                 "pos": "NN0",
                 "Shaw": "𐑜𐑮𐑩𐑓𐑰𐑑𐑦"
-            }
+            },
+            "supplement": true
         }
     ],
     "graffito_NN1_𐑜𐑮𐑩𐑓𐑰𐑑𐑴": [
@@ -588793,7 +589053,8 @@
                 "Latn": "graft",
                 "pos": "NN1",
                 "Shaw": "𐑜𐑮𐑭𐑓𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "grafts",
@@ -588905,7 +589166,8 @@
                 "Latn": "graft",
                 "pos": "VVI",
                 "Shaw": "𐑜𐑮𐑭𐑓𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "graft",
@@ -589031,7 +589293,8 @@
                 "Latn": "grafting",
                 "pos": "NN1",
                 "Shaw": "𐑜𐑮𐑭𐑓𐑑𐑦𐑙"
-            }
+            },
+            "supplement": true
         }
     ],
     "grail_NN1_𐑜𐑮𐑱𐑤": [
@@ -590230,7 +590493,8 @@
                 "Latn": "grant",
                 "pos": "NN1",
                 "Shaw": "𐑜𐑮𐑭𐑯𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "grants",
@@ -590277,7 +590541,8 @@
                 "Latn": "grant",
                 "pos": "NP0",
                 "Shaw": "𐑜𐑮𐑭𐑯𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "grant_VVI_𐑜𐑮𐑭𐑯𐑑": [
@@ -590347,7 +590612,8 @@
                 "Latn": "grant",
                 "pos": "VVI",
                 "Shaw": "𐑜𐑮𐑭𐑯𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "grant",
@@ -590882,7 +591148,8 @@
                 "Latn": "graphics",
                 "pos": "NN1",
                 "Shaw": "𐑜𐑮𐑨𐑓𐑦𐑒𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "graphite_NN1_𐑜𐑮𐑨𐑓𐑲𐑑": [
@@ -591092,7 +591359,8 @@
                 "Latn": "grasp",
                 "pos": "NN1",
                 "Shaw": "𐑜𐑮𐑭𐑕𐑐"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "grasps",
@@ -591204,7 +591472,8 @@
                 "Latn": "grasp",
                 "pos": "VVI",
                 "Shaw": "𐑜𐑮𐑭𐑕𐑐"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "grasp",
@@ -591267,7 +591536,8 @@
                 "Latn": "grasping",
                 "pos": "AJ0",
                 "Shaw": "𐑜𐑮𐑭𐑕𐑐𐑦𐑙"
-            }
+            },
+            "supplement": true
         }
     ],
     "grass_NN1_𐑜𐑮𐑭𐑕": [
@@ -591311,7 +591581,8 @@
                 "Latn": "grass",
                 "pos": "NN1",
                 "Shaw": "𐑜𐑮𐑭𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "grasses",
@@ -591423,7 +591694,8 @@
                 "Latn": "grass",
                 "pos": "VVI",
                 "Shaw": "𐑜𐑮𐑭𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "grass",
@@ -591710,7 +591982,8 @@
                 "Latn": "grassy",
                 "pos": "AJ0",
                 "Shaw": "𐑜𐑮𐑭𐑕𐑦"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "grassier",
@@ -592180,7 +592453,8 @@
                 "Latn": "gratis",
                 "pos": "AJ0",
                 "Shaw": "𐑜𐑮𐑭𐑑𐑦𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "gratis_AV0_𐑜𐑮𐑭𐑑𐑦𐑕": [
@@ -592211,7 +592485,8 @@
                 "Latn": "gratis",
                 "pos": "AV0",
                 "Shaw": "𐑜𐑮𐑭𐑑𐑦𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "gratitude_NN1_𐑜𐑮𐑨𐑑𐑦𐑑𐑿𐑛": [
@@ -592463,7 +592738,8 @@
                 "Latn": "grave",
                 "pos": "NN1",
                 "Shaw": "𐑜𐑮𐑭𐑝"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "graves",
@@ -597202,7 +597478,8 @@
                 "Latn": "grits",
                 "pos": "NN1",
                 "Shaw": "𐑜𐑮𐑦𐑑𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "gritted_AJ0_𐑜𐑮𐑦𐑑𐑩𐑛": [
@@ -605062,7 +605339,8 @@
                 "Latn": "gurus",
                 "pos": "NN1",
                 "Shaw": "𐑜𐑵𐑮𐑵𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "gush_NN1_𐑜𐑳𐑖": [
@@ -606064,7 +606342,8 @@
                 "Latn": "guyana",
                 "pos": "NP0",
                 "Shaw": "𐑜𐑲𐑭𐑯𐑩"
-            }
+            },
+            "supplement": true
         }
     ],
     "guyanese_AJ0_𐑜𐑲𐑩𐑯𐑰𐑟": [
@@ -608128,7 +608407,8 @@
                 "Latn": "hackles",
                 "pos": "NN2",
                 "Shaw": "𐑣𐑨𐑒𐑩𐑤𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "hackney_NN1_𐑣𐑨𐑒𐑯𐑦": [
@@ -608548,7 +608828,8 @@
                 "Latn": "haft",
                 "pos": "NN1",
                 "Shaw": "𐑣𐑭𐑓𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "hafts",
@@ -611562,7 +611843,8 @@
                 "Latn": "half",
                 "pos": "DT0",
                 "Shaw": "𐑣𐑭𐑓"
-            }
+            },
+            "supplement": true
         }
     ],
     "half_NN1_𐑣𐑨𐑓": [
@@ -611624,7 +611906,8 @@
                 "Latn": "half",
                 "pos": "NN1",
                 "Shaw": "𐑣𐑭𐑓"
-            }
+            },
+            "supplement": true
         }
     ],
     "halfback_NN1_𐑣𐑭𐑓𐑚𐑨𐑒": [
@@ -611668,7 +611951,8 @@
                 "Latn": "halfback",
                 "pos": "NN1",
                 "Shaw": "𐑣𐑭𐑓𐑚𐑨𐑒"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "halfbacks",
@@ -611921,7 +612205,8 @@
                 "Latn": "halfway",
                 "pos": "AJ0",
                 "Shaw": "𐑣𐑭𐑓𐑢𐑱"
-            }
+            },
+            "supplement": true
         }
     ],
     "halfway_AV0_𐑣𐑭𐑓𐑢𐑱": [
@@ -611952,7 +612237,8 @@
                 "Latn": "halfway",
                 "pos": "AV0",
                 "Shaw": "𐑣𐑭𐑓𐑢𐑱"
-            }
+            },
+            "supplement": true
         }
     ],
     "halfwit_NN1_𐑣𐑭𐑓𐑢𐑦𐑑": [
@@ -611996,7 +612282,8 @@
                 "Latn": "halfwit",
                 "pos": "NN1",
                 "Shaw": "𐑣𐑭𐑓𐑢𐑦𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "halfwits",
@@ -613278,7 +613565,8 @@
                 "Latn": "halve",
                 "pos": "VVI",
                 "Shaw": "𐑣𐑭𐑝"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "halve",
@@ -613310,7 +613598,8 @@
                 "Latn": "halve",
                 "pos": "VVI",
                 "Shaw": "𐑣𐑭𐑝"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "halving",
@@ -615152,7 +615441,8 @@
                 "Latn": "handicraft",
                 "pos": "NN1",
                 "Shaw": "𐑣𐑨𐑯𐑛𐑦𐑒𐑮𐑭𐑓𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "handicrafts",
@@ -621405,7 +621695,8 @@
                 "Latn": "hasp",
                 "pos": "NN1",
                 "Shaw": "𐑣𐑭𐑕𐑐"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "hasps",
@@ -625334,7 +625625,8 @@
                 "Latn": "headmaster",
                 "pos": "NN1",
                 "Shaw": "𐑣𐑧𐑛𐑥𐑭𐑕𐑑𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "headmasters",
@@ -663516,7 +663808,8 @@
                 "Latn": "ichneumon",
                 "pos": "NN1",
                 "Shaw": "𐑦𐑒𐑯𐑿𐑥𐑩𐑯"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "ichneumons",
@@ -673279,7 +673572,8 @@
                 "Latn": "implant",
                 "pos": "NN1",
                 "Shaw": "𐑦𐑥𐑐𐑤𐑭𐑯𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "implants",
@@ -673391,7 +673685,8 @@
                 "Latn": "implant",
                 "pos": "VVI",
                 "Shaw": "𐑦𐑥𐑐𐑤𐑭𐑯𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "implant",
@@ -700874,7 +701169,8 @@
                 "Latn": "institute",
                 "pos": "NN1",
                 "Shaw": "𐑦𐑯𐑕𐑑𐑦𐑑𐑿𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "institutes",
@@ -700980,7 +701276,8 @@
                 "Latn": "institute",
                 "pos": "VVI",
                 "Shaw": "𐑦𐑯𐑕𐑑𐑦𐑑𐑿𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "institute",
@@ -716173,7 +716470,8 @@
                 "Latn": "iran",
                 "pos": "NP0",
                 "Shaw": "𐑦𐑮𐑭𐑯"
-            }
+            },
+            "supplement": true
         }
     ],
     "iranian_AJ0_𐑦𐑮𐑱𐑯𐑾𐑯": [
@@ -716247,7 +716545,8 @@
                 "Latn": "iraq",
                 "pos": "NP0",
                 "Shaw": "𐑦𐑮𐑭𐑒"
-            }
+            },
+            "supplement": true
         }
     ],
     "iraqi_AJ0_𐑦𐑮𐑭𐑒𐑦": [
@@ -718767,7 +719066,8 @@
                 "Latn": "isinglass",
                 "pos": "NN1",
                 "Shaw": "𐑲𐑟𐑦𐑙𐑜𐑤𐑭𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "isla verde_NP0_𐑦𐑟𐑤𐑩 𐑝𐑺𐑛𐑱": [
@@ -718875,7 +719175,8 @@
                 "Latn": "islamic",
                 "pos": "AJ0",
                 "Shaw": "𐑦𐑟𐑤𐑭𐑥𐑦𐑒"
-            }
+            },
+            "supplement": true
         }
     ],
     "islamophobia_NN1_𐑦𐑟𐑤𐑭𐑥𐑩𐑓𐑴𐑚𐑾": [
@@ -728848,7 +729149,8 @@
                 "Latn": "jitters",
                 "pos": "NN2",
                 "Shaw": "𐑡𐑦𐑑𐑼𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "jittery_AJ0_𐑡𐑦𐑑𐑼𐑦": [
@@ -731395,7 +731697,8 @@
                 "Latn": "joseph",
                 "pos": "NP0",
                 "Shaw": "𐑡𐑴𐑟𐑩𐑓"
-            }
+            },
+            "supplement": true
         }
     ],
     "josephine_NP0_𐑡𐑴𐑟𐑩𐑓𐑰𐑯": [
@@ -739645,7 +739948,8 @@
                 "Latn": "khaki",
                 "pos": "AJ0",
                 "Shaw": "𐑒𐑭𐑒𐑦"
-            }
+            },
+            "supplement": true
         }
     ],
     "khaki_NN1_𐑒𐑭𐑒𐑦": [
@@ -739676,7 +739980,8 @@
                 "Latn": "khaki",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑭𐑒𐑦"
-            }
+            },
+            "supplement": true
         }
     ],
     "khalka_NN1_𐑒𐑨𐑤𐑒𐑩": [
@@ -740272,6 +740577,19 @@
             "pos": "VVG",
             "ipa": "ˈkɪkstɑːRtɪŋ",
             "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "kickstart",
+                "pos": "VVI",
+                "Shaw": "𐑒𐑦𐑒𐑕𐑑𐑸𐑑"
+            }
+        },
+        {
+            "Latn": "kickstarted",
+            "Shaw": "𐑒𐑦𐑒𐑕𐑑𐑸𐑑𐑕𐑩𐑛",
+            "pos": "VVD",
+            "ipa": "ˈkɪkstɑːRtsƏd",
+            "freq": 8,
             "var": "RRP",
             "lemma": {
                 "Latn": "kickstart",
@@ -741478,7 +741796,8 @@
                 "Latn": "kin",
                 "pos": "NN0",
                 "Shaw": "𐑒𐑦𐑯"
-            }
+            },
+            "supplement": true
         }
     ],
     "kind of_AV0_𐑒𐑲𐑯𐑛 𐑝": [
@@ -748588,7 +748907,8 @@
                 "Latn": "laboratory",
                 "pos": "NN1",
                 "Shaw": "𐑤𐑩𐑚𐑪𐑮𐑩𐑑𐑼𐑦"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "laboratories",
@@ -751311,7 +751631,8 @@
                 "Latn": "lakh",
                 "pos": "NN1",
                 "Shaw": "𐑤𐑭𐑒"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "lakhs",
@@ -752963,7 +753284,8 @@
                 "Latn": "lance",
                 "pos": "NN1",
                 "Shaw": "𐑤𐑭𐑯𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "lance_VVI_𐑤𐑭𐑯𐑕": [
@@ -753059,7 +753381,8 @@
                 "Latn": "lance",
                 "pos": "VVI",
                 "Shaw": "𐑤𐑭𐑯𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "lancing",
@@ -756933,7 +757256,8 @@
                 "Latn": "last",
                 "pos": "VVI",
                 "Shaw": "𐑤𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "lasting_AJ0_𐑤𐑭𐑕𐑑𐑦𐑙": [
@@ -756964,7 +757288,8 @@
                 "Latn": "lasting",
                 "pos": "AJ0",
                 "Shaw": "𐑤𐑭𐑕𐑑𐑦𐑙"
-            }
+            },
+            "supplement": true
         }
     ],
     "lastly_AV0_𐑤𐑭𐑕𐑑𐑤𐑦": [
@@ -756995,7 +757320,8 @@
                 "Latn": "lastly",
                 "pos": "AV0",
                 "Shaw": "𐑤𐑭𐑕𐑑𐑤𐑦"
-            }
+            },
+            "supplement": true
         }
     ],
     "lat-long_AJ0_𐑤𐑨𐑑-𐑤𐑪𐑙": [
@@ -757441,7 +757767,8 @@
                 "Latn": "lath",
                 "pos": "NN1",
                 "Shaw": "𐑤𐑭𐑔"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "laths",
@@ -757531,7 +757858,8 @@
                 "Latn": "lather",
                 "pos": "NN1",
                 "Shaw": "𐑤𐑭𐑞𐑼"
-            }
+            },
+            "supplement": true
         }
     ],
     "lather_VVI_𐑤𐑭𐑞𐑼": [
@@ -757627,7 +757955,8 @@
                 "Latn": "lather",
                 "pos": "VVI",
                 "Shaw": "𐑤𐑭𐑞𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "lather",
@@ -758626,7 +758955,8 @@
                 "Latn": "laugh",
                 "pos": "NN1",
                 "Shaw": "𐑤𐑭𐑓"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "laughs",
@@ -758738,7 +759068,8 @@
                 "Latn": "laugh",
                 "pos": "VVI",
                 "Shaw": "𐑤𐑭𐑓"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "laugh",
@@ -758817,7 +759148,8 @@
                 "Latn": "laughable",
                 "pos": "AJ0",
                 "Shaw": "𐑤𐑭𐑓𐑩𐑚𐑩𐑤"
-            }
+            },
+            "supplement": true
         }
     ],
     "laughably_AV0_𐑤𐑭𐑓𐑩𐑚𐑤𐑦": [
@@ -759032,7 +759364,8 @@
                 "Latn": "laughter",
                 "pos": "NN1",
                 "Shaw": "𐑤𐑭𐑓𐑑𐑼"
-            }
+            },
+            "supplement": true
         }
     ],
     "launch_NN1_𐑤𐑷𐑯𐑗": [
@@ -759739,7 +760072,8 @@
                 "Latn": "lava",
                 "pos": "NN1",
                 "Shaw": "𐑤𐑭𐑝𐑩"
-            }
+            },
+            "supplement": true
         }
     ],
     "lavatory_NN1_𐑤𐑨𐑝𐑩𐑑𐑼𐑦": [
@@ -761576,7 +761910,8 @@
                 "Latn": "lb",
                 "pos": "NN0",
                 "Shaw": "𐑐𐑬𐑯𐑛"
-            }
+            },
+            "supplement": true
         }
     ],
     "lbw_NN1_⸰⁠𐑤𐑚𐑢": [
@@ -766777,7 +767112,8 @@
                 "Latn": "legume",
                 "pos": "NN1",
                 "Shaw": "𐑚𐑮𐑧𐑛"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "legumes",
@@ -766790,7 +767126,8 @@
                 "Latn": "legume",
                 "pos": "NN1",
                 "Shaw": "𐑚𐑮𐑧𐑛"
-            }
+            },
+            "supplement": true
         }
     ],
     "leguminous_AJ0_𐑤𐑦𐑜𐑿𐑥𐑦𐑯𐑩𐑕": [
@@ -770428,7 +770765,8 @@
                 "Latn": "lewd",
                 "pos": "AJ0",
                 "Shaw": "𐑤𐑿𐑛"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "lewder",
@@ -770510,7 +770848,8 @@
                 "Latn": "lewdness",
                 "pos": "NN1",
                 "Shaw": "𐑤𐑿𐑛𐑯𐑩𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "lewes_NP0_𐑤𐑵𐑦𐑕": [
@@ -785147,7 +785486,8 @@
                 "Latn": "locale",
                 "pos": "NN1",
                 "Shaw": "𐑤𐑴𐑒𐑭𐑤"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "locales",
@@ -799206,7 +799546,8 @@
                 "Latn": "macaque",
                 "pos": "NN1",
                 "Shaw": "𐑥𐑩𐑒𐑭𐑒"
-            }
+            },
+            "supplement": true
         }
     ],
     "macaron_NN1_𐑥𐑨𐑒𐑼𐑪𐑯": [
@@ -800304,7 +800645,8 @@
                 "Latn": "madame",
                 "pos": "NN1",
                 "Shaw": "𐑥𐑩𐑛𐑭𐑥"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "mesdames",
@@ -801264,7 +801606,8 @@
                 "Latn": "mag",
                 "pos": "NN1",
                 "Shaw": "𐑥𐑨𐑜"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "mags",
@@ -802505,7 +802848,8 @@
                 "Latn": "magnitude",
                 "pos": "NN1",
                 "Shaw": "𐑥𐑨𐑜𐑯𐑦𐑑𐑿𐑛"
-            }
+            },
+            "supplement": true
         }
     ],
     "magnolia_NN0_𐑥𐑨𐑜𐑯𐑴𐑤𐑾": [
@@ -803832,7 +804176,8 @@
                 "Latn": "mainmast",
                 "pos": "NN1",
                 "Shaw": "𐑥𐑱𐑯𐑥𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "mainmasts",
@@ -808712,7 +809057,8 @@
                 "Latn": "mane",
                 "pos": "NN1",
                 "Shaw": "𐑥𐑱𐑯"
-            }
+            },
+            "supplement": true
         }
     ],
     "maneuver_NN1_𐑥𐑩𐑯𐑵𐑝𐑼": [
@@ -817163,7 +817509,8 @@
                 "Latn": "mask",
                 "pos": "NN1",
                 "Shaw": "𐑥𐑭𐑕𐑒"
-            }
+            },
+            "supplement": true
         }
     ],
     "mask_VVI_𐑥𐑭𐑕𐑒": [
@@ -817259,7 +817606,8 @@
                 "Latn": "mask",
                 "pos": "VVI",
                 "Shaw": "𐑥𐑭𐑕𐑒"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "mask",
@@ -817322,7 +817670,8 @@
                 "Latn": "masked",
                 "pos": "AJ0",
                 "Shaw": "𐑥𐑭𐑕𐑒𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "masking_NN1_𐑥𐑭𐑕𐑒𐑦𐑙": [
@@ -817543,7 +817892,8 @@
                 "Latn": "masque",
                 "pos": "NN1",
                 "Shaw": "𐑥𐑭𐑕𐑒"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "masques",
@@ -817603,7 +817953,8 @@
                 "Latn": "masquerade",
                 "pos": "NN1",
                 "Shaw": "𐑥𐑭𐑕𐑒𐑼𐑱𐑛"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "masquerades",
@@ -817715,7 +818066,8 @@
                 "Latn": "masquerade",
                 "pos": "VVI",
                 "Shaw": "𐑥𐑭𐑕𐑒𐑼𐑱𐑛"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "masquerade",
@@ -818640,7 +818992,8 @@
                 "Latn": "mast",
                 "pos": "NN1",
                 "Shaw": "𐑥𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "masts",
@@ -818835,7 +819188,8 @@
                 "Latn": "master",
                 "pos": "NN1",
                 "Shaw": "𐑥𐑭𐑕𐑑𐑼"
-            }
+            },
+            "supplement": true
         }
     ],
     "master_VVI_𐑥𐑭𐑕𐑑𐑼": [
@@ -818931,7 +819285,8 @@
                 "Latn": "master",
                 "pos": "VVI",
                 "Shaw": "𐑥𐑭𐑕𐑑𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "mastering",
@@ -819194,7 +819549,8 @@
                 "Latn": "masterly",
                 "pos": "AJ0",
                 "Shaw": "𐑥𐑭𐑕𐑑𐑼𐑤𐑦"
-            }
+            },
+            "supplement": true
         }
     ],
     "mastermind_NN1_𐑥𐑭𐑕𐑑𐑼𐑥𐑲𐑯𐑛": [
@@ -819238,7 +819594,8 @@
                 "Latn": "mastermind",
                 "pos": "NN1",
                 "Shaw": "𐑥𐑭𐑕𐑑𐑼𐑥𐑲𐑯𐑛"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "masterminds",
@@ -819350,7 +819707,8 @@
                 "Latn": "mastermind",
                 "pos": "VVI",
                 "Shaw": "𐑥𐑭𐑕𐑑𐑼𐑥𐑲𐑯𐑛"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "mastermind",
@@ -819505,7 +819863,8 @@
                 "Latn": "masterpiece",
                 "pos": "NN1",
                 "Shaw": "𐑥𐑭𐑕𐑑𐑼𐑐𐑰𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "masterpieces",
@@ -819672,7 +820031,8 @@
                 "Latn": "mastery",
                 "pos": "NN1",
                 "Shaw": "𐑥𐑭𐑕𐑑𐑼𐑦"
-            }
+            },
+            "supplement": true
         }
     ],
     "masthead_NN1_𐑥𐑭𐑕𐑑𐑣𐑧𐑛": [
@@ -821347,7 +821707,8 @@
                 "Latn": "maths",
                 "pos": "NN1",
                 "Shaw": "𐑥𐑨𐑔𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "matilda_NP0_𐑥𐑩𐑑𐑦𐑤𐑛𐑩": [
@@ -821448,7 +821809,8 @@
                 "Latn": "matins",
                 "pos": "NN2",
                 "Shaw": "𐑥𐑨𐑑𐑦𐑯𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "matins_UNC_𐑥𐑨𐑑𐑦𐑯𐑟": [
@@ -821607,7 +821969,8 @@
                 "Latn": "matric",
                 "pos": "NN1",
                 "Shaw": "𐑥𐑩𐑑𐑮𐑦𐑒"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "matrics",
@@ -836595,7 +836958,8 @@
                 "Latn": "mi",
                 "pos": "NN1",
                 "Shaw": "𐑥𐑰"
-            }
+            },
+            "supplement": true
         }
     ],
     "miami_NP0_𐑥𐑲𐑨𐑥𐑦": [
@@ -843712,7 +844076,8 @@
                 "Latn": "minecraft",
                 "pos": "NP0",
                 "Shaw": "𐑥𐑲𐑯𐑒𐑮𐑭𐑓𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "mined_AJ0_𐑥𐑲𐑯𐑛": [
@@ -848009,7 +848374,8 @@
                 "Latn": "miscast",
                 "pos": "VVI",
                 "Shaw": "𐑥𐑦𐑕𐑒𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "miscast",
@@ -848119,7 +848485,8 @@
                 "Latn": "miscellanea",
                 "pos": "NN2",
                 "Shaw": "𐑥𐑦𐑕𐑩𐑤𐑱𐑯𐑾"
-            }
+            },
+            "supplement": true
         }
     ],
     "miscellaneous_AJ0_𐑥𐑦𐑕𐑩𐑤𐑱𐑯𐑾𐑕": [
@@ -852712,7 +853079,8 @@
                 "Latn": "mist",
                 "pos": "VVI",
                 "Shaw": "𐑥𐑦𐑕𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "mistake_NN1_𐑥𐑦𐑕𐑑𐑱𐑒": [
@@ -863875,7 +864243,8 @@
                 "Latn": "morale",
                 "pos": "NN1",
                 "Shaw": "𐑥𐑼𐑭𐑤"
-            }
+            },
+            "supplement": true
         }
     ],
     "moralise_VVI_𐑥𐑪𐑮𐑩𐑤𐑲𐑟": [
@@ -864428,7 +864797,8 @@
                 "Latn": "more",
                 "pos": "AJC",
                 "Shaw": "𐑥𐑹"
-            }
+            },
+            "supplement": true
         }
     ],
     "more_AV0_𐑥𐑹": [
@@ -866886,7 +867256,8 @@
                 "Latn": "most",
                 "pos": "AJS",
                 "Shaw": "𐑥𐑴𐑕𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "most_AV0_𐑥𐑴𐑕𐑑": [
@@ -870116,7 +870487,8 @@
                 "Latn": "moustache",
                 "pos": "NN1",
                 "Shaw": "𐑥𐑩𐑕𐑑𐑭𐑖"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "moustaches",
@@ -870163,7 +870535,8 @@
                 "Latn": "moustached",
                 "pos": "AJ0",
                 "Shaw": "𐑥𐑩𐑕𐑑𐑭𐑖𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "moustachio'd_AJ0_𐑥𐑩𐑕𐑑𐑭𐑖𐑦𐑴𐑛": [
@@ -876436,7 +876809,8 @@
                 "Latn": "mushy",
                 "pos": "AJ0",
                 "Shaw": "𐑥𐑳𐑖𐑦"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "mushier",
@@ -877328,7 +877702,8 @@
                 "Latn": "mustache",
                 "pos": "NN1",
                 "Shaw": "𐑥𐑩𐑕𐑑𐑭𐑖"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "mustaches",
@@ -882868,7 +883243,8 @@
                 "Latn": "nasty",
                 "pos": "AJ0",
                 "Shaw": "𐑯𐑭𐑕𐑑𐑦"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "nastier",
@@ -885203,7 +885579,8 @@
                 "Latn": "nazi",
                 "pos": "AJ0",
                 "Shaw": "𐑯𐑭𐑑𐑕𐑦"
-            }
+            },
+            "supplement": true
         }
     ],
     "nazi_NN1_𐑯𐑭𐑑𐑕𐑦": [
@@ -885247,7 +885624,8 @@
                 "Latn": "nazi",
                 "pos": "NN1",
                 "Shaw": "𐑯𐑭𐑑𐑕𐑦"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "nazis",
@@ -890343,7 +890721,8 @@
                 "Latn": "net",
                 "pos": "VVI",
                 "Shaw": "𐑯𐑧𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "netted",
@@ -890356,7 +890735,8 @@
                 "Latn": "net",
                 "pos": "VVI",
                 "Shaw": "𐑯𐑧𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "netball_NN1_𐑯𐑧𐑑𐑚𐑷𐑤": [
@@ -890601,7 +890981,8 @@
                 "Latn": "nett",
                 "pos": "VVI",
                 "Shaw": "𐑯𐑧𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "netted",
@@ -892143,7 +892524,8 @@
                 "Latn": "neutron",
                 "pos": "NN1",
                 "Shaw": "𐑯𐑿𐑑𐑮𐑪𐑯"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "neutrons",
@@ -892187,7 +892569,8 @@
                 "Latn": "nevada",
                 "pos": "NP0",
                 "Shaw": "𐑯𐑩𐑝𐑭𐑛𐑩"
-            }
+            },
+            "supplement": true
         }
     ],
     "neve_NP0_𐑯𐑰𐑝": [
@@ -893290,7 +893673,8 @@
                 "Latn": "newness",
                 "pos": "NN1",
                 "Shaw": "𐑯𐑿𐑯𐑩𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "newport pagnell_NP0_𐑯𐑿𐑐𐑹𐑑 𐑐𐑨𐑜𐑯𐑩𐑤": [
@@ -893417,7 +893801,8 @@
                 "Latn": "news",
                 "pos": "NN1",
                 "Shaw": "𐑯𐑿𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "newsagent_NN1_𐑯𐑿𐑟𐑱𐑡𐑩𐑯𐑑": [
@@ -894718,7 +895103,8 @@
                 "Latn": "newton",
                 "pos": "NN1",
                 "Shaw": "𐑯𐑿𐑑𐑩𐑯"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "newtons",
@@ -897854,7 +898240,8 @@
                 "Latn": "ninths",
                 "pos": "NN2",
                 "Shaw": "𐑯𐑲𐑯𐑔𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "niobe_NP0_𐑯𐑲𐑴𐑚𐑦": [
@@ -899112,7 +899499,8 @@
                 "Latn": "nobelium",
                 "pos": "NN1",
                 "Shaw": "𐑯𐑴𐑚𐑰𐑤𐑾𐑥"
-            }
+            },
+            "supplement": true
         }
     ],
     "nobility_NN1_𐑯𐑴𐑚𐑦𐑤𐑦𐑑𐑦": [
@@ -906509,7 +906897,8 @@
                 "Latn": "nuance",
                 "pos": "NN1",
                 "Shaw": "𐑯𐑿𐑭𐑯𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "nuances",
@@ -906839,7 +907228,8 @@
                 "Latn": "nude",
                 "pos": "AJ0",
                 "Shaw": "𐑯𐑿𐑛"
-            }
+            },
+            "supplement": true
         }
     ],
     "nude_NN1_𐑯𐑿𐑛": [
@@ -906880,7 +907270,8 @@
                 "Latn": "nude",
                 "pos": "NN1",
                 "Shaw": "𐑯𐑿𐑛"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "nudes",
@@ -908040,7 +908431,8 @@
                 "Latn": "numerator",
                 "pos": "NN1",
                 "Shaw": "𐑯𐑿𐑥𐑼𐑱𐑑𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "numerators",
@@ -908081,7 +908473,8 @@
                 "Latn": "numeric",
                 "pos": "AJ0",
                 "Shaw": "𐑯𐑿𐑥𐑧𐑮𐑦𐑒"
-            }
+            },
+            "supplement": true
         }
     ],
     "numerical_AJ0_𐑯𐑿𐑥𐑧𐑮𐑦𐑒𐑩𐑤": [
@@ -910602,7 +910995,8 @@
                 "Latn": "oats",
                 "pos": "NN1",
                 "Shaw": "𐑴𐑑𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "oau_NP0_𐑴𐑱𐑿": [
@@ -920813,7 +921207,8 @@
                 "Latn": "ones",
                 "pos": "NN2",
                 "Shaw": "𐑢𐑳𐑯𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "oneself_PNX_𐑢𐑳𐑯𐑕𐑧𐑤𐑓": [
@@ -930881,7 +931276,8 @@
                 "Latn": "out",
                 "pos": "VVI",
                 "Shaw": "𐑬𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "outed",
@@ -931352,7 +931748,8 @@
                 "Latn": "outcast",
                 "pos": "AJ0",
                 "Shaw": "𐑬𐑑𐑒𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "outcast_NN1_𐑬𐑑𐑒𐑭𐑕𐑑": [
@@ -931396,7 +931793,8 @@
                 "Latn": "outcast",
                 "pos": "NN1",
                 "Shaw": "𐑬𐑑𐑒𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "outcasts",
@@ -931471,7 +931869,8 @@
                 "Latn": "outcaste",
                 "pos": "NN1",
                 "Shaw": "𐑬𐑑𐑒𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "outcastes",
@@ -931583,7 +931982,8 @@
                 "Latn": "outclass",
                 "pos": "VVI",
                 "Shaw": "𐑬𐑑𐑒𐑤𐑭𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "outclass",
@@ -933127,7 +933527,8 @@
                 "Latn": "outlast",
                 "pos": "VVI",
                 "Shaw": "𐑬𐑑𐑤𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "outlast",
@@ -935674,7 +936075,8 @@
                 "Latn": "outskirts",
                 "pos": "NN2",
                 "Shaw": "𐑬𐑑𐑕𐑒𐑻𐑑𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "outsmart_VVI_𐑬𐑑𐑕𐑥𐑸𐑑": [
@@ -938243,7 +938645,8 @@
                 "Latn": "overcast",
                 "pos": "AJ0",
                 "Shaw": "𐑴𐑝𐑼𐑒𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "overcast_NN1_𐑴𐑝𐑼𐑒𐑭𐑕𐑑": [
@@ -938274,7 +938677,8 @@
                 "Latn": "overcast",
                 "pos": "NN1",
                 "Shaw": "𐑴𐑝𐑼𐑒𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "overcautious_AJ0_𐑴𐑝𐑼𐑒𐑷𐑖𐑩𐑕": [
@@ -939481,7 +939885,8 @@
                 "Latn": "overdraft",
                 "pos": "NN1",
                 "Shaw": "𐑴𐑝𐑼𐑛𐑮𐑭𐑓𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "overdrafts",
@@ -940753,7 +941158,8 @@
                 "Latn": "overfulfil",
                 "pos": "VVI",
                 "Shaw": "𐑴𐑝𐑼𐑓𐑫𐑤𐑓𐑦𐑤"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "overfulfils",
@@ -940792,7 +941198,8 @@
                 "Latn": "overfulfil",
                 "pos": "VVI",
                 "Shaw": "𐑴𐑝𐑼𐑓𐑫𐑤𐑓𐑦𐑤"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "overfulfilled",
@@ -940805,7 +941212,8 @@
                 "Latn": "overfulfil",
                 "pos": "VVI",
                 "Shaw": "𐑴𐑝𐑼𐑓𐑫𐑤𐑓𐑦𐑤"
-            }
+            },
+            "supplement": true
         }
     ],
     "overfulfill_VVI_𐑴𐑝𐑼𐑓𐑫𐑤𐑓𐑦𐑤": [
@@ -942956,7 +943364,8 @@
                 "Latn": "overpass",
                 "pos": "NN1",
                 "Shaw": "𐑴𐑝𐑼𐑐𐑭𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "overpasses",
@@ -956877,7 +957286,8 @@
                 "Latn": "panorama",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑨𐑯𐑼𐑭𐑥𐑩"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "panoramas",
@@ -963429,7 +963839,8 @@
                 "Latn": "part",
                 "pos": "VVI",
                 "Shaw": "𐑐𐑸𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "partake_VVI_𐑐𐑸𐑑𐑱𐑒": [
@@ -964879,7 +965290,8 @@
                 "Latn": "pasha",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑭𐑖𐑩"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "pashas",
@@ -964954,7 +965366,8 @@
                 "Latn": "pass",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑭𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "passes",
@@ -964970,7 +965383,8 @@
                 "Latn": "pass",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑭𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "pass_VVI_𐑐𐑭𐑕": [
@@ -965079,7 +965493,8 @@
                 "Latn": "pass",
                 "pos": "VVI",
                 "Shaw": "𐑐𐑭𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "pass",
@@ -965111,7 +965526,8 @@
                 "Latn": "pass",
                 "pos": "VVI",
                 "Shaw": "𐑐𐑭𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "passing",
@@ -965158,7 +965574,8 @@
                 "Latn": "passable",
                 "pos": "AJ0",
                 "Shaw": "𐑐𐑭𐑕𐑩𐑚𐑩𐑤"
-            }
+            },
+            "supplement": true
         }
     ],
     "passably_AV0_𐑐𐑭𐑕𐑩𐑚𐑤𐑦": [
@@ -966095,7 +966512,8 @@
                 "Latn": "passport",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑭𐑕𐑐𐑹𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "passports",
@@ -966168,7 +966586,8 @@
                 "Latn": "password",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑭𐑕𐑢𐑻𐑛"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "passwords",
@@ -966215,7 +966634,8 @@
                 "Latn": "past",
                 "pos": "AJ0",
                 "Shaw": "𐑐𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "past_AV0_𐑐𐑭𐑕𐑑": [
@@ -966274,7 +966694,8 @@
                 "Latn": "past",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "past_PRP_𐑐𐑭𐑕𐑑": [
@@ -966305,7 +966726,8 @@
                 "Latn": "past",
                 "pos": "PRP",
                 "Shaw": "𐑐𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "past",
@@ -966321,7 +966743,8 @@
                 "Latn": "past",
                 "pos": "PRP",
                 "Shaw": "𐑐𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "pasta_NN1_𐑐𐑭𐑕𐑑𐑩": [
@@ -966349,7 +966772,8 @@
                 "Latn": "pasta",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑭𐑕𐑑𐑩"
-            }
+            },
+            "supplement": true
         }
     ],
     "paste-up_NN1_𐑐𐑱𐑕𐑑-𐑳𐑐": [
@@ -966713,7 +967137,8 @@
                 "Latn": "pasteurise",
                 "pos": "VVI",
                 "Shaw": "𐑐𐑭𐑕𐑗𐑼𐑲𐑟"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "pasteurise",
@@ -966967,7 +967392,8 @@
                 "Latn": "pasteurize",
                 "pos": "VVI",
                 "Shaw": "𐑐𐑭𐑕𐑗𐑼𐑲𐑟"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "pasteurize",
@@ -967162,7 +967588,8 @@
                 "Latn": "pastime",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑭𐑕𐑑𐑲𐑥"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "pastimes",
@@ -967265,7 +967692,8 @@
                 "Latn": "pastor",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑭𐑕𐑑𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "pastors",
@@ -967312,7 +967740,8 @@
                 "Latn": "pastoral",
                 "pos": "AJ0",
                 "Shaw": "𐑐𐑭𐑕𐑑𐑼𐑩𐑤"
-            }
+            },
+            "supplement": true
         }
     ],
     "pastoral_NN1_𐑐𐑭𐑕𐑑𐑼𐑩𐑤": [
@@ -967356,7 +967785,8 @@
                 "Latn": "pastoral",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑭𐑕𐑑𐑼𐑩𐑤"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "pastorals",
@@ -967578,7 +968008,8 @@
                 "Latn": "pasture",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑭𐑕𐑗𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "pastures",
@@ -967690,7 +968121,8 @@
                 "Latn": "pasture",
                 "pos": "VVI",
                 "Shaw": "𐑐𐑭𐑕𐑗𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "pasture",
@@ -968878,7 +969310,8 @@
                 "Latn": "path",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑭𐑔"
-            }
+            },
+            "supplement": true
         }
     ],
     "pathetic_AJ0_𐑐𐑩𐑔𐑧𐑑𐑦𐑒": [
@@ -968952,7 +969385,8 @@
                 "Latn": "pathfinder",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑭𐑔𐑓𐑲𐑯𐑛𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "pathfinders",
@@ -969159,7 +969593,8 @@
                 "Latn": "pathway",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑭𐑔𐑢𐑱"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "pathways",
@@ -981333,7 +981768,8 @@
                 "Latn": "perchance",
                 "pos": "AV0",
                 "Shaw": "𐑐𐑼𐑗𐑭𐑯𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "perched_AJ0_𐑐𐑻𐑗𐑑": [
@@ -994324,7 +994760,8 @@
                 "Latn": "physics",
                 "pos": "NN1",
                 "Shaw": "𐑓𐑦𐑟𐑦𐑒𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "physiognomy_NN1_𐑓𐑦𐑟𐑦𐑪𐑯𐑩𐑥𐑦": [
@@ -998144,7 +998581,8 @@
                 "Latn": "pikestaff",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑲𐑒𐑕𐑑𐑭𐑓"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "pikestaffs",
@@ -998513,7 +998951,8 @@
                 "Latn": "piles",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑲𐑤𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "pilfer_VVI_𐑐𐑦𐑤𐑓𐑼": [
@@ -1002733,7 +1003172,8 @@
                 "Latn": "piranha",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑦𐑮𐑭𐑯𐑘𐑩"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "piranhas",
@@ -1006800,7 +1007240,8 @@
                 "Latn": "planchette",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑤𐑭𐑯𐑖𐑧𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "planchettes",
@@ -1007486,7 +1007927,8 @@
                 "Latn": "plant",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑤𐑭𐑯𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "plant_VVI_𐑐𐑤𐑭𐑯𐑑": [
@@ -1007582,7 +1008024,8 @@
                 "Latn": "plant",
                 "pos": "VVI",
                 "Shaw": "𐑐𐑤𐑭𐑯𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "plant",
@@ -1007728,7 +1008171,8 @@
                 "Latn": "planter",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑤𐑭𐑯𐑑𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "planters",
@@ -1007775,7 +1008219,8 @@
                 "Latn": "planting",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑤𐑭𐑯𐑑𐑦𐑙"
-            }
+            },
+            "supplement": true
         }
     ],
     "plaque_NN1_𐑐𐑤𐑭𐑒": [
@@ -1007819,7 +1008264,8 @@
                 "Latn": "plaque",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑤𐑭𐑒"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "plaques",
@@ -1008019,7 +1008465,8 @@
                 "Latn": "plaster",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑤𐑭𐑕𐑑𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "plasters",
@@ -1008131,7 +1008578,8 @@
                 "Latn": "plaster",
                 "pos": "VVI",
                 "Shaw": "𐑐𐑤𐑭𐑕𐑑𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "plaster",
@@ -1010218,7 +1010666,8 @@
                 "Latn": "plaza",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑤𐑭𐑟𐑩"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "plazas",
@@ -1017987,7 +1018436,8 @@
                 "Latn": "poleax",
                 "pos": "VVI",
                 "Shaw": "𐑐𐑴𐑤𐑨𐑒𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "poleaxing",
@@ -1018000,7 +1018450,8 @@
                 "Latn": "poleax",
                 "pos": "VVI",
                 "Shaw": "𐑐𐑴𐑤𐑨𐑒𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "poleaxed",
@@ -1018013,7 +1018464,8 @@
                 "Latn": "poleax",
                 "pos": "VVI",
                 "Shaw": "𐑐𐑴𐑤𐑨𐑒𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "poleaxed",
@@ -1018026,7 +1018478,8 @@
                 "Latn": "poleax",
                 "pos": "VVI",
                 "Shaw": "𐑐𐑴𐑤𐑨𐑒𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "poleaxe_NN1_𐑐𐑴𐑤𐑨𐑒𐑕": [
@@ -1019338,7 +1019791,8 @@
                 "Latn": "politics",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑪𐑤𐑩𐑑𐑦𐑒𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "polity_NN1_𐑐𐑪𐑤𐑦𐑑𐑦": [
@@ -1025454,7 +1025908,8 @@
                 "Latn": "portishead",
                 "pos": "NP0",
                 "Shaw": "𐑐𐑹𐑑𐑦𐑟𐑣𐑧𐑛"
-            }
+            },
+            "supplement": true
         }
     ],
     "portland_NP0_𐑐𐑹𐑑𐑤𐑩𐑯𐑛": [
@@ -1027974,7 +1028429,8 @@
                 "Latn": "postmaster",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑴𐑕𐑑𐑥𐑭𐑕𐑑𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "postmasters",
@@ -1032690,7 +1033146,8 @@
                 "Latn": "prance",
                 "pos": "NN1",
                 "Shaw": "𐑐𐑮𐑭𐑯𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "prances",
@@ -1032802,7 +1033259,8 @@
                 "Latn": "prance",
                 "pos": "VVI",
                 "Shaw": "𐑐𐑮𐑭𐑯𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "prance",
@@ -1034717,7 +1035175,8 @@
                 "Latn": "precast",
                 "pos": "AJ0",
                 "Shaw": "𐑐𐑮𐑰𐑒𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "precaution_NN1_𐑐𐑮𐑦𐑒𐑷𐑖𐑩𐑯": [
@@ -1053892,7 +1054351,8 @@
                 "Latn": "program",
                 "pos": "VVI",
                 "Shaw": "𐑐𐑮𐑴𐑜𐑮𐑨𐑥"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "programmed",
@@ -1053905,7 +1054365,8 @@
                 "Latn": "program",
                 "pos": "VVI",
                 "Shaw": "𐑐𐑮𐑴𐑜𐑮𐑨𐑥"
-            }
+            },
+            "supplement": true
         }
     ],
     "programme_NN1_𐑐𐑮𐑴𐑜𐑮𐑨𐑥": [
@@ -1053987,7 +1054448,8 @@
                 "Latn": "programme",
                 "pos": "VVI",
                 "Shaw": "𐑐𐑮𐑴𐑜𐑮𐑨𐑥"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "programmed",
@@ -1078142,7 +1078604,8 @@
                 "Latn": "quartermaster",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑢𐑹𐑑𐑼𐑥𐑭𐑕𐑑𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "quartermasters",
@@ -1078202,7 +1078665,8 @@
                 "Latn": "quarterstaff",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑢𐑹𐑑𐑼𐑕𐑑𐑭𐑓"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "quarterstaffs",
@@ -1082818,7 +1083282,8 @@
                 "Latn": "quizmaster",
                 "pos": "NN1",
                 "Shaw": "𐑒𐑢𐑦𐑟𐑥𐑭𐑕𐑑𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "quizmasters",
@@ -1084838,7 +1085303,8 @@
                 "Latn": "rad",
                 "pos": "NN1",
                 "Shaw": "𐑮𐑨𐑛"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "rads",
@@ -1086054,7 +1086520,8 @@
                 "Latn": "raft",
                 "pos": "NN1",
                 "Shaw": "𐑮𐑭𐑓𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "rafts",
@@ -1086166,7 +1086633,8 @@
                 "Latn": "raft",
                 "pos": "VVI",
                 "Shaw": "𐑮𐑭𐑓𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "raft",
@@ -1086305,7 +1086773,8 @@
                 "Latn": "rafter",
                 "pos": "NN1",
                 "Shaw": "𐑮𐑭𐑓𐑑𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "rafters",
@@ -1086383,7 +1086852,8 @@
                 "Latn": "rafting",
                 "pos": "NN1",
                 "Shaw": "𐑮𐑭𐑓𐑑𐑦𐑙"
-            }
+            },
+            "supplement": true
         }
     ],
     "raftsman_NN1_𐑮𐑨𐑓𐑑𐑕𐑥𐑩𐑯": [
@@ -1091840,7 +1092310,8 @@
                 "Latn": "rascal",
                 "pos": "NN1",
                 "Shaw": "𐑮𐑭𐑕𐑒𐑩𐑤"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "rascals",
@@ -1092138,7 +1092609,8 @@
                 "Latn": "rasp",
                 "pos": "NN1",
                 "Shaw": "𐑮𐑭𐑕𐑐"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "rasps",
@@ -1092250,7 +1092722,8 @@
                 "Latn": "rasp",
                 "pos": "VVI",
                 "Shaw": "𐑮𐑭𐑕𐑐"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "rasp",
@@ -1092483,7 +1092956,8 @@
                 "Latn": "raspy",
                 "pos": "AJ0",
                 "Shaw": "𐑮𐑭𐑕𐑐𐑦"
-            }
+            },
+            "supplement": true
         }
     ],
     "rat-a-tat-tat_NN1_𐑮𐑨𐑑-𐑩-𐑑𐑨𐑑-𐑑𐑨𐑑": [
@@ -1093033,7 +1093507,8 @@
                 "Latn": "rather",
                 "pos": "AV0",
                 "Shaw": "𐑮𐑭𐑞𐑼"
-            }
+            },
+            "supplement": true
         }
     ],
     "ratification_NN1_𐑮𐑨𐑑𐑦𐑓𐑦𐑒𐑱𐑖𐑩𐑯": [
@@ -1093409,7 +1093884,8 @@
                 "Latn": "rationale",
                 "pos": "NN1",
                 "Shaw": "𐑮𐑨𐑖𐑩𐑯𐑭𐑤"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "rationales",
@@ -1103123,7 +1103599,8 @@
                 "Latn": "recast",
                 "pos": "VVI",
                 "Shaw": "𐑮𐑰𐑒𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "recast",
@@ -1123926,7 +1124403,8 @@
                 "Latn": "remains",
                 "pos": "NN2",
                 "Shaw": "𐑮𐑦𐑥𐑱𐑯𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "remake_NN1_𐑮𐑰𐑥𐑱𐑒": [
@@ -1126852,7 +1127330,8 @@
                 "Latn": "rend",
                 "pos": "VVI",
                 "Shaw": "𐑮𐑧𐑯𐑛"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "rend",
@@ -1129420,7 +1129899,8 @@
                 "Latn": "repast",
                 "pos": "NN1",
                 "Shaw": "𐑮𐑦𐑐𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "repasts",
@@ -1130808,7 +1131288,8 @@
                 "Latn": "replant",
                 "pos": "VVI",
                 "Shaw": "𐑮𐑰𐑐𐑤𐑭𐑯𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "replant",
@@ -1132653,7 +1133134,8 @@
                 "Latn": "reprimand",
                 "pos": "NN1",
                 "Shaw": "𐑮𐑧𐑐𐑮𐑦𐑥𐑭𐑯𐑛"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "reprimands",
@@ -1132765,7 +1133247,8 @@
                 "Latn": "reprimand",
                 "pos": "VVI",
                 "Shaw": "𐑮𐑧𐑐𐑮𐑦𐑥𐑭𐑯𐑛"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "reprimand",
@@ -1133905,7 +1134388,8 @@
                 "Latn": "reps",
                 "pos": "NN1",
                 "Shaw": "𐑮𐑧𐑐𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "reptile_NN1_𐑮𐑧𐑐𐑑𐑲𐑤": [
@@ -1166987,7 +1167471,8 @@
                 "Latn": "roughcast",
                 "pos": "NN1",
                 "Shaw": "𐑮𐑳𐑓𐑒𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "roughcast_VVI_𐑮𐑳𐑓𐑒𐑭𐑕𐑑": [
@@ -1167083,7 +1167568,8 @@
                 "Latn": "roughcast",
                 "pos": "VVI",
                 "Shaw": "𐑮𐑳𐑓𐑒𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "roughcast",
@@ -1167905,7 +1168391,8 @@
                 "Latn": "rounders",
                 "pos": "NN2",
                 "Shaw": "𐑮𐑬𐑯𐑛𐑼𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "roundhead_NN1_𐑮𐑬𐑯𐑛𐑣𐑧𐑛": [
@@ -1173649,7 +1174136,8 @@
                 "Latn": "run",
                 "pos": "VVI",
                 "Shaw": "𐑮𐑳𐑯"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "ran",
@@ -1182322,7 +1182810,8 @@
                 "Latn": "sample",
                 "pos": "NN1",
                 "Shaw": "𐑕𐑭𐑥𐑐𐑩𐑤"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "samples",
@@ -1182434,7 +1182923,8 @@
                 "Latn": "sample",
                 "pos": "VVI",
                 "Shaw": "𐑕𐑭𐑥𐑐𐑩𐑤"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "sample",
@@ -1182589,7 +1183079,8 @@
                 "Latn": "sampler",
                 "pos": "NN1",
                 "Shaw": "𐑕𐑭𐑥𐑐𐑤𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "samplers",
@@ -1183651,7 +1184142,8 @@
                 "Latn": "sandblast",
                 "pos": "VVI",
                 "Shaw": "𐑕𐑨𐑯𐑛𐑚𐑤𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "sandblasts",
@@ -1193766,7 +1194258,8 @@
                 "Latn": "schedule",
                 "pos": "NN1",
                 "Shaw": "𐑖𐑧𐑡𐑵𐑤"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "schedules",
@@ -1193872,7 +1194365,8 @@
                 "Latn": "schedule",
                 "pos": "VVI",
                 "Shaw": "𐑖𐑧𐑡𐑵𐑤"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "schedule",
@@ -1195917,7 +1196411,8 @@
                 "Latn": "scissors",
                 "pos": "NN2",
                 "Shaw": "𐑕𐑦𐑟𐑼𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "sclerosing_AJ0_𐑕𐑒𐑤𐑼𐑴𐑕𐑦𐑙": [
@@ -1205975,7 +1206470,8 @@
                 "Latn": "seam",
                 "pos": "NN1",
                 "Shaw": "𐑕𐑰𐑥"
-            }
+            },
+            "supplement": true
         }
     ],
     "seam_VVI_𐑕𐑰𐑥": [
@@ -1223775,7 +1224271,8 @@
                 "Latn": "shaft",
                 "pos": "NN1",
                 "Shaw": "𐑖𐑭𐑓𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "shafts",
@@ -1230973,7 +1231470,8 @@
                 "Latn": "shingles",
                 "pos": "NN1",
                 "Shaw": "𐑖𐑦𐑙𐑜𐑩𐑤𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "shingly_AJ0_𐑖𐑦𐑙𐑜𐑤𐑦": [
@@ -1233353,7 +1233851,8 @@
                 "Latn": "shoe",
                 "pos": "VVI",
                 "Shaw": "𐑖𐑵"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "shod",
@@ -1251492,7 +1251991,8 @@
                 "Latn": "sixths",
                 "pos": "NN2",
                 "Shaw": "𐑕𐑦𐑒𐑕𐑔𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "sixties_CRD_𐑕𐑦𐑒𐑕𐑑𐑦𐑟": [
@@ -1255359,7 +1255859,8 @@
                 "Latn": "skittles",
                 "pos": "NN1",
                 "Shaw": "𐑕𐑒𐑦𐑑𐑩𐑤𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "skivvy_NN1_𐑕𐑒𐑦𐑝𐑦": [
@@ -1257013,7 +1257514,8 @@
                 "Latn": "slander",
                 "pos": "NN1",
                 "Shaw": "𐑕𐑤𐑭𐑯𐑛𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "slanders",
@@ -1257125,7 +1257627,8 @@
                 "Latn": "slander",
                 "pos": "VVI",
                 "Shaw": "𐑕𐑤𐑭𐑯𐑛𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "slander",
@@ -1257296,7 +1257799,8 @@
                 "Latn": "slanderous",
                 "pos": "AJ0",
                 "Shaw": "𐑕𐑤𐑭𐑯𐑛𐑼𐑩𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "slang_NN1_𐑕𐑤𐑨𐑙": [
@@ -1257521,7 +1258025,8 @@
                 "Latn": "slant",
                 "pos": "NN1",
                 "Shaw": "𐑕𐑤𐑭𐑯𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "slants",
@@ -1257633,7 +1258138,8 @@
                 "Latn": "slant",
                 "pos": "VVI",
                 "Shaw": "𐑕𐑤𐑭𐑯𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "slants",
@@ -1257759,7 +1258265,8 @@
                 "Latn": "slanting",
                 "pos": "AJ0",
                 "Shaw": "𐑕𐑤𐑭𐑯𐑑𐑦𐑙"
-            }
+            },
+            "supplement": true
         }
     ],
     "slantingly_AV0_𐑕𐑤𐑭𐑯𐑑𐑦𐑙𐑤𐑦": [
@@ -1280129,7 +1280636,8 @@
                 "Latn": "solder",
                 "pos": "VVI",
                 "Shaw": "𐑕𐑴𐑤𐑛𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "solder",
@@ -1281116,7 +1281624,8 @@
                 "Latn": "solicitude",
                 "pos": "NN1",
                 "Shaw": "𐑕𐑩𐑤𐑦𐑕𐑦𐑑𐑿𐑛"
-            }
+            },
+            "supplement": true
         }
     ],
     "solid-looking_AJ0_𐑕𐑪𐑤𐑦𐑛-𐑤𐑫𐑒𐑦𐑙": [
@@ -1284296,7 +1284805,8 @@
                 "Latn": "soprano",
                 "pos": "NN1",
                 "Shaw": "𐑕𐑩𐑐𐑮𐑭𐑯𐑴"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "sopranos",
@@ -1288873,7 +1289383,8 @@
                 "Latn": "span",
                 "pos": "VVI",
                 "Shaw": "𐑕𐑐𐑨𐑯"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "spanned",
@@ -1304675,7 +1305186,8 @@
                 "Latn": "spy",
                 "pos": "VVI",
                 "Shaw": "𐑕𐑐𐑲"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "spied",
@@ -1304760,7 +1305272,8 @@
                 "Latn": "spyglass",
                 "pos": "NN1",
                 "Shaw": "𐑕𐑐𐑲𐑜𐑤𐑭𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "spyglasses",
@@ -1309472,7 +1309985,8 @@
                 "Latn": "staff",
                 "pos": "NN1",
                 "Shaw": "𐑕𐑑𐑭𐑓"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "staffs",
@@ -1309584,7 +1310098,8 @@
                 "Latn": "staff",
                 "pos": "VVI",
                 "Shaw": "𐑕𐑑𐑭𐑓"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "staff",
@@ -1312787,7 +1313302,8 @@
                 "Latn": "stance",
                 "pos": "NN1",
                 "Shaw": "𐑕𐑑𐑨𐑯𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "stances",
@@ -1315979,7 +1316495,8 @@
                 "Latn": "statics",
                 "pos": "NN1",
                 "Shaw": "𐑕𐑑𐑨𐑑𐑦𐑒𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "station-waggon_NN1_𐑕𐑑𐑱𐑖𐑩𐑯-𐑢𐑨𐑜𐑩𐑯": [
@@ -1316349,7 +1316866,8 @@
                 "Latn": "statistics",
                 "pos": "NN1",
                 "Shaw": "𐑕𐑑𐑩𐑑𐑦𐑕𐑑𐑦𐑒𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "statuary_AJ0_𐑕𐑑𐑨𐑗𐑫𐑼𐑦": [
@@ -1317084,7 +1317602,8 @@
                 "Latn": "steadfast",
                 "pos": "AJ0",
                 "Shaw": "𐑕𐑑𐑧𐑛𐑓𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "steadfastly_AV0_𐑕𐑑𐑧𐑛𐑓𐑭𐑕𐑑𐑤𐑦": [
@@ -1317115,7 +1317634,8 @@
                 "Latn": "steadfastly",
                 "pos": "AV0",
                 "Shaw": "𐑕𐑑𐑧𐑛𐑓𐑭𐑕𐑑𐑤𐑦"
-            }
+            },
+            "supplement": true
         }
     ],
     "steadfastness_NN1_𐑕𐑑𐑧𐑛𐑓𐑭𐑕𐑑𐑯𐑩𐑕": [
@@ -1321552,7 +1322072,8 @@
                 "Latn": "stewed",
                 "pos": "AJ0",
                 "Shaw": "𐑕𐑑𐑿𐑛"
-            }
+            },
+            "supplement": true
         }
     ],
     "stewing_AJ0_𐑕𐑑𐑿𐑦𐑙": [
@@ -1331480,7 +1332001,8 @@
                 "Latn": "stratum",
                 "pos": "NN1",
                 "Shaw": "𐑕𐑑𐑮𐑭𐑑𐑩𐑥"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "strata",
@@ -1338086,7 +1338608,8 @@
                 "Latn": "stun",
                 "pos": "VVI",
                 "Shaw": "𐑕𐑑𐑳𐑯"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "stunned",
@@ -1346867,7 +1347390,8 @@
                 "Latn": "sue",
                 "pos": "VVI",
                 "Shaw": "𐑕𐑵"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "sunk",
@@ -1349396,7 +1349920,8 @@
                 "Latn": "sultana",
                 "pos": "NN1",
                 "Shaw": "𐑕𐑳𐑤𐑑𐑭𐑯𐑩"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "sultanas",
@@ -1351021,7 +1351546,8 @@
                 "Latn": "sun",
                 "pos": "VVI",
                 "Shaw": "𐑕𐑳𐑯"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "sunned",
@@ -1354782,7 +1355308,8 @@
                 "Latn": "supplant",
                 "pos": "VVI",
                 "Shaw": "𐑕𐑩𐑐𐑤𐑭𐑯𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "supplant",
@@ -1357743,7 +1358270,8 @@
                 "Latn": "surpass",
                 "pos": "VVI",
                 "Shaw": "𐑕𐑼𐑐𐑭𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "surpass",
@@ -1358591,7 +1359119,8 @@
                 "Latn": "surroundings",
                 "pos": "NN2",
                 "Shaw": "𐑕𐑼𐑬𐑯𐑛𐑦𐑙𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "surtax_NN1_𐑕𐑻𐑑𐑨𐑒𐑕": [
@@ -1379804,7 +1380333,8 @@
                 "Latn": "task",
                 "pos": "NN1",
                 "Shaw": "𐑑𐑭𐑕𐑒"
-            }
+            },
+            "supplement": true
         }
     ],
     "task_VVI_𐑑𐑭𐑕𐑒": [
@@ -1379900,7 +1380430,8 @@
                 "Latn": "task",
                 "pos": "VVI",
                 "Shaw": "𐑑𐑭𐑕𐑒"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "task",
@@ -1380039,7 +1380570,8 @@
                 "Latn": "taskmaster",
                 "pos": "NN1",
                 "Shaw": "𐑑𐑭𐑕𐑒𐑥𐑭𐑕𐑑𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "taskmasters",
@@ -1384892,7 +1385424,8 @@
                 "Latn": "tee",
                 "pos": "NN1",
                 "Shaw": "𐑑𐑰"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "tees",
@@ -1385833,7 +1386366,8 @@
                 "Latn": "telecast",
                 "pos": "NN1",
                 "Shaw": "𐑑𐑧𐑤𐑦𐑒𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "telecasts",
@@ -1385945,7 +1386479,8 @@
                 "Latn": "telecast",
                 "pos": "VVI",
                 "Shaw": "𐑑𐑧𐑤𐑦𐑒𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "telecast",
@@ -1387689,7 +1388224,8 @@
                 "Latn": "temp",
                 "pos": "NN1",
                 "Shaw": "𐑑𐑧𐑥𐑐"
-            }
+            },
+            "supplement": true
         }
     ],
     "tempe_NP0_𐑑𐑧𐑥𐑐𐑦": [
@@ -1393587,7 +1394123,8 @@
                 "Latn": "teuton",
                 "pos": "NN1",
                 "Shaw": "𐑑𐑿𐑑𐑩𐑯"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "teutons",
@@ -1394456,7 +1394993,8 @@
                 "Latn": "thanks",
                 "pos": "NN2",
                 "Shaw": "𐑔𐑨𐑙𐑒𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "thanksgiving_NN1_𐑔𐑨𐑙𐑒𐑕𐑜𐑦𐑝𐑦𐑙": [
@@ -1396461,7 +1396999,8 @@
                 "Latn": "thereafter",
                 "pos": "AV0",
                 "Shaw": "𐑞𐑺𐑭𐑓𐑑𐑼"
-            }
+            },
+            "supplement": true
         }
     ],
     "thereby_AV0_𐑞𐑺𐑚𐑲": [
@@ -1396670,7 +1397209,8 @@
                 "Latn": "therewith",
                 "pos": "AV0",
                 "Shaw": "𐑞𐑺𐑢𐑦𐑞"
-            }
+            },
+            "supplement": true
         }
     ],
     "therewithal_AV0_𐑞𐑺𐑢𐑦𐑞𐑷𐑤": [
@@ -1400157,7 +1400697,8 @@
                 "Latn": "thousandths",
                 "pos": "NN2",
                 "Shaw": "𐑔𐑬𐑟𐑩𐑯𐑛𐑔𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "thraldom_NN1_𐑔𐑮𐑷𐑤𐑛𐑩𐑥": [
@@ -1405611,7 +1406152,8 @@
                 "Latn": "tidings",
                 "pos": "NN2",
                 "Shaw": "𐑑𐑲𐑛𐑦𐑙𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "tidworth_NP0_𐑑𐑦𐑛𐑢𐑼𐑔": [
@@ -1410896,7 +1411438,8 @@
                 "Latn": "titanium",
                 "pos": "NN1",
                 "Shaw": "𐑑𐑦𐑑𐑱𐑯𐑾𐑥"
-            }
+            },
+            "supplement": true
         }
     ],
     "titanium_NN1_𐑝𐑩𐑯𐑱𐑛𐑾𐑥": [
@@ -1410911,7 +1411454,8 @@
                 "Latn": "titanium",
                 "pos": "NN1",
                 "Shaw": "𐑝𐑩𐑯𐑱𐑛𐑾𐑥"
-            }
+            },
+            "supplement": true
         }
     ],
     "titbit_NN1_𐑑𐑦𐑑𐑚𐑦𐑑": [
@@ -1412444,7 +1412988,8 @@
                 "Latn": "toastmaster",
                 "pos": "NN1",
                 "Shaw": "𐑑𐑴𐑕𐑑𐑥𐑭𐑕𐑑𐑼"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "toastmasters",
@@ -1420550,7 +1421095,8 @@
                 "Latn": "touche",
                 "pos": "NN1",
                 "Shaw": "𐑑𐑵𐑖𐑱"
-            }
+            },
+            "supplement": true
         }
     ],
     "touched_AJ0_𐑑𐑳𐑗𐑑": [
@@ -1422673,7 +1423219,8 @@
                 "Latn": "townspeople",
                 "pos": "NN0",
                 "Shaw": "𐑑𐑬𐑯𐑟𐑐𐑰𐑐𐑩𐑤"
-            }
+            },
+            "supplement": true
         }
     ],
     "towpath_NN1_𐑑𐑴𐑐𐑭𐑔": [
@@ -1426379,7 +1426926,8 @@
                 "Latn": "trance",
                 "pos": "NN1",
                 "Shaw": "𐑑𐑮𐑭𐑯𐑕"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "trances",
@@ -1426439,7 +1426987,8 @@
                 "Latn": "tranche",
                 "pos": "NN1",
                 "Shaw": "𐑑𐑮𐑭𐑯𐑗"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "tranches",
@@ -1443167,7 +1443716,8 @@
                 "Latn": "tube",
                 "pos": "NN1",
                 "Shaw": "𐑑𐑿𐑚"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "tubes",
@@ -1444107,7 +1444657,8 @@
                 "Latn": "tulle",
                 "pos": "NN1",
                 "Shaw": "𐑑𐑿𐑤"
-            }
+            },
+            "supplement": true
         }
     ],
     "tullibody_NP0_𐑑𐑳𐑤𐑦𐑚𐑪𐑛𐑦": [
@@ -1445008,7 +1445559,8 @@
                 "Latn": "tune",
                 "pos": "NN1",
                 "Shaw": "𐑑𐑿𐑯"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "tunes",
@@ -1445114,7 +1445666,8 @@
                 "Latn": "tune",
                 "pos": "VVI",
                 "Shaw": "𐑑𐑿𐑯"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "tune",
@@ -1445416,7 +1445969,8 @@
                 "Latn": "tunic",
                 "pos": "NN1",
                 "Shaw": "𐑑𐑿𐑯𐑦𐑒"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "tunics",
@@ -1445957,7 +1446511,8 @@
                 "Latn": "tuplet",
                 "pos": "NN1",
                 "Shaw": "𐑑𐑿𐑐𐑤𐑩𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "tuppence_NN0_𐑑𐑳𐑐𐑩𐑯𐑕": [
@@ -1448053,7 +1448608,8 @@
                 "Latn": "tutelage",
                 "pos": "NN1",
                 "Shaw": "𐑑𐑿𐑑𐑦𐑤𐑦𐑡"
-            }
+            },
+            "supplement": true
         }
     ],
     "tutelary_AJ0_𐑑𐑿𐑑𐑦𐑤𐑼𐑦": [
@@ -1449351,7 +1449907,8 @@
                 "Latn": "twelfths",
                 "pos": "NN2",
                 "Shaw": "𐑑𐑢𐑧𐑤𐑓𐑔𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "twelve_CRD_𐑑𐑢𐑧𐑤𐑝": [
@@ -1451842,7 +1452399,8 @@
                 "Latn": "typecast",
                 "pos": "VVI",
                 "Shaw": "𐑑𐑲𐑐𐑒𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "typecasts",
@@ -1465187,7 +1465745,8 @@
                 "Latn": "unduly",
                 "pos": "AV0",
                 "Shaw": "𐑳𐑯𐑛𐑿𐑤𐑦"
-            }
+            },
+            "supplement": true
         }
     ],
     "undutiful_AJ0_𐑳𐑯𐑛𐑿𐑑𐑦𐑓𐑩𐑤": [
@@ -1472192,7 +1472751,8 @@
                 "Latn": "unmask",
                 "pos": "VVI",
                 "Shaw": "𐑳𐑯𐑥𐑭𐑕𐑒"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "unmask",
@@ -1485929,7 +1486489,8 @@
                 "Latn": "vac",
                 "pos": "NN1",
                 "Shaw": "𐑝𐑨𐑒"
-            }
+            },
+            "supplement": true
         }
     ],
     "vacancy_NN1_𐑝𐑱𐑒𐑩𐑯𐑕𐑦": [
@@ -1488371,7 +1488932,8 @@
                 "Latn": "vancouver",
                 "pos": "NP0",
                 "Shaw": "𐑝𐑨𐑯𐑒𐑵𐑝𐑼"
-            }
+            },
+            "supplement": true
         }
     ],
     "vandal_NN1_𐑝𐑨𐑯𐑛𐑩𐑤": [
@@ -1488925,7 +1489487,8 @@
                 "Latn": "vantage",
                 "pos": "NN1",
                 "Shaw": "𐑝𐑭𐑯𐑑𐑦𐑡"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "vantages",
@@ -1490261,7 +1490824,8 @@
                 "Latn": "vast",
                 "pos": "AJ0",
                 "Shaw": "𐑝𐑭𐑕𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "vasteras_NP0_𐑝𐑧𐑕𐑑𐑼𐑷𐑕": [
@@ -1490307,7 +1490871,8 @@
                 "Latn": "vastly",
                 "pos": "AV0",
                 "Shaw": "𐑝𐑭𐑕𐑑𐑤𐑦"
-            }
+            },
+            "supplement": true
         }
     ],
     "vastness_NN1_𐑝𐑭𐑕𐑑𐑯𐑩𐑕": [
@@ -1490338,7 +1490903,8 @@
                 "Latn": "vastness",
                 "pos": "NN1",
                 "Shaw": "𐑝𐑭𐑕𐑑𐑯𐑩𐑕"
-            }
+            },
+            "supplement": true
         }
     ],
     "vat_NN1_𐑝𐑨𐑑": [
@@ -1503651,7 +1504217,8 @@
                 "Latn": "vocals",
                 "pos": "NN2",
                 "Shaw": "𐑝𐑴𐑒𐑩𐑤𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "vocation_NN1_𐑝𐑴𐑒𐑱𐑖𐑩𐑯": [
@@ -1531313,7 +1531880,8 @@
                 "Latn": "whir",
                 "pos": "VVI",
                 "Shaw": "𐑢𐑻"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "whirred",
@@ -1531326,7 +1531894,8 @@
                 "Latn": "whir",
                 "pos": "VVI",
                 "Shaw": "𐑢𐑻"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "whirred",
@@ -1531339,7 +1531908,8 @@
                 "Latn": "whir",
                 "pos": "VVI",
                 "Shaw": "𐑢𐑻"
-            }
+            },
+            "supplement": true
         }
     ],
     "whirl_NN1_𐑢𐑻𐑤": [
@@ -1541904,7 +1542474,8 @@
                 "Latn": "witchcraft",
                 "pos": "NN1",
                 "Shaw": "𐑢𐑦𐑗𐑒𐑮𐑭𐑓𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "witchery_NN1_𐑢𐑦𐑗𐑼𐑦": [
@@ -1541962,7 +1542533,8 @@
                 "Latn": "with",
                 "pos": "PRP",
                 "Shaw": "𐑢𐑦𐑞"
-            }
+            },
+            "supplement": true
         }
     ],
     "withal_AV0_𐑢𐑦𐑞𐑷𐑤": [
@@ -1542098,7 +1542670,8 @@
                 "Latn": "withdraw",
                 "pos": "VVI",
                 "Shaw": "𐑢𐑦𐑞𐑛𐑮𐑷"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "withdraw",
@@ -1542204,7 +1542777,8 @@
                 "Latn": "withdrawal",
                 "pos": "NN1",
                 "Shaw": "𐑢𐑦𐑞𐑛𐑮𐑷𐑩𐑤"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "withdrawals",
@@ -1542413,7 +1542987,8 @@
                 "Latn": "withers",
                 "pos": "NN2",
                 "Shaw": "𐑢𐑦𐑞𐑼𐑟"
-            }
+            },
+            "supplement": true
         }
     ],
     "withheld_AJ0_𐑢𐑦𐑞𐑣𐑧𐑤𐑛": [
@@ -1542441,7 +1543016,8 @@
                 "Latn": "withheld",
                 "pos": "AJ0",
                 "Shaw": "𐑢𐑦𐑞𐑣𐑧𐑤𐑛"
-            }
+            },
+            "supplement": true
         }
     ],
     "withhold_VVI_𐑢𐑦𐑞𐑣𐑴𐑤𐑛": [
@@ -1542534,7 +1543110,8 @@
                 "Latn": "withhold",
                 "pos": "VVI",
                 "Shaw": "𐑢𐑦𐑞𐑣𐑴𐑤𐑛"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "withhold",
@@ -1542655,7 +1543232,8 @@
                 "Latn": "withholding",
                 "pos": "NN1",
                 "Shaw": "𐑢𐑦𐑞𐑣𐑴𐑤𐑛𐑦𐑙"
-            }
+            },
+            "supplement": true
         }
     ],
     "within_AV0_𐑢𐑦𐑞𐑦𐑯": [
@@ -1542808,7 +1543386,8 @@
                 "Latn": "withstand",
                 "pos": "VVI",
                 "Shaw": "𐑢𐑦𐑞𐑕𐑑𐑨𐑯𐑛"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "withstand",
@@ -1556885,7 +1557464,8 @@
                 "Latn": "young",
                 "pos": "AJ0",
                 "Shaw": "𐑘𐑳𐑙"
-            }
+            },
+            "supplement": true
         },
         {
             "Latn": "youngest",
@@ -1591508,7 +1592088,8 @@
                 "Latn": "godamned",
                 "pos": "AJ0",
                 "Shaw": "𐑜𐑪𐑛𐑨𐑥𐑛"
-            }
+            },
+            "supplement": true
         }
     ],
     "godwit_NN1_𐑜𐑪𐑛𐑢𐑦𐑑": [
@@ -1599165,21 +1599746,6 @@
             }
         }
     ],
-    "kickstarted_VVD_𐑒𐑦𐑒𐑕𐑑𐑸𐑑𐑩𐑛": [
-        {
-            "Latn": "kickstarted",
-            "Shaw": "𐑒𐑦𐑒𐑕𐑑𐑸𐑑𐑩𐑛",
-            "pos": "VVD",
-            "ipa": "ˈkɪkstɑːRtsƏd",
-            "freq": 8,
-            "var": "RRP",
-            "lemma": {
-                "Latn": "kickstart",
-                "pos": "VVI",
-                "Shaw": "𐑒𐑦𐑒𐑕𐑑𐑸𐑑"
-            }
-        }
-    ],
     "kickstarted_VVN_𐑒𐑦𐑒𐑕𐑑𐑸𐑑𐑩𐑛": [
         {
             "Latn": "kickstarted",
@@ -1600584,7 +1601150,8 @@
                 "Latn": "last-minute",
                 "pos": "AJ0",
                 "Shaw": "𐑤𐑨𐑕𐑑-𐑥𐑦𐑯𐑦𐑑"
-            }
+            },
+            "supplement": true
         }
     ],
     "last-minute_AJ0_𐑤𐑭𐑕𐑑-𐑥𐑦𐑯𐑦𐑑": [
@@ -1633009,7 +1633576,8 @@
                 "Latn": "zyrtec",
                 "pos": "NN1",
                 "Shaw": "𐑟𐑻𐑑𐑧𐑒"
-            }
+            },
+            "supplement": true
         }
     ]
 }

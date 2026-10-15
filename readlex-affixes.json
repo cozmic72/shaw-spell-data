@@ -991,5 +991,644 @@
                 "Shaw": "𐑘𐑧𐑕𐑑𐑼-"
             }
         }
+    ],
+    "-'_AV0_-𐑩𐑟": [
+        {
+            "Latn": "-'",
+            "Shaw": "-𐑩𐑟",
+            "pos": "AV0",
+            "ipa": "əz",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-'",
+                "pos": "AV0",
+                "Shaw": "-𐑩𐑟"
+            },
+            "productive": true
+        }
+    ],
+    "-'ll_VVI_-'𐑩𐑤": [
+        {
+            "Latn": "-'ll",
+            "Shaw": "-'𐑩𐑤",
+            "pos": "VVI",
+            "ipa": "əl",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-'ll",
+                "pos": "VVI",
+                "Shaw": "-'𐑩𐑤"
+            },
+            "productive": true
+        }
+    ],
+    "-'s_AV0_-'𐑕": [
+        {
+            "Latn": "-'s",
+            "Shaw": "-'𐑕",
+            "pos": "AV0",
+            "ipa": "s",
+            "freq": 0,
+            "var": "RRPVar",
+            "lemma": {
+                "Latn": "-'s",
+                "pos": "AV0",
+                "Shaw": "-'𐑕"
+            },
+            "productive": true
+        }
+    ],
+    "-'s_AV0_-'𐑟": [
+        {
+            "Latn": "-'s",
+            "Shaw": "-'𐑟",
+            "pos": "AV0",
+            "ipa": "z",
+            "freq": 0,
+            "var": "RRPVar",
+            "lemma": {
+                "Latn": "-'s",
+                "pos": "AV0",
+                "Shaw": "-'𐑟"
+            },
+            "productive": true
+        }
+    ],
+    "-'s_AV0_-'𐑩𐑟": [
+        {
+            "Latn": "-'s",
+            "Shaw": "-'𐑩𐑟",
+            "pos": "AV0",
+            "ipa": "əz",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-'s",
+                "pos": "AV0",
+                "Shaw": "-'𐑩𐑟"
+            },
+            "productive": true
+        }
+    ],
+    "-'s_CJC_-'𐑕": [
+        {
+            "Latn": "-'s",
+            "Shaw": "-'𐑕",
+            "pos": "CJC",
+            "ipa": "s",
+            "freq": 0,
+            "var": "RRPVar",
+            "lemma": {
+                "Latn": "-'s",
+                "pos": "CJC",
+                "Shaw": "-'𐑕"
+            },
+            "productive": true
+        }
+    ],
+    "-'s_CJC_-'𐑟": [
+        {
+            "Latn": "-'s",
+            "Shaw": "-'𐑟",
+            "pos": "CJC",
+            "ipa": "z",
+            "freq": 0,
+            "var": "RRPVar",
+            "lemma": {
+                "Latn": "-'s",
+                "pos": "CJC",
+                "Shaw": "-'𐑟"
+            },
+            "productive": true
+        }
+    ],
+    "-'s_CJC_-'𐑩𐑟": [
+        {
+            "Latn": "-'s",
+            "Shaw": "-'𐑩𐑟",
+            "pos": "CJC",
+            "ipa": "əz",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-'s",
+                "pos": "CJC",
+                "Shaw": "-'𐑩𐑟"
+            },
+            "productive": true
+        }
+    ],
+    "-'s_DT0_-'𐑕": [
+        {
+            "Latn": "-'s",
+            "Shaw": "-'𐑕",
+            "pos": "DT0",
+            "ipa": "s",
+            "freq": 0,
+            "var": "RRPVar",
+            "lemma": {
+                "Latn": "-'s",
+                "pos": "DT0",
+                "Shaw": "-'𐑕"
+            },
+            "productive": true
+        }
+    ],
+    "-'s_DT0_-'𐑟": [
+        {
+            "Latn": "-'s",
+            "Shaw": "-'𐑟",
+            "pos": "DT0",
+            "ipa": "z",
+            "freq": 0,
+            "var": "RRPVar",
+            "lemma": {
+                "Latn": "-'s",
+                "pos": "DT0",
+                "Shaw": "-'𐑟"
+            },
+            "productive": true
+        }
+    ],
+    "-'s_DT0_-'𐑩𐑟": [
+        {
+            "Latn": "-'s",
+            "Shaw": "-'𐑩𐑟",
+            "pos": "DT0",
+            "ipa": "əz",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-'s",
+                "pos": "DT0",
+                "Shaw": "-'𐑩𐑟"
+            },
+            "productive": true
+        }
+    ],
+    "-'s_PNP_-'𐑕": [
+        {
+            "Latn": "-'s",
+            "Shaw": "-'𐑕",
+            "pos": "PNP",
+            "ipa": "s",
+            "freq": 0,
+            "var": "RRPVar",
+            "lemma": {
+                "Latn": "-'s",
+                "pos": "PNP",
+                "Shaw": "-'𐑕"
+            },
+            "productive": true
+        }
+    ],
+    "-'s_PNP_-'𐑟": [
+        {
+            "Latn": "-'s",
+            "Shaw": "-'𐑟",
+            "pos": "PNP",
+            "ipa": "z",
+            "freq": 0,
+            "var": "RRPVar",
+            "lemma": {
+                "Latn": "-'s",
+                "pos": "PNP",
+                "Shaw": "-'𐑟"
+            },
+            "productive": true
+        }
+    ],
+    "-'s_PNP_-'𐑩𐑟": [
+        {
+            "Latn": "-'s",
+            "Shaw": "-'𐑩𐑟",
+            "pos": "PNP",
+            "ipa": "əz",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-'s",
+                "pos": "PNP",
+                "Shaw": "-'𐑩𐑟"
+            },
+            "productive": true
+        }
+    ],
+    "-'s_VVI_-'𐑕": [
+        {
+            "Latn": "-'s",
+            "Shaw": "-'𐑕",
+            "pos": "VVI",
+            "ipa": "s",
+            "freq": 0,
+            "var": "RRPVar",
+            "lemma": {
+                "Latn": "-'s",
+                "pos": "VVI",
+                "Shaw": "-'𐑕"
+            },
+            "productive": true
+        }
+    ],
+    "-'s_VVI_-'𐑟": [
+        {
+            "Latn": "-'s",
+            "Shaw": "-'𐑟",
+            "pos": "VVI",
+            "ipa": "z",
+            "freq": 0,
+            "var": "RRPVar",
+            "lemma": {
+                "Latn": "-'s",
+                "pos": "VVI",
+                "Shaw": "-'𐑟"
+            },
+            "productive": true
+        }
+    ],
+    "-'s_VVI_-'𐑩𐑟": [
+        {
+            "Latn": "-'s",
+            "Shaw": "-'𐑩𐑟",
+            "pos": "VVI",
+            "ipa": "əz",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-'s",
+                "pos": "VVI",
+                "Shaw": "-'𐑩𐑟"
+            },
+            "productive": true
+        }
+    ],
+    "-ed_VVD_-𐑩𐑛": [
+        {
+            "Latn": "-ed",
+            "Shaw": "-𐑩𐑛",
+            "pos": "VVD",
+            "ipa": "əd",
+            "freq": 3,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ed",
+                "pos": "VVD",
+                "Shaw": "-𐑩𐑛"
+            },
+            "productive": true
+        }
+    ],
+    "-ed_VVN_-𐑩𐑛": [
+        {
+            "Latn": "-ed",
+            "Shaw": "-𐑩𐑛",
+            "pos": "VVN",
+            "ipa": "əd",
+            "freq": 3,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ed",
+                "pos": "VVN",
+                "Shaw": "-𐑩𐑛"
+            },
+            "productive": true
+        }
+    ],
+    "-er_AJ0_-𐑼": [
+        {
+            "Latn": "-er",
+            "Shaw": "-𐑼",
+            "pos": "AJ0",
+            "ipa": "əR",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-er",
+                "pos": "AJ0",
+                "Shaw": "-𐑼"
+            }
+        }
+    ],
+    "-er_NN1_-𐑼": [
+        {
+            "Latn": "-er",
+            "Shaw": "-𐑼",
+            "pos": "NN1",
+            "ipa": "əR",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-er",
+                "pos": "NN1",
+                "Shaw": "-𐑼"
+            }
+        }
+    ],
+    "-er_AJC_-𐑼": [
+        {
+            "Latn": "-er",
+            "Shaw": "-𐑼",
+            "pos": "AJC",
+            "ipa": "əR",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-er",
+                "pos": "AJC",
+                "Shaw": "-𐑼"
+            },
+            "productive": true
+        }
+    ],
+    "-er_VVI_-𐑼": [
+        {
+            "Latn": "-er",
+            "Shaw": "-𐑼",
+            "pos": "VVI",
+            "ipa": "əR",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-er",
+                "pos": "VVI",
+                "Shaw": "-𐑼"
+            }
+        }
+    ],
+    "-ing_NN1_-𐑦𐑙": [
+        {
+            "Latn": "-ing",
+            "Shaw": "-𐑦𐑙",
+            "pos": "NN1",
+            "ipa": "ɪŋ",
+            "freq": 5,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ing",
+                "pos": "NN1",
+                "Shaw": "-𐑦𐑙"
+            },
+            "productive": true
+        }
+    ],
+    "-ing_UNC_-𐑦𐑙": [
+        {
+            "Latn": "-ing",
+            "Shaw": "-𐑦𐑙",
+            "pos": "UNC",
+            "ipa": "ɪŋ",
+            "freq": 5,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ing",
+                "pos": "UNC",
+                "Shaw": "-𐑦𐑙"
+            },
+            "productive": true
+        }
+    ],
+    "-let_NN1_-𐑤𐑩𐑑": [
+        {
+            "Latn": "-let",
+            "Shaw": "-𐑤𐑩𐑑",
+            "pos": "NN1",
+            "ipa": "-lət",
+            "freq": 103,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-let",
+                "pos": "NN1",
+                "Shaw": "-𐑤𐑩𐑑"
+            }
+        }
+    ],
+    "-like_AJ0_-𐑤𐑲𐑒": [
+        {
+            "Latn": "-like",
+            "Shaw": "-𐑤𐑲𐑒",
+            "pos": "AJ0",
+            "ipa": "-laɪk",
+            "freq": 35,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-like",
+                "pos": "AJ0",
+                "Shaw": "-𐑤𐑲𐑒"
+            }
+        }
+    ],
+    "-like_AV0_-𐑤𐑲𐑒": [
+        {
+            "Latn": "-like",
+            "Shaw": "-𐑤𐑲𐑒",
+            "pos": "AV0",
+            "ipa": "-laɪk",
+            "freq": 35,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-like",
+                "pos": "AV0",
+                "Shaw": "-𐑤𐑲𐑒"
+            }
+        }
+    ],
+    "-ly_AJ0_-𐑤𐑦": [
+        {
+            "Latn": "-ly",
+            "Shaw": "-𐑤𐑦",
+            "pos": "AJ0",
+            "ipa": "lɪ",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ly",
+                "pos": "AJ0",
+                "Shaw": "-𐑤𐑦"
+            },
+            "productive": true
+        }
+    ],
+    "-ly_AV0_-𐑤𐑦": [
+        {
+            "Latn": "-ly",
+            "Shaw": "-𐑤𐑦",
+            "pos": "AV0",
+            "ipa": "lɪ",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ly",
+                "pos": "AV0",
+                "Shaw": "-𐑤𐑦"
+            },
+            "productive": true
+        }
+    ],
+    "-or_NN1_-𐑼": [
+        {
+            "Latn": "-or",
+            "Shaw": "-𐑼",
+            "pos": "NN1",
+            "ipa": "əR",
+            "freq": 39,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-or",
+                "pos": "NN1",
+                "Shaw": "-𐑼"
+            }
+        }
+    ],
+    "-s_NN2_-𐑩𐑟": [
+        {
+            "Latn": "-s",
+            "Shaw": "-𐑩𐑟",
+            "pos": "NN2",
+            "ipa": "əz",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-s",
+                "pos": "NN2",
+                "Shaw": "-𐑩𐑟"
+            }
+        }
+    ],
+    "-s_UNC_-𐑩𐑟": [
+        {
+            "Latn": "-s",
+            "Shaw": "-𐑩𐑟",
+            "pos": "UNC",
+            "ipa": "əz",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-s",
+                "pos": "UNC",
+                "Shaw": "-𐑩𐑟"
+            }
+        }
+    ],
+    "-s_VVI_-𐑩𐑟": [
+        {
+            "Latn": "-s",
+            "Shaw": "-𐑩𐑟",
+            "pos": "VVI",
+            "ipa": "əz",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-s",
+                "pos": "VVI",
+                "Shaw": "-𐑩𐑟"
+            }
+        }
+    ],
+    "-s_VVZ_-𐑩𐑟": [
+        {
+            "Latn": "-s",
+            "Shaw": "-𐑩𐑟",
+            "pos": "VVZ",
+            "ipa": "əz",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-s",
+                "pos": "VVZ",
+                "Shaw": "-𐑩𐑟"
+            }
+        }
+    ],
+    "-tion_NN1_-𐑖𐑩𐑯": [
+        {
+            "Latn": "-tion",
+            "Shaw": "-𐑖𐑩𐑯",
+            "pos": "NN1",
+            "ipa": "-ʃən",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-tion",
+                "pos": "NN1",
+                "Shaw": "-𐑖𐑩𐑯"
+            }
+        }
+    ],
+    "-ward_AJ0_-𐑢𐑼𐑛": [
+        {
+            "Latn": "-ward",
+            "Shaw": "-𐑢𐑼𐑛",
+            "pos": "AJ0",
+            "ipa": "wəRd",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ward",
+                "pos": "AJ0",
+                "Shaw": "-𐑢𐑼𐑛"
+            }
+        }
+    ],
+    "-ward_AV0_-𐑢𐑼𐑛": [
+        {
+            "Latn": "-ward",
+            "Shaw": "-𐑢𐑼𐑛",
+            "pos": "AV0",
+            "ipa": "wəRd",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ward",
+                "pos": "AV0",
+                "Shaw": "-𐑢𐑼𐑛"
+            }
+        }
+    ],
+    "-y_AJ0_-𐑦": [
+        {
+            "Latn": "-y",
+            "Shaw": "-𐑦",
+            "pos": "AJ0",
+            "ipa": "-i",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-y",
+                "pos": "AJ0",
+                "Shaw": "-𐑦"
+            }
+        }
+    ],
+    "-y_NN1_-𐑦": [
+        {
+            "Latn": "-y",
+            "Shaw": "-𐑦",
+            "pos": "NN1",
+            "ipa": "-i",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-y",
+                "pos": "NN1",
+                "Shaw": "-𐑦"
+            }
+        }
+    ],
+    "-y_UNC_-𐑦": [
+        {
+            "Latn": "-y",
+            "Shaw": "-𐑦",
+            "pos": "UNC",
+            "ipa": "-i",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-y",
+                "pos": "UNC",
+                "Shaw": "-𐑦"
+            }
+        }
     ]
 }
