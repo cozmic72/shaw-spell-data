@@ -1,0 +1,225 @@
+{
+    "'em_PNP_𐑩𐑥": [
+        {
+            "Latn": "'em",
+            "Shaw": "𐑩𐑥",
+            "pos": "PNP",
+            "ipa": "əm",
+            "freq": 4505,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "'em",
+                "pos": "PNP",
+                "Shaw": "𐑩𐑥"
+            }
+        }
+    ],
+    "'neath_PRP_𐑯𐑰𐑔": [
+        {
+            "Latn": "'neath",
+            "Shaw": "𐑯𐑰𐑔",
+            "pos": "PRP",
+            "ipa": "niːθ",
+            "freq": 119,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "'neath",
+                "pos": "PRP",
+                "Shaw": "𐑯𐑰𐑔"
+            }
+        }
+    ],
+    "'pon_PRP_𐑐𐑪𐑯": [
+        {
+            "Latn": "'pon",
+            "Shaw": "𐑐𐑪𐑯",
+            "pos": "PRP",
+            "ipa": "pɒn",
+            "freq": 7,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "'pon",
+                "pos": "PRP",
+                "Shaw": "𐑐𐑪𐑯"
+            }
+        }
+    ],
+    "'shun_ITJ_𐑖𐑳𐑯": [
+        {
+            "Latn": "'shun",
+            "Shaw": "𐑖𐑳𐑯",
+            "pos": "ITJ",
+            "ipa": "ʃʌn",
+            "freq": 9,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "'shun",
+                "pos": "ITJ",
+                "Shaw": "𐑖𐑳𐑯"
+            }
+        }
+    ],
+    "'tis_PNP+VBZ_𐑑𐑦𐑟": [
+        {
+            "Latn": "'tis",
+            "Shaw": "𐑑𐑦𐑟",
+            "pos": "PNP+VBZ",
+            "ipa": "tɪz",
+            "freq": 2778,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "'tis",
+                "pos": "PNP+VBZ",
+                "Shaw": "𐑑𐑦𐑟"
+            }
+        }
+    ],
+    "'twas_PNP+VBD_𐑑𐑢𐑪𐑟": [
+        {
+            "Latn": "'twas",
+            "Shaw": "𐑑𐑢𐑪𐑟",
+            "pos": "PNP+VBD",
+            "ipa": "twɒz",
+            "freq": 544,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "'twas",
+                "pos": "PNP+VBD",
+                "Shaw": "𐑑𐑢𐑪𐑟"
+            }
+        },
+        {
+            "Latn": "'twas",
+            "Shaw": "𐑑𐑢𐑳𐑟",
+            "pos": "PNP+VBD",
+            "ipa": "twʌz",
+            "freq": 544,
+            "var": "GenAm",
+            "lemma": {
+                "Latn": "'twas",
+                "pos": "PNP+VBD",
+                "Shaw": "𐑑𐑢𐑪𐑟"
+            }
+        }
+    ],
+    "'tween-decks_AV0_𐑑𐑢𐑰𐑯-𐑛𐑧𐑒𐑕": [
+        {
+            "Latn": "'tween-decks",
+            "Shaw": "𐑑𐑢𐑰𐑯-𐑛𐑧𐑒𐑕",
+            "pos": "AV0",
+            "ipa": "ˈtwiːn-deks",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "'tween-decks",
+                "pos": "AV0",
+                "Shaw": "𐑑𐑢𐑰𐑯-𐑛𐑧𐑒𐑕"
+            }
+        }
+    ],
+    "'tween_AV0_𐑑𐑢𐑰𐑯": [
+        {
+            "Latn": "'tween",
+            "Shaw": "𐑑𐑢𐑰𐑯",
+            "pos": "AV0",
+            "ipa": "twiːn",
+            "freq": 27,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "'tween",
+                "pos": "AV0",
+                "Shaw": "𐑑𐑢𐑰𐑯"
+            }
+        }
+    ],
+    "'tween_PRP_𐑑𐑢𐑰𐑯": [
+        {
+            "Latn": "'tween",
+            "Shaw": "𐑑𐑢𐑰𐑯",
+            "pos": "PRP",
+            "ipa": "twiːn",
+            "freq": 27,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "'tween",
+                "pos": "PRP",
+                "Shaw": "𐑑𐑢𐑰𐑯"
+            }
+        }
+    ],
+    "'twere_PNP+VBD_𐑑𐑢𐑻": [
+        {
+            "Latn": "'twere",
+            "Shaw": "𐑑𐑢𐑻",
+            "pos": "PNP+VBD",
+            "ipa": "twɜːR",
+            "freq": 57,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "'twere",
+                "pos": "PNP+VBD",
+                "Shaw": "𐑑𐑢𐑻"
+            }
+        }
+    ],
+    "'twill_PNP+VM0_𐑑𐑢𐑦𐑤": [
+        {
+            "Latn": "'twill",
+            "Shaw": "𐑑𐑢𐑦𐑤",
+            "pos": "PNP+VM0",
+            "ipa": "twɪl",
+            "freq": 94,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "'twill",
+                "pos": "PNP+VM0",
+                "Shaw": "𐑑𐑢𐑦𐑤"
+            }
+        }
+    ],
+    "'twixt_PRP_𐑑𐑢𐑦𐑒𐑕𐑑": [
+        {
+            "Latn": "'twixt",
+            "Shaw": "𐑑𐑢𐑦𐑒𐑕𐑑",
+            "pos": "PRP",
+            "ipa": "twɪkst",
+            "freq": 55,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "'twixt",
+                "pos": "PRP",
+                "Shaw": "𐑑𐑢𐑦𐑒𐑕𐑑"
+            }
+        }
+    ],
+    "'twould_PNP+VM0_𐑑𐑢𐑫𐑛": [
+        {
+            "Latn": "'twould",
+            "Shaw": "𐑑𐑢𐑫𐑛",
+            "pos": "PNP+VM0",
+            "ipa": "twʊd",
+            "freq": 34,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "'twould",
+                "pos": "PNP+VM0",
+                "Shaw": "𐑑𐑢𐑫𐑛"
+            }
+        }
+    ],
+    "'un_PNI_𐑩𐑯": [
+        {
+            "Latn": "'un",
+            "Shaw": "𐑩𐑯",
+            "pos": "PNI",
+            "ipa": "ən",
+            "freq": 447,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "'un",
+                "pos": "PNI",
+                "Shaw": "𐑩𐑯"
+            }
+        }
+    ]
+}

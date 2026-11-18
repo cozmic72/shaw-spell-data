@@ -115,7 +115,7 @@
             "Shaw": "𐑧𐑒𐑕 𐑮𐑱",
             "pos": "AJ0",
             "ipa": "ˈeks reɪ",
-            "freq": 0,
+            "freq": 89,
             "var": "RRP",
             "confidence": 71,
             "source": [
@@ -137,37 +137,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
-        },
-        {
-            "Latn": "X-ray",
-            "Shaw": "𐑧𐑒𐑕 𐑮𐑱",
-            "pos": "AJ0",
-            "ipa": "ˈeks ˌreɪ",
-            "freq": 0,
-            "var": "RRP",
-            "confidence": 65,
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "X-ray",
-                "pos": "AJ0",
-                "Shaw": "𐑧𐑒𐑕 𐑮𐑱"
             },
-            "has_definition": true,
-            "rrp_outcome": "PASS",
-            "rrp_tier": "A",
-            "orig_var": "GenAm",
-            "variant": true,
-            "votes": {
-                "judge_pass": 0.0,
-                "rrp_tier": 1.0,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 1.0,
-                "clean_base": 1.0
-            }
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency by ReadLex share"
+            ]
         }
     ],
     "X-ray_NN1_𐑧𐑒𐑕 𐑮𐑱": [
@@ -176,7 +150,7 @@
             "Shaw": "𐑧𐑒𐑕 𐑮𐑱",
             "pos": "NN1",
             "ipa": "ˈeks reɪ",
-            "freq": 0,
+            "freq": 4786,
             "var": "RRP",
             "confidence": 71,
             "source": [
@@ -198,37 +172,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
-        },
-        {
-            "Latn": "X-ray",
-            "Shaw": "𐑧𐑒𐑕 𐑮𐑱",
-            "pos": "NN1",
-            "ipa": "ˈeks ˌreɪ",
-            "freq": 0,
-            "var": "RRP",
-            "confidence": 65,
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "X-ray",
-                "pos": "NN1",
-                "Shaw": "𐑧𐑒𐑕 𐑮𐑱"
             },
-            "has_definition": true,
-            "rrp_outcome": "PASS",
-            "rrp_tier": "A",
-            "orig_var": "GenAm",
-            "variant": true,
-            "votes": {
-                "judge_pass": 0.0,
-                "rrp_tier": 1.0,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 1.0,
-                "clean_base": 1.0
-            }
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency by ReadLex share"
+            ]
         }
     ],
     "X-ray_VVI_𐑧𐑒𐑕 𐑮𐑱": [
@@ -259,37 +207,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
-        },
-        {
-            "Latn": "X-ray",
-            "Shaw": "𐑧𐑒𐑕 𐑮𐑱",
-            "pos": "VVI",
-            "ipa": "ˈeks ˌreɪ",
-            "freq": 0,
-            "var": "RRP",
-            "confidence": 65,
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "X-ray",
-                "pos": "VVI",
-                "Shaw": "𐑧𐑒𐑕 𐑮𐑱"
             },
-            "has_definition": true,
-            "rrp_outcome": "PASS",
-            "rrp_tier": "A",
-            "orig_var": "GenAm",
-            "variant": true,
-            "votes": {
-                "judge_pass": 0.0,
-                "rrp_tier": 1.0,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 1.0,
-                "clean_base": 1.0
-            }
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "XA_NN1_𐑧𐑒𐑕 𐑨𐑦": [
@@ -298,7 +220,7 @@
             "Shaw": "𐑧𐑒𐑕 𐑨𐑦",
             "pos": "NN1",
             "ipa": "eks æɪ",
-            "freq": 0,
+            "freq": 10,
             "var": "GenAus",
             "confidence": 29,
             "source": [
@@ -320,14 +242,18 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         },
         {
             "Latn": "XA",
             "Shaw": "𐑧𐑒𐑕 𐑨𐑦",
             "pos": "NN1",
             "ipa": "eks æɪ",
-            "freq": 0,
+            "freq": 10,
             "var": "NZ",
             "confidence": 29,
             "source": [
@@ -349,7 +275,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "XA_NN1_𐑧𐑒𐑕 𐑱": [
@@ -358,7 +288,7 @@
             "Shaw": "𐑧𐑒𐑕 𐑱",
             "pos": "NN1",
             "ipa": "eks eɪ",
-            "freq": 0,
+            "freq": 10,
             "var": "RRP",
             "confidence": 59,
             "source": [
@@ -380,7 +310,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "XA_NP0_𐑧𐑒𐑕 𐑨𐑦": [
@@ -389,7 +323,7 @@
             "Shaw": "𐑧𐑒𐑕 𐑨𐑦",
             "pos": "NP0",
             "ipa": "eks æɪ",
-            "freq": 0,
+            "freq": 9,
             "var": "GenAus",
             "confidence": 29,
             "source": [
@@ -411,14 +345,18 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         },
         {
             "Latn": "XA",
             "Shaw": "𐑧𐑒𐑕 𐑨𐑦",
             "pos": "NP0",
             "ipa": "eks æɪ",
-            "freq": 0,
+            "freq": 9,
             "var": "NZ",
             "confidence": 29,
             "source": [
@@ -440,7 +378,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "XA_NP0_𐑧𐑒𐑕 𐑱": [
@@ -449,7 +391,7 @@
             "Shaw": "𐑧𐑒𐑕 𐑱",
             "pos": "NP0",
             "ipa": "eks eɪ",
-            "freq": 0,
+            "freq": 9,
             "var": "RRP",
             "confidence": 59,
             "source": [
@@ -471,7 +413,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "XAs_NN2_𐑧𐑒𐑕 𐑨𐑦𐑟": [
@@ -586,11 +532,12 @@
             "Shaw": "𐑟𐑷𐑮",
             "pos": "NN1",
             "ipa": "ˈzɔr",
-            "freq": 0,
+            "freq": 2,
             "var": "RSSB",
             "confidence": 29,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -619,7 +566,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "XOR_NN1_𐑧𐑒𐑕 𐑷𐑮": [
@@ -628,11 +576,12 @@
             "Shaw": "𐑧𐑒𐑕 𐑷𐑮",
             "pos": "NN1",
             "ipa": "ˈeks ˈɔr",
-            "freq": 0,
+            "freq": 2,
             "var": "RSSB",
             "confidence": 29,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -661,7 +610,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "XOR_VVI_𐑟𐑷𐑮": [
@@ -670,11 +620,12 @@
             "Shaw": "𐑟𐑷𐑮",
             "pos": "VVI",
             "ipa": "ˈzɔr",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 29,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -703,7 +654,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "XOR_VVI_𐑧𐑒𐑕 𐑷𐑮": [
@@ -712,11 +664,12 @@
             "Shaw": "𐑧𐑒𐑕 𐑷𐑮",
             "pos": "VVI",
             "ipa": "ˈeks ˈɔr",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 29,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -745,7 +698,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "XP_NN1_𐑧𐑒𐑕 𐑐𐑰": [
@@ -754,7 +708,7 @@
             "Shaw": "𐑧𐑒𐑕 𐑐𐑰",
             "pos": "NN1",
             "ipa": "eks piː",
-            "freq": 0,
+            "freq": 31,
             "var": "RRP",
             "confidence": 63,
             "source": [
@@ -776,7 +730,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "XP_NP0_𐑧𐑒𐑕 𐑐𐑰": [
@@ -785,7 +743,7 @@
             "Shaw": "𐑧𐑒𐑕 𐑐𐑰",
             "pos": "NP0",
             "ipa": "eks piː",
-            "freq": 0,
+            "freq": 31,
             "var": "RRP",
             "confidence": 63,
             "source": [
@@ -807,7 +765,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "XP_UNC_𐑧𐑒𐑕 𐑐𐑰": [
@@ -816,7 +778,7 @@
             "Shaw": "𐑧𐑒𐑕 𐑐𐑰",
             "pos": "UNC",
             "ipa": "eks piː",
-            "freq": 0,
+            "freq": 31,
             "var": "RRP",
             "confidence": 63,
             "source": [
@@ -838,7 +800,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "XUL_NP0_𐑟𐑵𐑤": [
@@ -889,11 +855,12 @@
             "Shaw": "𐑧𐑒𐑕𐑧𐑒𐑕𐑧𐑒𐑕𐑧𐑒𐑕",
             "pos": "AJ0",
             "ipa": "ˌeksekseksˈeks",
-            "freq": 0,
+            "freq": 32,
             "var": "RSSB",
             "confidence": 42,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -922,7 +889,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "XXXX_NN1_𐑓𐑹𐑧𐑒𐑕": [
@@ -931,11 +899,12 @@
             "Shaw": "𐑓𐑹𐑧𐑒𐑕",
             "pos": "NN1",
             "ipa": "fɔːrˈeks",
-            "freq": 0,
+            "freq": 31,
             "var": "RSSB",
             "confidence": 29,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -964,7 +933,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "XXXX_NP0_𐑒𐑢𐑷𐑛𐑮𐑫𐑐𐑩𐑤𐑧𐑒𐑕": [
@@ -973,11 +943,12 @@
             "Shaw": "𐑒𐑢𐑷𐑛𐑮𐑫𐑐𐑩𐑤𐑧𐑒𐑕",
             "pos": "NP0",
             "ipa": "kwɔˈdrupəlˌeks",
-            "freq": 0,
+            "freq": 31,
             "var": "RSSB",
             "confidence": 29,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -1006,7 +977,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "XXXX_NP0_𐑓𐑹𐑧𐑒𐑕": [
@@ -1015,11 +987,12 @@
             "Shaw": "𐑓𐑹𐑧𐑒𐑕",
             "pos": "NP0",
             "ipa": "fɔːrˈeks",
-            "freq": 0,
+            "freq": 31,
             "var": "RSSB",
             "confidence": 29,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -1048,7 +1021,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "XXXX_NP0_𐑧𐑒𐑕𐑧𐑒𐑕𐑧𐑒𐑕𐑧𐑒𐑕": [
@@ -1057,11 +1031,12 @@
             "Shaw": "𐑧𐑒𐑕𐑧𐑒𐑕𐑧𐑒𐑕𐑧𐑒𐑕",
             "pos": "NP0",
             "ipa": "ˌeksekseksˈeks",
-            "freq": 0,
+            "freq": 31,
             "var": "RSSB",
             "confidence": 42,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -1090,7 +1065,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "XXX_AJ0_𐑑𐑮𐑦𐑐𐑩𐑤𐑧𐑒𐑕": [
@@ -1099,7 +1075,7 @@
             "Shaw": "𐑑𐑮𐑦𐑐𐑩𐑤𐑧𐑒𐑕",
             "pos": "AJ0",
             "ipa": "ˈtrɪpəlˈeks",
-            "freq": 0,
+            "freq": 86,
             "var": "RRP",
             "confidence": 65,
             "source": [
@@ -1121,7 +1097,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "XXX_AJ0_𐑧𐑒𐑕𐑧𐑒𐑕𐑧𐑒𐑕": [
@@ -1130,7 +1110,7 @@
             "Shaw": "𐑧𐑒𐑕𐑧𐑒𐑕𐑧𐑒𐑕",
             "pos": "AJ0",
             "ipa": "ˌekseksˈeks",
-            "freq": 0,
+            "freq": 86,
             "var": "RRP",
             "confidence": 83,
             "source": [
@@ -1152,7 +1132,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "XXX_NN1_𐑑𐑮𐑦𐑐𐑩𐑤𐑧𐑒𐑕": [
@@ -1161,7 +1145,7 @@
             "Shaw": "𐑑𐑮𐑦𐑐𐑩𐑤𐑧𐑒𐑕",
             "pos": "NN1",
             "ipa": "ˈtrɪpəlˈeks",
-            "freq": 0,
+            "freq": 86,
             "var": "RRP",
             "confidence": 65,
             "source": [
@@ -1183,7 +1167,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "XXX_NN1_𐑧𐑒𐑕𐑧𐑒𐑕𐑧𐑒𐑕": [
@@ -1192,7 +1180,7 @@
             "Shaw": "𐑧𐑒𐑕𐑧𐑒𐑕𐑧𐑒𐑕",
             "pos": "NN1",
             "ipa": "ˌekseksˈeks",
-            "freq": 0,
+            "freq": 86,
             "var": "RRP",
             "confidence": 83,
             "source": [
@@ -1214,7 +1202,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "XXX_UNC_𐑑𐑮𐑦𐑐𐑩𐑤𐑧𐑒𐑕": [
@@ -1223,7 +1215,7 @@
             "Shaw": "𐑑𐑮𐑦𐑐𐑩𐑤𐑧𐑒𐑕",
             "pos": "UNC",
             "ipa": "ˈtrɪpəlˈeks",
-            "freq": 0,
+            "freq": 86,
             "var": "RRP",
             "confidence": 65,
             "source": [
@@ -1245,7 +1237,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "XXX_UNC_𐑧𐑒𐑕𐑧𐑒𐑕𐑧𐑒𐑕": [
@@ -1254,7 +1250,7 @@
             "Shaw": "𐑧𐑒𐑕𐑧𐑒𐑕𐑧𐑒𐑕",
             "pos": "UNC",
             "ipa": "ˌekseksˈeks",
-            "freq": 0,
+            "freq": 86,
             "var": "RRP",
             "confidence": 83,
             "source": [
@@ -1276,7 +1272,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "XXX_VVI_𐑑𐑮𐑦𐑐𐑩𐑤𐑧𐑒𐑕": [
@@ -1285,7 +1285,7 @@
             "Shaw": "𐑑𐑮𐑦𐑐𐑩𐑤𐑧𐑒𐑕",
             "pos": "VVI",
             "ipa": "ˈtrɪpəlˈeks",
-            "freq": 0,
+            "freq": 86,
             "var": "RRP",
             "confidence": 65,
             "source": [
@@ -1307,7 +1307,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "XXX_VVI_𐑧𐑒𐑕𐑧𐑒𐑕𐑧𐑒𐑕": [
@@ -1316,7 +1320,7 @@
             "Shaw": "𐑧𐑒𐑕𐑧𐑒𐑕𐑧𐑒𐑕",
             "pos": "VVI",
             "ipa": "ˌekseksˈeks",
-            "freq": 0,
+            "freq": 86,
             "var": "RRP",
             "confidence": 83,
             "source": [
@@ -1338,7 +1342,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "XYZ_NN1_𐑧𐑒𐑕𐑢𐑲𐑟𐑧𐑛": [
@@ -1347,7 +1355,7 @@
             "Shaw": "𐑧𐑒𐑕𐑢𐑲𐑟𐑧𐑛",
             "pos": "NN1",
             "ipa": "ˌekswaɪˈzed",
-            "freq": 0,
+            "freq": 45,
             "var": "RRP",
             "confidence": 59,
             "source": [
@@ -1368,7 +1376,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "XYZ_NN1_𐑧𐑒𐑕𐑢𐑲𐑟𐑰": [
@@ -1377,7 +1389,7 @@
             "Shaw": "𐑧𐑒𐑕𐑢𐑲𐑟𐑰",
             "pos": "NN1",
             "ipa": "ˌekswaɪˈziː",
-            "freq": 0,
+            "freq": 45,
             "var": "GenAm",
             "confidence": 29,
             "source": [
@@ -1399,7 +1411,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "XYZ_UNC_𐑧𐑒𐑕𐑢𐑲𐑟𐑧𐑛": [
@@ -1408,7 +1424,7 @@
             "Shaw": "𐑧𐑒𐑕𐑢𐑲𐑟𐑧𐑛",
             "pos": "UNC",
             "ipa": "ˌekswaɪˈzed",
-            "freq": 0,
+            "freq": 44,
             "var": "RRP",
             "confidence": 59,
             "source": [
@@ -1429,7 +1445,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "XYZ_UNC_𐑧𐑒𐑕𐑢𐑲𐑟𐑰": [
@@ -1438,7 +1458,7 @@
             "Shaw": "𐑧𐑒𐑕𐑢𐑲𐑟𐑰",
             "pos": "UNC",
             "ipa": "ˌekswaɪˈziː",
-            "freq": 0,
+            "freq": 44,
             "var": "GenAm",
             "confidence": 29,
             "source": [
@@ -1460,7 +1480,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "X_AJ0_𐑒𐑕": [
@@ -1491,7 +1515,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_AJ0_𐑒𐑖": [
@@ -1522,7 +1550,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_AJ0_𐑖": [
@@ -1553,7 +1585,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_AJ0_𐑜𐑟": [
@@ -1584,7 +1620,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_AJ0_𐑜𐑠": [
@@ -1615,7 +1655,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_AJ0_𐑟": [
@@ -1646,7 +1690,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_AJ0_𐑧𐑒𐑕": [
@@ -1659,7 +1707,8 @@
             "var": "RRP",
             "confidence": 84,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "no frequency evidence for this reading"
             ],
             "source": [
                 "wiktionary"
@@ -1680,7 +1729,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "X_CRD_𐑒𐑕": [
@@ -1711,7 +1761,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_CRD_𐑒𐑖": [
@@ -1742,7 +1796,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_CRD_𐑖": [
@@ -1773,7 +1831,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_CRD_𐑜𐑟": [
@@ -1804,7 +1866,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_CRD_𐑜𐑠": [
@@ -1835,7 +1901,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_CRD_𐑟": [
@@ -1866,7 +1936,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_CRD_𐑧𐑒𐑕": [
@@ -1879,7 +1953,8 @@
             "var": "RRP",
             "confidence": 84,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "no frequency evidence for this reading"
             ],
             "source": [
                 "wiktionary"
@@ -1900,7 +1975,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "X_NN1_𐑒𐑕": [
@@ -1931,7 +2007,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_NN1_𐑒𐑖": [
@@ -1962,7 +2042,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_NN1_𐑖": [
@@ -1993,7 +2077,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_NN1_𐑜𐑟": [
@@ -2024,7 +2112,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_NN1_𐑜𐑠": [
@@ -2055,7 +2147,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_NN1_𐑟": [
@@ -2086,7 +2182,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_NN1_𐑧𐑒𐑕": [
@@ -2099,7 +2199,8 @@
             "var": "RRP",
             "confidence": 84,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "no frequency evidence for this reading"
             ],
             "source": [
                 "wiktionary"
@@ -2120,7 +2221,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "X_NP0_𐑒𐑕": [
@@ -2151,7 +2253,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_NP0_𐑒𐑖": [
@@ -2182,7 +2288,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_NP0_𐑖": [
@@ -2213,7 +2323,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_NP0_𐑜𐑟": [
@@ -2244,7 +2358,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_NP0_𐑜𐑠": [
@@ -2275,7 +2393,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_NP0_𐑟": [
@@ -2306,7 +2428,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_NP0_𐑧𐑒𐑕": [
@@ -2319,7 +2445,8 @@
             "var": "RRP",
             "confidence": 84,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "no frequency evidence for this reading"
             ],
             "source": [
                 "wiktionary"
@@ -2340,7 +2467,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "X_UNC_𐑒𐑕": [
@@ -2371,7 +2499,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_UNC_𐑒𐑖": [
@@ -2402,7 +2534,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_UNC_𐑖": [
@@ -2433,7 +2569,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_UNC_𐑜𐑟": [
@@ -2464,7 +2604,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_UNC_𐑜𐑠": [
@@ -2495,7 +2639,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_UNC_𐑟": [
@@ -2526,7 +2674,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_UNC_𐑧𐑒𐑕": [
@@ -2539,7 +2691,8 @@
             "var": "RRP",
             "confidence": 84,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "no frequency evidence for this reading"
             ],
             "source": [
                 "wiktionary"
@@ -2560,7 +2713,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "X_VVI_𐑒𐑕": [
@@ -2591,7 +2745,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_VVI_𐑒𐑖": [
@@ -2622,7 +2780,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_VVI_𐑖": [
@@ -2653,7 +2815,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_VVI_𐑜𐑟": [
@@ -2684,7 +2850,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_VVI_𐑜𐑠": [
@@ -2715,7 +2885,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_VVI_𐑟": [
@@ -2746,7 +2920,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "X_VVI_𐑧𐑒𐑕": [
@@ -2759,7 +2937,8 @@
             "var": "RRP",
             "confidence": 84,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "no frequency evidence for this reading"
             ],
             "source": [
                 "wiktionary"
@@ -2780,7 +2959,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xamar_NP0_𐑣𐑭𐑥𐑸": [
@@ -2824,7 +3004,8 @@
             "var": "RSSB",
             "confidence": 52,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "no frequency evidence for this reading"
             ],
             "source": [
                 "wiktionary"
@@ -2853,7 +3034,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xanatos_NP0_𐑟𐑨𐑯𐑩𐑑𐑭𐑕": [
@@ -2862,7 +3044,7 @@
             "Shaw": "𐑟𐑨𐑯𐑩𐑑𐑭𐑕",
             "pos": "NP0",
             "ipa": "ˈzænəˌtɑːs",
-            "freq": 0,
+            "freq": 136,
             "var": "GenAm",
             "confidence": 35,
             "source": [
@@ -2892,7 +3074,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xanatos_NP0_𐑟𐑨𐑯𐑩𐑑𐑴𐑕": [
@@ -2901,7 +3084,7 @@
             "Shaw": "𐑟𐑨𐑯𐑩𐑑𐑴𐑕",
             "pos": "NP0",
             "ipa": "ˈzænəˌtoʊs",
-            "freq": 0,
+            "freq": 136,
             "var": "GenAm",
             "confidence": 29,
             "source": [
@@ -2931,7 +3114,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xanax_NP0_𐑟𐑨𐑯𐑨𐑒𐑕": [
@@ -2940,7 +3124,7 @@
             "Shaw": "𐑟𐑨𐑯𐑨𐑒𐑕",
             "pos": "NP0",
             "ipa": "ˈzænæks",
-            "freq": 0,
+            "freq": 714,
             "var": "RRP",
             "confidence": 86,
             "source": [
@@ -2962,7 +3146,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xander_NP0_𐑟𐑨𐑯𐑛𐑼": [
@@ -2971,7 +3156,7 @@
             "Shaw": "𐑟𐑨𐑯𐑛𐑼",
             "pos": "NP0",
             "ipa": "ˈzændəR",
-            "freq": 0,
+            "freq": 1553,
             "var": "GenAm",
             "confidence": 60,
             "source": [
@@ -2993,7 +3178,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xander_NP0_𐑟𐑭𐑯𐑛𐑼": [
@@ -3002,7 +3188,7 @@
             "Shaw": "𐑟𐑭𐑯𐑛𐑼",
             "pos": "NP0",
             "ipa": "zɑːndəR",
-            "freq": 0,
+            "freq": 1553,
             "var": "RRP",
             "confidence": 66,
             "source": [
@@ -3023,7 +3209,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xander_NP0_𐑟𐑳𐑯𐑛𐑼": [
@@ -3032,7 +3219,7 @@
             "Shaw": "𐑟𐑳𐑯𐑛𐑼",
             "pos": "NP0",
             "ipa": "zʌːndəR",
-            "freq": 0,
+            "freq": 1553,
             "var": "GenAus",
             "confidence": 29,
             "source": [
@@ -3054,7 +3241,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xanten_NP0_𐑕𐑨𐑯𐑑𐑩𐑯": [
@@ -3063,7 +3251,7 @@
             "Shaw": "𐑕𐑨𐑯𐑑𐑩𐑯",
             "pos": "NP0",
             "ipa": "ˈsæntən",
-            "freq": 0,
+            "freq": 35,
             "var": "RSSB",
             "confidence": 53,
             "info": [
@@ -3096,7 +3284,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xanten_NP0_𐑕𐑭𐑯𐑑𐑩𐑯": [
@@ -3105,7 +3294,7 @@
             "Shaw": "𐑕𐑭𐑯𐑑𐑩𐑯",
             "pos": "NP0",
             "ipa": "ˈsɑːntən",
-            "freq": 0,
+            "freq": 35,
             "var": "RSSB",
             "confidence": 43,
             "info": [
@@ -3138,7 +3327,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xanten_NP0_𐑕𐑳𐑯𐑑𐑩𐑯": [
@@ -3147,7 +3337,7 @@
             "Shaw": "𐑕𐑳𐑯𐑑𐑩𐑯",
             "pos": "NP0",
             "ipa": "ˈsʌntən",
-            "freq": 0,
+            "freq": 35,
             "var": "RSSB",
             "confidence": 42,
             "info": [
@@ -3180,7 +3370,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xanthe_NP0_𐑟𐑨𐑯𐑔𐑦": [
@@ -3189,7 +3380,7 @@
             "Shaw": "𐑟𐑨𐑯𐑔𐑦",
             "pos": "NP0",
             "ipa": "ˈzænθi",
-            "freq": 0,
+            "freq": 3,
             "var": "RSSB",
             "confidence": 56,
             "info": [
@@ -3222,7 +3413,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xanthian_AJ0_𐑟𐑨𐑯𐑔𐑾𐑯": [
@@ -3231,11 +3423,12 @@
             "Shaw": "𐑟𐑨𐑯𐑔𐑾𐑯",
             "pos": "AJ0",
             "ipa": "ˈzænθiən",
-            "freq": 0,
+            "freq": 1,
             "var": "RRP",
             "confidence": 82,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -3256,7 +3449,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xanthian_NN1_𐑟𐑨𐑯𐑔𐑾𐑯": [
@@ -3265,11 +3459,12 @@
             "Shaw": "𐑟𐑨𐑯𐑔𐑾𐑯",
             "pos": "NN1",
             "ipa": "ˈzænθiən",
-            "freq": 0,
+            "freq": 1,
             "var": "RRP",
             "confidence": 82,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -3290,7 +3485,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xanthippe_NN1_𐑟𐑨𐑯𐑔𐑦𐑐𐑦": [
@@ -3299,7 +3495,7 @@
             "Shaw": "𐑟𐑨𐑯𐑔𐑦𐑐𐑦",
             "pos": "NN1",
             "ipa": "zænˈθɪpi",
-            "freq": 0,
+            "freq": 19,
             "var": "RRP",
             "confidence": 74,
             "source": [
@@ -3321,7 +3517,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xantippe_NN1_𐑟𐑨𐑯𐑑𐑦𐑐𐑦": [
@@ -3330,7 +3527,7 @@
             "Shaw": "𐑟𐑨𐑯𐑑𐑦𐑐𐑦",
             "pos": "NN1",
             "ipa": "zænˈtɪpi",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 51,
             "info": [
@@ -3363,7 +3560,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xavi_NP0_𐑧𐑒𐑕𐑭𐑝𐑦": [
@@ -3399,7 +3597,9 @@
                 "ipa_present": 0.0,
                 "has_definition": 0.0
             },
-            "confidence": 54
+            "confidence": 54,
+            "freq_readlex": 119,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xavier_NP0_𐑟𐑨𐑝𐑽": [
@@ -3408,7 +3608,7 @@
             "Shaw": "𐑟𐑨𐑝𐑽",
             "pos": "NP0",
             "ipa": "zævɪəR",
-            "freq": 0,
+            "freq": 2327,
             "var": "RRP",
             "confidence": 61,
             "source": [
@@ -3429,7 +3629,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xavier_NP0_𐑟𐑱𐑝𐑘𐑼": [
@@ -3438,7 +3639,7 @@
             "Shaw": "𐑟𐑱𐑝𐑘𐑼",
             "pos": "NP0",
             "ipa": "ˈzeɪvjəR",
-            "freq": 0,
+            "freq": 2327,
             "var": "GenAm",
             "confidence": 53,
             "source": [
@@ -3459,7 +3660,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xavier_NP0_𐑟𐑱𐑝𐑽": [
@@ -3467,36 +3669,8 @@
             "Latn": "Xavier",
             "Shaw": "𐑟𐑱𐑝𐑽",
             "pos": "NP0",
-            "ipa": "zeɪvɪəR",
-            "freq": 0,
-            "var": "RRP",
-            "confidence": 67,
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "Xavier",
-                "pos": "NP0",
-                "Shaw": "𐑟𐑱𐑝𐑽"
-            },
-            "has_definition": true,
-            "rrp_outcome": "PASS",
-            "rrp_tier": "B",
-            "votes": {
-                "judge_pass": 0.229753,
-                "rrp_tier": 0.75,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 1.0,
-                "clean_base": 1.0
-            }
-        },
-        {
-            "Latn": "Xavier",
-            "Shaw": "𐑟𐑱𐑝𐑽",
-            "pos": "NP0",
             "ipa": "ˈzeɪviəR",
-            "freq": 0,
+            "freq": 2327,
             "var": "RRP",
             "confidence": 86,
             "source": [
@@ -3518,7 +3692,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xavier_NP0_𐑣𐑭𐑝𐑦𐑧𐑮": [
@@ -3527,7 +3702,7 @@
             "Shaw": "𐑣𐑭𐑝𐑦𐑧𐑮",
             "pos": "NP0",
             "ipa": "ˈhɑːvier",
-            "freq": 0,
+            "freq": 2327,
             "var": "GenAm",
             "confidence": 31,
             "info": [
@@ -3551,7 +3726,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xavier_NP0_𐑦𐑜𐑟𐑱𐑝𐑘𐑼": [
@@ -3560,7 +3736,7 @@
             "Shaw": "𐑦𐑜𐑟𐑱𐑝𐑘𐑼",
             "pos": "NP0",
             "ipa": "ɪɡˈzeɪvjəR",
-            "freq": 0,
+            "freq": 2327,
             "var": "GenAm",
             "confidence": 36,
             "source": [
@@ -3581,7 +3757,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xavier_NP0_𐑦𐑜𐑟𐑱𐑝𐑽": [
@@ -3590,7 +3767,7 @@
             "Shaw": "𐑦𐑜𐑟𐑱𐑝𐑽",
             "pos": "NP0",
             "ipa": "ɪɡzeɪvɪəR",
-            "freq": 0,
+            "freq": 2327,
             "var": "RRP",
             "confidence": 61,
             "source": [
@@ -3612,7 +3789,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xbone_NN1_𐑧𐑒𐑕𐑚𐑴𐑯": [
@@ -3651,7 +3829,7 @@
             "Shaw": "𐑧𐑒𐑕 𐑚𐑪𐑒𐑕",
             "pos": "NN1",
             "ipa": "ˈeks bɒks",
-            "freq": 0,
+            "freq": 338,
             "var": "RRP",
             "confidence": 71,
             "source": [
@@ -3672,7 +3850,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "Xbox_VVI_𐑧𐑒𐑕 𐑚𐑪𐑒𐑕": [
@@ -3681,7 +3863,7 @@
             "Shaw": "𐑧𐑒𐑕 𐑚𐑪𐑒𐑕",
             "pos": "VVI",
             "ipa": "ˈeks bɒks",
-            "freq": 0,
+            "freq": 337,
             "var": "RRP",
             "confidence": 71,
             "source": [
@@ -3702,7 +3884,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "Xcalak_NP0_𐑖𐑒𐑨𐑤𐑨𐑒": [
@@ -3753,7 +3939,7 @@
             "Shaw": "𐑟𐑰𐑯𐑩",
             "pos": "NN1",
             "ipa": "ˈziːnə",
-            "freq": 0,
+            "freq": 2184,
             "var": "RRP",
             "confidence": 88,
             "source": [
@@ -3774,36 +3960,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
-        },
-        {
-            "Latn": "Xena",
-            "Shaw": "𐑟𐑰𐑯𐑩",
-            "pos": "NN1",
-            "ipa": "ˈziːnə",
-            "freq": 0,
-            "var": "RRP",
-            "confidence": 88,
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "Xena",
-                "pos": "NN1",
-                "Shaw": "𐑟𐑰𐑯𐑩"
             },
-            "has_definition": false,
-            "rrp_outcome": "PASS",
-            "rrp_tier": "A",
-            "orig_var": "GenAm",
-            "votes": {
-                "judge_pass": 0.996419,
-                "rrp_tier": 1.0,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 0.0,
-                "clean_base": 1.0
-            }
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "Xena_NP0_𐑟𐑰𐑯𐑩": [
@@ -3812,7 +3973,7 @@
             "Shaw": "𐑟𐑰𐑯𐑩",
             "pos": "NP0",
             "ipa": "ˈziːnə",
-            "freq": 0,
+            "freq": 2184,
             "var": "RRP",
             "confidence": 88,
             "source": [
@@ -3833,36 +3994,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
-        },
-        {
-            "Latn": "Xena",
-            "Shaw": "𐑟𐑰𐑯𐑩",
-            "pos": "NP0",
-            "ipa": "ˈziːnə",
-            "freq": 0,
-            "var": "RRP",
-            "confidence": 88,
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "Xena",
-                "pos": "NP0",
-                "Shaw": "𐑟𐑰𐑯𐑩"
             },
-            "has_definition": false,
-            "rrp_outcome": "PASS",
-            "rrp_tier": "A",
-            "orig_var": "GenAm",
-            "votes": {
-                "judge_pass": 0.996419,
-                "rrp_tier": 1.0,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 0.0,
-                "clean_base": 1.0
-            }
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "Xenia_NP0_𐑟𐑰𐑯𐑾": [
@@ -3871,7 +4007,7 @@
             "Shaw": "𐑟𐑰𐑯𐑾",
             "pos": "NP0",
             "ipa": "ˈziːniə",
-            "freq": 0,
+            "freq": 252,
             "var": "RRP",
             "confidence": 80,
             "info": [
@@ -3896,7 +4032,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xenophanes_NP0_𐑟𐑧𐑯𐑪𐑓𐑩𐑯𐑰𐑟": [
@@ -3905,7 +4042,7 @@
             "Shaw": "𐑟𐑧𐑯𐑪𐑓𐑩𐑯𐑰𐑟",
             "pos": "NP0",
             "ipa": "zeˈnɒfəniːz",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 44,
             "info": [
@@ -3938,7 +4075,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xenophon_NP0_𐑟𐑧𐑯𐑩𐑓𐑪𐑯": [
@@ -3947,7 +4085,7 @@
             "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑪𐑯",
             "pos": "NP0",
             "ipa": "ˈzenəˌfɒn",
-            "freq": 0,
+            "freq": 36,
             "var": "RRP",
             "confidence": 82,
             "source": [
@@ -3968,7 +4106,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xenophon_NP0_𐑟𐑧𐑯𐑩𐑓𐑭𐑯": [
@@ -3977,7 +4116,7 @@
             "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑭𐑯",
             "pos": "NP0",
             "ipa": "ˈzenəˌfɑːn",
-            "freq": 0,
+            "freq": 36,
             "var": "GenAm",
             "confidence": 62,
             "source": [
@@ -3999,7 +4138,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xenophonian_AJ0_𐑟𐑧𐑯𐑩𐑓𐑴𐑯𐑾𐑯": [
@@ -4024,35 +4164,6 @@
             "rrp_tier": "A",
             "votes": {
                 "judge_pass": 0.899584,
-                "rrp_tier": 1.0,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 0.0,
-                "clean_base": 1.0
-            }
-        },
-        {
-            "Latn": "Xenophonian",
-            "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑯𐑾𐑯",
-            "pos": "AJ0",
-            "ipa": "ˌzenəˈfoʊniən",
-            "freq": 0,
-            "var": "RRP",
-            "confidence": 69,
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "Xenophonian",
-                "pos": "AJ0",
-                "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑯𐑾𐑯"
-            },
-            "has_definition": false,
-            "rrp_outcome": "PASS",
-            "rrp_tier": "A",
-            "orig_var": "GenAm",
-            "votes": {
-                "judge_pass": 0.240379,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -4106,7 +4217,7 @@
             "Shaw": "𐑟𐑻𐑒𐑕𐑰𐑟",
             "pos": "NP0",
             "ipa": "zɜːRksiːz",
-            "freq": 0,
+            "freq": 303,
             "var": "RRP",
             "confidence": 72,
             "source": [
@@ -4128,7 +4239,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xewioso_NP0_𐑣𐑧𐑝𐑦𐑴𐑕𐑴": [
@@ -4210,7 +4322,7 @@
             "Shaw": "𐑒𐑴𐑕𐑩",
             "pos": "AJ0",
             "ipa": "ˈkəʊsə",
-            "freq": 0,
+            "freq": 44,
             "var": "RRP",
             "confidence": 65,
             "source": [
@@ -4232,7 +4344,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "Xhosa_AJ0_𐑒𐑷𐑕𐑩": [
@@ -4241,7 +4357,7 @@
             "Shaw": "𐑒𐑷𐑕𐑩",
             "pos": "AJ0",
             "ipa": "ˈkɔːsə",
-            "freq": 0,
+            "freq": 44,
             "var": "RRP",
             "confidence": 65,
             "source": [
@@ -4263,7 +4379,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "Xhosa_NN1_𐑒𐑴𐑕𐑩": [
@@ -4272,7 +4392,7 @@
             "Shaw": "𐑒𐑴𐑕𐑩",
             "pos": "NN1",
             "ipa": "ˈkəʊsə",
-            "freq": 0,
+            "freq": 44,
             "var": "RRP",
             "confidence": 72,
             "source": [
@@ -4295,7 +4415,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "Xhosa_NN1_𐑒𐑷𐑕𐑩": [
@@ -4304,7 +4428,7 @@
             "Shaw": "𐑒𐑷𐑕𐑩",
             "pos": "NN1",
             "ipa": "ˈkɔːsə",
-            "freq": 0,
+            "freq": 44,
             "var": "RRP",
             "confidence": 65,
             "source": [
@@ -4326,7 +4450,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "Xi Hu_NP0_𐑖𐑰 𐑣𐑵": [
@@ -4376,11 +4504,12 @@
             "Shaw": "𐑖𐑦𐑨𐑯",
             "pos": "NP0",
             "ipa": "ˈʃiˈæn",
-            "freq": 0,
+            "freq": 296,
             "var": "RSSB",
             "confidence": 56,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency from composite table"
             ],
             "source": [
                 "wiktionary"
@@ -4409,7 +4538,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xi'an_NP0_𐑖𐑰𐑭𐑯": [
@@ -4418,11 +4548,12 @@
             "Shaw": "𐑖𐑰𐑭𐑯",
             "pos": "NP0",
             "ipa": "ˈʃiːˈɑːn",
-            "freq": 0,
+            "freq": 296,
             "var": "RSSB",
             "confidence": 31,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency from composite table"
             ],
             "source": [
                 "wiktionary"
@@ -4451,7 +4582,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xi_NP0_𐑕𐑰": [
@@ -4460,11 +4592,12 @@
             "Shaw": "𐑕𐑰",
             "pos": "NP0",
             "ipa": "siː",
-            "freq": 0,
+            "freq": 872,
             "var": "RSSB",
             "confidence": 31,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -4493,7 +4626,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xi_NP0_𐑖𐑰": [
@@ -4502,11 +4636,12 @@
             "Shaw": "𐑖𐑰",
             "pos": "NP0",
             "ipa": "ʃiː",
-            "freq": 0,
+            "freq": 872,
             "var": "RSSB",
             "confidence": 31,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -4535,7 +4670,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xia_NP0_𐑖𐑭": [
@@ -4544,7 +4680,7 @@
             "Shaw": "𐑖𐑭",
             "pos": "NP0",
             "ipa": "ʃɑː",
-            "freq": 0,
+            "freq": 602,
             "var": "GenAm",
             "confidence": 29,
             "source": [
@@ -4574,7 +4710,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xiamen_NP0_𐑖𐑘𐑭𐑥𐑧𐑯": [
@@ -4583,7 +4720,7 @@
             "Shaw": "𐑖𐑘𐑭𐑥𐑧𐑯",
             "pos": "NP0",
             "ipa": "ʃjɑːˈmen",
-            "freq": 0,
+            "freq": 16,
             "var": "RSSB",
             "confidence": 29,
             "info": [
@@ -4616,7 +4753,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xian'an_NP0_𐑖𐑦𐑧𐑯𐑨𐑯": [
@@ -4625,11 +4763,12 @@
             "Shaw": "𐑖𐑦𐑧𐑯𐑨𐑯",
             "pos": "NP0",
             "ipa": "ˈʃienˌæn",
-            "freq": 0,
+            "freq": 6,
             "var": "RSSB",
             "confidence": 54,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency from composite table"
             ],
             "source": [
                 "wiktionary"
@@ -4658,7 +4797,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xian'an_NP0_𐑖𐑦𐑨𐑯𐑭𐑯": [
@@ -4667,11 +4807,12 @@
             "Shaw": "𐑖𐑦𐑨𐑯𐑭𐑯",
             "pos": "NP0",
             "ipa": "ˈʃiænˌɑːn",
-            "freq": 0,
+            "freq": 6,
             "var": "RSSB",
             "confidence": 54,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency from composite table"
             ],
             "source": [
                 "wiktionary"
@@ -4700,7 +4841,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xian_NP0_𐑖𐑦𐑧𐑯": [
@@ -4709,7 +4851,7 @@
             "Shaw": "𐑖𐑦𐑧𐑯",
             "pos": "NP0",
             "ipa": "ʃien",
-            "freq": 0,
+            "freq": 484,
             "var": "RSSB",
             "confidence": 29,
             "info": [
@@ -4742,7 +4884,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xian_NP0_𐑖𐑦𐑨𐑯": [
@@ -4751,7 +4894,7 @@
             "Shaw": "𐑖𐑦𐑨𐑯",
             "pos": "NP0",
             "ipa": "ʃiæn",
-            "freq": 0,
+            "freq": 484,
             "var": "RSSB",
             "confidence": 35,
             "info": [
@@ -4784,7 +4927,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xianbei_NN1_𐑖𐑘𐑨𐑯𐑚𐑱": [
@@ -4793,7 +4937,7 @@
             "Shaw": "𐑖𐑘𐑨𐑯𐑚𐑱",
             "pos": "NN1",
             "ipa": "ʃjænˈbeɪ",
-            "freq": 0,
+            "freq": 32,
             "var": "RSSB",
             "confidence": 29,
             "info": [
@@ -4826,7 +4970,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xiang'an_NP0_𐑖𐑦𐑭𐑙𐑨𐑯": [
@@ -4835,11 +4980,12 @@
             "Shaw": "𐑖𐑦𐑭𐑙𐑨𐑯",
             "pos": "NP0",
             "ipa": "ˈʃiɑːŋˈæn",
-            "freq": 0,
+            "freq": 6,
             "var": "RSSB",
             "confidence": 54,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency from composite table"
             ],
             "source": [
                 "wiktionary"
@@ -4868,7 +5014,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xiang_NP0_𐑖𐑦𐑭𐑙": [
@@ -4877,7 +5024,7 @@
             "Shaw": "𐑖𐑦𐑭𐑙",
             "pos": "NP0",
             "ipa": "ʃiɑːŋ",
-            "freq": 0,
+            "freq": 1230,
             "var": "RSSB",
             "confidence": 27,
             "info": [
@@ -4910,7 +5057,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xiang_NP0_𐑖𐑨𐑙": [
@@ -4919,7 +5067,7 @@
             "Shaw": "𐑖𐑨𐑙",
             "pos": "NP0",
             "ipa": "ʃæŋ",
-            "freq": 0,
+            "freq": 1230,
             "var": "RSSB",
             "confidence": 29,
             "info": [
@@ -4952,7 +5100,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xiang_NP0_𐑖𐑭𐑙": [
@@ -4961,7 +5110,7 @@
             "Shaw": "𐑖𐑭𐑙",
             "pos": "NP0",
             "ipa": "ʃɑːŋ",
-            "freq": 0,
+            "freq": 1230,
             "var": "RSSB",
             "confidence": 29,
             "info": [
@@ -4994,7 +5143,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xianggang_NP0_𐑖𐑘𐑭𐑙𐑜𐑭𐑙": [
@@ -5045,7 +5195,7 @@
             "Shaw": "𐑖𐑦𐑚𐑭𐑤𐑚𐑩",
             "pos": "NP0",
             "ipa": "ʃiˈbɑːlbə",
-            "freq": 0,
+            "freq": 88,
             "var": "RSSB",
             "confidence": 37,
             "info": [
@@ -5078,7 +5228,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xibe_NN1_𐑕𐑦𐑚𐑧": [
@@ -5171,7 +5322,7 @@
             "Shaw": "𐑖𐑰𐑗𐑳𐑙",
             "pos": "NP0",
             "ipa": "ʃiːˈtʃʌŋ",
-            "freq": 0,
+            "freq": 3,
             "var": "RSSB",
             "confidence": 29,
             "info": [
@@ -5204,7 +5355,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xiden_NP0_𐑖𐑲𐑛𐑩𐑯": [
@@ -5309,7 +5461,9 @@
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
                 "has_definition": 0.0
-            }
+            },
+            "freq_readlex": 428,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xiling_NP0_𐑖𐑦𐑤𐑦𐑙": [
@@ -5318,7 +5472,7 @@
             "Shaw": "𐑖𐑦𐑤𐑦𐑙",
             "pos": "NP0",
             "ipa": "ʃiˈlɪŋ",
-            "freq": 0,
+            "freq": 2,
             "var": "RSSB",
             "confidence": 29,
             "info": [
@@ -5351,7 +5505,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Ximenean_AJ0_𐑟𐑦𐑥𐑩𐑯𐑰𐑩𐑯": [
@@ -5532,11 +5687,12 @@
             "Shaw": "𐑖𐑦𐑯𐑭𐑯",
             "pos": "NP0",
             "ipa": "ˈʃɪnˈɑːn",
-            "freq": 0,
+            "freq": 6,
             "var": "RSSB",
             "confidence": 29,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency from composite table"
             ],
             "source": [
                 "wiktionary"
@@ -5565,7 +5721,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xin_NP0_𐑖𐑦𐑯": [
@@ -5574,7 +5731,7 @@
             "Shaw": "𐑖𐑦𐑯",
             "pos": "NP0",
             "ipa": "ˈʃɪn",
-            "freq": 0,
+            "freq": 732,
             "var": "RSSB",
             "confidence": 47,
             "info": [
@@ -5607,7 +5764,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xinan_NP0_𐑖𐑦𐑯𐑨𐑯": [
@@ -5616,7 +5774,7 @@
             "Shaw": "𐑖𐑦𐑯𐑨𐑯",
             "pos": "NP0",
             "ipa": "ʃiˈnæn",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 30,
             "info": [
@@ -5649,7 +5807,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xinbei_NP0_𐑖𐑦𐑯𐑚𐑱": [
@@ -5784,7 +5943,7 @@
             "Shaw": "𐑖𐑦𐑯𐑛𐑦𐑨𐑯",
             "pos": "NP0",
             "ipa": "ʃɪnˈdiæn",
-            "freq": 0,
+            "freq": 2,
             "var": "RSSB",
             "confidence": 54,
             "info": [
@@ -5817,7 +5976,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xinfeng_NP0_𐑖𐑦𐑯𐑓𐑧𐑙": [
@@ -5826,7 +5986,7 @@
             "Shaw": "𐑖𐑦𐑯𐑓𐑧𐑙",
             "pos": "NP0",
             "ipa": "ʃɪnˈfeŋ",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 31,
             "info": [
@@ -5859,7 +6019,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xinfu_NP0_𐑖𐑦𐑯𐑓𐑫": [
@@ -5910,11 +6071,12 @@
             "Shaw": "𐑖𐑦𐑙𐑭𐑯",
             "pos": "NP0",
             "ipa": "ʃɪŋˈɑːn",
-            "freq": 0,
+            "freq": 6,
             "var": "RSSB",
             "confidence": 29,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency from composite table"
             ],
             "source": [
                 "wiktionary"
@@ -5943,7 +6105,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xing_NP0_𐑖𐑦𐑙": [
@@ -5952,11 +6115,12 @@
             "Shaw": "𐑖𐑦𐑙",
             "pos": "NP0",
             "ipa": "ʃɪŋ",
-            "freq": 0,
+            "freq": 348,
             "var": "RSSB",
             "confidence": 29,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -5985,7 +6149,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xingcheng_NP0_𐑖𐑦𐑙𐑗𐑧𐑙": [
@@ -5994,7 +6159,7 @@
             "Shaw": "𐑖𐑦𐑙𐑗𐑧𐑙",
             "pos": "NP0",
             "ipa": "ʃɪŋˈtʃeŋ",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 38,
             "info": [
@@ -6027,7 +6192,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xingguo_NP0_𐑖𐑦𐑙𐑜𐑢𐑴": [
@@ -6120,7 +6286,7 @@
             "Shaw": "𐑖𐑦𐑙𐑡𐑦𐑨𐑙",
             "pos": "NP0",
             "ipa": "ʃɪŋˈdʒiæŋ",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 54,
             "info": [
@@ -6153,7 +6319,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xingping_NP0_𐑖𐑦𐑙𐑐𐑦𐑙": [
@@ -6162,7 +6329,7 @@
             "Shaw": "𐑖𐑦𐑙𐑐𐑦𐑙",
             "pos": "NP0",
             "ipa": "ʃɪŋˈpɪŋ",
-            "freq": 0,
+            "freq": 5,
             "var": "RSSB",
             "confidence": 34,
             "info": [
@@ -6195,7 +6362,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xingqing_NP0_𐑖𐑦𐑙𐑗𐑦𐑙": [
@@ -6288,11 +6456,12 @@
             "Shaw": "𐑖𐑦𐑙𐑜𐑫",
             "pos": "NN1",
             "ipa": "ʃɪŋˈɡu",
-            "freq": 0,
+            "freq": 24,
             "var": "RSSB",
             "confidence": 29,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -6321,7 +6490,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xingu_NP0_𐑖𐑦𐑙𐑜𐑫": [
@@ -6330,11 +6500,12 @@
             "Shaw": "𐑖𐑦𐑙𐑜𐑫",
             "pos": "NP0",
             "ipa": "ʃɪŋˈɡu",
-            "freq": 0,
+            "freq": 24,
             "var": "RSSB",
             "confidence": 29,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -6363,7 +6534,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xingyang_NP0_𐑖𐑦𐑙𐑘𐑨𐑙": [
@@ -6372,7 +6544,7 @@
             "Shaw": "𐑖𐑦𐑙𐑘𐑨𐑙",
             "pos": "NP0",
             "ipa": "ʃɪŋˈjæŋ",
-            "freq": 0,
+            "freq": 3,
             "var": "RSSB",
             "confidence": 29,
             "info": [
@@ -6405,7 +6577,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xinjiang_NP0_𐑖𐑦𐑯𐑗𐑘𐑭𐑙": [
@@ -6414,7 +6587,7 @@
             "Shaw": "𐑖𐑦𐑯𐑗𐑘𐑭𐑙",
             "pos": "NP0",
             "ipa": "ˈʃɪnˈtʃjɑːŋ",
-            "freq": 0,
+            "freq": 33,
             "var": "RSSB",
             "confidence": 31,
             "info": [
@@ -6447,7 +6620,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xiong'an_NP0_𐑖𐑘𐑩𐑙𐑭𐑯": [
@@ -6456,11 +6630,12 @@
             "Shaw": "𐑖𐑘𐑩𐑙𐑭𐑯",
             "pos": "NP0",
             "ipa": "ʃjəŋˈɑːn",
-            "freq": 0,
+            "freq": 6,
             "var": "RSSB",
             "confidence": 29,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency from composite table"
             ],
             "source": [
                 "wiktionary"
@@ -6489,7 +6664,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xiong'an_NP0_𐑖𐑘𐑪𐑙𐑭𐑯": [
@@ -6498,11 +6674,12 @@
             "Shaw": "𐑖𐑘𐑪𐑙𐑭𐑯",
             "pos": "NP0",
             "ipa": "ʃjɒŋˈɑːn",
-            "freq": 0,
+            "freq": 6,
             "var": "RSSB",
             "confidence": 29,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency from composite table"
             ],
             "source": [
                 "wiktionary"
@@ -6531,7 +6708,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xiongnu_NN1_𐑖𐑘𐑪𐑙𐑯𐑵": [
@@ -6540,7 +6718,7 @@
             "Shaw": "𐑖𐑘𐑪𐑙𐑯𐑵",
             "pos": "NN1",
             "ipa": "ˈʃjɒŋnuː",
-            "freq": 0,
+            "freq": 12,
             "var": "RSSB",
             "confidence": 42,
             "info": [
@@ -6573,7 +6751,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xiongnu_NN1_𐑖𐑪𐑙𐑯𐑵": [
@@ -6582,7 +6761,7 @@
             "Shaw": "𐑖𐑪𐑙𐑯𐑵",
             "pos": "NN1",
             "ipa": "ˈʃɒŋnuː",
-            "freq": 0,
+            "freq": 12,
             "var": "RSSB",
             "confidence": 29,
             "info": [
@@ -6615,7 +6794,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xisha_NP0_𐑖𐑰𐑖𐑭": [
@@ -6624,7 +6804,7 @@
             "Shaw": "𐑖𐑰𐑖𐑭",
             "pos": "NP0",
             "ipa": "ʃiːˈʃɑː",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 29,
             "info": [
@@ -6657,7 +6837,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xishuangbanna_NP0_𐑖𐑰𐑖𐑢𐑭𐑙𐑚𐑭𐑯𐑯𐑭": [
@@ -6666,7 +6847,7 @@
             "Shaw": "𐑖𐑰𐑖𐑢𐑭𐑙𐑚𐑭𐑯𐑯𐑭",
             "pos": "NP0",
             "ipa": "ˌʃiːʃwɑːŋbɑːnˈnɑː",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 29,
             "info": [
@@ -6699,7 +6880,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xitler_NP0_𐑖𐑦𐑑𐑤𐑼": [
@@ -6754,7 +6936,7 @@
             "Shaw": "𐑖𐑰𐑑𐑕𐑪𐑙𐑜𐑩",
             "pos": "NP0",
             "ipa": "ʃiːˈtsɒŋɡə",
-            "freq": 0,
+            "freq": 1,
             "var": "RRP",
             "confidence": 67,
             "source": [
@@ -6775,7 +6957,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xitsonga_NP0_𐑖𐑰𐑑𐑕𐑷𐑙𐑜𐑩": [
@@ -6784,7 +6967,7 @@
             "Shaw": "𐑖𐑰𐑑𐑕𐑷𐑙𐑜𐑩",
             "pos": "NP0",
             "ipa": "ʃiːˈtsɔːŋɡə",
-            "freq": 0,
+            "freq": 1,
             "var": "GenAm",
             "confidence": 60,
             "source": [
@@ -6806,7 +6989,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xitter_NP0_𐑖𐑦𐑑𐑼": [
@@ -6887,7 +7071,7 @@
             "Shaw": "𐑖𐑰𐑟𐑭𐑙",
             "pos": "NP0",
             "ipa": "ˈʃiːˈzɑːŋ",
-            "freq": 0,
+            "freq": 3,
             "var": "RSSB",
             "confidence": 31,
             "info": [
@@ -6920,7 +7104,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xmas_NP0_𐑒𐑮𐑦𐑕𐑥𐑩𐑕": [
@@ -6933,7 +7118,8 @@
             "var": "RSSB",
             "confidence": 46,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "no frequency evidence for this reading"
             ],
             "source": [
                 "wiktionary"
@@ -6954,7 +7140,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xmas_VVI_𐑒𐑮𐑦𐑕𐑥𐑩𐑕": [
@@ -6967,7 +7154,8 @@
             "var": "RSSB",
             "confidence": 46,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "no frequency evidence for this reading"
             ],
             "source": [
                 "wiktionary"
@@ -6988,7 +7176,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xmas_VVI_𐑧𐑒𐑕𐑥𐑩𐑕": [
@@ -7001,7 +7190,8 @@
             "var": "RRP",
             "confidence": 86,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "no frequency evidence for this reading"
             ],
             "source": [
                 "wiktionary"
@@ -7022,7 +7212,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xmases_NP0_𐑧𐑒𐑕𐑥𐑩𐑕𐑩𐑟": [
@@ -7213,11 +7404,12 @@
             "Shaw": "𐑖𐑵",
             "pos": "NP0",
             "ipa": "ʃuː",
-            "freq": 0,
+            "freq": 707,
             "var": "RSSB",
             "confidence": 29,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -7246,7 +7438,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xuan paper_NN1_𐑖𐑢𐑨𐑯 𐑐𐑱𐑐𐑼": [
@@ -7340,7 +7533,7 @@
             "Shaw": "𐑖𐑵𐑣𐑢𐑱",
             "pos": "NP0",
             "ipa": "ʃuːhweɪ",
-            "freq": 0,
+            "freq": 5,
             "var": "RSSB",
             "confidence": 27,
             "info": [
@@ -7373,7 +7566,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "Xyla_NP0_𐑟𐑲𐑤𐑩": [
@@ -7382,7 +7576,7 @@
             "Shaw": "𐑟𐑲𐑤𐑩",
             "pos": "NP0",
             "ipa": "ˈzaɪlə",
-            "freq": 0,
+            "freq": 1,
             "var": "RRP",
             "confidence": 83,
             "info": [
@@ -7407,7 +7601,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "x's_ZZ0_𐑧𐑒𐑕𐑩𐑟": [
@@ -7416,7 +7611,7 @@
             "Shaw": "𐑧𐑒𐑕𐑩𐑟",
             "pos": "ZZ0",
             "ipa": "ˈeksƏz",
-            "freq": 0,
+            "freq": 596,
             "var": "RRP",
             "lemma": {
                 "Latn": "x's",
@@ -7430,7 +7625,11 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "info": [
+                "frequency from composite table"
+            ],
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "x-cat-ik_NN1_𐑖𐑒𐑭𐑑𐑦𐑒": [
@@ -7481,7 +7680,7 @@
             "Shaw": "𐑧𐑒𐑕-𐑮𐑱",
             "pos": "AJ0",
             "ipa": "ˈeks-reɪ",
-            "freq": 11,
+            "freq": 89,
             "var": "RRP",
             "lemma": {
                 "Latn": "x-ray",
@@ -7495,7 +7694,12 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "freq_readlex": 11,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency by ReadLex share"
+            ]
         }
     ],
     "x-ray_NN1_𐑧𐑒𐑕-𐑮𐑱": [
@@ -7504,7 +7708,7 @@
             "Shaw": "𐑧𐑒𐑕-𐑮𐑱",
             "pos": "NN1",
             "ipa": "ˈeks-reɪ",
-            "freq": 592,
+            "freq": 4786,
             "var": "RRP",
             "lemma": {
                 "Latn": "x-ray",
@@ -7518,14 +7722,19 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "freq_readlex": 592,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency by ReadLex share"
+            ]
         },
         {
             "Latn": "x-ray",
             "Shaw": "𐑧𐑒𐑕-𐑮𐑱",
             "pos": "NN1",
             "ipa": "ˈeksreɪ",
-            "freq": 0,
+            "freq": 4786,
             "var": "RSSB",
             "confidence": 65,
             "source": [
@@ -7548,7 +7757,11 @@
                 "has_definition": 1.0,
                 "clean_base": 1.0
             },
-            "orig_shaw": "𐑧𐑒𐑕𐑮𐑱"
+            "orig_shaw": "𐑧𐑒𐑕𐑮𐑱",
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency by ReadLex share"
+            ]
         }
     ],
     "x-ray_VVB_𐑧𐑒𐑕-𐑮𐑱": [
@@ -7571,7 +7784,11 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "x-ray_VVI_𐑧𐑒𐑕-𐑮𐑱": [
@@ -7594,7 +7811,11 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         },
         {
             "Latn": "x-ray",
@@ -7624,7 +7845,11 @@
                 "has_definition": 1.0,
                 "clean_base": 1.0
             },
-            "orig_shaw": "𐑧𐑒𐑕𐑮𐑱"
+            "orig_shaw": "𐑧𐑒𐑕𐑮𐑱",
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "x-rayed_VVD_𐑧𐑒𐑕-𐑮𐑱𐑛": [
@@ -7633,7 +7858,7 @@
             "Shaw": "𐑧𐑒𐑕-𐑮𐑱𐑛",
             "pos": "VVD",
             "ipa": "ˈeks-reɪd",
-            "freq": 0,
+            "freq": 132,
             "var": "RRP",
             "lemma": {
                 "Latn": "x-ray",
@@ -7648,7 +7873,11 @@
                 "upstream": 1.0
             },
             "confidence": 100,
-            "regular": true
+            "regular": true,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "x-rayed_VVN_𐑧𐑒𐑕-𐑮𐑱𐑛": [
@@ -7657,7 +7886,7 @@
             "Shaw": "𐑧𐑒𐑕-𐑮𐑱𐑛",
             "pos": "VVN",
             "ipa": "ˈeks-reɪd",
-            "freq": 0,
+            "freq": 131,
             "var": "RRP",
             "lemma": {
                 "Latn": "x-ray",
@@ -7672,7 +7901,11 @@
                 "upstream": 1.0
             },
             "confidence": 100,
-            "regular": true
+            "regular": true,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "x-raying_VVG_𐑧𐑒𐑕-𐑮𐑱𐑦𐑙": [
@@ -7681,7 +7914,7 @@
             "Shaw": "𐑧𐑒𐑕-𐑮𐑱𐑦𐑙",
             "pos": "VVG",
             "ipa": "ˈeks-reɪɪŋ",
-            "freq": 0,
+            "freq": 29,
             "var": "RRP",
             "lemma": {
                 "Latn": "x-ray",
@@ -7696,7 +7929,8 @@
                 "upstream": 1.0
             },
             "confidence": 100,
-            "regular": true
+            "regular": true,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "x-rays_NN2_𐑧𐑒𐑕-𐑮𐑱𐑟": [
@@ -7705,7 +7939,7 @@
             "Shaw": "𐑧𐑒𐑕-𐑮𐑱𐑟",
             "pos": "NN2",
             "ipa": "ˈeks-reɪz",
-            "freq": 327,
+            "freq": 2390,
             "var": "RRP",
             "lemma": {
                 "Latn": "x-ray",
@@ -7720,7 +7954,12 @@
                 "upstream": 1.0
             },
             "confidence": 100,
-            "regular": true
+            "regular": true,
+            "freq_readlex": 327,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency by ReadLex share"
+            ]
         }
     ],
     "x-rays_VVZ_𐑧𐑒𐑕-𐑮𐑱𐑟": [
@@ -7744,7 +7983,11 @@
                 "upstream": 1.0
             },
             "confidence": 100,
-            "regular": true
+            "regular": true,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "x_CJC_𐑒𐑕": [
@@ -7775,7 +8018,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "x_CJC_𐑒𐑖": [
@@ -7806,7 +8053,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "x_CJC_𐑖": [
@@ -7837,7 +8088,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "x_CJC_𐑜𐑟": [
@@ -7868,7 +8123,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "x_CJC_𐑜𐑠": [
@@ -7899,7 +8158,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "x_CJC_𐑟": [
@@ -7930,7 +8193,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "x_CJC_𐑧𐑒𐑕": [
@@ -7943,7 +8210,8 @@
             "var": "RRP",
             "confidence": 84,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "no frequency evidence for this reading"
             ],
             "source": [
                 "wiktionary"
@@ -7964,7 +8232,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "x_ZZ0_𐑧𐑒𐑕": [
@@ -7973,7 +8242,7 @@
             "Shaw": "𐑧𐑒𐑕",
             "pos": "ZZ0",
             "ipa": "eks",
-            "freq": 4781,
+            "freq": 11212,
             "var": "RRP",
             "lemma": {
                 "Latn": "x",
@@ -7987,7 +8256,12 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "freq_readlex": 4781,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency by ReadLex share"
+            ]
         }
     ],
     "xacuti_NN1_𐑖𐑭𐑒𐑫𐑑𐑦": [
@@ -7996,7 +8270,7 @@
             "Shaw": "𐑖𐑭𐑒𐑫𐑑𐑦",
             "pos": "NN1",
             "ipa": "ˈʃɑːkuti",
-            "freq": 0,
+            "freq": 8,
             "var": "RSSB",
             "confidence": 29,
             "info": [
@@ -8029,7 +8303,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xalam_NN1_𐑒𐑭𐑤𐑭𐑥": [
@@ -8119,7 +8394,7 @@
             "Shaw": "𐑟𐑨𐑯𐑩𐑛𐑵",
             "pos": "NP0",
             "ipa": "ˈzænəduː",
-            "freq": 1,
+            "freq": 305,
             "var": "RRP",
             "lemma": {
                 "Latn": "xanadu",
@@ -8133,7 +8408,12 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "freq_readlex": 1,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency by ReadLex share"
+            ]
         }
     ],
     "xanbie_NN1_𐑟𐑨𐑯𐑚𐑦": [
@@ -8215,7 +8495,7 @@
             "Shaw": "𐑟𐑨𐑯𐑔𐑱𐑑",
             "pos": "NN1",
             "ipa": "ˈzænθeɪt",
-            "freq": 0,
+            "freq": 2,
             "var": "RRP",
             "confidence": 96,
             "source": [
@@ -8238,7 +8518,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xanthein_NN1_𐑟𐑨𐑯𐑔𐑰𐑯": [
@@ -8416,7 +8697,7 @@
             "Shaw": "𐑟𐑨𐑯𐑔𐑦𐑯",
             "pos": "NN1",
             "ipa": "ˈzænθin",
-            "freq": 0,
+            "freq": 2,
             "var": "GenAm",
             "confidence": 61,
             "source": [
@@ -8436,7 +8717,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xanthine_NN1_𐑟𐑨𐑯𐑔𐑰𐑯": [
@@ -8445,7 +8727,7 @@
             "Shaw": "𐑟𐑨𐑯𐑔𐑰𐑯",
             "pos": "NN1",
             "ipa": "ˈzanθiːn",
-            "freq": 0,
+            "freq": 2,
             "var": "RRP",
             "confidence": 78,
             "source": [
@@ -8466,7 +8748,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xanthine_NN1_𐑟𐑨𐑯𐑔𐑲𐑯": [
@@ -8475,7 +8758,7 @@
             "Shaw": "𐑟𐑨𐑯𐑔𐑲𐑯",
             "pos": "NN1",
             "ipa": "ˈzanθaɪn",
-            "freq": 0,
+            "freq": 2,
             "var": "RRP",
             "confidence": 75,
             "source": [
@@ -8496,7 +8779,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xanthinol_NN1_𐑟𐑨𐑯𐑔𐑦𐑯𐑪𐑤": [
@@ -8597,7 +8881,9 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 4,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xanthochroic_AJ0_𐑟𐑨𐑯𐑔𐑩𐑒𐑮𐑴𐑦𐑒": [
@@ -8921,7 +9207,9 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 2,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xanthone_NN1_𐑟𐑨𐑯𐑔𐑴𐑯": [
@@ -9042,7 +9330,7 @@
             "Shaw": "𐑟𐑨𐑯𐑔𐑴𐑕𐑦𐑕",
             "pos": "NN1",
             "ipa": "zænˈθoʊsɪs",
-            "freq": 0,
+            "freq": 9,
             "var": "GenAm",
             "confidence": 33,
             "source": [
@@ -9072,7 +9360,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xanthosis_NN1_𐑟𐑨𐑯𐑔𐑴𐑕𐑩𐑕": [
@@ -9081,7 +9370,7 @@
             "Shaw": "𐑟𐑨𐑯𐑔𐑴𐑕𐑩𐑕",
             "pos": "NN1",
             "ipa": "zænˈθoʊsəs",
-            "freq": 0,
+            "freq": 9,
             "var": "GenAm",
             "confidence": 31,
             "source": [
@@ -9111,7 +9400,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xanthous_AJ0_𐑟𐑨𐑯𐑔𐑩𐑕": [
@@ -9120,7 +9410,7 @@
             "Shaw": "𐑟𐑨𐑯𐑔𐑩𐑕",
             "pos": "AJ0",
             "ipa": "ˈzænθəs",
-            "freq": 0,
+            "freq": 1,
             "var": "RRP",
             "confidence": 95,
             "source": [
@@ -9143,7 +9433,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xat_NN1_𐑒𐑭𐑑": [
@@ -9260,7 +9551,9 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 1,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xe_NN1_𐑟𐑦": [
@@ -9269,11 +9562,12 @@
             "Shaw": "𐑟𐑦",
             "pos": "NN1",
             "ipa": "zi",
-            "freq": 0,
+            "freq": 25,
             "var": "RSSB",
             "confidence": 31,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wordnet"
@@ -9302,7 +9596,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xe_PNP_𐑒𐑕𐑰": [
@@ -9311,7 +9606,7 @@
             "Shaw": "𐑒𐑕𐑰",
             "pos": "PNP",
             "ipa": "ksiː",
-            "freq": 0,
+            "freq": 24,
             "var": "RRP",
             "confidence": 81,
             "source": [
@@ -9333,7 +9628,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "xe_PNP_𐑟𐑰": [
@@ -9342,7 +9641,7 @@
             "Shaw": "𐑟𐑰",
             "pos": "PNP",
             "ipa": "ziː",
-            "freq": 0,
+            "freq": 24,
             "var": "RRP",
             "confidence": 64,
             "source": [
@@ -9364,7 +9663,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "xe_PNP_𐑣𐑰": [
@@ -9373,7 +9676,7 @@
             "Shaw": "𐑣𐑰",
             "pos": "PNP",
             "ipa": "hiː",
-            "freq": 0,
+            "freq": 24,
             "var": "RRP",
             "confidence": 61,
             "source": [
@@ -9395,7 +9698,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "xebec_NN1_𐑟𐑦𐑚𐑧𐑒": [
@@ -9404,7 +9711,7 @@
             "Shaw": "𐑟𐑦𐑚𐑧𐑒",
             "pos": "NN1",
             "ipa": "zɪˈbek",
-            "freq": 0,
+            "freq": 8,
             "var": "GenAm",
             "confidence": 46,
             "source": [
@@ -9426,7 +9733,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xebec_NN1_𐑟𐑰𐑚𐑧𐑒": [
@@ -9435,7 +9743,7 @@
             "Shaw": "𐑟𐑰𐑚𐑧𐑒",
             "pos": "NN1",
             "ipa": "ˈziːbek",
-            "freq": 0,
+            "freq": 8,
             "var": "RRP",
             "confidence": 86,
             "source": [
@@ -9457,7 +9765,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xeet_NN1_𐑖𐑰𐑑": [
@@ -9634,7 +9943,7 @@
             "Shaw": "𐑒𐑕𐑧𐑥",
             "pos": "PNP",
             "ipa": "ksem",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 39,
             "info": [
@@ -9667,7 +9976,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xem_PNP_𐑟𐑧𐑥": [
@@ -9676,7 +9986,7 @@
             "Shaw": "𐑟𐑧𐑥",
             "pos": "PNP",
             "ipa": "zem",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 29,
             "info": [
@@ -9709,7 +10019,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xem_PNP_𐑣𐑧𐑥": [
@@ -9718,7 +10029,7 @@
             "Shaw": "𐑣𐑧𐑥",
             "pos": "PNP",
             "ipa": "hem",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 29,
             "info": [
@@ -9751,7 +10062,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xeme_NN1_𐑟𐑰𐑥": [
@@ -10149,7 +10461,7 @@
             "Shaw": "𐑟𐑦𐑯𐑦𐑒",
             "pos": "AJ0",
             "ipa": "ˈzinɪk",
-            "freq": 0,
+            "freq": 2,
             "var": "RSSB",
             "confidence": 48,
             "info": [
@@ -10174,7 +10486,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenic_AJ0_𐑟𐑧𐑯𐑦𐑒": [
@@ -10183,7 +10496,7 @@
             "Shaw": "𐑟𐑧𐑯𐑦𐑒",
             "pos": "AJ0",
             "ipa": "ˈzenɪk",
-            "freq": 0,
+            "freq": 2,
             "var": "RRP",
             "confidence": 84,
             "info": [
@@ -10208,7 +10521,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xeniid_NN1_𐑟𐑦𐑯𐑦𐑦𐑛": [
@@ -10345,35 +10659,6 @@
                 "has_definition": 0.0,
                 "clean_base": 1.0
             }
-        },
-        {
-            "Latn": "xennial",
-            "Shaw": "𐑟𐑧𐑯𐑾𐑤",
-            "pos": "NN1",
-            "ipa": "ˈzeniəl",
-            "freq": 0,
-            "var": "RRP",
-            "confidence": 83,
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "xennial",
-                "pos": "NN1",
-                "Shaw": "𐑟𐑧𐑯𐑾𐑤"
-            },
-            "has_definition": false,
-            "rrp_outcome": "PASS",
-            "rrp_tier": "A",
-            "orig_var": "GenAm",
-            "votes": {
-                "judge_pass": 0.797906,
-                "rrp_tier": 1.0,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 0.0,
-                "clean_base": 1.0
-            }
         }
     ],
     "xennial_NN1_𐑧𐑒𐑕𐑧𐑯𐑾𐑤": [
@@ -10499,7 +10784,7 @@
             "Shaw": "𐑟𐑧𐑯𐑴𐑚𐑲𐑪𐑤𐑩𐑡𐑦",
             "pos": "NN1",
             "ipa": "ˌzenəʊbaɪˈɒlədʒi",
-            "freq": 0,
+            "freq": 10,
             "var": "RRP",
             "confidence": 81,
             "source": [
@@ -10520,7 +10805,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenobiology_NN1_𐑟𐑧𐑯𐑴𐑚𐑲𐑭𐑤𐑩𐑡𐑦": [
@@ -10529,7 +10815,7 @@
             "Shaw": "𐑟𐑧𐑯𐑴𐑚𐑲𐑭𐑤𐑩𐑡𐑦",
             "pos": "NN1",
             "ipa": "ˌzenoʊbaɪˈɑːlədʒi",
-            "freq": 0,
+            "freq": 10,
             "var": "GenAm",
             "confidence": 60,
             "source": [
@@ -10551,7 +10837,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenobiology_NN1_𐑟𐑰𐑯𐑴𐑚𐑲𐑪𐑤𐑩𐑡𐑦": [
@@ -10560,7 +10847,7 @@
             "Shaw": "𐑟𐑰𐑯𐑴𐑚𐑲𐑪𐑤𐑩𐑡𐑦",
             "pos": "NN1",
             "ipa": "ˌziːnəʊbaɪˈɒlədʒi",
-            "freq": 0,
+            "freq": 10,
             "var": "RRP",
             "confidence": 83,
             "source": [
@@ -10581,7 +10868,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenobiology_NN1_𐑟𐑰𐑯𐑴𐑚𐑲𐑭𐑤𐑩𐑡𐑦": [
@@ -10590,7 +10878,7 @@
             "Shaw": "𐑟𐑰𐑯𐑴𐑚𐑲𐑭𐑤𐑩𐑡𐑦",
             "pos": "NN1",
             "ipa": "ˈziːnoʊbaɪˌɑːlədʒi",
-            "freq": 0,
+            "freq": 10,
             "var": "GenAm",
             "confidence": 60,
             "source": [
@@ -10612,7 +10900,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenochrony_NN1_𐑟𐑰𐑯𐑪𐑒𐑮𐑩𐑯𐑦": [
@@ -10663,7 +10952,7 @@
             "Shaw": "𐑟𐑧𐑯𐑩𐑕𐑲𐑛",
             "pos": "NN1",
             "ipa": "ˈzenəsaɪd",
-            "freq": 0,
+            "freq": 1,
             "var": "RRP",
             "confidence": 84,
             "info": [
@@ -10688,7 +10977,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenocide_NN1_𐑟𐑰𐑯𐑩𐑕𐑲𐑛": [
@@ -10697,7 +10987,7 @@
             "Shaw": "𐑟𐑰𐑯𐑩𐑕𐑲𐑛",
             "pos": "NN1",
             "ipa": "ˈziːnəsaɪd",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 55,
             "info": [
@@ -10722,7 +11012,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenoclitic_AJ0_𐑟𐑧𐑯𐑴𐑒𐑤𐑦𐑑𐑦𐑒": [
@@ -11247,7 +11538,7 @@
             "Shaw": "𐑟𐑧𐑯𐑴𐑡𐑧𐑯𐑩𐑕𐑦𐑕",
             "pos": "NN1",
             "ipa": "zenəʊˈdʒenəsɪs",
-            "freq": 0,
+            "freq": 2,
             "var": "RRP",
             "confidence": 93,
             "source": [
@@ -11270,7 +11561,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenogenetic_AJ0_𐑟𐑧𐑯𐑴𐑡𐑩𐑯𐑧𐑑𐑦𐑒": [
@@ -11322,7 +11614,7 @@
             "Shaw": "𐑟𐑧𐑯𐑴𐑡𐑧𐑯𐑦𐑒",
             "pos": "AJ0",
             "ipa": "zenəʊˈdʒenɪk",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 52,
             "info": [
@@ -11355,7 +11647,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenogenous_AJ0_𐑟𐑧𐑯𐑪𐑡𐑩𐑯𐑩𐑕": [
@@ -11478,7 +11771,7 @@
             "Shaw": "𐑟𐑧𐑯𐑩𐑜𐑤𐑪𐑕𐑾",
             "pos": "NN1",
             "ipa": "ˌzenəˈɡlɒsiə",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 53,
             "info": [
@@ -11511,7 +11804,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenoglossia_NN1_𐑟𐑰𐑯𐑩𐑜𐑤𐑪𐑕𐑾": [
@@ -11520,7 +11814,7 @@
             "Shaw": "𐑟𐑰𐑯𐑩𐑜𐑤𐑪𐑕𐑾",
             "pos": "NN1",
             "ipa": "ˌziːnəˈɡlɒsiə",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 50,
             "info": [
@@ -11553,7 +11847,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenoglossy_NN1_𐑟𐑧𐑯𐑩𐑜𐑤𐑪𐑕𐑦": [
@@ -11630,11 +11925,12 @@
             "Shaw": "𐑟𐑧𐑯𐑴𐑜𐑮𐑨𐑓𐑑",
             "pos": "NN1",
             "ipa": "ˈzenəʊɡræft",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 64,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wordnet",
@@ -11664,7 +11960,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenograft_NN1_𐑟𐑧𐑯𐑴𐑜𐑮𐑭𐑓𐑑": [
@@ -11673,11 +11970,12 @@
             "Shaw": "𐑟𐑧𐑯𐑴𐑜𐑮𐑭𐑓𐑑",
             "pos": "NN1",
             "ipa": "zenəʊɡrɑːft",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 39,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -11706,7 +12004,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenograft_VVI_𐑟𐑧𐑯𐑴𐑜𐑮𐑨𐑓𐑑": [
@@ -11719,7 +12018,8 @@
             "var": "RSSB",
             "confidence": 54,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -11748,7 +12048,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenograft_VVI_𐑟𐑧𐑯𐑴𐑜𐑮𐑭𐑓𐑑": [
@@ -11761,7 +12062,8 @@
             "var": "RSSB",
             "confidence": 39,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -11790,7 +12092,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenohistory_NN1_𐑟𐑧𐑯𐑩𐑣𐑦𐑕𐑑𐑼𐑦": [
@@ -11998,7 +12301,9 @@
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
                 "has_definition": 1.0
-            }
+            },
+            "freq_readlex": 4,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenology_NN1_𐑟𐑩𐑯𐑪𐑤𐑩𐑡𐑦": [
@@ -12007,7 +12312,7 @@
             "Shaw": "𐑟𐑩𐑯𐑪𐑤𐑩𐑡𐑦",
             "pos": "NN1",
             "ipa": "zəˈnɒlədʒɪ",
-            "freq": 0,
+            "freq": 1,
             "var": "RRP",
             "confidence": 76,
             "source": [
@@ -12028,7 +12333,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenology_NN1_𐑟𐑩𐑯𐑭𐑤𐑩𐑡𐑦": [
@@ -12037,7 +12343,7 @@
             "Shaw": "𐑟𐑩𐑯𐑭𐑤𐑩𐑡𐑦",
             "pos": "NN1",
             "ipa": "zəˈnɑːlədʒi",
-            "freq": 0,
+            "freq": 1,
             "var": "GenAm",
             "confidence": 60,
             "source": [
@@ -12059,7 +12365,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenomedicine_NN1_𐑟𐑧𐑯𐑩𐑥𐑧𐑛𐑕𐑦𐑯": [
@@ -12152,7 +12459,7 @@
             "Shaw": "𐑟𐑧𐑯𐑴𐑥𐑹𐑓",
             "pos": "NN1",
             "ipa": "zenəʊmɔːRf",
-            "freq": 0,
+            "freq": 12,
             "var": "RRP",
             "confidence": 71,
             "source": [
@@ -12174,7 +12481,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenomorphology_NN1_𐑟𐑧𐑯𐑩𐑥𐑷𐑮𐑓𐑭𐑤𐑩𐑡𐑦": [
@@ -12225,7 +12533,7 @@
             "Shaw": "𐑟𐑧𐑯𐑩𐑥𐑦𐑔𐑪𐑤𐑩𐑡𐑦",
             "pos": "NN1",
             "ipa": "zenəmɪˈθɒlədʒi",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 53,
             "info": [
@@ -12258,7 +12566,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenon_NN1_𐑟𐑧𐑯𐑭𐑯": [
@@ -12267,7 +12576,7 @@
             "Shaw": "𐑟𐑧𐑯𐑭𐑯",
             "pos": "NN1",
             "ipa": "ˈzenɑːn",
-            "freq": 0,
+            "freq": 234,
             "var": "GenAm",
             "confidence": 46,
             "source": [
@@ -12289,7 +12598,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenon_NN1_𐑟𐑰𐑯𐑩𐑯": [
@@ -12298,7 +12608,7 @@
             "Shaw": "𐑟𐑰𐑯𐑩𐑯",
             "pos": "NN1",
             "ipa": "ziːnən",
-            "freq": 0,
+            "freq": 234,
             "var": "GenAm",
             "confidence": 39,
             "source": [
@@ -12321,7 +12631,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenon_NN1_𐑟𐑰𐑯𐑪𐑯": [
@@ -12330,7 +12641,7 @@
             "Shaw": "𐑟𐑰𐑯𐑪𐑯",
             "pos": "NN1",
             "ipa": "ˈziːnɒn",
-            "freq": 28,
+            "freq": 234,
             "var": "RRP",
             "lemma": {
                 "Latn": "xenon",
@@ -12345,7 +12656,9 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "freq_readlex": 28,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenon_NN1_𐑟𐑰𐑯𐑭𐑯": [
@@ -12354,7 +12667,7 @@
             "Shaw": "𐑟𐑰𐑯𐑭𐑯",
             "pos": "NN1",
             "ipa": "ˈziːnɑːn",
-            "freq": 0,
+            "freq": 234,
             "var": "GenAm",
             "confidence": 62,
             "source": [
@@ -12376,7 +12689,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenonym_NN1_𐑟𐑦𐑯𐑩𐑯𐑦𐑥": [
@@ -12646,37 +12960,8 @@
             "Latn": "xenophobe",
             "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑚",
             "pos": "NN1",
-            "ipa": "ˈzenəfoʊb",
-            "freq": 0,
-            "var": "RRP",
-            "confidence": 63,
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "xenophobe",
-                "pos": "NN1",
-                "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑚"
-            },
-            "has_definition": false,
-            "rrp_outcome": "PASS",
-            "rrp_tier": "A",
-            "orig_var": "GenAm",
-            "votes": {
-                "judge_pass": 0.0,
-                "rrp_tier": 1.0,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 0.0,
-                "clean_base": 1.0
-            }
-        },
-        {
-            "Latn": "xenophobe",
-            "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑚",
-            "pos": "NN1",
             "ipa": "ˈzenəfəʊb",
-            "freq": 0,
+            "freq": 19,
             "var": "RRP",
             "confidence": 88,
             "source": [
@@ -12697,7 +12982,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenophobe_NN1_𐑟𐑰𐑯𐑩𐑓𐑴𐑚": [
@@ -12706,7 +12992,7 @@
             "Shaw": "𐑟𐑰𐑯𐑩𐑓𐑴𐑚",
             "pos": "NN1",
             "ipa": "ˈziːnəfoʊb",
-            "freq": 0,
+            "freq": 19,
             "var": "GenAm",
             "confidence": 29,
             "source": [
@@ -12728,7 +13014,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenophobia_NN1_𐑟𐑧𐑯𐑩𐑓𐑴𐑚𐑾": [
@@ -12737,7 +13024,7 @@
             "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑚𐑾",
             "pos": "NN1",
             "ipa": "ˌzenəˈfəʊbɪə",
-            "freq": 78,
+            "freq": 68,
             "var": "RRP",
             "lemma": {
                 "Latn": "xenophobia",
@@ -12752,7 +13039,9 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "freq_readlex": 78,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenophobia_NN1_𐑟𐑰𐑯𐑩𐑓𐑴𐑚𐑾": [
@@ -12761,7 +13050,7 @@
             "Shaw": "𐑟𐑰𐑯𐑩𐑓𐑴𐑚𐑾",
             "pos": "NN1",
             "ipa": "ziːnəˈfoʊbiə",
-            "freq": 0,
+            "freq": 68,
             "var": "GenAm",
             "confidence": 42,
             "source": [
@@ -12784,7 +13073,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenophobic_AJ0_𐑟𐑧𐑯𐑩𐑓𐑴𐑚𐑦𐑒": [
@@ -12793,7 +13083,7 @@
             "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑚𐑦𐑒",
             "pos": "AJ0",
             "ipa": "ˌzenəˈfəʊbɪk",
-            "freq": 45,
+            "freq": 85,
             "var": "RRP",
             "lemma": {
                 "Latn": "xenophobic",
@@ -12808,7 +13098,12 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "freq_readlex": 45,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency by ReadLex share"
+            ]
         }
     ],
     "xenophobic_AJ0_𐑟𐑰𐑯𐑩𐑓𐑴𐑚𐑦𐑒": [
@@ -12817,7 +13112,7 @@
             "Shaw": "𐑟𐑰𐑯𐑩𐑓𐑴𐑚𐑦𐑒",
             "pos": "AJ0",
             "ipa": "ˌziːnəˈfoʊbɪk",
-            "freq": 0,
+            "freq": 85,
             "var": "GenAm",
             "confidence": 35,
             "source": [
@@ -12839,7 +13134,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency by ReadLex share"
+            ]
         }
     ],
     "xenophobic_NN1_𐑟𐑧𐑯𐑩𐑓𐑴𐑚𐑦𐑒": [
@@ -12869,36 +13168,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
-        },
-        {
-            "Latn": "xenophobic",
-            "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑚𐑦𐑒",
-            "pos": "NN1",
-            "ipa": "ˌzenəˈfoʊbɪk",
-            "freq": 0,
-            "var": "RRP",
-            "confidence": 71,
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "xenophobic",
-                "pos": "NN1",
-                "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑚𐑦𐑒"
             },
-            "has_definition": true,
-            "rrp_outcome": "PASS",
-            "rrp_tier": "A",
-            "orig_var": "GenAm",
-            "votes": {
-                "judge_pass": 0.225454,
-                "rrp_tier": 1.0,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 1.0,
-                "clean_base": 1.0
-            }
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "xenophobic_NN1_𐑟𐑰𐑯𐑩𐑓𐑴𐑚𐑦𐑒": [
@@ -12929,7 +13203,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "xenophone_NN1_𐑟𐑧𐑯𐑩𐑓𐑴𐑯": [
@@ -13091,7 +13369,7 @@
             "Shaw": "𐑟𐑧𐑯𐑩𐑧𐑔𐑕𐑲𐑒𐑭𐑤𐑩𐑡𐑦",
             "pos": "NN1",
             "ipa": "zenəeθsaɪˈkɑːlədʒi",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 29,
             "info": [
@@ -13124,7 +13402,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenoscience_NN1_𐑟𐑧𐑯𐑩𐑕𐑲𐑩𐑯𐑕": [
@@ -13285,7 +13564,9 @@
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
                 "has_definition": 1.0
-            }
+            },
+            "freq_readlex": 9,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xenotransplantation_NN1_𐑟𐑧𐑯𐑩𐑑𐑮𐑨𐑯𐑕𐑐𐑤𐑭𐑯𐑑𐑱𐑖𐑩𐑯": [
@@ -13318,7 +13599,9 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 2,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xeric_AJ0_𐑟𐑦𐑮𐑦𐑒": [
@@ -13595,7 +13878,9 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 3,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xerographic_AJ0_𐑟𐑽𐑩𐑜𐑮𐑭𐑓𐑦𐑒": [
@@ -13628,7 +13913,9 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 1,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xeromorphic_AJ0_𐑟𐑽𐑩𐑥𐑷𐑮𐑓𐑦𐑒": [
@@ -13709,7 +13996,7 @@
             "Shaw": "𐑟𐑽𐑴𐑓𐑲𐑑",
             "pos": "NN1",
             "ipa": "zɪərəʊfaɪt",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 47,
             "info": [
@@ -13743,7 +14030,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xerosol_NN1_𐑟𐑧𐑮𐑩𐑕𐑭𐑤": [
@@ -13854,7 +14142,9 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 5,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xerox machine_NN1_𐑟𐑧𐑮𐑪𐑒𐑕 𐑥𐑩𐑖𐑰𐑯": [
@@ -13923,7 +14213,7 @@
             "Shaw": "𐑟𐑧𐑮𐑪𐑒𐑕",
             "pos": "NN1",
             "ipa": "ˈzerɒks",
-            "freq": 0,
+            "freq": 263,
             "var": "RRP",
             "confidence": 91,
             "source": [
@@ -13947,7 +14237,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency by ReadLex share"
+            ]
         }
     ],
     "xerox_NN1_𐑟𐑰𐑮𐑭𐑒𐑕": [
@@ -13956,7 +14250,7 @@
             "Shaw": "𐑟𐑰𐑮𐑭𐑒𐑕",
             "pos": "NN1",
             "ipa": "ˈziːrɑːks",
-            "freq": 0,
+            "freq": 263,
             "var": "GenAm",
             "confidence": 37,
             "source": [
@@ -13978,7 +14272,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency by ReadLex share"
+            ]
         }
     ],
     "xerox_NN1_𐑟𐑰𐑼𐑭𐑒𐑕": [
@@ -13987,7 +14285,7 @@
             "Shaw": "𐑟𐑰𐑼𐑭𐑒𐑕",
             "pos": "NN1",
             "ipa": "ˈziːərɑːks",
-            "freq": 0,
+            "freq": 263,
             "var": "GenAm",
             "confidence": 31,
             "source": [
@@ -14009,7 +14307,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency by ReadLex share"
+            ]
         }
     ],
     "xerox_NN1_𐑟𐑽𐑪𐑒𐑕": [
@@ -14018,7 +14320,7 @@
             "Shaw": "𐑟𐑽𐑪𐑒𐑕",
             "pos": "NN1",
             "ipa": "ˈzɪərɒks",
-            "freq": 56,
+            "freq": 263,
             "var": "RRP",
             "lemma": {
                 "Latn": "xerox",
@@ -14032,7 +14334,12 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "freq_readlex": 56,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency by ReadLex share"
+            ]
         }
     ],
     "xerox_NP0_𐑟𐑽𐑪𐑒𐑕": [
@@ -14041,7 +14348,7 @@
             "Shaw": "𐑟𐑽𐑪𐑒𐑕",
             "pos": "NP0",
             "ipa": "ˈzɪərɒks",
-            "freq": 37,
+            "freq": 174,
             "var": "RRP",
             "lemma": {
                 "Latn": "xerox",
@@ -14055,7 +14362,12 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "freq_readlex": 37,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency by ReadLex share"
+            ]
         }
     ],
     "xerox_VVB_𐑟𐑽𐑪𐑒𐑕": [
@@ -14078,7 +14390,11 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "xerox_VVI_𐑟𐑧𐑮𐑪𐑒𐑕": [
@@ -14111,7 +14427,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "xerox_VVI_𐑟𐑰𐑮𐑭𐑒𐑕": [
@@ -14142,7 +14462,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "xerox_VVI_𐑟𐑰𐑼𐑭𐑒𐑕": [
@@ -14173,7 +14497,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "xerox_VVI_𐑟𐑽𐑪𐑒𐑕": [
@@ -14196,7 +14524,11 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "xeroxed_AJ0_𐑟𐑽𐑪𐑒𐑕𐑑": [
@@ -14205,7 +14537,7 @@
             "Shaw": "𐑟𐑽𐑪𐑒𐑕𐑑",
             "pos": "AJ0",
             "ipa": "ˈzɪərɒkst",
-            "freq": 3,
+            "freq": 40,
             "var": "RRP",
             "lemma": {
                 "Latn": "xeroxed",
@@ -14219,7 +14551,12 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "freq_readlex": 3,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency by ReadLex share"
+            ]
         }
     ],
     "xeroxed_VVD_𐑟𐑽𐑪𐑒𐑕𐑑": [
@@ -14228,7 +14565,7 @@
             "Shaw": "𐑟𐑽𐑪𐑒𐑕𐑑",
             "pos": "VVD",
             "ipa": "ˈzɪərɒkst",
-            "freq": 1,
+            "freq": 13,
             "var": "RRP",
             "lemma": {
                 "Latn": "xerox",
@@ -14243,7 +14580,12 @@
                 "upstream": 1.0
             },
             "confidence": 100,
-            "regular": true
+            "regular": true,
+            "freq_readlex": 1,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency by ReadLex share"
+            ]
         }
     ],
     "xeroxed_VVN_𐑟𐑽𐑪𐑒𐑕𐑑": [
@@ -14252,7 +14594,7 @@
             "Shaw": "𐑟𐑽𐑪𐑒𐑕𐑑",
             "pos": "VVN",
             "ipa": "ˈzɪərɒkst",
-            "freq": 1,
+            "freq": 13,
             "var": "RRP",
             "lemma": {
                 "Latn": "xerox",
@@ -14267,7 +14609,12 @@
                 "upstream": 1.0
             },
             "confidence": 100,
-            "regular": true
+            "regular": true,
+            "freq_readlex": 1,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency by ReadLex share"
+            ]
         }
     ],
     "xeroxes_NN2_𐑟𐑽𐑪𐑒𐑕𐑩𐑟": [
@@ -14276,7 +14623,7 @@
             "Shaw": "𐑟𐑽𐑪𐑒𐑕𐑩𐑟",
             "pos": "NN2",
             "ipa": "ˈzɪərɒksƏz",
-            "freq": 3,
+            "freq": 23,
             "var": "RRP",
             "lemma": {
                 "Latn": "xerox",
@@ -14291,7 +14638,12 @@
                 "upstream": 1.0
             },
             "confidence": 100,
-            "regular": true
+            "regular": true,
+            "freq_readlex": 3,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency by ReadLex share"
+            ]
         }
     ],
     "xeroxes_VVZ_𐑟𐑽𐑪𐑒𐑕𐑩𐑟": [
@@ -14315,7 +14667,11 @@
                 "upstream": 1.0
             },
             "confidence": 100,
-            "regular": true
+            "regular": true,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "xeroxing_VVG_𐑟𐑽𐑪𐑒𐑕𐑦𐑙": [
@@ -14324,7 +14680,7 @@
             "Shaw": "𐑟𐑽𐑪𐑒𐑕𐑦𐑙",
             "pos": "VVG",
             "ipa": "ˈzɪərɒksɪŋ",
-            "freq": 0,
+            "freq": 38,
             "var": "RRP",
             "lemma": {
                 "Latn": "xerox",
@@ -14339,7 +14695,8 @@
                 "upstream": 1.0
             },
             "confidence": 100,
-            "regular": true
+            "regular": true,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xertz_VVI_𐑟𐑻𐑑𐑕": [
@@ -14390,11 +14747,12 @@
             "Shaw": "𐑒𐑕𐑰",
             "pos": "NN1",
             "ipa": "ksiː",
-            "freq": 0,
+            "freq": 872,
             "var": "RSSB",
             "confidence": 31,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -14423,7 +14781,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xi_NN1_𐑒𐑕𐑲": [
@@ -14432,11 +14791,12 @@
             "Shaw": "𐑒𐑕𐑲",
             "pos": "NN1",
             "ipa": "ksaɪ",
-            "freq": 0,
+            "freq": 872,
             "var": "RSSB",
             "confidence": 46,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wordnet",
@@ -14466,7 +14826,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xi_NN1_𐑕𐑲": [
@@ -14475,11 +14836,12 @@
             "Shaw": "𐑕𐑲",
             "pos": "NN1",
             "ipa": "saɪ",
-            "freq": 0,
+            "freq": 872,
             "var": "RSSB",
             "confidence": 31,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -14508,7 +14870,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xi_NN1_𐑖𐑰": [
@@ -14517,12 +14880,13 @@
             "Shaw": "𐑖𐑰",
             "pos": "NN1",
             "ipa": "ʃiː",
-            "freq": 0,
+            "freq": 872,
             "var": "RSSB",
             "confidence": 31,
             "info": [
                 "nonstandard",
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -14551,7 +14915,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xi_NN1_𐑟𐑲": [
@@ -14560,11 +14925,12 @@
             "Shaw": "𐑟𐑲",
             "pos": "NN1",
             "ipa": "zaɪ",
-            "freq": 0,
+            "freq": 872,
             "var": "RSSB",
             "confidence": 31,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -14593,7 +14959,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xianbing_NN1_𐑖𐑘𐑨𐑯𐑚𐑦𐑙": [
@@ -14644,7 +15011,7 @@
             "Shaw": "𐑖𐑭𐑙𐑗𐑦",
             "pos": "NN1",
             "ipa": "ˈʃɑːŋtʃi",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 33,
             "info": [
@@ -14677,7 +15044,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xiangsheng_NN1_𐑖𐑦𐑭𐑙𐑖𐑳𐑙": [
@@ -14770,7 +15138,7 @@
             "Shaw": "𐑖𐑘𐑧𐑯𐑖𐑘𐑭",
             "pos": "NN1",
             "ipa": "ˈʃjenˈʃjɑː",
-            "freq": 0,
+            "freq": 9,
             "var": "RSSB",
             "confidence": 29,
             "info": [
@@ -14803,7 +15171,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xianxia_NN1_𐑖𐑘𐑭𐑯𐑖𐑘𐑭": [
@@ -14812,7 +15181,7 @@
             "Shaw": "𐑖𐑘𐑭𐑯𐑖𐑘𐑭",
             "pos": "NN1",
             "ipa": "ˈʃjɑːnˈʃjɑː",
-            "freq": 0,
+            "freq": 9,
             "var": "RSSB",
             "confidence": 29,
             "info": [
@@ -14845,7 +15214,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xiao_NN1_𐑖𐑘𐑬": [
@@ -14854,7 +15224,7 @@
             "Shaw": "𐑖𐑘𐑬",
             "pos": "NN1",
             "ipa": "ʃjaʊ",
-            "freq": 0,
+            "freq": 4140,
             "var": "RSSB",
             "confidence": 29,
             "info": [
@@ -14887,7 +15257,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xiaolongbao_NN1_𐑕𐑘𐑬𐑤𐑪𐑙𐑚𐑬": [
@@ -14896,7 +15267,7 @@
             "Shaw": "𐑕𐑘𐑬𐑤𐑪𐑙𐑚𐑬",
             "pos": "NN1",
             "ipa": "ˈsjaʊlɒŋbaʊ",
-            "freq": 0,
+            "freq": 4,
             "var": "RRP",
             "confidence": 59,
             "source": [
@@ -14917,7 +15288,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xiaolongbao_NN1_𐑖𐑘𐑬𐑤𐑪𐑙𐑚𐑬": [
@@ -14926,7 +15298,7 @@
             "Shaw": "𐑖𐑘𐑬𐑤𐑪𐑙𐑚𐑬",
             "pos": "NN1",
             "ipa": "ˈʃjaʊlɒŋbaʊ",
-            "freq": 0,
+            "freq": 4,
             "var": "RRP",
             "confidence": 59,
             "source": [
@@ -14947,7 +15319,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xiaolongbao_NN1_𐑖𐑘𐑬𐑤𐑷𐑙𐑚𐑬": [
@@ -14956,7 +15329,7 @@
             "Shaw": "𐑖𐑘𐑬𐑤𐑷𐑙𐑚𐑬",
             "pos": "NN1",
             "ipa": "ˈʃjaʊlɔŋˈbaʊ",
-            "freq": 0,
+            "freq": 4,
             "var": "RRP",
             "confidence": 59,
             "source": [
@@ -14977,7 +15350,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xiaolongbao_NN1_𐑖𐑬𐑤𐑪𐑙𐑚𐑬": [
@@ -14986,7 +15360,7 @@
             "Shaw": "𐑖𐑬𐑤𐑪𐑙𐑚𐑬",
             "pos": "NN1",
             "ipa": "ˈʃaʊlɒŋbaʊ",
-            "freq": 0,
+            "freq": 4,
             "var": "RRP",
             "confidence": 68,
             "source": [
@@ -15007,7 +15381,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xiaolongbao_NN1_𐑖𐑬𐑤𐑷𐑙𐑚𐑬": [
@@ -15016,7 +15391,7 @@
             "Shaw": "𐑖𐑬𐑤𐑷𐑙𐑚𐑬",
             "pos": "NN1",
             "ipa": "ˈʃaʊlɔŋbaʊ",
-            "freq": 0,
+            "freq": 4,
             "var": "RRP",
             "confidence": 59,
             "source": [
@@ -15037,7 +15412,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xiehouyu_NN1_𐑖𐑘𐑧𐑣𐑴𐑘𐑫": [
@@ -15088,7 +15464,7 @@
             "Shaw": "𐑖𐑰𐑦",
             "pos": "AJ0",
             "var": "RRP",
-            "freq": 545,
+            "freq": 273,
             "synthetic": true,
             "shaw_source": "shave-g2p",
             "origin": "shave-g2p from wordnet-speculative",
@@ -15112,7 +15488,12 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 545,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "xiii_NN1_𐑖𐑰𐑦": [
@@ -15121,7 +15502,7 @@
             "Shaw": "𐑖𐑰𐑦",
             "pos": "NN1",
             "var": "RRP",
-            "freq": 545,
+            "freq": 272,
             "synthetic": true,
             "shaw_source": "shave-g2p",
             "origin": "shave-g2p from wordnet-speculative",
@@ -15145,7 +15526,12 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 545,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "xing_NN1_𐑒𐑮𐑪𐑕𐑦𐑙": [
@@ -15154,11 +15540,12 @@
             "Shaw": "𐑒𐑮𐑪𐑕𐑦𐑙",
             "pos": "NN1",
             "ipa": "ˈkrɒsɪŋ",
-            "freq": 0,
+            "freq": 349,
             "var": "RSSB",
             "confidence": 29,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -15187,7 +15574,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xingshu_NN1_𐑖𐑦𐑙𐑖𐑫": [
@@ -15277,7 +15665,7 @@
             "Shaw": "𐑟𐑦𐑓𐑾𐑕",
             "pos": "NN1",
             "ipa": "ˈzɪfiəs",
-            "freq": 0,
+            "freq": 1,
             "var": "RRP",
             "confidence": 93,
             "source": [
@@ -15300,7 +15688,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xiphidiocercaria_NN1_𐑟𐑩𐑓𐑦𐑛𐑦𐑴𐑕𐑻𐑒𐑧𐑮𐑾": [
@@ -15454,11 +15843,12 @@
             "Shaw": "𐑟𐑦𐑓𐑶𐑛",
             "pos": "AJ0",
             "ipa": "ˈzɪfɔɪd",
-            "freq": 0,
+            "freq": 14,
             "var": "RSSB",
             "confidence": 57,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -15487,7 +15877,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xiphoid_NN1_𐑟𐑦𐑓𐑶𐑛": [
@@ -15496,11 +15887,12 @@
             "Shaw": "𐑟𐑦𐑓𐑶𐑛",
             "pos": "NN1",
             "ipa": "ˈzɪfɔɪd",
-            "freq": 0,
+            "freq": 14,
             "var": "RSSB",
             "confidence": 57,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -15529,7 +15921,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xique-xique_NN1_𐑖𐑰𐑒𐑖𐑰𐑒": [
@@ -15957,11 +16350,12 @@
             "Shaw": "𐑖𐑰𐑑",
             "pos": "NN1",
             "ipa": "ˈʃiːt",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 35,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -15990,7 +16384,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xit_NN1_𐑟𐑰𐑑": [
@@ -15999,11 +16394,12 @@
             "Shaw": "𐑟𐑰𐑑",
             "pos": "NN1",
             "ipa": "ˈziːt",
-            "freq": 0,
+            "freq": 1,
             "var": "RSSB",
             "confidence": 49,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -16032,7 +16428,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xit_VVI_𐑖𐑰𐑑": [
@@ -16045,7 +16442,8 @@
             "var": "RSSB",
             "confidence": 35,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -16074,7 +16472,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xit_VVI_𐑟𐑰𐑑": [
@@ -16087,7 +16486,8 @@
             "var": "RSSB",
             "confidence": 49,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -16116,7 +16516,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xiucai_NN1_𐑖𐑘𐑴𐑑𐑕𐑲": [
@@ -16167,7 +16568,7 @@
             "Shaw": "𐑖𐑰𐑝",
             "pos": "AJ0",
             "var": "RRP",
-            "freq": 361,
+            "freq": 181,
             "synthetic": true,
             "shaw_source": "shave-g2p",
             "origin": "shave-g2p from wordnet-speculative",
@@ -16191,7 +16592,12 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 361,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "xiv_NN1_𐑖𐑰𐑝": [
@@ -16200,7 +16606,7 @@
             "Shaw": "𐑖𐑰𐑝",
             "pos": "NN1",
             "var": "RRP",
-            "freq": 361,
+            "freq": 180,
             "synthetic": true,
             "shaw_source": "shave-g2p",
             "origin": "shave-g2p from wordnet-speculative",
@@ -16224,7 +16630,12 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 361,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "xli_AJ0_𐑧𐑒𐑕𐑤𐑰": [
@@ -16257,7 +16668,9 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 1,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xlii_AJ0_𐑧𐑒𐑕𐑤𐑰": [
@@ -16290,7 +16703,9 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 1,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xliv_AJ0_𐑧𐑒𐑕𐑤𐑦𐑝": [
@@ -16325,7 +16740,9 @@
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
                 "has_definition": 1.0
-            }
+            },
+            "freq_readlex": 1,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xmas_NN1_𐑒𐑮𐑦𐑕𐑥𐑩𐑕": [
@@ -16334,11 +16751,12 @@
             "Shaw": "𐑒𐑮𐑦𐑕𐑥𐑩𐑕",
             "pos": "NN1",
             "ipa": "ˈkrɪsməs",
-            "freq": 0,
+            "freq": 287,
             "var": "RSSB",
             "confidence": 46,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency by ReadLex share"
             ],
             "source": [
                 "wordnet"
@@ -16359,7 +16777,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xmas_NN1_𐑧𐑒𐑕𐑥𐑩𐑕": [
@@ -16368,7 +16787,7 @@
             "Shaw": "𐑧𐑒𐑕𐑥𐑩𐑕",
             "pos": "NN1",
             "ipa": "ˈeksməs",
-            "freq": 42,
+            "freq": 287,
             "var": "RRP",
             "lemma": {
                 "Latn": "xmas",
@@ -16382,7 +16801,12 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "freq_readlex": 42,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency by ReadLex share"
+            ]
         }
     ],
     "xmas_NP0_𐑧𐑒𐑕𐑥𐑩𐑕": [
@@ -16405,7 +16829,11 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "xmases_NN2_𐑧𐑒𐑕𐑥𐑩𐑕𐑩𐑟": [
@@ -16480,7 +16908,7 @@
             "Shaw": "𐑟𐑴𐑩𐑯𐑪𐑯",
             "pos": "NN1",
             "ipa": "ˈzəʊənɒn",
-            "freq": 0,
+            "freq": 144,
             "var": "RRP",
             "confidence": 80,
             "source": [
@@ -16501,7 +16929,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xoanon_NN1_𐑟𐑴𐑩𐑯𐑭𐑯": [
@@ -16510,7 +16939,7 @@
             "Shaw": "𐑟𐑴𐑩𐑯𐑭𐑯",
             "pos": "NN1",
             "ipa": "ˈzoʊənɑːn",
-            "freq": 0,
+            "freq": 144,
             "var": "GenAm",
             "confidence": 60,
             "source": [
@@ -16532,7 +16961,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xor_CJC_𐑒𐑕𐑪𐑮": [
@@ -16541,11 +16971,12 @@
             "Shaw": "𐑒𐑕𐑪𐑮",
             "pos": "CJC",
             "ipa": "ˈksor",
-            "freq": 0,
+            "freq": 2,
             "var": "RSSB",
             "confidence": 29,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -16574,7 +17005,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xor_CJC_𐑟𐑪𐑮": [
@@ -16583,11 +17015,12 @@
             "Shaw": "𐑟𐑪𐑮",
             "pos": "CJC",
             "ipa": "ˈzor",
-            "freq": 0,
+            "freq": 2,
             "var": "RSSB",
             "confidence": 29,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -16616,7 +17049,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xor_CJC_𐑧𐑒𐑕𐑪𐑮": [
@@ -16625,11 +17059,12 @@
             "Shaw": "𐑧𐑒𐑕𐑪𐑮",
             "pos": "CJC",
             "ipa": "eksˈor",
-            "freq": 0,
+            "freq": 2,
             "var": "RSSB",
             "confidence": 29,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -16658,7 +17093,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xor_NN1_𐑒𐑕𐑪𐑮": [
@@ -16667,11 +17103,12 @@
             "Shaw": "𐑒𐑕𐑪𐑮",
             "pos": "NN1",
             "ipa": "ˈksor",
-            "freq": 0,
+            "freq": 2,
             "var": "RSSB",
             "confidence": 29,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -16700,7 +17137,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xor_NN1_𐑟𐑪𐑮": [
@@ -16709,11 +17147,12 @@
             "Shaw": "𐑟𐑪𐑮",
             "pos": "NN1",
             "ipa": "ˈzor",
-            "freq": 0,
+            "freq": 2,
             "var": "RSSB",
             "confidence": 29,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -16742,7 +17181,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xor_NN1_𐑧𐑒𐑕𐑪𐑮": [
@@ -16751,11 +17191,12 @@
             "Shaw": "𐑧𐑒𐑕𐑪𐑮",
             "pos": "NN1",
             "ipa": "eksˈor",
-            "freq": 0,
+            "freq": 2,
             "var": "RSSB",
             "confidence": 29,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -16784,7 +17225,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xorn_NN1_𐑟𐑪𐑮𐑯": [
@@ -16832,7 +17274,7 @@
             "Shaw": "𐑧𐑒𐑕𐑴𐑧𐑒𐑕𐑴",
             "pos": "NN1",
             "ipa": "eksəʊeksəʊ",
-            "freq": 0,
+            "freq": 125,
             "var": "RSSB",
             "confidence": 28,
             "info": [
@@ -16865,7 +17307,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xtal_NN1_𐑒𐑮𐑦𐑕𐑑𐑩𐑤": [
@@ -16874,7 +17317,7 @@
             "Shaw": "𐑒𐑮𐑦𐑕𐑑𐑩𐑤",
             "pos": "NN1",
             "ipa": "ˈkrɪstəl",
-            "freq": 0,
+            "freq": 2,
             "var": "RRP",
             "lemma": {
                 "Latn": "xtal",
@@ -16888,7 +17331,8 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xu_NN1_𐑕𐑵": [
@@ -16897,11 +17341,12 @@
             "Shaw": "𐑕𐑵",
             "pos": "NN1",
             "ipa": "suː",
-            "freq": 0,
+            "freq": 708,
             "var": "RSSB",
             "confidence": 29,
             "info": [
-                "accent: unstated"
+                "accent: unstated",
+                "frequency split equally"
             ],
             "source": [
                 "wiktionary"
@@ -16930,7 +17375,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xuanhuan_NN1_𐑖𐑘𐑧𐑯𐑣𐑢𐑭𐑯": [
@@ -17062,7 +17508,7 @@
             "Shaw": "𐑖𐑵𐑯",
             "pos": "NN1",
             "ipa": "ʃuːn",
-            "freq": 0,
+            "freq": 411,
             "var": "RSSB",
             "confidence": 29,
             "info": [
@@ -17095,7 +17541,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xvi_AJ0_𐑧𐑒𐑕𐑝𐑲": [
@@ -17104,7 +17551,7 @@
             "Shaw": "𐑧𐑒𐑕𐑝𐑲",
             "pos": "AJ0",
             "var": "RRP",
-            "freq": 324,
+            "freq": 162,
             "synthetic": true,
             "shaw_source": "shave-g2p",
             "origin": "shave-g2p from wordnet-speculative",
@@ -17128,7 +17575,12 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 324,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "xvi_NN1_𐑧𐑒𐑕𐑝𐑲": [
@@ -17137,7 +17589,7 @@
             "Shaw": "𐑧𐑒𐑕𐑝𐑲",
             "pos": "NN1",
             "var": "RRP",
-            "freq": 324,
+            "freq": 162,
             "synthetic": true,
             "shaw_source": "shave-g2p",
             "origin": "shave-g2p from wordnet-speculative",
@@ -17161,7 +17613,12 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 324,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "xvideo_NN1_𐑧𐑒𐑕𐑝𐑦𐑛𐑦𐑴": [
@@ -17254,7 +17711,7 @@
             "Shaw": "𐑧𐑒𐑕𐑝𐑲𐑦",
             "pos": "AJ0",
             "var": "RRP",
-            "freq": 53,
+            "freq": 27,
             "synthetic": true,
             "shaw_source": "shave-g2p",
             "origin": "shave-g2p from wordnet-speculative",
@@ -17278,7 +17735,12 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 53,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "xviii_NN1_𐑧𐑒𐑕𐑝𐑲𐑦": [
@@ -17287,7 +17749,7 @@
             "Shaw": "𐑧𐑒𐑕𐑝𐑲𐑦",
             "pos": "NN1",
             "var": "RRP",
-            "freq": 53,
+            "freq": 26,
             "synthetic": true,
             "shaw_source": "shave-g2p",
             "origin": "shave-g2p from wordnet-speculative",
@@ -17311,7 +17773,12 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 53,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "xxi_AJ0_𐑧𐑒𐑕𐑖𐑰": [
@@ -17320,7 +17787,7 @@
             "Shaw": "𐑧𐑒𐑕𐑖𐑰",
             "pos": "AJ0",
             "var": "RRP",
-            "freq": 29,
+            "freq": 15,
             "synthetic": true,
             "shaw_source": "shave-g2p",
             "origin": "shave-g2p from wordnet-speculative",
@@ -17344,7 +17811,12 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 29,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "xxi_NN1_𐑧𐑒𐑕𐑖𐑰": [
@@ -17353,7 +17825,7 @@
             "Shaw": "𐑧𐑒𐑕𐑖𐑰",
             "pos": "NN1",
             "var": "RRP",
-            "freq": 29,
+            "freq": 14,
             "synthetic": true,
             "shaw_source": "shave-g2p",
             "origin": "shave-g2p from wordnet-speculative",
@@ -17377,7 +17849,12 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 29,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "xxiii_AJ0_𐑧𐑒𐑕𐑖𐑰𐑦": [
@@ -17386,7 +17863,7 @@
             "Shaw": "𐑧𐑒𐑕𐑖𐑰𐑦",
             "pos": "AJ0",
             "var": "RRP",
-            "freq": 26,
+            "freq": 13,
             "synthetic": true,
             "shaw_source": "shave-g2p",
             "origin": "shave-g2p from wordnet-speculative",
@@ -17410,7 +17887,12 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 26,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "xxiii_NN1_𐑧𐑒𐑕𐑖𐑰𐑦": [
@@ -17419,7 +17901,7 @@
             "Shaw": "𐑧𐑒𐑕𐑖𐑰𐑦",
             "pos": "NN1",
             "var": "RRP",
-            "freq": 26,
+            "freq": 13,
             "synthetic": true,
             "shaw_source": "shave-g2p",
             "origin": "shave-g2p from wordnet-speculative",
@@ -17443,7 +17925,12 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 26,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency split equally"
+            ]
         }
     ],
     "xylarium_NN1_𐑟𐑲𐑤𐑧𐑮𐑾𐑥": [
@@ -17513,7 +18000,7 @@
             "Shaw": "𐑟𐑲𐑤𐑩𐑟𐑦𐑯",
             "pos": "NN1",
             "ipa": "ˈzaɪləzɪn",
-            "freq": 0,
+            "freq": 6,
             "var": "RSSB",
             "confidence": 50,
             "info": [
@@ -17538,7 +18025,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xylazine_NN1_𐑟𐑲𐑤𐑩𐑟𐑰𐑯": [
@@ -17547,7 +18035,7 @@
             "Shaw": "𐑟𐑲𐑤𐑩𐑟𐑰𐑯",
             "pos": "NN1",
             "ipa": "ˈzaɪləziːn",
-            "freq": 0,
+            "freq": 6,
             "var": "RRP",
             "confidence": 81,
             "info": [
@@ -17572,7 +18060,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xylem_NN1_𐑟𐑲𐑤𐑩𐑥": [
@@ -17581,7 +18070,7 @@
             "Shaw": "𐑟𐑲𐑤𐑩𐑥",
             "pos": "NN1",
             "ipa": "ˈzaɪləm",
-            "freq": 0,
+            "freq": 8,
             "var": "RRP",
             "confidence": 97,
             "info": [
@@ -17607,7 +18096,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xylematic_AJ0_𐑟𐑲𐑤𐑩𐑥𐑨𐑑𐑦𐑒": [
@@ -17655,7 +18145,7 @@
             "Shaw": "𐑟𐑲𐑤𐑰𐑯",
             "pos": "NN1",
             "ipa": "ˈzaɪliːn",
-            "freq": 0,
+            "freq": 17,
             "var": "RRP",
             "confidence": 97,
             "info": [
@@ -17681,7 +18171,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xylic_AJ0_𐑟𐑲𐑤𐑦𐑒": [
@@ -17816,7 +18307,7 @@
             "Shaw": "𐑟𐑲𐑤𐑦𐑑𐑪𐑤",
             "pos": "NN1",
             "ipa": "ˈzaɪlɪtɒl",
-            "freq": 0,
+            "freq": 16,
             "var": "RRP",
             "confidence": 79,
             "source": [
@@ -17837,7 +18328,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xylitol_NN1_𐑟𐑲𐑤𐑦𐑑𐑭𐑤": [
@@ -17846,7 +18338,7 @@
             "Shaw": "𐑟𐑲𐑤𐑦𐑑𐑭𐑤",
             "pos": "NN1",
             "ipa": "ˈzaɪlɪtɑːl",
-            "freq": 0,
+            "freq": 16,
             "var": "GenAm",
             "confidence": 60,
             "source": [
@@ -17868,7 +18360,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xylo-_UNC_𐑟𐑲𐑤𐑴-": [
@@ -17935,7 +18428,9 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 8,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xylograph_NN1_𐑟𐑲𐑤𐑩𐑜𐑮𐑨𐑓": [
@@ -18156,7 +18651,9 @@
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
                 "has_definition": 1.0
-            }
+            },
+            "freq_readlex": 1,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xylomancy_NN1_𐑟𐑲𐑤𐑴𐑥𐑨𐑯𐑕𐑦": [
@@ -18268,7 +18765,7 @@
             "Shaw": "𐑟𐑲𐑤𐑩𐑓𐑴𐑯",
             "pos": "NN1",
             "ipa": "ˈzaɪləfəʊn",
-            "freq": 20,
+            "freq": 160,
             "var": "RRP",
             "lemma": {
                 "Latn": "xylophone",
@@ -18283,7 +18780,12 @@
             "votes": {
                 "upstream": 1.0
             },
-            "confidence": 100
+            "confidence": 100,
+            "freq_readlex": 20,
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "frequency by ReadLex share"
+            ]
         }
     ],
     "xylophone_VVI_𐑟𐑲𐑤𐑩𐑓𐑴𐑯": [
@@ -18313,36 +18815,11 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
-            }
-        },
-        {
-            "Latn": "xylophone",
-            "Shaw": "𐑟𐑲𐑤𐑩𐑓𐑴𐑯",
-            "pos": "VVI",
-            "ipa": "ˈzaɪləˌfoʊn",
-            "freq": 0,
-            "var": "RRP",
-            "confidence": 65,
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "xylophone",
-                "pos": "VVI",
-                "Shaw": "𐑟𐑲𐑤𐑩𐑓𐑴𐑯"
             },
-            "has_definition": true,
-            "rrp_outcome": "PASS",
-            "rrp_tier": "A",
-            "orig_var": "GenAm",
-            "votes": {
-                "judge_pass": 0.0,
-                "rrp_tier": 1.0,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 1.0,
-                "clean_base": 1.0
-            }
+            "freq_source": "opensubtitles-2018",
+            "info": [
+                "no frequency evidence for this reading"
+            ]
         }
     ],
     "xylophones_NN2_𐑟𐑲𐑤𐑩𐑓𐑴𐑯𐑟": [
@@ -18351,7 +18828,7 @@
             "Shaw": "𐑟𐑲𐑤𐑩𐑓𐑴𐑯𐑟",
             "pos": "NN2",
             "ipa": "ˈzaɪləfəʊnz",
-            "freq": 1,
+            "freq": 17,
             "var": "RRP",
             "lemma": {
                 "Latn": "xylophone",
@@ -18366,7 +18843,9 @@
                 "upstream": 1.0
             },
             "confidence": 100,
-            "regular": true
+            "regular": true,
+            "freq_readlex": 1,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xylophonist_NN1_𐑟𐑲𐑤𐑪𐑓𐑩𐑯𐑦𐑕𐑑": [
@@ -18399,7 +18878,9 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 3,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xylose_NN1_𐑟𐑲𐑤𐑴𐑟": [
@@ -18434,7 +18915,9 @@
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
                 "has_definition": 1.0
-            }
+            },
+            "freq_readlex": 1,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xylospongium_NN1_𐑟𐑲𐑤𐑩𐑕𐑐𐑳𐑯𐑡𐑾𐑥": [
@@ -18560,7 +19043,9 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 1,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xyr_DT0_𐑟𐑽": [
@@ -18797,7 +19282,9 @@
                 "ipa_present": 0.0,
                 "has_definition": 1.0
             },
-            "confidence": 50
+            "confidence": 50,
+            "freq_readlex": 14,
+            "freq_source": "opensubtitles-2018"
         }
     ],
     "xyzzy_NN1_𐑟𐑦𐑟𐑦": [
@@ -18806,7 +19293,7 @@
             "Shaw": "𐑟𐑦𐑟𐑦",
             "pos": "NN1",
             "ipa": "ˈzɪzi",
-            "freq": 0,
+            "freq": 2,
             "var": "RRP",
             "confidence": 84,
             "info": [
@@ -18831,7 +19318,8 @@
                 "ipa_present": 1.0,
                 "has_definition": 0.0,
                 "clean_base": 1.0
-            }
+            },
+            "freq_source": "opensubtitles-2018"
         }
     ]
 }

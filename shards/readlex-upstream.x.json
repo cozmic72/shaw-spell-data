@@ -1,0 +1,469 @@
+{
+    "x's_ZZ0_𐑧𐑒𐑕𐑩𐑟": [
+        {
+            "Latn": "x's",
+            "Shaw": "𐑧𐑒𐑕𐑩𐑟",
+            "pos": "ZZ0",
+            "ipa": "ˈeksƏz",
+            "freq": 596,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "x's",
+                "pos": "ZZ0",
+                "Shaw": "𐑧𐑒𐑕𐑩𐑟"
+            }
+        }
+    ],
+    "x-ray_AJ0_𐑧𐑒𐑕-𐑮𐑱": [
+        {
+            "Latn": "x-ray",
+            "Shaw": "𐑧𐑒𐑕-𐑮𐑱",
+            "pos": "AJ0",
+            "ipa": "ˈeks-reɪ",
+            "freq": 89,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "x-ray",
+                "pos": "AJ0",
+                "Shaw": "𐑧𐑒𐑕-𐑮𐑱"
+            }
+        }
+    ],
+    "x-ray_NN1_𐑧𐑒𐑕-𐑮𐑱": [
+        {
+            "Latn": "x-ray",
+            "Shaw": "𐑧𐑒𐑕-𐑮𐑱",
+            "pos": "NN1",
+            "ipa": "ˈeks-reɪ",
+            "freq": 4786,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "x-ray",
+                "pos": "NN1",
+                "Shaw": "𐑧𐑒𐑕-𐑮𐑱"
+            }
+        },
+        {
+            "Latn": "x-rays",
+            "Shaw": "𐑧𐑒𐑕-𐑮𐑱𐑟",
+            "pos": "NN2",
+            "ipa": "ˈeks-reɪz",
+            "freq": 2390,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "x-ray",
+                "pos": "NN1",
+                "Shaw": "𐑧𐑒𐑕-𐑮𐑱"
+            }
+        }
+    ],
+    "x-ray_VVI_𐑧𐑒𐑕-𐑮𐑱": [
+        {
+            "Latn": "x-ray",
+            "Shaw": "𐑧𐑒𐑕-𐑮𐑱",
+            "pos": "VVI",
+            "ipa": "ˈeks-reɪ",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "x-ray",
+                "pos": "VVI",
+                "Shaw": "𐑧𐑒𐑕-𐑮𐑱"
+            }
+        },
+        {
+            "Latn": "x-ray",
+            "Shaw": "𐑧𐑒𐑕-𐑮𐑱",
+            "pos": "VVB",
+            "ipa": "ˈeks-reɪ",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "x-ray",
+                "pos": "VVI",
+                "Shaw": "𐑧𐑒𐑕-𐑮𐑱"
+            }
+        },
+        {
+            "Latn": "x-rays",
+            "Shaw": "𐑧𐑒𐑕-𐑮𐑱𐑟",
+            "pos": "VVZ",
+            "ipa": "ˈeks-reɪz",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "x-ray",
+                "pos": "VVI",
+                "Shaw": "𐑧𐑒𐑕-𐑮𐑱"
+            }
+        },
+        {
+            "Latn": "x-raying",
+            "Shaw": "𐑧𐑒𐑕-𐑮𐑱𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈeks-reɪɪŋ",
+            "freq": 29,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "x-ray",
+                "pos": "VVI",
+                "Shaw": "𐑧𐑒𐑕-𐑮𐑱"
+            }
+        },
+        {
+            "Latn": "x-rayed",
+            "Shaw": "𐑧𐑒𐑕-𐑮𐑱𐑛",
+            "pos": "VVN",
+            "ipa": "ˈeks-reɪd",
+            "freq": 131,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "x-ray",
+                "pos": "VVI",
+                "Shaw": "𐑧𐑒𐑕-𐑮𐑱"
+            }
+        },
+        {
+            "Latn": "x-rayed",
+            "Shaw": "𐑧𐑒𐑕-𐑮𐑱𐑛",
+            "pos": "VVD",
+            "ipa": "ˈeks-reɪd",
+            "freq": 132,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "x-ray",
+                "pos": "VVI",
+                "Shaw": "𐑧𐑒𐑕-𐑮𐑱"
+            }
+        }
+    ],
+    "x_ZZ0_𐑧𐑒𐑕": [
+        {
+            "Latn": "x",
+            "Shaw": "𐑧𐑒𐑕",
+            "pos": "ZZ0",
+            "ipa": "eks",
+            "freq": 11212,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "x",
+                "pos": "ZZ0",
+                "Shaw": "𐑧𐑒𐑕"
+            }
+        }
+    ],
+    "xanadu_NP0_𐑟𐑨𐑯𐑩𐑛𐑵": [
+        {
+            "Latn": "xanadu",
+            "Shaw": "𐑟𐑨𐑯𐑩𐑛𐑵",
+            "pos": "NP0",
+            "ipa": "ˈzænəduː",
+            "freq": 305,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "xanadu",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑨𐑯𐑩𐑛𐑵"
+            }
+        }
+    ],
+    "xenon_NN1_𐑟𐑰𐑯𐑪𐑯": [
+        {
+            "Latn": "xenon",
+            "Shaw": "𐑟𐑰𐑯𐑪𐑯",
+            "pos": "NN1",
+            "ipa": "ˈziːnɒn",
+            "freq": 234,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "xenon",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑰𐑯𐑪𐑯"
+            }
+        }
+    ],
+    "xenophila_NN1_𐑟𐑧𐑯𐑪𐑓𐑦𐑤𐑩": [
+        {
+            "Latn": "xenophila",
+            "Shaw": "𐑟𐑧𐑯𐑪𐑓𐑦𐑤𐑩",
+            "pos": "NN1",
+            "ipa": "zeˈnɒfɪlə",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "xenophila",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑧𐑯𐑪𐑓𐑦𐑤𐑩"
+            }
+        }
+    ],
+    "xenophilia_NN1_𐑟𐑧𐑯𐑩𐑓𐑦𐑤𐑾": [
+        {
+            "Latn": "xenophilia",
+            "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑦𐑤𐑾",
+            "pos": "NN1",
+            "ipa": "ˈzenəˈfɪliə",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "xenophilia",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑦𐑤𐑾"
+            }
+        }
+    ],
+    "xenophobia_NN1_𐑟𐑧𐑯𐑩𐑓𐑴𐑚𐑾": [
+        {
+            "Latn": "xenophobia",
+            "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑚𐑾",
+            "pos": "NN1",
+            "ipa": "ˌzenəˈfəʊbɪə",
+            "freq": 68,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "xenophobia",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑚𐑾"
+            }
+        }
+    ],
+    "xenophobic_AJ0_𐑟𐑧𐑯𐑩𐑓𐑴𐑚𐑦𐑒": [
+        {
+            "Latn": "xenophobic",
+            "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑚𐑦𐑒",
+            "pos": "AJ0",
+            "ipa": "ˌzenəˈfəʊbɪk",
+            "freq": 85,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "xenophobic",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑚𐑦𐑒"
+            }
+        }
+    ],
+    "xerox_NN1_𐑟𐑽𐑪𐑒𐑕": [
+        {
+            "Latn": "xerox",
+            "Shaw": "𐑟𐑽𐑪𐑒𐑕",
+            "pos": "NN1",
+            "ipa": "ˈzɪərɒks",
+            "freq": 263,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "xerox",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑽𐑪𐑒𐑕"
+            }
+        },
+        {
+            "Latn": "xeroxes",
+            "Shaw": "𐑟𐑽𐑪𐑒𐑕𐑩𐑟",
+            "pos": "NN2",
+            "ipa": "ˈzɪərɒksƏz",
+            "freq": 23,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "xerox",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑽𐑪𐑒𐑕"
+            }
+        }
+    ],
+    "xerox_NP0_𐑟𐑽𐑪𐑒𐑕": [
+        {
+            "Latn": "xerox",
+            "Shaw": "𐑟𐑽𐑪𐑒𐑕",
+            "pos": "NP0",
+            "ipa": "ˈzɪərɒks",
+            "freq": 174,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "xerox",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑽𐑪𐑒𐑕"
+            }
+        }
+    ],
+    "xerox_VVI_𐑟𐑽𐑪𐑒𐑕": [
+        {
+            "Latn": "xerox",
+            "Shaw": "𐑟𐑽𐑪𐑒𐑕",
+            "pos": "VVI",
+            "ipa": "ˈzɪərɒks",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "xerox",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑽𐑪𐑒𐑕"
+            }
+        },
+        {
+            "Latn": "xerox",
+            "Shaw": "𐑟𐑽𐑪𐑒𐑕",
+            "pos": "VVB",
+            "ipa": "ˈzɪərɒks",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "xerox",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑽𐑪𐑒𐑕"
+            }
+        },
+        {
+            "Latn": "xeroxes",
+            "Shaw": "𐑟𐑽𐑪𐑒𐑕𐑩𐑟",
+            "pos": "VVZ",
+            "ipa": "ˈzɪərɒksƏz",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "xerox",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑽𐑪𐑒𐑕"
+            }
+        },
+        {
+            "Latn": "xeroxing",
+            "Shaw": "𐑟𐑽𐑪𐑒𐑕𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈzɪərɒksɪŋ",
+            "freq": 38,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "xerox",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑽𐑪𐑒𐑕"
+            }
+        },
+        {
+            "Latn": "xeroxed",
+            "Shaw": "𐑟𐑽𐑪𐑒𐑕𐑑",
+            "pos": "VVN",
+            "ipa": "ˈzɪərɒkst",
+            "freq": 13,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "xerox",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑽𐑪𐑒𐑕"
+            }
+        },
+        {
+            "Latn": "xeroxed",
+            "Shaw": "𐑟𐑽𐑪𐑒𐑕𐑑",
+            "pos": "VVD",
+            "ipa": "ˈzɪərɒkst",
+            "freq": 13,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "xerox",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑽𐑪𐑒𐑕"
+            }
+        }
+    ],
+    "xeroxed_AJ0_𐑟𐑽𐑪𐑒𐑕𐑑": [
+        {
+            "Latn": "xeroxed",
+            "Shaw": "𐑟𐑽𐑪𐑒𐑕𐑑",
+            "pos": "AJ0",
+            "ipa": "ˈzɪərɒkst",
+            "freq": 40,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "xeroxed",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑽𐑪𐑒𐑕𐑑"
+            }
+        }
+    ],
+    "xmas_NN1_𐑧𐑒𐑕𐑥𐑩𐑕": [
+        {
+            "Latn": "xmas",
+            "Shaw": "𐑧𐑒𐑕𐑥𐑩𐑕",
+            "pos": "NN1",
+            "ipa": "ˈeksməs",
+            "freq": 287,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "xmas",
+                "pos": "NN1",
+                "Shaw": "𐑧𐑒𐑕𐑥𐑩𐑕"
+            }
+        },
+        {
+            "Latn": "xmases",
+            "Shaw": "𐑧𐑒𐑕𐑥𐑩𐑕𐑩𐑟",
+            "pos": "NN2",
+            "ipa": "ˈeksməsƏz",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "xmas",
+                "pos": "NN1",
+                "Shaw": "𐑧𐑒𐑕𐑥𐑩𐑕"
+            }
+        }
+    ],
+    "xmas_NP0_𐑧𐑒𐑕𐑥𐑩𐑕": [
+        {
+            "Latn": "xmas",
+            "Shaw": "𐑧𐑒𐑕𐑥𐑩𐑕",
+            "pos": "NP0",
+            "ipa": "ˈeksməs",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "xmas",
+                "pos": "NP0",
+                "Shaw": "𐑧𐑒𐑕𐑥𐑩𐑕"
+            }
+        }
+    ],
+    "xtal_NN1_𐑒𐑮𐑦𐑕𐑑𐑩𐑤": [
+        {
+            "Latn": "xtal",
+            "Shaw": "𐑒𐑮𐑦𐑕𐑑𐑩𐑤",
+            "pos": "NN1",
+            "ipa": "ˈkrɪstəl",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "xtal",
+                "pos": "NN1",
+                "Shaw": "𐑒𐑮𐑦𐑕𐑑𐑩𐑤"
+            }
+        }
+    ],
+    "xylophone_NN1_𐑟𐑲𐑤𐑩𐑓𐑴𐑯": [
+        {
+            "Latn": "xylophone",
+            "Shaw": "𐑟𐑲𐑤𐑩𐑓𐑴𐑯",
+            "pos": "NN1",
+            "ipa": "ˈzaɪləfəʊn",
+            "freq": 160,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "xylophone",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑲𐑤𐑩𐑓𐑴𐑯"
+            }
+        },
+        {
+            "Latn": "xylophones",
+            "Shaw": "𐑟𐑲𐑤𐑩𐑓𐑴𐑯𐑟",
+            "pos": "NN2",
+            "ipa": "ˈzaɪləfəʊnz",
+            "freq": 17,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "xylophone",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑲𐑤𐑩𐑓𐑴𐑯"
+            }
+        }
+    ]
+}

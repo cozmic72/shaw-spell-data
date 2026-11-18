@@ -1,0 +1,2616 @@
+{
+    "z's_ZZ0_𐑟𐑧𐑛𐑟": [
+        {
+            "Latn": "z's",
+            "Shaw": "𐑟𐑧𐑛𐑟",
+            "pos": "ZZ0",
+            "ipa": "zedz",
+            "freq": 206,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "z's",
+                "pos": "ZZ0",
+                "Shaw": "𐑟𐑧𐑛𐑟"
+            }
+        },
+        {
+            "Latn": "z's",
+            "Shaw": "𐑟𐑰𐑟",
+            "pos": "ZZ0",
+            "ipa": "ziːz",
+            "freq": 206,
+            "var": "GenAm",
+            "lemma": {
+                "Latn": "z's",
+                "pos": "ZZ0",
+                "Shaw": "𐑟𐑧𐑛𐑟"
+            }
+        }
+    ],
+    "z_ZZ0_𐑟𐑧𐑛": [
+        {
+            "Latn": "z",
+            "Shaw": "𐑟𐑧𐑛",
+            "pos": "ZZ0",
+            "ipa": "zed",
+            "freq": 4291,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "z",
+                "pos": "ZZ0",
+                "Shaw": "𐑟𐑧𐑛"
+            }
+        },
+        {
+            "Latn": "z",
+            "Shaw": "𐑟𐑰",
+            "pos": "ZZ0",
+            "ipa": "ziː",
+            "freq": 4291,
+            "var": "GenAm",
+            "lemma": {
+                "Latn": "z",
+                "pos": "ZZ0",
+                "Shaw": "𐑟𐑧𐑛"
+            }
+        }
+    ],
+    "zachary_NP0_𐑟𐑨𐑒𐑼𐑦": [
+        {
+            "Latn": "zachary",
+            "Shaw": "𐑟𐑨𐑒𐑼𐑦",
+            "pos": "NP0",
+            "ipa": "ˈzækəri",
+            "freq": 1460,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zachary",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑨𐑒𐑼𐑦"
+            }
+        }
+    ],
+    "zagreb_NP0_𐑟𐑭𐑜𐑮𐑧𐑚": [
+        {
+            "Latn": "zagreb",
+            "Shaw": "𐑟𐑭𐑜𐑮𐑧𐑚",
+            "pos": "NP0",
+            "ipa": "ˈzɑːɡreb",
+            "freq": 449,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zagreb",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑭𐑜𐑮𐑧𐑚"
+            }
+        }
+    ],
+    "zaire_NP0_𐑟𐑲𐑽": [
+        {
+            "Latn": "zaire",
+            "Shaw": "𐑟𐑲𐑽",
+            "pos": "NP0",
+            "ipa": "zaɪˈɪəR",
+            "freq": 199,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zaire",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑲𐑽"
+            }
+        }
+    ],
+    "zairean_AJ0_𐑟𐑲𐑽𐑾𐑯": [
+        {
+            "Latn": "zairean",
+            "Shaw": "𐑟𐑲𐑽𐑾𐑯",
+            "pos": "AJ0",
+            "ipa": "zaɪˈɪərɪən",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zairean",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑲𐑽𐑾𐑯"
+            }
+        }
+    ],
+    "zairean_NN1_𐑟𐑲𐑽𐑾𐑯": [
+        {
+            "Latn": "zairean",
+            "Shaw": "𐑟𐑲𐑽𐑾𐑯",
+            "pos": "NN1",
+            "ipa": "zaɪˈɪərɪən",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zairean",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑲𐑽𐑾𐑯"
+            }
+        },
+        {
+            "Latn": "zaireans",
+            "Shaw": "𐑟𐑲𐑽𐑾𐑯𐑟",
+            "pos": "NN2",
+            "ipa": "zaɪˈɪərɪənz",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zairean",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑲𐑽𐑾𐑯"
+            }
+        }
+    ],
+    "zairean_NP0_𐑟𐑲𐑽𐑾𐑯": [
+        {
+            "Latn": "zairean",
+            "Shaw": "𐑟𐑲𐑽𐑾𐑯",
+            "pos": "NP0",
+            "ipa": "zaɪˈɪərɪən",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zairean",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑲𐑽𐑾𐑯"
+            }
+        }
+    ],
+    "zambia_NP0_𐑟𐑨𐑥𐑚𐑾": [
+        {
+            "Latn": "zambia",
+            "Shaw": "𐑟𐑨𐑥𐑚𐑾",
+            "pos": "NP0",
+            "ipa": "ˈzæmbiə",
+            "freq": 232,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zambia",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑨𐑥𐑚𐑾"
+            }
+        }
+    ],
+    "zambian_AJ0_𐑟𐑨𐑥𐑚𐑾𐑯": [
+        {
+            "Latn": "zambian",
+            "Shaw": "𐑟𐑨𐑥𐑚𐑾𐑯",
+            "pos": "AJ0",
+            "ipa": "ˈzæmbɪən",
+            "freq": 32,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zambian",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑨𐑥𐑚𐑾𐑯"
+            }
+        }
+    ],
+    "zambian_NN1_𐑟𐑨𐑥𐑚𐑾𐑯": [
+        {
+            "Latn": "zambian",
+            "Shaw": "𐑟𐑨𐑥𐑚𐑾𐑯",
+            "pos": "NN1",
+            "ipa": "ˈzæmbɪən",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zambian",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑨𐑥𐑚𐑾𐑯"
+            }
+        },
+        {
+            "Latn": "zambians",
+            "Shaw": "𐑟𐑨𐑥𐑚𐑾𐑯𐑟",
+            "pos": "NN2",
+            "ipa": "ˈzæmbɪənz",
+            "freq": 8,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zambian",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑨𐑥𐑚𐑾𐑯"
+            }
+        }
+    ],
+    "zanona_NP0_𐑟𐑩𐑯𐑴𐑯𐑩": [
+        {
+            "Latn": "zanona",
+            "Shaw": "𐑟𐑩𐑯𐑴𐑯𐑩",
+            "pos": "NP0",
+            "ipa": "zəˈnəʊnə",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zanona",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑩𐑯𐑴𐑯𐑩"
+            }
+        }
+    ],
+    "zany_AJ0_𐑟𐑱𐑯𐑦": [
+        {
+            "Latn": "zany",
+            "Shaw": "𐑟𐑱𐑯𐑦",
+            "pos": "AJ0",
+            "ipa": "ˈzeɪni",
+            "freq": 173,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zany",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑱𐑯𐑦"
+            }
+        },
+        {
+            "Latn": "zanier",
+            "Shaw": "𐑟𐑱𐑯𐑦𐑼",
+            "pos": "AJC",
+            "ipa": "ˈzeɪnɪəR",
+            "freq": 28,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zany",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑱𐑯𐑦"
+            }
+        },
+        {
+            "Latn": "zaniest",
+            "Shaw": "𐑟𐑱𐑯𐑦𐑩𐑕𐑑",
+            "pos": "AJS",
+            "ipa": "ˈzeɪniəst",
+            "freq": 7,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zany",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑱𐑯𐑦"
+            }
+        }
+    ],
+    "zany_NN1_𐑟𐑱𐑯𐑦": [
+        {
+            "Latn": "zany",
+            "Shaw": "𐑟𐑱𐑯𐑦",
+            "pos": "NN1",
+            "ipa": "ˈzeɪni",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zany",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑱𐑯𐑦"
+            }
+        },
+        {
+            "Latn": "zanies",
+            "Shaw": "𐑟𐑱𐑯𐑦𐑟",
+            "pos": "NN2",
+            "ipa": "ˈzeɪniz",
+            "freq": 16,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zany",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑱𐑯𐑦"
+            }
+        }
+    ],
+    "zap_VVI_𐑟𐑨𐑐": [
+        {
+            "Latn": "zap",
+            "Shaw": "𐑟𐑨𐑐",
+            "pos": "VVI",
+            "ipa": "zæp",
+            "freq": 1009,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zap",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑨𐑐"
+            }
+        },
+        {
+            "Latn": "zap",
+            "Shaw": "𐑟𐑨𐑐",
+            "pos": "VVB",
+            "ipa": "zæp",
+            "freq": 756,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zap",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑨𐑐"
+            }
+        },
+        {
+            "Latn": "zaps",
+            "Shaw": "𐑟𐑨𐑐𐑕",
+            "pos": "VVZ",
+            "ipa": "zæps",
+            "freq": 240,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zap",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑨𐑐"
+            }
+        },
+        {
+            "Latn": "zapping",
+            "Shaw": "𐑟𐑨𐑐𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈzæpɪŋ",
+            "freq": 1256,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zap",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑨𐑐"
+            }
+        },
+        {
+            "Latn": "zapped",
+            "Shaw": "𐑟𐑨𐑐𐑑",
+            "pos": "VVN",
+            "ipa": "zæpt",
+            "freq": 274,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zap",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑨𐑐"
+            }
+        },
+        {
+            "Latn": "zapped",
+            "Shaw": "𐑟𐑨𐑐𐑑",
+            "pos": "VVD",
+            "ipa": "zæpt",
+            "freq": 275,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zap",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑨𐑐"
+            }
+        }
+    ],
+    "zaporozhye_NP0_𐑟𐑨𐑐𐑼𐑴𐑠𐑱": [
+        {
+            "Latn": "zaporozhye",
+            "Shaw": "𐑟𐑨𐑐𐑼𐑴𐑠𐑱",
+            "pos": "NP0",
+            "ipa": "ˌzæpəˈrəʊʒeɪ",
+            "freq": 9,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zaporozhye",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑨𐑐𐑼𐑴𐑠𐑱"
+            }
+        }
+    ],
+    "zapped_AJ0_𐑟𐑨𐑐𐑑": [
+        {
+            "Latn": "zapped",
+            "Shaw": "𐑟𐑨𐑐𐑑",
+            "pos": "AJ0",
+            "ipa": "zæpt",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zapped",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑨𐑐𐑑"
+            }
+        }
+    ],
+    "zara_NP0_𐑟𐑸𐑩": [
+        {
+            "Latn": "zara",
+            "Shaw": "𐑟𐑸𐑩",
+            "pos": "NP0",
+            "ipa": "ˈzɑːrə",
+            "freq": 681,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zara",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑸𐑩"
+            }
+        }
+    ],
+    "zaragoza_NP0_𐑔𐑨𐑮𐑩𐑜𐑪𐑔𐑩": [
+        {
+            "Latn": "zaragoza",
+            "Shaw": "𐑔𐑨𐑮𐑩𐑜𐑪𐑔𐑩",
+            "pos": "NP0",
+            "ipa": "θærəˈɡɒθə",
+            "freq": 89,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zaragoza",
+                "pos": "NP0",
+                "Shaw": "𐑔𐑨𐑮𐑩𐑜𐑪𐑔𐑩"
+            }
+        }
+    ],
+    "zeal_NN1_𐑟𐑰𐑤": [
+        {
+            "Latn": "zeal",
+            "Shaw": "𐑟𐑰𐑤",
+            "pos": "NN1",
+            "ipa": "ziːl",
+            "freq": 648,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zeal",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑰𐑤"
+            }
+        }
+    ],
+    "zealand_NP0_𐑟𐑰𐑤𐑩𐑯𐑛": [
+        {
+            "Latn": "zealand",
+            "Shaw": "𐑟𐑰𐑤𐑩𐑯𐑛",
+            "pos": "NP0",
+            "ipa": "ˈziːlənd",
+            "freq": 2309,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zealand",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑰𐑤𐑩𐑯𐑛"
+            }
+        }
+    ],
+    "zealander_AJ0_𐑟𐑰𐑤𐑩𐑯𐑛𐑼": [
+        {
+            "Latn": "zealander",
+            "Shaw": "𐑟𐑰𐑤𐑩𐑯𐑛𐑼",
+            "pos": "AJ0",
+            "ipa": "ˈziːləndəR",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zealander",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑰𐑤𐑩𐑯𐑛𐑼"
+            }
+        }
+    ],
+    "zealander_NN1_𐑟𐑰𐑤𐑩𐑯𐑛𐑼": [
+        {
+            "Latn": "zealander",
+            "Shaw": "𐑟𐑰𐑤𐑩𐑯𐑛𐑼",
+            "pos": "NN1",
+            "ipa": "ˈziːləndəR",
+            "freq": 47,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zealander",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑰𐑤𐑩𐑯𐑛𐑼"
+            }
+        },
+        {
+            "Latn": "zealanders",
+            "Shaw": "𐑟𐑰𐑤𐑩𐑯𐑛𐑼𐑟",
+            "pos": "NN2",
+            "ipa": "ˈziːləndəRz",
+            "freq": 105,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zealander",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑰𐑤𐑩𐑯𐑛𐑼"
+            }
+        }
+    ],
+    "zealot_NN1_𐑟𐑧𐑤𐑩𐑑": [
+        {
+            "Latn": "zealot",
+            "Shaw": "𐑟𐑧𐑤𐑩𐑑",
+            "pos": "NN1",
+            "ipa": "ˈzelət",
+            "freq": 204,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zealot",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑧𐑤𐑩𐑑"
+            }
+        },
+        {
+            "Latn": "zealots",
+            "Shaw": "𐑟𐑧𐑤𐑩𐑑𐑕",
+            "pos": "NN2",
+            "ipa": "ˈzeləts",
+            "freq": 255,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zealot",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑧𐑤𐑩𐑑"
+            }
+        }
+    ],
+    "zealotry_NN1_𐑟𐑧𐑤𐑩𐑑𐑮𐑦": [
+        {
+            "Latn": "zealotry",
+            "Shaw": "𐑟𐑧𐑤𐑩𐑑𐑮𐑦",
+            "pos": "NN1",
+            "ipa": "ˈzelətri",
+            "freq": 32,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zealotry",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑧𐑤𐑩𐑑𐑮𐑦"
+            }
+        }
+    ],
+    "zealous_AJ0_𐑟𐑧𐑤𐑩𐑕": [
+        {
+            "Latn": "zealous",
+            "Shaw": "𐑟𐑧𐑤𐑩𐑕",
+            "pos": "AJ0",
+            "ipa": "ˈzeləs",
+            "freq": 286,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zealous",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑧𐑤𐑩𐑕"
+            }
+        }
+    ],
+    "zealously_AV0_𐑟𐑧𐑤𐑩𐑕𐑤𐑦": [
+        {
+            "Latn": "zealously",
+            "Shaw": "𐑟𐑧𐑤𐑩𐑕𐑤𐑦",
+            "pos": "AV0",
+            "ipa": "ˈzeləsli",
+            "freq": 54,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zealously",
+                "pos": "AV0",
+                "Shaw": "𐑟𐑧𐑤𐑩𐑕𐑤𐑦"
+            }
+        }
+    ],
+    "zebra_NN1_𐑟𐑧𐑚𐑮𐑩": [
+        {
+            "Latn": "zebra",
+            "Shaw": "𐑟𐑧𐑚𐑮𐑩",
+            "pos": "NN1",
+            "ipa": "ˈzebrə",
+            "freq": 1752,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zebra",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑧𐑚𐑮𐑩"
+            }
+        },
+        {
+            "Latn": "zebras",
+            "Shaw": "𐑟𐑧𐑚𐑮𐑩𐑟",
+            "pos": "NN2",
+            "ipa": "ˈzebrəz",
+            "freq": 438,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zebra",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑧𐑚𐑮𐑩"
+            }
+        }
+    ],
+    "zebu_NN1_𐑟𐑰𐑚𐑵": [
+        {
+            "Latn": "zebu",
+            "Shaw": "𐑟𐑰𐑚𐑵",
+            "pos": "NN1",
+            "ipa": "ˈziːbuː",
+            "freq": 25,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zebu",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑰𐑚𐑵"
+            }
+        },
+        {
+            "Latn": "zebus",
+            "Shaw": "𐑟𐑰𐑚𐑵𐑟",
+            "pos": "NN2",
+            "ipa": "ˈziːbuːz",
+            "freq": 4,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zebu",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑰𐑚𐑵"
+            }
+        }
+    ],
+    "zechariah_NP0_𐑟𐑧𐑒𐑼𐑲𐑩": [
+        {
+            "Latn": "zechariah",
+            "Shaw": "𐑟𐑧𐑒𐑼𐑲𐑩",
+            "pos": "NP0",
+            "ipa": "ˌzekəˈraɪə",
+            "freq": 60,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zechariah",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑧𐑒𐑼𐑲𐑩"
+            }
+        }
+    ],
+    "zee_NN1_𐑟𐑰": [
+        {
+            "Latn": "zee",
+            "Shaw": "𐑟𐑰",
+            "pos": "NN1",
+            "ipa": "ziː",
+            "freq": 881,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zee",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑰"
+            }
+        },
+        {
+            "Latn": "zees",
+            "Shaw": "𐑟𐑰𐑟",
+            "pos": "NN2",
+            "ipa": "ziːz",
+            "freq": 10,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zee",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑰"
+            }
+        }
+    ],
+    "zelda_NP0_𐑟𐑧𐑤𐑛𐑩": [
+        {
+            "Latn": "zelda",
+            "Shaw": "𐑟𐑧𐑤𐑛𐑩",
+            "pos": "NP0",
+            "ipa": "ˈzeldə",
+            "freq": 1664,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zelda",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑧𐑤𐑛𐑩"
+            }
+        }
+    ],
+    "zelensky_NP0_𐑟𐑦𐑤𐑧𐑯𐑕𐑒𐑦": [
+        {
+            "Latn": "zelensky",
+            "Shaw": "𐑟𐑦𐑤𐑧𐑯𐑕𐑒𐑦",
+            "pos": "NP0",
+            "ipa": "zɪˈlenski",
+            "freq": 5,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zelensky",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑦𐑤𐑧𐑯𐑕𐑒𐑦"
+            }
+        }
+    ],
+    "zelenskyy_NP0_𐑟𐑦𐑤𐑧𐑯𐑕𐑒𐑦": [
+        {
+            "Latn": "zelenskyy",
+            "Shaw": "𐑟𐑦𐑤𐑧𐑯𐑕𐑒𐑦",
+            "pos": "NP0",
+            "ipa": "zɪˈlenski",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zelenskyy",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑦𐑤𐑧𐑯𐑕𐑒𐑦"
+            }
+        }
+    ],
+    "zen_NN1_𐑟𐑧𐑯": [
+        {
+            "Latn": "zen",
+            "Shaw": "𐑟𐑧𐑯",
+            "pos": "NN1",
+            "ipa": "zen",
+            "freq": 53,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zen",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑧𐑯"
+            }
+        }
+    ],
+    "zen_NP0_𐑟𐑧𐑯": [
+        {
+            "Latn": "zen",
+            "Shaw": "𐑟𐑧𐑯",
+            "pos": "NP0",
+            "ipa": "zen",
+            "freq": 2178,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zen",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑧𐑯"
+            }
+        }
+    ],
+    "zen_VVI_𐑟𐑧𐑯": [
+        {
+            "Latn": "zen",
+            "Shaw": "𐑟𐑧𐑯",
+            "pos": "VVI",
+            "ipa": "zen",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zen",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑧𐑯"
+            }
+        },
+        {
+            "Latn": "zen",
+            "Shaw": "𐑟𐑧𐑯",
+            "pos": "VVB",
+            "ipa": "zen",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zen",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑧𐑯"
+            }
+        },
+        {
+            "Latn": "zens",
+            "Shaw": "𐑟𐑧𐑯𐑟",
+            "pos": "VVZ",
+            "ipa": "zenz",
+            "freq": 6,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zen",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑧𐑯"
+            }
+        },
+        {
+            "Latn": "zenning",
+            "Shaw": "𐑟𐑧𐑯𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈzenɪŋ",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zen",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑧𐑯"
+            }
+        },
+        {
+            "Latn": "zenned",
+            "Shaw": "𐑟𐑧𐑯𐑛",
+            "pos": "VVN",
+            "ipa": "zend",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zen",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑧𐑯"
+            }
+        },
+        {
+            "Latn": "zenned",
+            "Shaw": "𐑟𐑧𐑯𐑛",
+            "pos": "VVD",
+            "ipa": "zend",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zen",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑧𐑯"
+            }
+        }
+    ],
+    "zenas_NP0_𐑟𐑧𐑯𐑩𐑕": [
+        {
+            "Latn": "zenas",
+            "Shaw": "𐑟𐑧𐑯𐑩𐑕",
+            "pos": "NP0",
+            "ipa": "ˈzenəs",
+            "freq": 68,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zenas",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑧𐑯𐑩𐑕"
+            }
+        }
+    ],
+    "zenith_NN1_𐑟𐑧𐑯𐑦𐑔": [
+        {
+            "Latn": "zenith",
+            "Shaw": "𐑟𐑧𐑯𐑦𐑔",
+            "pos": "NN1",
+            "ipa": "ˈzenɪθ",
+            "freq": 240,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zenith",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑧𐑯𐑦𐑔"
+            }
+        },
+        {
+            "Latn": "zeniths",
+            "Shaw": "𐑟𐑧𐑯𐑦𐑔𐑕",
+            "pos": "NN2",
+            "ipa": "ˈzenɪθs",
+            "freq": 3,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zenith",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑧𐑯𐑦𐑔"
+            }
+        }
+    ],
+    "zenith_NP0_𐑟𐑧𐑯𐑦𐑔": [
+        {
+            "Latn": "zenith",
+            "Shaw": "𐑟𐑧𐑯𐑦𐑔",
+            "pos": "NP0",
+            "ipa": "ˈzenɪθ",
+            "freq": 196,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zenith",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑧𐑯𐑦𐑔"
+            }
+        }
+    ],
+    "zenithal_AJ0_𐑟𐑧𐑯𐑦𐑔𐑩𐑤": [
+        {
+            "Latn": "zenithal",
+            "Shaw": "𐑟𐑧𐑯𐑦𐑔𐑩𐑤",
+            "pos": "AJ0",
+            "ipa": "ˈzenɪθəl",
+            "freq": 3,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zenithal",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑧𐑯𐑦𐑔𐑩𐑤"
+            }
+        }
+    ],
+    "zephaniah_NP0_𐑟𐑧𐑓𐑩𐑯𐑲𐑩": [
+        {
+            "Latn": "zephaniah",
+            "Shaw": "𐑟𐑧𐑓𐑩𐑯𐑲𐑩",
+            "pos": "NP0",
+            "ipa": "ˌzefəˈnaɪə",
+            "freq": 7,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zephaniah",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑧𐑓𐑩𐑯𐑲𐑩"
+            }
+        }
+    ],
+    "zephyr_NN1_𐑟𐑧𐑓𐑼": [
+        {
+            "Latn": "zephyr",
+            "Shaw": "𐑟𐑧𐑓𐑼",
+            "pos": "NN1",
+            "ipa": "ˈzefəR",
+            "freq": 452,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zephyr",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑧𐑓𐑼"
+            }
+        },
+        {
+            "Latn": "zephyrs",
+            "Shaw": "𐑟𐑧𐑓𐑼𐑟",
+            "pos": "NN2",
+            "ipa": "ˈzefəRz",
+            "freq": 27,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zephyr",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑧𐑓𐑼"
+            }
+        }
+    ],
+    "zeppelin_NN1_𐑟𐑧𐑐𐑩𐑤𐑦𐑯": [
+        {
+            "Latn": "zeppelin",
+            "Shaw": "𐑟𐑧𐑐𐑩𐑤𐑦𐑯",
+            "pos": "NN1",
+            "ipa": "ˈzepəlɪn",
+            "freq": 708,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zeppelin",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑧𐑐𐑩𐑤𐑦𐑯"
+            }
+        },
+        {
+            "Latn": "zeppelins",
+            "Shaw": "𐑟𐑧𐑐𐑩𐑤𐑦𐑯𐑟",
+            "pos": "NN2",
+            "ipa": "ˈzepəlɪnz",
+            "freq": 84,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zeppelin",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑧𐑐𐑩𐑤𐑦𐑯"
+            }
+        }
+    ],
+    "zero-gee_AJ0_𐑟𐑽𐑴-𐑡𐑰": [
+        {
+            "Latn": "zero-gee",
+            "Shaw": "𐑟𐑽𐑴-𐑡𐑰",
+            "pos": "AJ0",
+            "ipa": "ˌziərəʊ-ˈdʒiː",
+            "freq": 5,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zero-gee",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑽𐑴-𐑡𐑰"
+            }
+        }
+    ],
+    "zero-shot_AJ0_𐑟𐑽𐑴-𐑖𐑪𐑑": [
+        {
+            "Latn": "zero-shot",
+            "Shaw": "𐑟𐑽𐑴-𐑖𐑪𐑑",
+            "pos": "AJ0",
+            "ipa": "ˌziərəʊ-ˈʃɒt",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zero-shot",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑽𐑴-𐑖𐑪𐑑"
+            }
+        }
+    ],
+    "zero_CRD_𐑟𐑽𐑴": [
+        {
+            "Latn": "zero",
+            "Shaw": "𐑟𐑽𐑴",
+            "pos": "CRD",
+            "ipa": "ˈzɪərəʊ",
+            "freq": 11528,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zero",
+                "pos": "CRD",
+                "Shaw": "𐑟𐑽𐑴"
+            }
+        }
+    ],
+    "zero_NN1_𐑟𐑽𐑴": [
+        {
+            "Latn": "zero",
+            "Shaw": "𐑟𐑽𐑴",
+            "pos": "NN1",
+            "ipa": "ˈzɪərəʊ",
+            "freq": 5652,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zero",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑽𐑴"
+            }
+        },
+        {
+            "Latn": "zeros",
+            "Shaw": "𐑟𐑽𐑴𐑟",
+            "pos": "NN2",
+            "ipa": "ˈzɪərəʊz",
+            "freq": 692,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zero",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑽𐑴"
+            }
+        }
+    ],
+    "zero_VVI_𐑟𐑽𐑴": [
+        {
+            "Latn": "zero",
+            "Shaw": "𐑟𐑽𐑴",
+            "pos": "VVI",
+            "ipa": "ˈzɪərəʊ",
+            "freq": 2290,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zero",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑽𐑴"
+            }
+        },
+        {
+            "Latn": "zero",
+            "Shaw": "𐑟𐑽𐑴",
+            "pos": "VVB",
+            "ipa": "ˈzɪərəʊ",
+            "freq": 112,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zero",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑽𐑴"
+            }
+        },
+        {
+            "Latn": "zeroes",
+            "Shaw": "𐑟𐑽𐑴𐑟",
+            "pos": "VVZ",
+            "ipa": "ˈzɪərəʊz",
+            "freq": 479,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zero",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑽𐑴"
+            }
+        },
+        {
+            "Latn": "zeroing",
+            "Shaw": "𐑟𐑽𐑴𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈzɪərəʊɪŋ",
+            "freq": 95,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zero",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑽𐑴"
+            }
+        },
+        {
+            "Latn": "zeroed",
+            "Shaw": "𐑟𐑽𐑴𐑛",
+            "pos": "VVN",
+            "ipa": "ˈzɪərəʊd",
+            "freq": 69,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zero",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑽𐑴"
+            }
+        },
+        {
+            "Latn": "zeroed",
+            "Shaw": "𐑟𐑽𐑴𐑛",
+            "pos": "VVD",
+            "ipa": "ˈzɪərəʊd",
+            "freq": 137,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zero",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑽𐑴"
+            }
+        }
+    ],
+    "zeroed_AJ0_𐑟𐑽𐑴𐑛": [
+        {
+            "Latn": "zeroed",
+            "Shaw": "𐑟𐑽𐑴𐑛",
+            "pos": "AJ0",
+            "ipa": "ˈzɪərəʊd",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zeroed",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑽𐑴𐑛"
+            }
+        }
+    ],
+    "zeroing_AJ0_𐑟𐑽𐑴𐑦𐑙": [
+        {
+            "Latn": "zeroing",
+            "Shaw": "𐑟𐑽𐑴𐑦𐑙",
+            "pos": "AJ0",
+            "ipa": "ˈzɪərəʊɪŋ",
+            "freq": 32,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zeroing",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑽𐑴𐑦𐑙"
+            }
+        }
+    ],
+    "zeros_CRD_𐑟𐑽𐑴𐑟": [
+        {
+            "Latn": "zeros",
+            "Shaw": "𐑟𐑽𐑴𐑟",
+            "pos": "CRD",
+            "ipa": "ˈzɪərəʊz",
+            "freq": 205,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zeros",
+                "pos": "CRD",
+                "Shaw": "𐑟𐑽𐑴𐑟"
+            }
+        }
+    ],
+    "zest_NN1_𐑟𐑧𐑕𐑑": [
+        {
+            "Latn": "zest",
+            "Shaw": "𐑟𐑧𐑕𐑑",
+            "pos": "NN1",
+            "ipa": "zest",
+            "freq": 548,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zest",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑧𐑕𐑑"
+            }
+        }
+    ],
+    "zestful_AJ0_𐑟𐑧𐑕𐑑𐑓𐑩𐑤": [
+        {
+            "Latn": "zestful",
+            "Shaw": "𐑟𐑧𐑕𐑑𐑓𐑩𐑤",
+            "pos": "AJ0",
+            "ipa": "ˈzestfəl",
+            "freq": 18,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zestful",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑧𐑕𐑑𐑓𐑩𐑤"
+            }
+        }
+    ],
+    "zestfully_AV0_𐑟𐑧𐑕𐑑𐑓𐑩𐑤𐑦": [
+        {
+            "Latn": "zestfully",
+            "Shaw": "𐑟𐑧𐑕𐑑𐑓𐑩𐑤𐑦",
+            "pos": "AV0",
+            "ipa": "ˈzestfəli",
+            "freq": 4,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zestfully",
+                "pos": "AV0",
+                "Shaw": "𐑟𐑧𐑕𐑑𐑓𐑩𐑤𐑦"
+            }
+        }
+    ],
+    "zeta_NN1_𐑟𐑰𐑑𐑩": [
+        {
+            "Latn": "zeta",
+            "Shaw": "𐑟𐑰𐑑𐑩",
+            "pos": "NN1",
+            "ipa": "ˈziːtə",
+            "freq": 841,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zeta",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑰𐑑𐑩"
+            }
+        },
+        {
+            "Latn": "zetas",
+            "Shaw": "𐑟𐑰𐑑𐑩𐑟",
+            "pos": "NN2",
+            "ipa": "ˈziːtəz",
+            "freq": 79,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zeta",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑰𐑑𐑩"
+            }
+        },
+        {
+            "Latn": "zeta",
+            "Shaw": "𐑟𐑱𐑑𐑩",
+            "pos": "NN1",
+            "ipa": "ˈzeɪtə",
+            "freq": 841,
+            "var": "GenAm",
+            "lemma": {
+                "Latn": "zeta",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑰𐑑𐑩"
+            }
+        },
+        {
+            "Latn": "zetas",
+            "Shaw": "𐑟𐑱𐑑𐑩𐑟",
+            "pos": "NN2",
+            "ipa": "ˈzeɪtəz",
+            "freq": 79,
+            "var": "GenAm",
+            "lemma": {
+                "Latn": "zeta",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑰𐑑𐑩"
+            }
+        }
+    ],
+    "zeus_NP0_𐑟𐑿𐑕": [
+        {
+            "Latn": "zeus",
+            "Shaw": "𐑟𐑿𐑕",
+            "pos": "NP0",
+            "ipa": "zjuːs",
+            "freq": 3128,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zeus",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑿𐑕"
+            }
+        }
+    ],
+    "zigzag_AV0_𐑟𐑦𐑜𐑟𐑨𐑜": [
+        {
+            "Latn": "zigzag",
+            "Shaw": "𐑟𐑦𐑜𐑟𐑨𐑜",
+            "pos": "AV0",
+            "ipa": "ˈzɪɡzæɡ",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zigzag",
+                "pos": "AV0",
+                "Shaw": "𐑟𐑦𐑜𐑟𐑨𐑜"
+            }
+        }
+    ],
+    "zigzag_NN1_𐑟𐑦𐑜𐑟𐑨𐑜": [
+        {
+            "Latn": "zigzag",
+            "Shaw": "𐑟𐑦𐑜𐑟𐑨𐑜",
+            "pos": "NN1",
+            "ipa": "ˈzɪɡzæɡ",
+            "freq": 283,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zigzag",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑦𐑜𐑟𐑨𐑜"
+            }
+        },
+        {
+            "Latn": "zigzags",
+            "Shaw": "𐑟𐑦𐑜𐑟𐑨𐑜𐑟",
+            "pos": "NN2",
+            "ipa": "ˈzɪɡzæɡz",
+            "freq": 38,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zigzag",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑦𐑜𐑟𐑨𐑜"
+            }
+        }
+    ],
+    "zigzag_VVI_𐑟𐑦𐑜𐑟𐑨𐑜": [
+        {
+            "Latn": "zigzag",
+            "Shaw": "𐑟𐑦𐑜𐑟𐑨𐑜",
+            "pos": "VVI",
+            "ipa": "ˈzɪɡzæɡ",
+            "freq": 38,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zigzag",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑦𐑜𐑟𐑨𐑜"
+            }
+        },
+        {
+            "Latn": "zigzag",
+            "Shaw": "𐑟𐑦𐑜𐑟𐑨𐑜",
+            "pos": "VVB",
+            "ipa": "ˈzɪɡzæɡ",
+            "freq": 5,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zigzag",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑦𐑜𐑟𐑨𐑜"
+            }
+        },
+        {
+            "Latn": "zigzags",
+            "Shaw": "𐑟𐑦𐑜𐑟𐑨𐑜𐑟",
+            "pos": "VVZ",
+            "ipa": "ˈzɪɡzæɡz",
+            "freq": 8,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zigzag",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑦𐑜𐑟𐑨𐑜"
+            }
+        },
+        {
+            "Latn": "zigzagging",
+            "Shaw": "𐑟𐑦𐑜𐑟𐑨𐑜𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈzɪɡzæɡɪŋ",
+            "freq": 91,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zigzag",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑦𐑜𐑟𐑨𐑜"
+            }
+        },
+        {
+            "Latn": "zigzagged",
+            "Shaw": "𐑟𐑦𐑜𐑟𐑨𐑜𐑛",
+            "pos": "VVN",
+            "ipa": "ˈzɪɡzæɡd",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zigzag",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑦𐑜𐑟𐑨𐑜"
+            }
+        },
+        {
+            "Latn": "zigzagged",
+            "Shaw": "𐑟𐑦𐑜𐑟𐑨𐑜𐑛",
+            "pos": "VVD",
+            "ipa": "ˈzɪɡzæɡd",
+            "freq": 27,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zigzag",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑦𐑜𐑟𐑨𐑜"
+            }
+        }
+    ],
+    "zigzagging_AJ0_𐑟𐑦𐑜𐑟𐑨𐑜𐑦𐑙": [
+        {
+            "Latn": "zigzagging",
+            "Shaw": "𐑟𐑦𐑜𐑟𐑨𐑜𐑦𐑙",
+            "pos": "AJ0",
+            "ipa": "ˈzɪɡzæɡɪŋ",
+            "freq": 7,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zigzagging",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑦𐑜𐑟𐑨𐑜𐑦𐑙"
+            }
+        }
+    ],
+    "zimbabwe_NP0_𐑟𐑦𐑥𐑚𐑭𐑚𐑢𐑱": [
+        {
+            "Latn": "zimbabwe",
+            "Shaw": "𐑟𐑦𐑥𐑚𐑭𐑚𐑢𐑱",
+            "pos": "NP0",
+            "ipa": "zɪmˈbɑːbweɪ",
+            "freq": 463,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zimbabwe",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑦𐑥𐑚𐑭𐑚𐑢𐑱"
+            }
+        }
+    ],
+    "zimbabwean_AJ0_𐑟𐑦𐑥𐑚𐑭𐑚𐑢𐑾𐑯": [
+        {
+            "Latn": "zimbabwean",
+            "Shaw": "𐑟𐑦𐑥𐑚𐑭𐑚𐑢𐑾𐑯",
+            "pos": "AJ0",
+            "ipa": "zɪmˈbɑːbwɪən",
+            "freq": 24,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zimbabwean",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑦𐑥𐑚𐑭𐑚𐑢𐑾𐑯"
+            }
+        }
+    ],
+    "zimbabwean_NN1_𐑟𐑦𐑥𐑚𐑭𐑚𐑢𐑾𐑯": [
+        {
+            "Latn": "zimbabwean",
+            "Shaw": "𐑟𐑦𐑥𐑚𐑭𐑚𐑢𐑾𐑯",
+            "pos": "NN1",
+            "ipa": "zɪmˈbɑːbwɪən",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zimbabwean",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑦𐑥𐑚𐑭𐑚𐑢𐑾𐑯"
+            }
+        },
+        {
+            "Latn": "zimbabweans",
+            "Shaw": "𐑟𐑦𐑥𐑚𐑭𐑚𐑢𐑾𐑯𐑟",
+            "pos": "NN2",
+            "ipa": "zɪmˈbɑːbwɪənz",
+            "freq": 10,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zimbabwean",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑦𐑥𐑚𐑭𐑚𐑢𐑾𐑯"
+            }
+        }
+    ],
+    "zinc_NN1_𐑟𐑦𐑙𐑒": [
+        {
+            "Latn": "zinc",
+            "Shaw": "𐑟𐑦𐑙𐑒",
+            "pos": "NN1",
+            "ipa": "zɪŋk",
+            "freq": 546,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zinc",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑦𐑙𐑒"
+            }
+        }
+    ],
+    "zing_AJ0_𐑟𐑦𐑙": [
+        {
+            "Latn": "zing",
+            "Shaw": "𐑟𐑦𐑙",
+            "pos": "AJ0",
+            "ipa": "zɪŋ",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zing",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑦𐑙"
+            }
+        }
+    ],
+    "zing_NN1_𐑟𐑦𐑙": [
+        {
+            "Latn": "zing",
+            "Shaw": "𐑟𐑦𐑙",
+            "pos": "NN1",
+            "ipa": "zɪŋ",
+            "freq": 735,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zing",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑦𐑙"
+            }
+        }
+    ],
+    "zinnia_NN1_𐑟𐑦𐑯𐑾": [
+        {
+            "Latn": "zinnia",
+            "Shaw": "𐑟𐑦𐑯𐑾",
+            "pos": "NN1",
+            "ipa": "ˈzɪnɪə",
+            "freq": 22,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zinnia",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑦𐑯𐑾"
+            }
+        },
+        {
+            "Latn": "zinnias",
+            "Shaw": "𐑟𐑦𐑯𐑾𐑟",
+            "pos": "NN2",
+            "ipa": "ˈzɪnɪəz",
+            "freq": 49,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zinnia",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑦𐑯𐑾"
+            }
+        }
+    ],
+    "zion_NN1_𐑟𐑲𐑩𐑯": [
+        {
+            "Latn": "zion",
+            "Shaw": "𐑟𐑲𐑩𐑯",
+            "pos": "NN1",
+            "ipa": "ˈzaɪən",
+            "freq": 110,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zion",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑲𐑩𐑯"
+            }
+        },
+        {
+            "Latn": "zions",
+            "Shaw": "𐑟𐑲𐑩𐑯𐑟",
+            "pos": "NN2",
+            "ipa": "ˈzaɪənz",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zion",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑲𐑩𐑯"
+            }
+        }
+    ],
+    "zion_NP0_𐑟𐑲𐑩𐑯": [
+        {
+            "Latn": "zion",
+            "Shaw": "𐑟𐑲𐑩𐑯",
+            "pos": "NP0",
+            "ipa": "ˈzaɪən",
+            "freq": 529,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zion",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑲𐑩𐑯"
+            }
+        }
+    ],
+    "zionism_NN1_𐑟𐑲𐑩𐑯𐑦𐑟𐑩𐑥": [
+        {
+            "Latn": "zionism",
+            "Shaw": "𐑟𐑲𐑩𐑯𐑦𐑟𐑩𐑥",
+            "pos": "NN1",
+            "ipa": "ˈzaɪənɪzəm",
+            "freq": 105,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zionism",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑲𐑩𐑯𐑦𐑟𐑩𐑥"
+            }
+        }
+    ],
+    "zionist_AJ0_𐑟𐑲𐑩𐑯𐑦𐑕𐑑": [
+        {
+            "Latn": "zionist",
+            "Shaw": "𐑟𐑲𐑩𐑯𐑦𐑕𐑑",
+            "pos": "AJ0",
+            "ipa": "ˈzaɪənɪst",
+            "freq": 259,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zionist",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑲𐑩𐑯𐑦𐑕𐑑"
+            }
+        }
+    ],
+    "zionist_NN1_𐑟𐑲𐑩𐑯𐑦𐑕𐑑": [
+        {
+            "Latn": "zionist",
+            "Shaw": "𐑟𐑲𐑩𐑯𐑦𐑕𐑑",
+            "pos": "NN1",
+            "ipa": "ˈzaɪənɪst",
+            "freq": 37,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zionist",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑲𐑩𐑯𐑦𐑕𐑑"
+            }
+        },
+        {
+            "Latn": "zionists",
+            "Shaw": "𐑟𐑲𐑩𐑯𐑦𐑕𐑑𐑕",
+            "pos": "NN2",
+            "ipa": "ˈzaɪənɪsts",
+            "freq": 129,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zionist",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑲𐑩𐑯𐑦𐑕𐑑"
+            }
+        }
+    ],
+    "zip code_NN1_𐑟𐑦𐑐 𐑒𐑴𐑛": [
+        {
+            "Latn": "zip code",
+            "Shaw": "𐑟𐑦𐑐 𐑒𐑴𐑛",
+            "pos": "NN1",
+            "ipa": "ˈzɪp kəʊd",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zip code",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑦𐑐 𐑒𐑴𐑛"
+            }
+        },
+        {
+            "Latn": "zip codes",
+            "Shaw": "𐑟𐑦𐑐 𐑒𐑴𐑛𐑟",
+            "pos": "NN2",
+            "ipa": "ˈzɪp kəʊdz",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zip code",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑦𐑐 𐑒𐑴𐑛"
+            }
+        }
+    ],
+    "zip-fastener_NN1_𐑟𐑦𐑐-𐑓𐑭𐑕𐑩𐑯𐑼": [
+        {
+            "Latn": "zip-fastener",
+            "Shaw": "𐑟𐑦𐑐-𐑓𐑭𐑕𐑩𐑯𐑼",
+            "pos": "NN1",
+            "ipa": "ˈzɪp-fⱭːsənəR",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zip-fastener",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑦𐑐-𐑓𐑭𐑕𐑩𐑯𐑼"
+            }
+        },
+        {
+            "Latn": "zip-fasteners",
+            "Shaw": "𐑟𐑦𐑐-𐑓𐑭𐑕𐑩𐑯𐑼𐑟",
+            "pos": "NN2",
+            "ipa": "ˈzɪp-fⱭːsənəRz",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zip-fastener",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑦𐑐-𐑓𐑭𐑕𐑩𐑯𐑼"
+            }
+        },
+        {
+            "Latn": "zip-fastener",
+            "Shaw": "𐑟𐑦𐑐-𐑓𐑨𐑕𐑩𐑯𐑼",
+            "pos": "NN1",
+            "ipa": "ˈzɪp-fÆsənəR",
+            "freq": 0,
+            "var": "RRP",
+            "mergers": [
+                "trap-bath"
+            ],
+            "lemma": {
+                "Latn": "zip-fastener",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑦𐑐-𐑓𐑭𐑕𐑩𐑯𐑼"
+            }
+        },
+        {
+            "Latn": "zip-fasteners",
+            "Shaw": "𐑟𐑦𐑐-𐑓𐑨𐑕𐑩𐑯𐑼𐑟",
+            "pos": "NN2",
+            "ipa": "ˈzɪp-fÆsənəRz",
+            "freq": 1,
+            "var": "RRP",
+            "mergers": [
+                "trap-bath"
+            ],
+            "lemma": {
+                "Latn": "zip-fastener",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑦𐑐-𐑓𐑭𐑕𐑩𐑯𐑼"
+            }
+        }
+    ],
+    "zip_NN1_𐑟𐑦𐑐": [
+        {
+            "Latn": "zip",
+            "Shaw": "𐑟𐑦𐑐",
+            "pos": "NN1",
+            "ipa": "zɪp",
+            "freq": 3913,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zip",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑦𐑐"
+            }
+        },
+        {
+            "Latn": "zips",
+            "Shaw": "𐑟𐑦𐑐𐑕",
+            "pos": "NN2",
+            "ipa": "zɪps",
+            "freq": 349,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zip",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑦𐑐"
+            }
+        }
+    ],
+    "zip_VVI_𐑟𐑦𐑐": [
+        {
+            "Latn": "zip",
+            "Shaw": "𐑟𐑦𐑐",
+            "pos": "VVI",
+            "ipa": "zɪp",
+            "freq": 465,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zip",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑦𐑐"
+            }
+        },
+        {
+            "Latn": "zip",
+            "Shaw": "𐑟𐑦𐑐",
+            "pos": "VVB",
+            "ipa": "zɪp",
+            "freq": 218,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zip",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑦𐑐"
+            }
+        },
+        {
+            "Latn": "zips",
+            "Shaw": "𐑟𐑦𐑐𐑕",
+            "pos": "VVZ",
+            "ipa": "zɪps",
+            "freq": 62,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zip",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑦𐑐"
+            }
+        },
+        {
+            "Latn": "zipping",
+            "Shaw": "𐑟𐑦𐑐𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈzɪpɪŋ",
+            "freq": 395,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zip",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑦𐑐"
+            }
+        },
+        {
+            "Latn": "zipped",
+            "Shaw": "𐑟𐑦𐑐𐑑",
+            "pos": "VVN",
+            "ipa": "zɪpt",
+            "freq": 48,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zip",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑦𐑐"
+            }
+        },
+        {
+            "Latn": "zipped",
+            "Shaw": "𐑟𐑦𐑐𐑑",
+            "pos": "VVD",
+            "ipa": "zɪpt",
+            "freq": 180,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zip",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑦𐑐"
+            }
+        }
+    ],
+    "zipped_AJ0_𐑟𐑦𐑐𐑑": [
+        {
+            "Latn": "zipped",
+            "Shaw": "𐑟𐑦𐑐𐑑",
+            "pos": "AJ0",
+            "ipa": "zɪpt",
+            "freq": 146,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zipped",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑦𐑐𐑑"
+            }
+        }
+    ],
+    "zipper_NN1_𐑟𐑦𐑐𐑼": [
+        {
+            "Latn": "zipper",
+            "Shaw": "𐑟𐑦𐑐𐑼",
+            "pos": "NN1",
+            "ipa": "ˈzɪpəR",
+            "freq": 2127,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zipper",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑦𐑐𐑼"
+            }
+        },
+        {
+            "Latn": "zippers",
+            "Shaw": "𐑟𐑦𐑐𐑼𐑟",
+            "pos": "NN2",
+            "ipa": "ˈzɪpəRz",
+            "freq": 264,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zipper",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑦𐑐𐑼"
+            }
+        }
+    ],
+    "zirconium_NN1_𐑟𐑼𐑒𐑴𐑯𐑾𐑥": [
+        {
+            "Latn": "zirconium",
+            "Shaw": "𐑟𐑼𐑒𐑴𐑯𐑾𐑥",
+            "pos": "NN1",
+            "ipa": "zəRˈkəʊniəm",
+            "freq": 78,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zirconium",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑼𐑒𐑴𐑯𐑾𐑥"
+            }
+        }
+    ],
+    "zither_NN1_𐑟𐑦𐑞𐑼": [
+        {
+            "Latn": "zither",
+            "Shaw": "𐑟𐑦𐑞𐑼",
+            "pos": "NN1",
+            "ipa": "ˈzɪðəR",
+            "freq": 95,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zither",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑦𐑞𐑼"
+            }
+        },
+        {
+            "Latn": "zithers",
+            "Shaw": "𐑟𐑦𐑞𐑼𐑟",
+            "pos": "NN2",
+            "ipa": "ˈzɪðəRz",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zither",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑦𐑞𐑼"
+            }
+        }
+    ],
+    "zloty_AJ0_𐑟𐑤𐑪𐑑𐑦": [
+        {
+            "Latn": "zloty",
+            "Shaw": "𐑟𐑤𐑪𐑑𐑦",
+            "pos": "AJ0",
+            "ipa": "ˈzlɒti",
+            "freq": 91,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zloty",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑤𐑪𐑑𐑦"
+            }
+        }
+    ],
+    "zloty_NN1_𐑟𐑤𐑪𐑑𐑦": [
+        {
+            "Latn": "zloty",
+            "Shaw": "𐑟𐑤𐑪𐑑𐑦",
+            "pos": "NN1",
+            "ipa": "ˈzlɒti",
+            "freq": 91,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zloty",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑤𐑪𐑑𐑦"
+            }
+        },
+        {
+            "Latn": "zlotys",
+            "Shaw": "𐑟𐑤𐑪𐑑𐑦𐑟",
+            "pos": "NN2",
+            "ipa": "ˈzlɒtiz",
+            "freq": 293,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zloty",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑤𐑪𐑑𐑦"
+            }
+        }
+    ],
+    "zodiac_NN1_𐑟𐑴𐑛𐑦𐑨𐑒": [
+        {
+            "Latn": "zodiac",
+            "Shaw": "𐑟𐑴𐑛𐑦𐑨𐑒",
+            "pos": "NN1",
+            "ipa": "ˈzəʊdɪæk",
+            "freq": 1433,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zodiac",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑴𐑛𐑦𐑨𐑒"
+            }
+        },
+        {
+            "Latn": "zodiacs",
+            "Shaw": "𐑟𐑴𐑛𐑦𐑨𐑒𐑕",
+            "pos": "NN2",
+            "ipa": "ˈzəʊdɪæks",
+            "freq": 41,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zodiac",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑴𐑛𐑦𐑨𐑒"
+            }
+        }
+    ],
+    "zoe_NP0_𐑟𐑴𐑦": [
+        {
+            "Latn": "zoe",
+            "Shaw": "𐑟𐑴𐑦",
+            "pos": "NP0",
+            "ipa": "ˈzəʊi",
+            "freq": 9744,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zoe",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑴𐑦"
+            }
+        }
+    ],
+    "zohran_NP0_𐑟𐑹𐑩𐑯": [
+        {
+            "Latn": "zohran",
+            "Shaw": "𐑟𐑹𐑩𐑯",
+            "pos": "NP0",
+            "ipa": "ˈzɔːrən",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zohran",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑹𐑩𐑯"
+            }
+        }
+    ],
+    "zombie_NN1_𐑟𐑪𐑥𐑚𐑦": [
+        {
+            "Latn": "zombie",
+            "Shaw": "𐑟𐑪𐑥𐑚𐑦",
+            "pos": "NN1",
+            "ipa": "ˈzɒmbi",
+            "freq": 6895,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zombie",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑪𐑥𐑚𐑦"
+            }
+        },
+        {
+            "Latn": "zombies",
+            "Shaw": "𐑟𐑪𐑥𐑚𐑦𐑟",
+            "pos": "NN2",
+            "ipa": "ˈzɒmbiz",
+            "freq": 4468,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zombie",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑪𐑥𐑚𐑦"
+            }
+        }
+    ],
+    "zomboid_AJ0_𐑟𐑪𐑥𐑚𐑶𐑛": [
+        {
+            "Latn": "zomboid",
+            "Shaw": "𐑟𐑪𐑥𐑚𐑶𐑛",
+            "pos": "AJ0",
+            "ipa": "ˈzɒmbɔɪd",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zomboid",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑪𐑥𐑚𐑶𐑛"
+            }
+        }
+    ],
+    "zonal_AJ0_𐑟𐑴𐑯𐑩𐑤": [
+        {
+            "Latn": "zonal",
+            "Shaw": "𐑟𐑴𐑯𐑩𐑤",
+            "pos": "AJ0",
+            "ipa": "ˈzəʊnəl",
+            "freq": 22,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zonal",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑴𐑯𐑩𐑤"
+            }
+        }
+    ],
+    "zone_NN1_𐑟𐑴𐑯": [
+        {
+            "Latn": "zone",
+            "Shaw": "𐑟𐑴𐑯",
+            "pos": "NN1",
+            "ipa": "zəʊn",
+            "freq": 17240,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zone",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑴𐑯"
+            }
+        },
+        {
+            "Latn": "zones",
+            "Shaw": "𐑟𐑴𐑯𐑟",
+            "pos": "NN2",
+            "ipa": "zəʊnz",
+            "freq": 1532,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zone",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑴𐑯"
+            }
+        }
+    ],
+    "zone_VVI_𐑟𐑴𐑯": [
+        {
+            "Latn": "zone",
+            "Shaw": "𐑟𐑴𐑯",
+            "pos": "VVI",
+            "ipa": "zəʊn",
+            "freq": 26,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zone",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑴𐑯"
+            }
+        },
+        {
+            "Latn": "zone",
+            "Shaw": "𐑟𐑴𐑯",
+            "pos": "VVB",
+            "ipa": "zəʊn",
+            "freq": 120,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zone",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑴𐑯"
+            }
+        },
+        {
+            "Latn": "zones",
+            "Shaw": "𐑟𐑴𐑯𐑟",
+            "pos": "VVZ",
+            "ipa": "zəʊnz",
+            "freq": 69,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zone",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑴𐑯"
+            }
+        },
+        {
+            "Latn": "zoning",
+            "Shaw": "𐑟𐑴𐑯𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈzəʊnɪŋ",
+            "freq": 220,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zone",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑴𐑯"
+            }
+        },
+        {
+            "Latn": "zoned",
+            "Shaw": "𐑟𐑴𐑯𐑛",
+            "pos": "VVN",
+            "ipa": "zəʊnd",
+            "freq": 122,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zone",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑴𐑯"
+            }
+        },
+        {
+            "Latn": "zoned",
+            "Shaw": "𐑟𐑴𐑯𐑛",
+            "pos": "VVD",
+            "ipa": "zəʊnd",
+            "freq": 18,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zone",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑴𐑯"
+            }
+        }
+    ],
+    "zoned_AJ0_𐑟𐑴𐑯𐑛": [
+        {
+            "Latn": "zoned",
+            "Shaw": "𐑟𐑴𐑯𐑛",
+            "pos": "AJ0",
+            "ipa": "zəʊnd",
+            "freq": 128,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zoned",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑴𐑯𐑛"
+            }
+        }
+    ],
+    "zoning_NN1_𐑟𐑴𐑯𐑦𐑙": [
+        {
+            "Latn": "zoning",
+            "Shaw": "𐑟𐑴𐑯𐑦𐑙",
+            "pos": "NN1",
+            "ipa": "ˈzəʊnɪŋ",
+            "freq": 352,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zoning",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑴𐑯𐑦𐑙"
+            }
+        }
+    ],
+    "zoo_NN1_𐑟𐑵": [
+        {
+            "Latn": "zoo",
+            "Shaw": "𐑟𐑵",
+            "pos": "NN1",
+            "ipa": "zuː",
+            "freq": 8483,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zoo",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑵"
+            }
+        },
+        {
+            "Latn": "zoos",
+            "Shaw": "𐑟𐑵𐑟",
+            "pos": "NN2",
+            "ipa": "zuːz",
+            "freq": 437,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zoo",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑵"
+            }
+        }
+    ],
+    "zoological_AJ0_𐑟𐑴𐑩𐑤𐑪𐑡𐑦𐑒𐑩𐑤": [
+        {
+            "Latn": "zoological",
+            "Shaw": "𐑟𐑴𐑩𐑤𐑪𐑡𐑦𐑒𐑩𐑤",
+            "pos": "AJ0",
+            "ipa": "ˌzəʊəˈlɒdʒɪkəl",
+            "freq": 173,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zoological",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑴𐑩𐑤𐑪𐑡𐑦𐑒𐑩𐑤"
+            }
+        }
+    ],
+    "zoologist_NN1_𐑟𐑴𐑪𐑤𐑩𐑡𐑦𐑕𐑑": [
+        {
+            "Latn": "zoologist",
+            "Shaw": "𐑟𐑴𐑪𐑤𐑩𐑡𐑦𐑕𐑑",
+            "pos": "NN1",
+            "ipa": "zəʊˈɒlədʒɪst",
+            "freq": 168,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zoologist",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑴𐑪𐑤𐑩𐑡𐑦𐑕𐑑"
+            }
+        },
+        {
+            "Latn": "zoologists",
+            "Shaw": "𐑟𐑴𐑪𐑤𐑩𐑡𐑦𐑕𐑑𐑕",
+            "pos": "NN2",
+            "ipa": "zəʊˈɒlədʒɪsts",
+            "freq": 41,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zoologist",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑴𐑪𐑤𐑩𐑡𐑦𐑕𐑑"
+            }
+        }
+    ],
+    "zoology_NN1_𐑟𐑴𐑪𐑤𐑩𐑡𐑦": [
+        {
+            "Latn": "zoology",
+            "Shaw": "𐑟𐑴𐑪𐑤𐑩𐑡𐑦",
+            "pos": "NN1",
+            "ipa": "zəʊˈɒlədʒi",
+            "freq": 217,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zoology",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑴𐑪𐑤𐑩𐑡𐑦"
+            }
+        }
+    ],
+    "zoom_NN1_𐑟𐑵𐑥": [
+        {
+            "Latn": "zoom",
+            "Shaw": "𐑟𐑵𐑥",
+            "pos": "NN1",
+            "ipa": "zuːm",
+            "freq": 1978,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zoom",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑵𐑥"
+            }
+        }
+    ],
+    "zoom_VVI_𐑟𐑵𐑥": [
+        {
+            "Latn": "zoom",
+            "Shaw": "𐑟𐑵𐑥",
+            "pos": "VVI",
+            "ipa": "zuːm",
+            "freq": 710,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zoom",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑵𐑥"
+            }
+        },
+        {
+            "Latn": "zoom",
+            "Shaw": "𐑟𐑵𐑥",
+            "pos": "VVB",
+            "ipa": "zuːm",
+            "freq": 711,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zoom",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑵𐑥"
+            }
+        },
+        {
+            "Latn": "zooms",
+            "Shaw": "𐑟𐑵𐑥𐑟",
+            "pos": "VVZ",
+            "ipa": "zuːmz",
+            "freq": 152,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zoom",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑵𐑥"
+            }
+        },
+        {
+            "Latn": "zooming",
+            "Shaw": "𐑟𐑵𐑥𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈzuːmɪŋ",
+            "freq": 390,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zoom",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑵𐑥"
+            }
+        },
+        {
+            "Latn": "zoomed",
+            "Shaw": "𐑟𐑵𐑥𐑛",
+            "pos": "VVN",
+            "ipa": "zuːmd",
+            "freq": 20,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zoom",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑵𐑥"
+            }
+        },
+        {
+            "Latn": "zoomed",
+            "Shaw": "𐑟𐑵𐑥𐑛",
+            "pos": "VVD",
+            "ipa": "zuːmd",
+            "freq": 131,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zoom",
+                "pos": "VVI",
+                "Shaw": "𐑟𐑵𐑥"
+            }
+        }
+    ],
+    "zooming_AJ0_𐑟𐑵𐑥𐑦𐑙": [
+        {
+            "Latn": "zooming",
+            "Shaw": "𐑟𐑵𐑥𐑦𐑙",
+            "pos": "AJ0",
+            "ipa": "ˈzuːmɪŋ",
+            "freq": 13,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zooming",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑵𐑥𐑦𐑙"
+            }
+        }
+    ],
+    "zoophyte_NN1_𐑟𐑴𐑩𐑓𐑲𐑑": [
+        {
+            "Latn": "zoophyte",
+            "Shaw": "𐑟𐑴𐑩𐑓𐑲𐑑",
+            "pos": "NN1",
+            "ipa": "ˈzəʊəfaɪt",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zoophyte",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑴𐑩𐑓𐑲𐑑"
+            }
+        },
+        {
+            "Latn": "zoophytes",
+            "Shaw": "𐑟𐑴𐑩𐑓𐑲𐑑𐑕",
+            "pos": "NN2",
+            "ipa": "ˈzəʊəfaɪts",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zoophyte",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑴𐑩𐑓𐑲𐑑"
+            }
+        }
+    ],
+    "zoot suit_NN1_𐑟𐑵𐑑 𐑕𐑵𐑑": [
+        {
+            "Latn": "zoot suit",
+            "Shaw": "𐑟𐑵𐑑 𐑕𐑵𐑑",
+            "pos": "NN1",
+            "ipa": "ˈzuːt suːt",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zoot suit",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑵𐑑 𐑕𐑵𐑑"
+            }
+        },
+        {
+            "Latn": "zoot suits",
+            "Shaw": "𐑟𐑵𐑑 𐑕𐑵𐑑𐑕",
+            "pos": "NN2",
+            "ipa": "ˈzuːt suːts",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zoot suit",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑵𐑑 𐑕𐑵𐑑"
+            }
+        }
+    ],
+    "zucchini_NN0_𐑟𐑫𐑒𐑰𐑯𐑦": [
+        {
+            "Latn": "zucchini",
+            "Shaw": "𐑟𐑫𐑒𐑰𐑯𐑦",
+            "pos": "NN0",
+            "ipa": "zʊˈkiːni",
+            "freq": 658,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zucchini",
+                "pos": "NN0",
+                "Shaw": "𐑟𐑫𐑒𐑰𐑯𐑦"
+            }
+        },
+        {
+            "Latn": "zucchinis",
+            "Shaw": "𐑟𐑫𐑒𐑰𐑯𐑦𐑟",
+            "pos": "NN2",
+            "ipa": "zʊˈkiːniz",
+            "freq": 27,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zucchini",
+                "pos": "NN0",
+                "Shaw": "𐑟𐑫𐑒𐑰𐑯𐑦"
+            }
+        }
+    ],
+    "zuck_NP0_𐑟𐑳𐑒": [
+        {
+            "Latn": "zuck",
+            "Shaw": "𐑟𐑳𐑒",
+            "pos": "NP0",
+            "ipa": "zʌk",
+            "freq": 6,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zuck",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑳𐑒"
+            }
+        }
+    ],
+    "zuckerberg_NP0_𐑟𐑳𐑒𐑼𐑚𐑻𐑜": [
+        {
+            "Latn": "zuckerberg",
+            "Shaw": "𐑟𐑳𐑒𐑼𐑚𐑻𐑜",
+            "pos": "NP0",
+            "ipa": "ˈzʌkəRbɜːRɡ",
+            "freq": 229,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zuckerberg",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑳𐑒𐑼𐑚𐑻𐑜"
+            }
+        }
+    ],
+    "zurich_NP0_𐑟𐑘𐑫𐑼𐑦𐑒": [
+        {
+            "Latn": "zurich",
+            "Shaw": "𐑟𐑘𐑫𐑼𐑦𐑒",
+            "pos": "NP0",
+            "ipa": "ˈzjʊərɪk",
+            "freq": 1464,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zurich",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑘𐑫𐑼𐑦𐑒"
+            }
+        }
+    ],
+    "zx spectrum_NP0_𐑟𐑧𐑛𐑧𐑒𐑕 𐑕𐑐𐑧𐑒𐑑𐑮𐑩𐑥": [
+        {
+            "Latn": "zx spectrum",
+            "Shaw": "𐑟𐑧𐑛𐑧𐑒𐑕 𐑕𐑐𐑧𐑒𐑑𐑮𐑩𐑥",
+            "pos": "NP0",
+            "ipa": "ˈzedeks ˌspektrəm",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zx spectrum",
+                "pos": "NP0",
+                "Shaw": "𐑟𐑧𐑛𐑧𐑒𐑕 𐑕𐑐𐑧𐑒𐑑𐑮𐑩𐑥"
+            }
+        }
+    ],
+    "zygote_NN1_𐑟𐑲𐑜𐑴𐑑": [
+        {
+            "Latn": "zygote",
+            "Shaw": "𐑟𐑲𐑜𐑴𐑑",
+            "pos": "NN1",
+            "ipa": "ˈzaɪɡəʊt",
+            "freq": 53,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zygote",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑲𐑜𐑴𐑑"
+            }
+        },
+        {
+            "Latn": "zygotes",
+            "Shaw": "𐑟𐑲𐑜𐑴𐑑𐑕",
+            "pos": "NN2",
+            "ipa": "ˈzaɪɡəʊts",
+            "freq": 11,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "zygote",
+                "pos": "NN1",
+                "Shaw": "𐑟𐑲𐑜𐑴𐑑"
+            }
+        }
+    ]
+}

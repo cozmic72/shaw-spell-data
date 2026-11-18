@@ -1,0 +1,4623 @@
+{
+    "y's_ZZ0_𐑢𐑲𐑟": [
+        {
+            "Latn": "y's",
+            "Shaw": "𐑢𐑲𐑟",
+            "pos": "ZZ0",
+            "ipa": "waɪz",
+            "freq": 125,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "y's",
+                "pos": "ZZ0",
+                "Shaw": "𐑢𐑲𐑟"
+            }
+        }
+    ],
+    "y_ZZ0_𐑢𐑲": [
+        {
+            "Latn": "y",
+            "Shaw": "𐑢𐑲",
+            "pos": "ZZ0",
+            "ipa": "waɪ",
+            "freq": 55842,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "y",
+                "pos": "ZZ0",
+                "Shaw": "𐑢𐑲"
+            }
+        }
+    ],
+    "yacht-club_NN1_𐑘𐑪𐑑-𐑒𐑤𐑳𐑚": [
+        {
+            "Latn": "yacht-club",
+            "Shaw": "𐑘𐑪𐑑-𐑒𐑤𐑳𐑚",
+            "pos": "NN1",
+            "ipa": "ˈjɒt-klʌb",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yacht-club",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑪𐑑-𐑒𐑤𐑳𐑚"
+            }
+        },
+        {
+            "Latn": "yacht-clubs",
+            "Shaw": "𐑘𐑪𐑑-𐑒𐑤𐑳𐑚𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjɒt-klʌbz",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yacht-club",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑪𐑑-𐑒𐑤𐑳𐑚"
+            }
+        }
+    ],
+    "yacht_NN1_𐑘𐑪𐑑": [
+        {
+            "Latn": "yacht",
+            "Shaw": "𐑘𐑪𐑑",
+            "pos": "NN1",
+            "ipa": "jɒt",
+            "freq": 4408,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yacht",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑪𐑑"
+            }
+        },
+        {
+            "Latn": "yachts",
+            "Shaw": "𐑘𐑪𐑑𐑕",
+            "pos": "NN2",
+            "ipa": "jɒts",
+            "freq": 413,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yacht",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑪𐑑"
+            }
+        }
+    ],
+    "yacht_VVI_𐑘𐑪𐑑": [
+        {
+            "Latn": "yacht",
+            "Shaw": "𐑘𐑪𐑑",
+            "pos": "VVI",
+            "ipa": "jɒt",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yacht",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑪𐑑"
+            }
+        },
+        {
+            "Latn": "yacht",
+            "Shaw": "𐑘𐑪𐑑",
+            "pos": "VVB",
+            "ipa": "jɒt",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yacht",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑪𐑑"
+            }
+        },
+        {
+            "Latn": "yachts",
+            "Shaw": "𐑘𐑪𐑑𐑕",
+            "pos": "VVZ",
+            "ipa": "jɒts",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yacht",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑪𐑑"
+            }
+        },
+        {
+            "Latn": "yachting",
+            "Shaw": "𐑘𐑪𐑑𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈjɒtɪŋ",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yacht",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑪𐑑"
+            }
+        },
+        {
+            "Latn": "yachted",
+            "Shaw": "𐑘𐑪𐑑𐑩𐑛",
+            "pos": "VVN",
+            "ipa": "ˈjɒtƏd",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yacht",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑪𐑑"
+            }
+        },
+        {
+            "Latn": "yachted",
+            "Shaw": "𐑘𐑪𐑑𐑩𐑛",
+            "pos": "VVD",
+            "ipa": "ˈjɒtƏd",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yacht",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑪𐑑"
+            }
+        }
+    ],
+    "yachting_NN1_𐑘𐑪𐑑𐑦𐑙": [
+        {
+            "Latn": "yachting",
+            "Shaw": "𐑘𐑪𐑑𐑦𐑙",
+            "pos": "NN1",
+            "ipa": "ˈjɒtɪŋ",
+            "freq": 140,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yachting",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑪𐑑𐑦𐑙"
+            }
+        }
+    ],
+    "yachtsman_NN1_𐑘𐑪𐑑𐑕𐑥𐑩𐑯": [
+        {
+            "Latn": "yachtsman",
+            "Shaw": "𐑘𐑪𐑑𐑕𐑥𐑩𐑯",
+            "pos": "NN1",
+            "ipa": "ˈjɒtsmən",
+            "freq": 46,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yachtsman",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑪𐑑𐑕𐑥𐑩𐑯"
+            }
+        },
+        {
+            "Latn": "yachtsmen",
+            "Shaw": "𐑘𐑪𐑑𐑕𐑥𐑧𐑯",
+            "pos": "NN2",
+            "ipa": "ˈjɒtsmen",
+            "freq": 14,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yachtsman",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑪𐑑𐑕𐑥𐑩𐑯"
+            }
+        }
+    ],
+    "yah_ITJ_𐑘𐑭": [
+        {
+            "Latn": "yah",
+            "Shaw": "𐑘𐑭",
+            "pos": "ITJ",
+            "ipa": "jɑː",
+            "freq": 4315,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yah",
+                "pos": "ITJ",
+                "Shaw": "𐑘𐑭"
+            }
+        }
+    ],
+    "yahoo_NN1_𐑘𐑭𐑣𐑵": [
+        {
+            "Latn": "yahoo",
+            "Shaw": "𐑘𐑭𐑣𐑵",
+            "pos": "NN1",
+            "ipa": "jɑːˈhuː",
+            "freq": 1238,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yahoo",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑭𐑣𐑵"
+            }
+        },
+        {
+            "Latn": "yahoos",
+            "Shaw": "𐑘𐑭𐑣𐑵𐑟",
+            "pos": "NN2",
+            "ipa": "jɑːˈhuːz",
+            "freq": 217,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yahoo",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑭𐑣𐑵"
+            }
+        }
+    ],
+    "yak_AJ0_𐑘𐑨𐑒": [
+        {
+            "Latn": "yak",
+            "Shaw": "𐑘𐑨𐑒",
+            "pos": "AJ0",
+            "ipa": "jæk",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yak",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑨𐑒"
+            }
+        }
+    ],
+    "yak_NN1_𐑘𐑨𐑒": [
+        {
+            "Latn": "yak",
+            "Shaw": "𐑘𐑨𐑒",
+            "pos": "NN1",
+            "ipa": "jæk",
+            "freq": 1226,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yak",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑨𐑒"
+            }
+        },
+        {
+            "Latn": "yaks",
+            "Shaw": "𐑘𐑨𐑒𐑕",
+            "pos": "NN2",
+            "ipa": "jæks",
+            "freq": 206,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yak",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑨𐑒"
+            }
+        }
+    ],
+    "yakka_NN1_𐑘𐑨𐑒𐑩": [
+        {
+            "Latn": "yakka",
+            "Shaw": "𐑘𐑨𐑒𐑩",
+            "pos": "NN1",
+            "ipa": "ˈjækə",
+            "freq": 14,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yakka",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑨𐑒𐑩"
+            }
+        }
+    ],
+    "yakuza_NN1_𐑘𐑨𐑒𐑫𐑟𐑭": [
+        {
+            "Latn": "yakuza",
+            "Shaw": "𐑘𐑨𐑒𐑫𐑟𐑭",
+            "pos": "NN1",
+            "ipa": "ˈjækʊzɑː",
+            "freq": 2850,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yakuza",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑨𐑒𐑫𐑟𐑭"
+            }
+        },
+        {
+            "Latn": "yakuza",
+            "Shaw": "𐑘𐑭𐑒𐑫𐑟𐑭",
+            "pos": "NN1",
+            "ipa": "ˈjɑːkʊzɑː",
+            "freq": 2850,
+            "var": "GenAm",
+            "lemma": {
+                "Latn": "yakuza",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑨𐑒𐑫𐑟𐑭"
+            }
+        }
+    ],
+    "yale_NP0_𐑘𐑱𐑤": [
+        {
+            "Latn": "yale",
+            "Shaw": "𐑘𐑱𐑤",
+            "pos": "NP0",
+            "ipa": "jeɪl",
+            "freq": 3189,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yale",
+                "pos": "NP0",
+                "Shaw": "𐑘𐑱𐑤"
+            }
+        }
+    ],
+    "yam_NN1_𐑘𐑨𐑥": [
+        {
+            "Latn": "yam",
+            "Shaw": "𐑘𐑨𐑥",
+            "pos": "NN1",
+            "ipa": "jæm",
+            "freq": 875,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yam",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑨𐑥"
+            }
+        },
+        {
+            "Latn": "yams",
+            "Shaw": "𐑘𐑨𐑥𐑟",
+            "pos": "NN2",
+            "ipa": "jæmz",
+            "freq": 527,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yam",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑨𐑥"
+            }
+        }
+    ],
+    "yamaha_NP0_𐑘𐑨𐑥𐑩𐑣𐑭": [
+        {
+            "Latn": "yamaha",
+            "Shaw": "𐑘𐑨𐑥𐑩𐑣𐑭",
+            "pos": "NP0",
+            "ipa": "ˈjæməhɑː",
+            "freq": 189,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yamaha",
+                "pos": "NP0",
+                "Shaw": "𐑘𐑨𐑥𐑩𐑣𐑭"
+            }
+        }
+    ],
+    "yammer_VVI_𐑘𐑨𐑥𐑼": [
+        {
+            "Latn": "yammer",
+            "Shaw": "𐑘𐑨𐑥𐑼",
+            "pos": "VVI",
+            "ipa": "ˈjæməR",
+            "freq": 78,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yammer",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑨𐑥𐑼"
+            }
+        },
+        {
+            "Latn": "yammer",
+            "Shaw": "𐑘𐑨𐑥𐑼",
+            "pos": "VVB",
+            "ipa": "ˈjæməR",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yammer",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑨𐑥𐑼"
+            }
+        },
+        {
+            "Latn": "yammers",
+            "Shaw": "𐑘𐑨𐑥𐑼𐑟",
+            "pos": "VVZ",
+            "ipa": "ˈjæməRz",
+            "freq": 7,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yammer",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑨𐑥𐑼"
+            }
+        },
+        {
+            "Latn": "yammering",
+            "Shaw": "𐑘𐑨𐑥𐑼𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈjæmərɪŋ",
+            "freq": 259,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yammer",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑨𐑥𐑼"
+            }
+        },
+        {
+            "Latn": "yammered",
+            "Shaw": "𐑘𐑨𐑥𐑼𐑛",
+            "pos": "VVN",
+            "ipa": "ˈjæməRd",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yammer",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑨𐑥𐑼"
+            }
+        },
+        {
+            "Latn": "yammered",
+            "Shaw": "𐑘𐑨𐑥𐑼𐑛",
+            "pos": "VVD",
+            "ipa": "ˈjæməRd",
+            "freq": 3,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yammer",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑨𐑥𐑼"
+            }
+        }
+    ],
+    "yang_NP0_𐑘𐑨𐑙": [
+        {
+            "Latn": "yang",
+            "Shaw": "𐑘𐑨𐑙",
+            "pos": "NP0",
+            "ipa": "jæŋ",
+            "freq": 8005,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yang",
+                "pos": "NP0",
+                "Shaw": "𐑘𐑨𐑙"
+            }
+        }
+    ],
+    "yank_NN1_𐑘𐑨𐑙𐑒": [
+        {
+            "Latn": "yank",
+            "Shaw": "𐑘𐑨𐑙𐑒",
+            "pos": "NN1",
+            "ipa": "jæŋk",
+            "freq": 1161,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yank",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑨𐑙𐑒"
+            }
+        },
+        {
+            "Latn": "yanks",
+            "Shaw": "𐑘𐑨𐑙𐑒𐑕",
+            "pos": "NN2",
+            "ipa": "jæŋks",
+            "freq": 937,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yank",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑨𐑙𐑒"
+            }
+        }
+    ],
+    "yank_VVI_𐑘𐑨𐑙𐑒": [
+        {
+            "Latn": "yank",
+            "Shaw": "𐑘𐑨𐑙𐑒",
+            "pos": "VVI",
+            "ipa": "jæŋk",
+            "freq": 630,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yank",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑨𐑙𐑒"
+            }
+        },
+        {
+            "Latn": "yank",
+            "Shaw": "𐑘𐑨𐑙𐑒",
+            "pos": "VVB",
+            "ipa": "jæŋk",
+            "freq": 199,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yank",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑨𐑙𐑒"
+            }
+        },
+        {
+            "Latn": "yanks",
+            "Shaw": "𐑘𐑨𐑙𐑒𐑕",
+            "pos": "VVZ",
+            "ipa": "jæŋks",
+            "freq": 71,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yank",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑨𐑙𐑒"
+            }
+        },
+        {
+            "Latn": "yanking",
+            "Shaw": "𐑘𐑨𐑙𐑒𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈjæŋkɪŋ",
+            "freq": 533,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yank",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑨𐑙𐑒"
+            }
+        },
+        {
+            "Latn": "yanked",
+            "Shaw": "𐑘𐑨𐑙𐑒𐑑",
+            "pos": "VVN",
+            "ipa": "jæŋkt",
+            "freq": 88,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yank",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑨𐑙𐑒"
+            }
+        },
+        {
+            "Latn": "yanked",
+            "Shaw": "𐑘𐑨𐑙𐑒𐑑",
+            "pos": "VVD",
+            "ipa": "jæŋkt",
+            "freq": 670,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yank",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑨𐑙𐑒"
+            }
+        }
+    ],
+    "yankee_NN1_𐑘𐑨𐑙𐑒𐑦": [
+        {
+            "Latn": "yankee",
+            "Shaw": "𐑘𐑨𐑙𐑒𐑦",
+            "pos": "NN1",
+            "ipa": "ˈjæŋki",
+            "freq": 3323,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yankee",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑨𐑙𐑒𐑦"
+            }
+        },
+        {
+            "Latn": "yankees",
+            "Shaw": "𐑘𐑨𐑙𐑒𐑦𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjæŋkiz",
+            "freq": 2390,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yankee",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑨𐑙𐑒𐑦"
+            }
+        }
+    ],
+    "yao_NP0_𐑘𐑬": [
+        {
+            "Latn": "yao",
+            "Shaw": "𐑘𐑬",
+            "pos": "NP0",
+            "ipa": "jaʊ",
+            "freq": 1362,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yao",
+                "pos": "NP0",
+                "Shaw": "𐑘𐑬"
+            }
+        }
+    ],
+    "yap_NN1_𐑘𐑨𐑐": [
+        {
+            "Latn": "yap",
+            "Shaw": "𐑘𐑨𐑐",
+            "pos": "NN1",
+            "ipa": "jæp",
+            "freq": 133,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yap",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑨𐑐"
+            }
+        },
+        {
+            "Latn": "yaps",
+            "Shaw": "𐑘𐑨𐑐𐑕",
+            "pos": "NN2",
+            "ipa": "jæps",
+            "freq": 89,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yap",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑨𐑐"
+            }
+        }
+    ],
+    "yap_VVI_𐑘𐑨𐑐": [
+        {
+            "Latn": "yap",
+            "Shaw": "𐑘𐑨𐑐",
+            "pos": "VVI",
+            "ipa": "jæp",
+            "freq": 132,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yap",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑨𐑐"
+            }
+        },
+        {
+            "Latn": "yap",
+            "Shaw": "𐑘𐑨𐑐",
+            "pos": "VVB",
+            "ipa": "jæp",
+            "freq": 530,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yap",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑨𐑐"
+            }
+        },
+        {
+            "Latn": "yaps",
+            "Shaw": "𐑘𐑨𐑐𐑕",
+            "pos": "VVZ",
+            "ipa": "jæps",
+            "freq": 45,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yap",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑨𐑐"
+            }
+        },
+        {
+            "Latn": "yapping",
+            "Shaw": "𐑘𐑨𐑐𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈjæpɪŋ",
+            "freq": 731,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yap",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑨𐑐"
+            }
+        },
+        {
+            "Latn": "yapped",
+            "Shaw": "𐑘𐑨𐑐𐑑",
+            "pos": "VVN",
+            "ipa": "jæpt",
+            "freq": 5,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yap",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑨𐑐"
+            }
+        },
+        {
+            "Latn": "yapped",
+            "Shaw": "𐑘𐑨𐑐𐑑",
+            "pos": "VVD",
+            "ipa": "jæpt",
+            "freq": 5,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yap",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑨𐑐"
+            }
+        }
+    ],
+    "yapping_AJ0_𐑘𐑨𐑐𐑦𐑙": [
+        {
+            "Latn": "yapping",
+            "Shaw": "𐑘𐑨𐑐𐑦𐑙",
+            "pos": "AJ0",
+            "ipa": "ˈjæpɪŋ",
+            "freq": 146,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yapping",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑨𐑐𐑦𐑙"
+            }
+        }
+    ],
+    "yard-measure_NN1_𐑘𐑸𐑛-𐑥𐑧𐑠𐑼": [
+        {
+            "Latn": "yard-measure",
+            "Shaw": "𐑘𐑸𐑛-𐑥𐑧𐑠𐑼",
+            "pos": "NN1",
+            "ipa": "ˈjɑːRd-meʒəR",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yard-measure",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑸𐑛-𐑥𐑧𐑠𐑼"
+            }
+        },
+        {
+            "Latn": "yard-measures",
+            "Shaw": "𐑘𐑸𐑛-𐑥𐑧𐑠𐑼𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjɑːRd-meʒəRz",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yard-measure",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑸𐑛-𐑥𐑧𐑠𐑼"
+            }
+        }
+    ],
+    "yard_NN1_𐑘𐑸𐑛": [
+        {
+            "Latn": "yard",
+            "Shaw": "𐑘𐑸𐑛",
+            "pos": "NN1",
+            "ipa": "jɑːRd",
+            "freq": 16138,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yard",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑸𐑛"
+            }
+        },
+        {
+            "Latn": "yards",
+            "Shaw": "𐑘𐑸𐑛𐑟",
+            "pos": "NN2",
+            "ipa": "jɑːRdz",
+            "freq": 8749,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yard",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑸𐑛"
+            }
+        }
+    ],
+    "yardarm_NN1_𐑘𐑸𐑛𐑸𐑥": [
+        {
+            "Latn": "yardarm",
+            "Shaw": "𐑘𐑸𐑛𐑸𐑥",
+            "pos": "NN1",
+            "ipa": "ˈjɑːRdɑːRm",
+            "freq": 129,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yardarm",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑸𐑛𐑸𐑥"
+            }
+        },
+        {
+            "Latn": "yardarms",
+            "Shaw": "𐑘𐑸𐑛𐑸𐑥𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjɑːRdɑːRmz",
+            "freq": 7,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yardarm",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑸𐑛𐑸𐑥"
+            }
+        }
+    ],
+    "yarder_NN1_𐑘𐑸𐑛𐑼": [
+        {
+            "Latn": "yarder",
+            "Shaw": "𐑘𐑸𐑛𐑼",
+            "pos": "NN1",
+            "ipa": "ˈjɑːRdəR",
+            "freq": 10,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yarder",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑸𐑛𐑼"
+            }
+        },
+        {
+            "Latn": "yarders",
+            "Shaw": "𐑘𐑸𐑛𐑼𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjɑːRdəRz",
+            "freq": 5,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yarder",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑸𐑛𐑼"
+            }
+        }
+    ],
+    "yardstick_NN1_𐑘𐑸𐑛𐑕𐑑𐑦𐑒": [
+        {
+            "Latn": "yardstick",
+            "Shaw": "𐑘𐑸𐑛𐑕𐑑𐑦𐑒",
+            "pos": "NN1",
+            "ipa": "ˈjɑːRdstɪk",
+            "freq": 139,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yardstick",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑸𐑛𐑕𐑑𐑦𐑒"
+            }
+        },
+        {
+            "Latn": "yardsticks",
+            "Shaw": "𐑘𐑸𐑛𐑕𐑑𐑦𐑒𐑕",
+            "pos": "NN2",
+            "ipa": "ˈjɑːRdstɪks",
+            "freq": 12,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yardstick",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑸𐑛𐑕𐑑𐑦𐑒"
+            }
+        }
+    ],
+    "yarmouth_NP0_𐑘𐑸𐑥𐑩𐑔": [
+        {
+            "Latn": "yarmouth",
+            "Shaw": "𐑘𐑸𐑥𐑩𐑔",
+            "pos": "NP0",
+            "ipa": "ˈjɑːRməθ",
+            "freq": 90,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yarmouth",
+                "pos": "NP0",
+                "Shaw": "𐑘𐑸𐑥𐑩𐑔"
+            }
+        }
+    ],
+    "yarn_NN1_𐑘𐑸𐑯": [
+        {
+            "Latn": "yarn",
+            "Shaw": "𐑘𐑸𐑯",
+            "pos": "NN1",
+            "ipa": "jɑːRn",
+            "freq": 1092,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yarn",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑸𐑯"
+            }
+        },
+        {
+            "Latn": "yarns",
+            "Shaw": "𐑘𐑸𐑯𐑟",
+            "pos": "NN2",
+            "ipa": "jɑːRnz",
+            "freq": 119,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yarn",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑸𐑯"
+            }
+        }
+    ],
+    "yarn_VVI_𐑘𐑸𐑯": [
+        {
+            "Latn": "yarn",
+            "Shaw": "𐑘𐑸𐑯",
+            "pos": "VVI",
+            "ipa": "jɑːRn",
+            "freq": 5,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yarn",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑸𐑯"
+            }
+        },
+        {
+            "Latn": "yarn",
+            "Shaw": "𐑘𐑸𐑯",
+            "pos": "VVB",
+            "ipa": "jɑːRn",
+            "freq": 10,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yarn",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑸𐑯"
+            }
+        },
+        {
+            "Latn": "yarns",
+            "Shaw": "𐑘𐑸𐑯𐑟",
+            "pos": "VVZ",
+            "ipa": "jɑːRnz",
+            "freq": 3,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yarn",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑸𐑯"
+            }
+        },
+        {
+            "Latn": "yarning",
+            "Shaw": "𐑘𐑸𐑯𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈjɑːRnɪŋ",
+            "freq": 8,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yarn",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑸𐑯"
+            }
+        },
+        {
+            "Latn": "yarned",
+            "Shaw": "𐑘𐑸𐑯𐑛",
+            "pos": "VVN",
+            "ipa": "jɑːRnd",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yarn",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑸𐑯"
+            }
+        },
+        {
+            "Latn": "yarned",
+            "Shaw": "𐑘𐑸𐑯𐑛",
+            "pos": "VVD",
+            "ipa": "jɑːRnd",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yarn",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑸𐑯"
+            }
+        }
+    ],
+    "yaroslavi_NP0_𐑘𐑨𐑮𐑩𐑕𐑤𐑭𐑝𐑦": [
+        {
+            "Latn": "yaroslavi",
+            "Shaw": "𐑘𐑨𐑮𐑩𐑕𐑤𐑭𐑝𐑦",
+            "pos": "NP0",
+            "ipa": "ˌjærəˈslɑːvi",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yaroslavi",
+                "pos": "NP0",
+                "Shaw": "𐑘𐑨𐑮𐑩𐑕𐑤𐑭𐑝𐑦"
+            }
+        }
+    ],
+    "yarrow_NN1_𐑘𐑨𐑮𐑴": [
+        {
+            "Latn": "yarrow",
+            "Shaw": "𐑘𐑨𐑮𐑴",
+            "pos": "NN1",
+            "ipa": "ˈjærəʊ",
+            "freq": 127,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yarrow",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑨𐑮𐑴"
+            }
+        }
+    ],
+    "yashmak_NN1_𐑘𐑨𐑖𐑥𐑨𐑒": [
+        {
+            "Latn": "yashmak",
+            "Shaw": "𐑘𐑨𐑖𐑥𐑨𐑒",
+            "pos": "NN1",
+            "ipa": "ˈjæʃmæk",
+            "freq": 11,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yashmak",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑨𐑖𐑥𐑨𐑒"
+            }
+        },
+        {
+            "Latn": "yashmaks",
+            "Shaw": "𐑘𐑨𐑖𐑥𐑨𐑒𐑕",
+            "pos": "NN2",
+            "ipa": "ˈjæʃmæks",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yashmak",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑨𐑖𐑥𐑨𐑒"
+            }
+        }
+    ],
+    "yass_NP0_𐑘𐑨𐑕": [
+        {
+            "Latn": "yass",
+            "Shaw": "𐑘𐑨𐑕",
+            "pos": "NP0",
+            "ipa": "jæs",
+            "freq": 13,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yass",
+                "pos": "NP0",
+                "Shaw": "𐑘𐑨𐑕"
+            }
+        }
+    ],
+    "yate_NP0_𐑘𐑱𐑑": [
+        {
+            "Latn": "yate",
+            "Shaw": "𐑘𐑱𐑑",
+            "pos": "NP0",
+            "ipa": "jeɪt",
+            "freq": 5,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yate",
+                "pos": "NP0",
+                "Shaw": "𐑘𐑱𐑑"
+            }
+        }
+    ],
+    "yateley_NP0_𐑘𐑱𐑑𐑤𐑦": [
+        {
+            "Latn": "yateley",
+            "Shaw": "𐑘𐑱𐑑𐑤𐑦",
+            "pos": "NP0",
+            "ipa": "ˈjeɪtli",
+            "freq": 8,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yateley",
+                "pos": "NP0",
+                "Shaw": "𐑘𐑱𐑑𐑤𐑦"
+            }
+        }
+    ],
+    "yaw_NN1_𐑘𐑷": [
+        {
+            "Latn": "yaw",
+            "Shaw": "𐑘𐑷",
+            "pos": "NN1",
+            "ipa": "jɔː",
+            "freq": 132,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yaw",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑷"
+            }
+        },
+        {
+            "Latn": "yaws",
+            "Shaw": "𐑘𐑷𐑟",
+            "pos": "NN2",
+            "ipa": "jɔːz",
+            "freq": 4,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yaw",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑷"
+            }
+        }
+    ],
+    "yaw_VVI_𐑘𐑷": [
+        {
+            "Latn": "yaw",
+            "Shaw": "𐑘𐑷",
+            "pos": "VVI",
+            "ipa": "jɔː",
+            "freq": 28,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yaw",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑷"
+            }
+        },
+        {
+            "Latn": "yaw",
+            "Shaw": "𐑘𐑷",
+            "pos": "VVB",
+            "ipa": "jɔː",
+            "freq": 11,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yaw",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑷"
+            }
+        },
+        {
+            "Latn": "yaws",
+            "Shaw": "𐑘𐑷𐑟",
+            "pos": "VVZ",
+            "ipa": "jɔːz",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yaw",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑷"
+            }
+        },
+        {
+            "Latn": "yawing",
+            "Shaw": "𐑘𐑷𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈjɔːɪŋ",
+            "freq": 16,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yaw",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑷"
+            }
+        },
+        {
+            "Latn": "yawed",
+            "Shaw": "𐑘𐑷𐑛",
+            "pos": "VVN",
+            "ipa": "jɔːd",
+            "freq": 3,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yaw",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑷"
+            }
+        },
+        {
+            "Latn": "yawed",
+            "Shaw": "𐑘𐑷𐑛",
+            "pos": "VVD",
+            "ipa": "jɔːd",
+            "freq": 3,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yaw",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑷"
+            }
+        }
+    ],
+    "yawing_AJ0_𐑘𐑷𐑦𐑙": [
+        {
+            "Latn": "yawing",
+            "Shaw": "𐑘𐑷𐑦𐑙",
+            "pos": "AJ0",
+            "ipa": "ˈjɔːɪŋ",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yawing",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑷𐑦𐑙"
+            }
+        }
+    ],
+    "yawl_NN1_𐑘𐑷𐑤": [
+        {
+            "Latn": "yawl",
+            "Shaw": "𐑘𐑷𐑤",
+            "pos": "NN1",
+            "ipa": "jɔːl",
+            "freq": 25,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yawl",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑷𐑤"
+            }
+        },
+        {
+            "Latn": "yawls",
+            "Shaw": "𐑘𐑷𐑤𐑟",
+            "pos": "NN2",
+            "ipa": "jɔːlz",
+            "freq": 5,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yawl",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑷𐑤"
+            }
+        }
+    ],
+    "yawn_NN1_𐑘𐑷𐑯": [
+        {
+            "Latn": "yawn",
+            "Shaw": "𐑘𐑷𐑯",
+            "pos": "NN1",
+            "ipa": "jɔːn",
+            "freq": 635,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yawn",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑷𐑯"
+            }
+        },
+        {
+            "Latn": "yawns",
+            "Shaw": "𐑘𐑷𐑯𐑟",
+            "pos": "NN2",
+            "ipa": "jɔːnz",
+            "freq": 868,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yawn",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑷𐑯"
+            }
+        }
+    ],
+    "yawn_VVI_𐑘𐑷𐑯": [
+        {
+            "Latn": "yawn",
+            "Shaw": "𐑘𐑷𐑯",
+            "pos": "VVI",
+            "ipa": "jɔːn",
+            "freq": 142,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yawn",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑷𐑯"
+            }
+        },
+        {
+            "Latn": "yawn",
+            "Shaw": "𐑘𐑷𐑯",
+            "pos": "VVB",
+            "ipa": "jɔːn",
+            "freq": 77,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yawn",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑷𐑯"
+            }
+        },
+        {
+            "Latn": "yawns",
+            "Shaw": "𐑘𐑷𐑯𐑟",
+            "pos": "VVZ",
+            "ipa": "jɔːnz",
+            "freq": 613,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yawn",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑷𐑯"
+            }
+        },
+        {
+            "Latn": "yawning",
+            "Shaw": "𐑘𐑷𐑯𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈjɔːnɪŋ",
+            "freq": 813,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yawn",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑷𐑯"
+            }
+        },
+        {
+            "Latn": "yawned",
+            "Shaw": "𐑘𐑷𐑯𐑛",
+            "pos": "VVN",
+            "ipa": "jɔːnd",
+            "freq": 3,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yawn",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑷𐑯"
+            }
+        },
+        {
+            "Latn": "yawned",
+            "Shaw": "𐑘𐑷𐑯𐑛",
+            "pos": "VVD",
+            "ipa": "jɔːnd",
+            "freq": 112,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yawn",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑷𐑯"
+            }
+        }
+    ],
+    "yawning_AJ0_𐑘𐑷𐑯𐑦𐑙": [
+        {
+            "Latn": "yawning",
+            "Shaw": "𐑘𐑷𐑯𐑦𐑙",
+            "pos": "AJ0",
+            "ipa": "ˈjɔːnɪŋ",
+            "freq": 333,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yawning",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑷𐑯𐑦𐑙"
+            }
+        }
+    ],
+    "ye_AT0_𐑘𐑰": [
+        {
+            "Latn": "ye",
+            "Shaw": "𐑘𐑰",
+            "pos": "AT0",
+            "ipa": "jiː",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "ye",
+                "pos": "AT0",
+                "Shaw": "𐑘𐑰"
+            }
+        }
+    ],
+    "ye_PNP_𐑘𐑰": [
+        {
+            "Latn": "ye",
+            "Shaw": "𐑘𐑰",
+            "pos": "PNP",
+            "ipa": "jiː",
+            "freq": 10344,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "ye",
+                "pos": "PNP",
+                "Shaw": "𐑘𐑰"
+            }
+        }
+    ],
+    "yea_AV0_𐑘𐑱": [
+        {
+            "Latn": "yea",
+            "Shaw": "𐑘𐑱",
+            "pos": "AV0",
+            "ipa": "jeɪ",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yea",
+                "pos": "AV0",
+                "Shaw": "𐑘𐑱"
+            }
+        }
+    ],
+    "yea_ITJ_𐑘𐑱": [
+        {
+            "Latn": "yea",
+            "Shaw": "𐑘𐑱",
+            "pos": "ITJ",
+            "ipa": "jeɪ",
+            "freq": 5312,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yea",
+                "pos": "ITJ",
+                "Shaw": "𐑘𐑱"
+            }
+        }
+    ],
+    "yea_NN1_𐑘𐑱": [
+        {
+            "Latn": "yea",
+            "Shaw": "𐑘𐑱",
+            "pos": "NN1",
+            "ipa": "jeɪ",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yea",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑱"
+            }
+        },
+        {
+            "Latn": "yeas",
+            "Shaw": "𐑘𐑱𐑟",
+            "pos": "NN2",
+            "ipa": "jeɪz",
+            "freq": 80,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yea",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑱"
+            }
+        }
+    ],
+    "yeah_AV0_𐑘𐑧𐑩": [
+        {
+            "Latn": "yeah",
+            "Shaw": "𐑘𐑧𐑩",
+            "pos": "AV0",
+            "ipa": "ˈjeə",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yeah",
+                "pos": "AV0",
+                "Shaw": "𐑘𐑧𐑩"
+            }
+        }
+    ],
+    "yeah_ITJ_𐑘𐑧𐑩": [
+        {
+            "Latn": "yeah",
+            "Shaw": "𐑘𐑧𐑩",
+            "pos": "ITJ",
+            "ipa": "ˈjeə",
+            "freq": 2000641,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yeah",
+                "pos": "ITJ",
+                "Shaw": "𐑘𐑧𐑩"
+            }
+        }
+    ],
+    "year_NN1_𐑘𐑽": [
+        {
+            "Latn": "year",
+            "Shaw": "𐑘𐑽",
+            "pos": "NN1",
+            "ipa": "jɪəR",
+            "freq": 208705,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "year",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑽"
+            }
+        },
+        {
+            "Latn": "years",
+            "Shaw": "𐑘𐑽𐑟",
+            "pos": "NN2",
+            "ipa": "jɪəRz",
+            "freq": 481860,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "year",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑽"
+            }
+        }
+    ],
+    "yearbook_NN1_𐑘𐑽𐑚𐑫𐑒": [
+        {
+            "Latn": "yearbook",
+            "Shaw": "𐑘𐑽𐑚𐑫𐑒",
+            "pos": "NN1",
+            "ipa": "ˈjɪəRbʊk",
+            "freq": 1652,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yearbook",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑽𐑚𐑫𐑒"
+            }
+        },
+        {
+            "Latn": "yearbooks",
+            "Shaw": "𐑘𐑽𐑚𐑫𐑒𐑕",
+            "pos": "NN2",
+            "ipa": "ˈjɪəRbʊks",
+            "freq": 191,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yearbook",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑽𐑚𐑫𐑒"
+            }
+        }
+    ],
+    "yeardsley_NP0_𐑘𐑸𐑛𐑟𐑤𐑦": [
+        {
+            "Latn": "yeardsley",
+            "Shaw": "𐑘𐑸𐑛𐑟𐑤𐑦",
+            "pos": "NP0",
+            "ipa": "ˈjɑːRdzli",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yeardsley",
+                "pos": "NP0",
+                "Shaw": "𐑘𐑸𐑛𐑟𐑤𐑦"
+            }
+        }
+    ],
+    "yearling_NN1_𐑘𐑽𐑤𐑦𐑙": [
+        {
+            "Latn": "yearling",
+            "Shaw": "𐑘𐑽𐑤𐑦𐑙",
+            "pos": "NN1",
+            "ipa": "ˈjɪəRlɪŋ",
+            "freq": 107,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yearling",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑽𐑤𐑦𐑙"
+            }
+        },
+        {
+            "Latn": "yearlings",
+            "Shaw": "𐑘𐑽𐑤𐑦𐑙𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjɪəRlɪŋz",
+            "freq": 47,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yearling",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑽𐑤𐑦𐑙"
+            }
+        }
+    ],
+    "yearlong_AJ0_𐑘𐑽𐑤𐑪𐑙": [
+        {
+            "Latn": "yearlong",
+            "Shaw": "𐑘𐑽𐑤𐑪𐑙",
+            "pos": "AJ0",
+            "ipa": "ˈjɪəRlɒŋ",
+            "freq": 30,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yearlong",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑽𐑤𐑪𐑙"
+            }
+        }
+    ],
+    "yearly_AJ0_𐑘𐑽𐑤𐑦": [
+        {
+            "Latn": "yearly",
+            "Shaw": "𐑘𐑽𐑤𐑦",
+            "pos": "AJ0",
+            "ipa": "ˈjɪəRli",
+            "freq": 484,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yearly",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑽𐑤𐑦"
+            }
+        }
+    ],
+    "yearly_AV0_𐑘𐑽𐑤𐑦": [
+        {
+            "Latn": "yearly",
+            "Shaw": "𐑘𐑽𐑤𐑦",
+            "pos": "AV0",
+            "ipa": "ˈjɪəRli",
+            "freq": 142,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yearly",
+                "pos": "AV0",
+                "Shaw": "𐑘𐑽𐑤𐑦"
+            }
+        }
+    ],
+    "yearn_VVI_𐑘𐑻𐑯": [
+        {
+            "Latn": "yearn",
+            "Shaw": "𐑘𐑻𐑯",
+            "pos": "VVI",
+            "ipa": "jɜːRn",
+            "freq": 344,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yearn",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑻𐑯"
+            }
+        },
+        {
+            "Latn": "yearn",
+            "Shaw": "𐑘𐑻𐑯",
+            "pos": "VVB",
+            "ipa": "jɜːRn",
+            "freq": 627,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yearn",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑻𐑯"
+            }
+        },
+        {
+            "Latn": "yearns",
+            "Shaw": "𐑘𐑻𐑯𐑟",
+            "pos": "VVZ",
+            "ipa": "jɜːRnz",
+            "freq": 436,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yearn",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑻𐑯"
+            }
+        },
+        {
+            "Latn": "yearning",
+            "Shaw": "𐑘𐑻𐑯𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈjɜːRnɪŋ",
+            "freq": 345,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yearn",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑻𐑯"
+            }
+        },
+        {
+            "Latn": "yearned",
+            "Shaw": "𐑘𐑻𐑯𐑛",
+            "pos": "VVN",
+            "ipa": "jɜːRnd",
+            "freq": 95,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yearn",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑻𐑯"
+            }
+        },
+        {
+            "Latn": "yearned",
+            "Shaw": "𐑘𐑻𐑯𐑛",
+            "pos": "VVD",
+            "ipa": "jɜːRnd",
+            "freq": 285,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yearn",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑻𐑯"
+            }
+        }
+    ],
+    "yearning_AJ0_𐑘𐑻𐑯𐑦𐑙": [
+        {
+            "Latn": "yearning",
+            "Shaw": "𐑘𐑻𐑯𐑦𐑙",
+            "pos": "AJ0",
+            "ipa": "ˈjɜːRnɪŋ",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yearning",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑻𐑯𐑦𐑙"
+            }
+        }
+    ],
+    "yearning_NN1_𐑘𐑻𐑯𐑦𐑙": [
+        {
+            "Latn": "yearning",
+            "Shaw": "𐑘𐑻𐑯𐑦𐑙",
+            "pos": "NN1",
+            "ipa": "ˈjɜːRnɪŋ",
+            "freq": 1238,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yearning",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑻𐑯𐑦𐑙"
+            }
+        },
+        {
+            "Latn": "yearnings",
+            "Shaw": "𐑘𐑻𐑯𐑦𐑙𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjɜːRnɪŋz",
+            "freq": 117,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yearning",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑻𐑯𐑦𐑙"
+            }
+        }
+    ],
+    "yearningly_AV0_𐑘𐑻𐑯𐑦𐑙𐑤𐑦": [
+        {
+            "Latn": "yearningly",
+            "Shaw": "𐑘𐑻𐑯𐑦𐑙𐑤𐑦",
+            "pos": "AV0",
+            "ipa": "ˈjɜːRnɪŋli",
+            "freq": 7,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yearningly",
+                "pos": "AV0",
+                "Shaw": "𐑘𐑻𐑯𐑦𐑙𐑤𐑦"
+            }
+        }
+    ],
+    "yeast_NN1_𐑘𐑰𐑕𐑑": [
+        {
+            "Latn": "yeast",
+            "Shaw": "𐑘𐑰𐑕𐑑",
+            "pos": "NN1",
+            "ipa": "jiːst",
+            "freq": 891,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yeast",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑰𐑕𐑑"
+            }
+        }
+    ],
+    "yeasty_AJ0_𐑘𐑰𐑕𐑑𐑦": [
+        {
+            "Latn": "yeasty",
+            "Shaw": "𐑘𐑰𐑕𐑑𐑦",
+            "pos": "AJ0",
+            "ipa": "ˈjiːsti",
+            "freq": 29,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yeasty",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑰𐑕𐑑𐑦"
+            }
+        },
+        {
+            "Latn": "yeastier",
+            "Shaw": "𐑘𐑰𐑕𐑑𐑦𐑼",
+            "pos": "AJC",
+            "ipa": "ˈjiːstɪəR",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yeasty",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑰𐑕𐑑𐑦"
+            }
+        },
+        {
+            "Latn": "yeastiest",
+            "Shaw": "𐑘𐑰𐑕𐑑𐑦𐑩𐑕𐑑",
+            "pos": "AJS",
+            "ipa": "ˈjiːstiəst",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yeasty",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑰𐑕𐑑𐑦"
+            }
+        }
+    ],
+    "yell_NN1_𐑘𐑧𐑤": [
+        {
+            "Latn": "yell",
+            "Shaw": "𐑘𐑧𐑤",
+            "pos": "NN1",
+            "ipa": "jel",
+            "freq": 5469,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yell",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑧𐑤"
+            }
+        },
+        {
+            "Latn": "yells",
+            "Shaw": "𐑘𐑧𐑤𐑟",
+            "pos": "NN2",
+            "ipa": "jelz",
+            "freq": 4731,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yell",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑧𐑤"
+            }
+        }
+    ],
+    "yell_VVI_𐑘𐑧𐑤": [
+        {
+            "Latn": "yell",
+            "Shaw": "𐑘𐑧𐑤",
+            "pos": "VVI",
+            "ipa": "jel",
+            "freq": 4548,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yell",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑧𐑤"
+            }
+        },
+        {
+            "Latn": "yell",
+            "Shaw": "𐑘𐑧𐑤",
+            "pos": "VVB",
+            "ipa": "jel",
+            "freq": 1036,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yell",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑧𐑤"
+            }
+        },
+        {
+            "Latn": "yells",
+            "Shaw": "𐑘𐑧𐑤𐑟",
+            "pos": "VVZ",
+            "ipa": "jelz",
+            "freq": 3859,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yell",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑧𐑤"
+            }
+        },
+        {
+            "Latn": "yelling",
+            "Shaw": "𐑘𐑧𐑤𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈjelɪŋ",
+            "freq": 24425,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yell",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑧𐑤"
+            }
+        },
+        {
+            "Latn": "yelled",
+            "Shaw": "𐑘𐑧𐑤𐑛",
+            "pos": "VVN",
+            "ipa": "jeld",
+            "freq": 134,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yell",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑧𐑤"
+            }
+        },
+        {
+            "Latn": "yelled",
+            "Shaw": "𐑘𐑧𐑤𐑛",
+            "pos": "VVD",
+            "ipa": "jeld",
+            "freq": 4001,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yell",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑧𐑤"
+            }
+        }
+    ],
+    "yellen_NP0_𐑘𐑧𐑤𐑩𐑯": [
+        {
+            "Latn": "yellen",
+            "Shaw": "𐑘𐑧𐑤𐑩𐑯",
+            "pos": "NP0",
+            "ipa": "ˈjelən",
+            "freq": 21,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yellen",
+                "pos": "NP0",
+                "Shaw": "𐑘𐑧𐑤𐑩𐑯"
+            }
+        }
+    ],
+    "yellow-bellied_AJ0_𐑘𐑧𐑤𐑴-𐑚𐑧𐑤𐑦𐑛": [
+        {
+            "Latn": "yellow-bellied",
+            "Shaw": "𐑘𐑧𐑤𐑴-𐑚𐑧𐑤𐑦𐑛",
+            "pos": "AJ0",
+            "ipa": "ˌjeləʊ-ˈbelid",
+            "freq": 150,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yellow-bellied",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑧𐑤𐑴-𐑚𐑧𐑤𐑦𐑛"
+            }
+        }
+    ],
+    "yellow-flag_NN1_𐑘𐑧𐑤𐑴-𐑓𐑤𐑨𐑜": [
+        {
+            "Latn": "yellow-flag",
+            "Shaw": "𐑘𐑧𐑤𐑴-𐑓𐑤𐑨𐑜",
+            "pos": "NN1",
+            "ipa": "ˈjeləʊ-flæɡ",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yellow-flag",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑧𐑤𐑴-𐑓𐑤𐑨𐑜"
+            }
+        },
+        {
+            "Latn": "yellow-flags",
+            "Shaw": "𐑘𐑧𐑤𐑴-𐑓𐑤𐑨𐑜𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjeləʊ-flæɡz",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yellow-flag",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑧𐑤𐑴-𐑓𐑤𐑨𐑜"
+            }
+        }
+    ],
+    "yellow_AJ0_𐑘𐑧𐑤𐑴": [
+        {
+            "Latn": "yellow",
+            "Shaw": "𐑘𐑧𐑤𐑴",
+            "pos": "AJ0",
+            "ipa": "ˈjeləʊ",
+            "freq": 20893,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yellow",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑧𐑤𐑴"
+            }
+        },
+        {
+            "Latn": "yellower",
+            "Shaw": "𐑘𐑧𐑤𐑴𐑼",
+            "pos": "AJC",
+            "ipa": "ˈjeləʊəR",
+            "freq": 14,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yellow",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑧𐑤𐑴"
+            }
+        },
+        {
+            "Latn": "yellowest",
+            "Shaw": "𐑘𐑧𐑤𐑴𐑩𐑕𐑑",
+            "pos": "AJS",
+            "ipa": "ˈjeləʊəst",
+            "freq": 6,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yellow",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑧𐑤𐑴"
+            }
+        }
+    ],
+    "yellow_NN1_𐑘𐑧𐑤𐑴": [
+        {
+            "Latn": "yellow",
+            "Shaw": "𐑘𐑧𐑤𐑴",
+            "pos": "NN1",
+            "ipa": "ˈjeləʊ",
+            "freq": 311,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yellow",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑧𐑤𐑴"
+            }
+        },
+        {
+            "Latn": "yellows",
+            "Shaw": "𐑘𐑧𐑤𐑴𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjeləʊz",
+            "freq": 328,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yellow",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑧𐑤𐑴"
+            }
+        }
+    ],
+    "yellow_VVI_𐑘𐑧𐑤𐑴": [
+        {
+            "Latn": "yellow",
+            "Shaw": "𐑘𐑧𐑤𐑴",
+            "pos": "VVI",
+            "ipa": "ˈjeləʊ",
+            "freq": 5,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yellow",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑧𐑤𐑴"
+            }
+        },
+        {
+            "Latn": "yellow",
+            "Shaw": "𐑘𐑧𐑤𐑴",
+            "pos": "VVB",
+            "ipa": "ˈjeləʊ",
+            "freq": 17,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yellow",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑧𐑤𐑴"
+            }
+        },
+        {
+            "Latn": "yellows",
+            "Shaw": "𐑘𐑧𐑤𐑴𐑟",
+            "pos": "VVZ",
+            "ipa": "ˈjeləʊz",
+            "freq": 4,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yellow",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑧𐑤𐑴"
+            }
+        },
+        {
+            "Latn": "yellowing",
+            "Shaw": "𐑘𐑧𐑤𐑴𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈjeləʊɪŋ",
+            "freq": 32,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yellow",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑧𐑤𐑴"
+            }
+        },
+        {
+            "Latn": "yellowed",
+            "Shaw": "𐑘𐑧𐑤𐑴𐑛",
+            "pos": "VVN",
+            "ipa": "ˈjeləʊd",
+            "freq": 4,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yellow",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑧𐑤𐑴"
+            }
+        },
+        {
+            "Latn": "yellowed",
+            "Shaw": "𐑘𐑧𐑤𐑴𐑛",
+            "pos": "VVD",
+            "ipa": "ˈjeləʊd",
+            "freq": 5,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yellow",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑧𐑤𐑴"
+            }
+        }
+    ],
+    "yellowed_AJ0_𐑘𐑧𐑤𐑴𐑛": [
+        {
+            "Latn": "yellowed",
+            "Shaw": "𐑘𐑧𐑤𐑴𐑛",
+            "pos": "AJ0",
+            "ipa": "ˈjeləʊd",
+            "freq": 41,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yellowed",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑧𐑤𐑴𐑛"
+            }
+        }
+    ],
+    "yellowing_AJ0_𐑘𐑧𐑤𐑴𐑦𐑙": [
+        {
+            "Latn": "yellowing",
+            "Shaw": "𐑘𐑧𐑤𐑴𐑦𐑙",
+            "pos": "AJ0",
+            "ipa": "ˈjeləʊɪŋ",
+            "freq": 32,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yellowing",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑧𐑤𐑴𐑦𐑙"
+            }
+        }
+    ],
+    "yellowish_AJ0_𐑘𐑧𐑤𐑴𐑦𐑖": [
+        {
+            "Latn": "yellowish",
+            "Shaw": "𐑘𐑧𐑤𐑴𐑦𐑖",
+            "pos": "AJ0",
+            "ipa": "ˈjeləʊɪʃ",
+            "freq": 127,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yellowish",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑧𐑤𐑴𐑦𐑖"
+            }
+        }
+    ],
+    "yellowness_NN1_𐑘𐑧𐑤𐑴𐑯𐑩𐑕": [
+        {
+            "Latn": "yellowness",
+            "Shaw": "𐑘𐑧𐑤𐑴𐑯𐑩𐑕",
+            "pos": "NN1",
+            "ipa": "ˈjeləʊnəs",
+            "freq": 5,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yellowness",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑧𐑤𐑴𐑯𐑩𐑕"
+            }
+        }
+    ],
+    "yellowstone_NP0_𐑘𐑧𐑤𐑴𐑕𐑑𐑴𐑯": [
+        {
+            "Latn": "yellowstone",
+            "Shaw": "𐑘𐑧𐑤𐑴𐑕𐑑𐑴𐑯",
+            "pos": "NP0",
+            "ipa": "ˈjeləʊˌstəʊn",
+            "freq": 901,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yellowstone",
+                "pos": "NP0",
+                "Shaw": "𐑘𐑧𐑤𐑴𐑕𐑑𐑴𐑯"
+            }
+        }
+    ],
+    "yelp_VVI_𐑘𐑧𐑤𐑐": [
+        {
+            "Latn": "yelp",
+            "Shaw": "𐑘𐑧𐑤𐑐",
+            "pos": "VVI",
+            "ipa": "jelp",
+            "freq": 701,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yelp",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑧𐑤𐑐"
+            }
+        },
+        {
+            "Latn": "yelp",
+            "Shaw": "𐑘𐑧𐑤𐑐",
+            "pos": "VVB",
+            "ipa": "jelp",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yelp",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑧𐑤𐑐"
+            }
+        },
+        {
+            "Latn": "yelps",
+            "Shaw": "𐑘𐑧𐑤𐑐𐑕",
+            "pos": "VVZ",
+            "ipa": "jelps",
+            "freq": 2116,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yelp",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑧𐑤𐑐"
+            }
+        },
+        {
+            "Latn": "yelping",
+            "Shaw": "𐑘𐑧𐑤𐑐𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈjelpɪŋ",
+            "freq": 717,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yelp",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑧𐑤𐑐"
+            }
+        },
+        {
+            "Latn": "yelped",
+            "Shaw": "𐑘𐑧𐑤𐑐𐑑",
+            "pos": "VVN",
+            "ipa": "jelpt",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yelp",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑧𐑤𐑐"
+            }
+        },
+        {
+            "Latn": "yelped",
+            "Shaw": "𐑘𐑧𐑤𐑐𐑑",
+            "pos": "VVD",
+            "ipa": "jelpt",
+            "freq": 23,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yelp",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑧𐑤𐑐"
+            }
+        }
+    ],
+    "yelped_AJ0_𐑘𐑧𐑤𐑐𐑑": [
+        {
+            "Latn": "yelped",
+            "Shaw": "𐑘𐑧𐑤𐑐𐑑",
+            "pos": "AJ0",
+            "ipa": "jelpt",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yelped",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑧𐑤𐑐𐑑"
+            }
+        }
+    ],
+    "yelping_AJ0_𐑘𐑧𐑤𐑐𐑦𐑙": [
+        {
+            "Latn": "yelping",
+            "Shaw": "𐑘𐑧𐑤𐑐𐑦𐑙",
+            "pos": "AJ0",
+            "ipa": "ˈjelpɪŋ",
+            "freq": 90,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yelping",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑧𐑤𐑐𐑦𐑙"
+            }
+        }
+    ],
+    "yemen_NP0_𐑘𐑧𐑥𐑩𐑯": [
+        {
+            "Latn": "yemen",
+            "Shaw": "𐑘𐑧𐑥𐑩𐑯",
+            "pos": "NP0",
+            "ipa": "ˈjemən",
+            "freq": 721,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yemen",
+                "pos": "NP0",
+                "Shaw": "𐑘𐑧𐑥𐑩𐑯"
+            }
+        }
+    ],
+    "yemeni_AJ0_𐑘𐑧𐑥𐑩𐑯𐑦": [
+        {
+            "Latn": "yemeni",
+            "Shaw": "𐑘𐑧𐑥𐑩𐑯𐑦",
+            "pos": "AJ0",
+            "ipa": "ˈjeməni",
+            "freq": 80,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yemeni",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑧𐑥𐑩𐑯𐑦"
+            }
+        }
+    ],
+    "yemeni_NN1_𐑘𐑧𐑥𐑩𐑯𐑦": [
+        {
+            "Latn": "yemeni",
+            "Shaw": "𐑘𐑧𐑥𐑩𐑯𐑦",
+            "pos": "NN1",
+            "ipa": "ˈjeməni",
+            "freq": 3,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yemeni",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑧𐑥𐑩𐑯𐑦"
+            }
+        },
+        {
+            "Latn": "yemenis",
+            "Shaw": "𐑘𐑧𐑥𐑩𐑯𐑦𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjeməniz",
+            "freq": 11,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yemeni",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑧𐑥𐑩𐑯𐑦"
+            }
+        }
+    ],
+    "yen_NN0_𐑘𐑧𐑯": [
+        {
+            "Latn": "yen",
+            "Shaw": "𐑘𐑧𐑯",
+            "pos": "NN0",
+            "ipa": "jen",
+            "freq": 7723,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yen",
+                "pos": "NN0",
+                "Shaw": "𐑘𐑧𐑯"
+            }
+        }
+    ],
+    "yen_VVI_𐑘𐑧𐑯": [
+        {
+            "Latn": "yen",
+            "Shaw": "𐑘𐑧𐑯",
+            "pos": "VVI",
+            "ipa": "jen",
+            "freq": 18,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yen",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑧𐑯"
+            }
+        },
+        {
+            "Latn": "yen",
+            "Shaw": "𐑘𐑧𐑯",
+            "pos": "VVB",
+            "ipa": "jen",
+            "freq": 474,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yen",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑧𐑯"
+            }
+        },
+        {
+            "Latn": "yens",
+            "Shaw": "𐑘𐑧𐑯𐑟",
+            "pos": "VVZ",
+            "ipa": "jenz",
+            "freq": 161,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yen",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑧𐑯"
+            }
+        },
+        {
+            "Latn": "yenning",
+            "Shaw": "𐑘𐑧𐑯𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈjenɪŋ",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yen",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑧𐑯"
+            }
+        },
+        {
+            "Latn": "yenned",
+            "Shaw": "𐑘𐑧𐑯𐑛",
+            "pos": "VVN",
+            "ipa": "jend",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yen",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑧𐑯"
+            }
+        },
+        {
+            "Latn": "yenned",
+            "Shaw": "𐑘𐑧𐑯𐑛",
+            "pos": "VVD",
+            "ipa": "jend",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yen",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑧𐑯"
+            }
+        }
+    ],
+    "yeoman_NN1_𐑘𐑴𐑥𐑩𐑯": [
+        {
+            "Latn": "yeoman",
+            "Shaw": "𐑘𐑴𐑥𐑩𐑯",
+            "pos": "NN1",
+            "ipa": "ˈjəʊmən",
+            "freq": 334,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yeoman",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑴𐑥𐑩𐑯"
+            }
+        },
+        {
+            "Latn": "yeomen",
+            "Shaw": "𐑘𐑴𐑥𐑧𐑯",
+            "pos": "NN2",
+            "ipa": "ˈjəʊmen",
+            "freq": 52,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yeoman",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑴𐑥𐑩𐑯"
+            }
+        }
+    ],
+    "yeomanry_NN1_𐑘𐑴𐑥𐑩𐑯𐑮𐑦": [
+        {
+            "Latn": "yeomanry",
+            "Shaw": "𐑘𐑴𐑥𐑩𐑯𐑮𐑦",
+            "pos": "NN1",
+            "ipa": "ˈjəʊmənri",
+            "freq": 62,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yeomanry",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑴𐑥𐑩𐑯𐑮𐑦"
+            }
+        },
+        {
+            "Latn": "yeomanries",
+            "Shaw": "𐑘𐑴𐑥𐑩𐑯𐑮𐑦𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjəʊmənriz",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yeomanry",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑴𐑥𐑩𐑯𐑮𐑦"
+            }
+        }
+    ],
+    "yeovil_NP0_𐑘𐑴𐑝𐑦𐑤": [
+        {
+            "Latn": "yeovil",
+            "Shaw": "𐑘𐑴𐑝𐑦𐑤",
+            "pos": "NP0",
+            "ipa": "ˈjəʊvɪl",
+            "freq": 21,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yeovil",
+                "pos": "NP0",
+                "Shaw": "𐑘𐑴𐑝𐑦𐑤"
+            }
+        }
+    ],
+    "yep_ITJ_𐑘𐑧𐑐": [
+        {
+            "Latn": "yep",
+            "Shaw": "𐑘𐑧𐑐",
+            "pos": "ITJ",
+            "ipa": "jep",
+            "freq": 45096,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yep",
+                "pos": "ITJ",
+                "Shaw": "𐑘𐑧𐑐"
+            }
+        }
+    ],
+    "yerevan_NP0_𐑘𐑧𐑮𐑦𐑝𐑭𐑯": [
+        {
+            "Latn": "yerevan",
+            "Shaw": "𐑘𐑧𐑮𐑦𐑝𐑭𐑯",
+            "pos": "NP0",
+            "ipa": "ˌjerɪˈvɑːn",
+            "freq": 46,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yerevan",
+                "pos": "NP0",
+                "Shaw": "𐑘𐑧𐑮𐑦𐑝𐑭𐑯"
+            }
+        }
+    ],
+    "yes_ITJ_𐑘𐑧𐑕": [
+        {
+            "Latn": "yes",
+            "Shaw": "𐑘𐑧𐑕",
+            "pos": "ITJ",
+            "ipa": "jes",
+            "freq": 1634050,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yes",
+                "pos": "ITJ",
+                "Shaw": "𐑘𐑧𐑕"
+            }
+        }
+    ],
+    "yes_NN1_𐑘𐑧𐑕": [
+        {
+            "Latn": "yes",
+            "Shaw": "𐑘𐑧𐑕",
+            "pos": "NN1",
+            "ipa": "jes",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yes",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑧𐑕"
+            }
+        },
+        {
+            "Latn": "yeses",
+            "Shaw": "𐑘𐑧𐑕𐑩𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjesƏz",
+            "freq": 264,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yes",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑧𐑕"
+            }
+        }
+    ],
+    "yester-_PRE_𐑘𐑧𐑕𐑑𐑼-": [
+        {
+            "Latn": "yester-",
+            "Shaw": "𐑘𐑧𐑕𐑑𐑼-",
+            "pos": "PRE",
+            "ipa": "ˈjestəR-",
+            "freq": 3,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yester-",
+                "pos": "PRE",
+                "Shaw": "𐑘𐑧𐑕𐑑𐑼-"
+            }
+        }
+    ],
+    "yesterday_AV0_𐑘𐑧𐑕𐑑𐑼𐑛𐑱": [
+        {
+            "Latn": "yesterday",
+            "Shaw": "𐑘𐑧𐑕𐑑𐑼𐑛𐑱",
+            "pos": "AV0",
+            "ipa": "ˈjestəRdeɪ",
+            "freq": 83617,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yesterday",
+                "pos": "AV0",
+                "Shaw": "𐑘𐑧𐑕𐑑𐑼𐑛𐑱"
+            }
+        }
+    ],
+    "yesterday_NN1_𐑘𐑧𐑕𐑑𐑼𐑛𐑱": [
+        {
+            "Latn": "yesterday",
+            "Shaw": "𐑘𐑧𐑕𐑑𐑼𐑛𐑱",
+            "pos": "NN1",
+            "ipa": "ˈjestəRdeɪ",
+            "freq": 206,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yesterday",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑧𐑕𐑑𐑼𐑛𐑱"
+            }
+        },
+        {
+            "Latn": "yesterdays",
+            "Shaw": "𐑘𐑧𐑕𐑑𐑼𐑛𐑱𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjestəRdeɪz",
+            "freq": 173,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yesterday",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑧𐑕𐑑𐑼𐑛𐑱"
+            }
+        }
+    ],
+    "yesternight_NN1_𐑘𐑧𐑕𐑑𐑼𐑯𐑲𐑑": [
+        {
+            "Latn": "yesternight",
+            "Shaw": "𐑘𐑧𐑕𐑑𐑼𐑯𐑲𐑑",
+            "pos": "NN1",
+            "ipa": "ˈjestəRnaɪt",
+            "freq": 21,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yesternight",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑧𐑕𐑑𐑼𐑯𐑲𐑑"
+            }
+        }
+    ],
+    "yet_AV0_𐑘𐑧𐑑": [
+        {
+            "Latn": "yet",
+            "Shaw": "𐑘𐑧𐑑",
+            "pos": "AV0",
+            "ipa": "jet",
+            "freq": 257229,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yet",
+                "pos": "AV0",
+                "Shaw": "𐑘𐑧𐑑"
+            }
+        }
+    ],
+    "yet_CJS_𐑘𐑧𐑑": [
+        {
+            "Latn": "yet",
+            "Shaw": "𐑘𐑧𐑑",
+            "pos": "CJS",
+            "ipa": "jet",
+            "freq": 718,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yet",
+                "pos": "CJS",
+                "Shaw": "𐑘𐑧𐑑"
+            }
+        }
+    ],
+    "yeti_NN1_𐑘𐑧𐑑𐑦": [
+        {
+            "Latn": "yeti",
+            "Shaw": "𐑘𐑧𐑑𐑦",
+            "pos": "NN1",
+            "ipa": "ˈjeti",
+            "freq": 810,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yeti",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑧𐑑𐑦"
+            }
+        },
+        {
+            "Latn": "yetis",
+            "Shaw": "𐑘𐑧𐑑𐑦𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjetiz",
+            "freq": 58,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yeti",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑧𐑑𐑦"
+            }
+        }
+    ],
+    "yevgeny_NP0_𐑘𐑧𐑝𐑜𐑧𐑯𐑦": [
+        {
+            "Latn": "yevgeny",
+            "Shaw": "𐑘𐑧𐑝𐑜𐑧𐑯𐑦",
+            "pos": "NP0",
+            "ipa": "yevˈɡeni",
+            "freq": 225,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yevgeny",
+                "pos": "NP0",
+                "Shaw": "𐑘𐑧𐑝𐑜𐑧𐑯𐑦"
+            }
+        }
+    ],
+    "yew-tree_NN1_𐑿-𐑑𐑮𐑰": [
+        {
+            "Latn": "yew-tree",
+            "Shaw": "𐑿-𐑑𐑮𐑰",
+            "pos": "NN1",
+            "ipa": "ˈjuː-triː",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yew-tree",
+                "pos": "NN1",
+                "Shaw": "𐑿-𐑑𐑮𐑰"
+            }
+        },
+        {
+            "Latn": "yew-trees",
+            "Shaw": "𐑿-𐑑𐑮𐑰𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjuː-triːz",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yew-tree",
+                "pos": "NN1",
+                "Shaw": "𐑿-𐑑𐑮𐑰"
+            }
+        }
+    ],
+    "yew_NN1_𐑿": [
+        {
+            "Latn": "yew",
+            "Shaw": "𐑿",
+            "pos": "NN1",
+            "ipa": "juː",
+            "freq": 192,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yew",
+                "pos": "NN1",
+                "Shaw": "𐑿"
+            }
+        },
+        {
+            "Latn": "yews",
+            "Shaw": "𐑿𐑟",
+            "pos": "NN2",
+            "ipa": "juːz",
+            "freq": 14,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yew",
+                "pos": "NN1",
+                "Shaw": "𐑿"
+            }
+        }
+    ],
+    "yha_NN1_𐑢𐑲𐑱𐑗𐑱": [
+        {
+            "Latn": "yha",
+            "Shaw": "𐑢𐑲𐑱𐑗𐑱",
+            "pos": "NN1",
+            "ipa": "ˌwaɪˌeɪˈtʃeɪ",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yha",
+                "pos": "NN1",
+                "Shaw": "𐑢𐑲𐑱𐑗𐑱"
+            }
+        }
+    ],
+    "yha_NP0_𐑢𐑲𐑱𐑗𐑱": [
+        {
+            "Latn": "yha",
+            "Shaw": "𐑢𐑲𐑱𐑗𐑱",
+            "pos": "NP0",
+            "ipa": "ˌwaɪˌeɪˈtʃeɪ",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yha",
+                "pos": "NP0",
+                "Shaw": "𐑢𐑲𐑱𐑗𐑱"
+            }
+        }
+    ],
+    "yiddish_AJ0_𐑘𐑦𐑛𐑦𐑖": [
+        {
+            "Latn": "yiddish",
+            "Shaw": "𐑘𐑦𐑛𐑦𐑖",
+            "pos": "AJ0",
+            "ipa": "ˈjɪdɪʃ",
+            "freq": 714,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yiddish",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑦𐑛𐑦𐑖"
+            }
+        }
+    ],
+    "yiddish_NN1_𐑘𐑦𐑛𐑦𐑖": [
+        {
+            "Latn": "yiddish",
+            "Shaw": "𐑘𐑦𐑛𐑦𐑖",
+            "pos": "NN1",
+            "ipa": "ˈjɪdɪʃ",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yiddish",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑦𐑛𐑦𐑖"
+            }
+        }
+    ],
+    "yield_NN1_𐑘𐑰𐑤𐑛": [
+        {
+            "Latn": "yield",
+            "Shaw": "𐑘𐑰𐑤𐑛",
+            "pos": "NN1",
+            "ipa": "jiːld",
+            "freq": 1636,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yield",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑰𐑤𐑛"
+            }
+        },
+        {
+            "Latn": "yields",
+            "Shaw": "𐑘𐑰𐑤𐑛𐑟",
+            "pos": "NN2",
+            "ipa": "jiːldz",
+            "freq": 294,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yield",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑰𐑤𐑛"
+            }
+        }
+    ],
+    "yield_VVI_𐑘𐑰𐑤𐑛": [
+        {
+            "Latn": "yield",
+            "Shaw": "𐑘𐑰𐑤𐑛",
+            "pos": "VVI",
+            "ipa": "jiːld",
+            "freq": 1152,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yield",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑰𐑤𐑛"
+            }
+        },
+        {
+            "Latn": "yield",
+            "Shaw": "𐑘𐑰𐑤𐑛",
+            "pos": "VVB",
+            "ipa": "jiːld",
+            "freq": 271,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yield",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑰𐑤𐑛"
+            }
+        },
+        {
+            "Latn": "yields",
+            "Shaw": "𐑘𐑰𐑤𐑛𐑟",
+            "pos": "VVZ",
+            "ipa": "jiːldz",
+            "freq": 229,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yield",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑰𐑤𐑛"
+            }
+        },
+        {
+            "Latn": "yielding",
+            "Shaw": "𐑘𐑰𐑤𐑛𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈjiːldɪŋ",
+            "freq": 254,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yield",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑰𐑤𐑛"
+            }
+        },
+        {
+            "Latn": "yielded",
+            "Shaw": "𐑘𐑰𐑤𐑛𐑩𐑛",
+            "pos": "VVN",
+            "ipa": "ˈjiːldƏd",
+            "freq": 230,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yield",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑰𐑤𐑛"
+            }
+        },
+        {
+            "Latn": "yielded",
+            "Shaw": "𐑘𐑰𐑤𐑛𐑩𐑛",
+            "pos": "VVD",
+            "ipa": "ˈjiːldƏd",
+            "freq": 348,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yield",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑰𐑤𐑛"
+            }
+        }
+    ],
+    "yielding_AJ0_𐑘𐑰𐑤𐑛𐑦𐑙": [
+        {
+            "Latn": "yielding",
+            "Shaw": "𐑘𐑰𐑤𐑛𐑦𐑙",
+            "pos": "AJ0",
+            "ipa": "ˈjiːldɪŋ",
+            "freq": 104,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yielding",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑰𐑤𐑛𐑦𐑙"
+            }
+        }
+    ],
+    "yieldingly_AV0_𐑘𐑰𐑤𐑛𐑦𐑙𐑤𐑦": [
+        {
+            "Latn": "yieldingly",
+            "Shaw": "𐑘𐑰𐑤𐑛𐑦𐑙𐑤𐑦",
+            "pos": "AV0",
+            "ipa": "ˈjiːldɪŋli",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yieldingly",
+                "pos": "AV0",
+                "Shaw": "𐑘𐑰𐑤𐑛𐑦𐑙𐑤𐑦"
+            }
+        }
+    ],
+    "yippee_ITJ_𐑘𐑦𐑐𐑰": [
+        {
+            "Latn": "yippee",
+            "Shaw": "𐑘𐑦𐑐𐑰",
+            "pos": "ITJ",
+            "ipa": "ˈjɪpiː",
+            "freq": 812,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yippee",
+                "pos": "ITJ",
+                "Shaw": "𐑘𐑦𐑐𐑰"
+            }
+        }
+    ],
+    "ymca_NP0_𐑢𐑲𐑧𐑥𐑕𐑰𐑱": [
+        {
+            "Latn": "ymca",
+            "Shaw": "𐑢𐑲𐑧𐑥𐑕𐑰𐑱",
+            "pos": "NP0",
+            "ipa": "ˌwaɪemsiːˈeɪ",
+            "freq": 419,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "ymca",
+                "pos": "NP0",
+                "Shaw": "𐑢𐑲𐑧𐑥𐑕𐑰𐑱"
+            }
+        }
+    ],
+    "yo-heave-ho_ITJ_𐑘𐑴-𐑣𐑰𐑝-𐑣𐑴": [
+        {
+            "Latn": "yo-heave-ho",
+            "Shaw": "𐑘𐑴-𐑣𐑰𐑝-𐑣𐑴",
+            "pos": "ITJ",
+            "ipa": "ˌjəʊ-ˈhiːv-həʊ",
+            "freq": 11,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yo-heave-ho",
+                "pos": "ITJ",
+                "Shaw": "𐑘𐑴-𐑣𐑰𐑝-𐑣𐑴"
+            }
+        }
+    ],
+    "yo-yo_NN1_𐑘𐑴-𐑘𐑴": [
+        {
+            "Latn": "yo-yo",
+            "Shaw": "𐑘𐑴-𐑘𐑴",
+            "pos": "NN1",
+            "ipa": "ˈjəʊ-jəʊ",
+            "freq": 883,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yo-yo",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑴-𐑘𐑴"
+            }
+        },
+        {
+            "Latn": "yo-yos",
+            "Shaw": "𐑘𐑴-𐑘𐑴𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjəʊ-jəʊz",
+            "freq": 125,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yo-yo",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑴-𐑘𐑴"
+            }
+        }
+    ],
+    "yob_NN1_𐑘𐑪𐑚": [
+        {
+            "Latn": "yob",
+            "Shaw": "𐑘𐑪𐑚",
+            "pos": "NN1",
+            "ipa": "jɒb",
+            "freq": 81,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yob",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑪𐑚"
+            }
+        },
+        {
+            "Latn": "yobs",
+            "Shaw": "𐑘𐑪𐑚𐑟",
+            "pos": "NN2",
+            "ipa": "jɒbz",
+            "freq": 62,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yob",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑪𐑚"
+            }
+        }
+    ],
+    "yobo_NN1_𐑘𐑪𐑚𐑴": [
+        {
+            "Latn": "yobo",
+            "Shaw": "𐑘𐑪𐑚𐑴",
+            "pos": "NN1",
+            "ipa": "ˈjɒbəʊ",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yobo",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑪𐑚𐑴"
+            }
+        },
+        {
+            "Latn": "yobos",
+            "Shaw": "𐑘𐑪𐑚𐑴𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjɒbəʊz",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yobo",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑪𐑚𐑴"
+            }
+        }
+    ],
+    "yodel_NN1_𐑘𐑴𐑛𐑩𐑤": [
+        {
+            "Latn": "yodel",
+            "Shaw": "𐑘𐑴𐑛𐑩𐑤",
+            "pos": "NN1",
+            "ipa": "ˈjəʊdəl",
+            "freq": 176,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yodel",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑴𐑛𐑩𐑤"
+            }
+        },
+        {
+            "Latn": "yodels",
+            "Shaw": "𐑘𐑴𐑛𐑩𐑤𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjəʊdəlz",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yodel",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑴𐑛𐑩𐑤"
+            }
+        }
+    ],
+    "yodel_VVI_𐑘𐑴𐑛𐑩𐑤": [
+        {
+            "Latn": "yodel",
+            "Shaw": "𐑘𐑴𐑛𐑩𐑤",
+            "pos": "VVI",
+            "ipa": "ˈjəʊdəl",
+            "freq": 35,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yodel",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑴𐑛𐑩𐑤"
+            }
+        },
+        {
+            "Latn": "yodel",
+            "Shaw": "𐑘𐑴𐑛𐑩𐑤",
+            "pos": "VVB",
+            "ipa": "ˈjəʊdəl",
+            "freq": 35,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yodel",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑴𐑛𐑩𐑤"
+            }
+        },
+        {
+            "Latn": "yodels",
+            "Shaw": "𐑘𐑴𐑛𐑩𐑤𐑟",
+            "pos": "VVZ",
+            "ipa": "ˈjəʊdəlz",
+            "freq": 63,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yodel",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑴𐑛𐑩𐑤"
+            }
+        },
+        {
+            "Latn": "yodelling",
+            "Shaw": "𐑘𐑴𐑛𐑩𐑤𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈjəʊdəlɪŋ",
+            "freq": 69,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yodel",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑴𐑛𐑩𐑤"
+            }
+        },
+        {
+            "Latn": "yodelled",
+            "Shaw": "𐑘𐑴𐑛𐑩𐑤𐑛",
+            "pos": "VVN",
+            "ipa": "ˈjəʊdəld",
+            "freq": 6,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yodel",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑴𐑛𐑩𐑤"
+            }
+        },
+        {
+            "Latn": "yodelled",
+            "Shaw": "𐑘𐑴𐑛𐑩𐑤𐑛",
+            "pos": "VVD",
+            "ipa": "ˈjəʊdəld",
+            "freq": 6,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yodel",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑴𐑛𐑩𐑤"
+            }
+        }
+    ],
+    "yodeller_NN1_𐑘𐑴𐑛𐑤𐑼": [
+        {
+            "Latn": "yodeller",
+            "Shaw": "𐑘𐑴𐑛𐑤𐑼",
+            "pos": "NN1",
+            "ipa": "ˈjəʊdləR",
+            "freq": 24,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yodeller",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑴𐑛𐑤𐑼"
+            }
+        },
+        {
+            "Latn": "yodellers",
+            "Shaw": "𐑘𐑴𐑛𐑤𐑼𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjəʊdləRz",
+            "freq": 3,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yodeller",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑴𐑛𐑤𐑼"
+            }
+        }
+    ],
+    "yodelling_AJ0_𐑘𐑴𐑛𐑩𐑤𐑦𐑙": [
+        {
+            "Latn": "yodelling",
+            "Shaw": "𐑘𐑴𐑛𐑩𐑤𐑦𐑙",
+            "pos": "AJ0",
+            "ipa": "ˈjəʊdəlɪŋ",
+            "freq": 206,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yodelling",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑴𐑛𐑩𐑤𐑦𐑙"
+            }
+        }
+    ],
+    "yoga_NN1_𐑘𐑴𐑜𐑩": [
+        {
+            "Latn": "yoga",
+            "Shaw": "𐑘𐑴𐑜𐑩",
+            "pos": "NN1",
+            "ipa": "ˈjəʊɡə",
+            "freq": 4906,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yoga",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑴𐑜𐑩"
+            }
+        }
+    ],
+    "yoghourt_NN1_𐑘𐑴𐑜𐑼𐑑": [
+        {
+            "Latn": "yoghourt",
+            "Shaw": "𐑘𐑴𐑜𐑼𐑑",
+            "pos": "NN1",
+            "ipa": "ˈjəʊɡəRt",
+            "freq": 10,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yoghourt",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑴𐑜𐑼𐑑"
+            }
+        },
+        {
+            "Latn": "yoghourts",
+            "Shaw": "𐑘𐑴𐑜𐑼𐑑𐑕",
+            "pos": "NN2",
+            "ipa": "ˈjəʊɡəRts",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yoghourt",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑴𐑜𐑼𐑑"
+            }
+        }
+    ],
+    "yoghurt_NN1_𐑘𐑴𐑜𐑼𐑑": [
+        {
+            "Latn": "yoghurt",
+            "Shaw": "𐑘𐑴𐑜𐑼𐑑",
+            "pos": "NN1",
+            "ipa": "ˈjəʊɡəRt",
+            "freq": 686,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yoghurt",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑴𐑜𐑼𐑑"
+            }
+        },
+        {
+            "Latn": "yoghurts",
+            "Shaw": "𐑘𐑴𐑜𐑼𐑑𐑕",
+            "pos": "NN2",
+            "ipa": "ˈjəʊɡəRts",
+            "freq": 35,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yoghurt",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑴𐑜𐑼𐑑"
+            }
+        }
+    ],
+    "yogi_NN1_𐑘𐑴𐑜𐑦": [
+        {
+            "Latn": "yogi",
+            "Shaw": "𐑘𐑴𐑜𐑦",
+            "pos": "NN1",
+            "ipa": "ˈjəʊɡi",
+            "freq": 983,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yogi",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑴𐑜𐑦"
+            }
+        },
+        {
+            "Latn": "yogis",
+            "Shaw": "𐑘𐑴𐑜𐑦𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjəʊɡiz",
+            "freq": 59,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yogi",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑴𐑜𐑦"
+            }
+        }
+    ],
+    "yogurt_NN1_𐑘𐑪𐑜𐑼𐑑": [
+        {
+            "Latn": "yogurt",
+            "Shaw": "𐑘𐑪𐑜𐑼𐑑",
+            "pos": "NN1",
+            "ipa": "ˈjɒɡəRt",
+            "freq": 2874,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yogurt",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑪𐑜𐑼𐑑"
+            }
+        },
+        {
+            "Latn": "yogurts",
+            "Shaw": "𐑘𐑪𐑜𐑼𐑑𐑕",
+            "pos": "NN2",
+            "ipa": "ˈjɒɡəRts",
+            "freq": 92,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yogurt",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑪𐑜𐑼𐑑"
+            }
+        }
+    ],
+    "yoke_NN1_𐑘𐑴𐑒": [
+        {
+            "Latn": "yoke",
+            "Shaw": "𐑘𐑴𐑒",
+            "pos": "NN1",
+            "ipa": "jəʊk",
+            "freq": 534,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yoke",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑴𐑒"
+            }
+        },
+        {
+            "Latn": "yokes",
+            "Shaw": "𐑘𐑴𐑒𐑕",
+            "pos": "NN2",
+            "ipa": "jəʊks",
+            "freq": 60,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yoke",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑴𐑒"
+            }
+        }
+    ],
+    "yoke_VVI_𐑘𐑴𐑒": [
+        {
+            "Latn": "yoke",
+            "Shaw": "𐑘𐑴𐑒",
+            "pos": "VVI",
+            "ipa": "jəʊk",
+            "freq": 32,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yoke",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑴𐑒"
+            }
+        },
+        {
+            "Latn": "yoke",
+            "Shaw": "𐑘𐑴𐑒",
+            "pos": "VVB",
+            "ipa": "jəʊk",
+            "freq": 19,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yoke",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑴𐑒"
+            }
+        },
+        {
+            "Latn": "yokes",
+            "Shaw": "𐑘𐑴𐑒𐑕",
+            "pos": "VVZ",
+            "ipa": "jəʊks",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yoke",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑴𐑒"
+            }
+        },
+        {
+            "Latn": "yoking",
+            "Shaw": "𐑘𐑴𐑒𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈjəʊkɪŋ",
+            "freq": 4,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yoke",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑴𐑒"
+            }
+        },
+        {
+            "Latn": "yoked",
+            "Shaw": "𐑘𐑴𐑒𐑑",
+            "pos": "VVN",
+            "ipa": "jəʊkt",
+            "freq": 49,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yoke",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑴𐑒"
+            }
+        },
+        {
+            "Latn": "yoked",
+            "Shaw": "𐑘𐑴𐑒𐑑",
+            "pos": "VVD",
+            "ipa": "jəʊkt",
+            "freq": 18,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yoke",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑴𐑒"
+            }
+        }
+    ],
+    "yoked_AJ0_𐑘𐑴𐑒𐑑": [
+        {
+            "Latn": "yoked",
+            "Shaw": "𐑘𐑴𐑒𐑑",
+            "pos": "AJ0",
+            "ipa": "jəʊkt",
+            "freq": 28,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yoked",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑴𐑒𐑑"
+            }
+        }
+    ],
+    "yokel_NN1_𐑘𐑴𐑒𐑩𐑤": [
+        {
+            "Latn": "yokel",
+            "Shaw": "𐑘𐑴𐑒𐑩𐑤",
+            "pos": "NN1",
+            "ipa": "ˈjəʊkəl",
+            "freq": 236,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yokel",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑴𐑒𐑩𐑤"
+            }
+        },
+        {
+            "Latn": "yokels",
+            "Shaw": "𐑘𐑴𐑒𐑩𐑤𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjəʊkəlz",
+            "freq": 220,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yokel",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑴𐑒𐑩𐑤"
+            }
+        }
+    ],
+    "yokohama_NP0_𐑘𐑴𐑒𐑩𐑣𐑭𐑥𐑩": [
+        {
+            "Latn": "yokohama",
+            "Shaw": "𐑘𐑴𐑒𐑩𐑣𐑭𐑥𐑩",
+            "pos": "NP0",
+            "ipa": "ˌjəʊkəˈhɑːmə",
+            "freq": 774,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yokohama",
+                "pos": "NP0",
+                "Shaw": "𐑘𐑴𐑒𐑩𐑣𐑭𐑥𐑩"
+            }
+        }
+    ],
+    "yolk_NN1_𐑘𐑴𐑒": [
+        {
+            "Latn": "yolk",
+            "Shaw": "𐑘𐑴𐑒",
+            "pos": "NN1",
+            "ipa": "jəʊk",
+            "freq": 529,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yolk",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑴𐑒"
+            }
+        },
+        {
+            "Latn": "yolks",
+            "Shaw": "𐑘𐑴𐑒𐑕",
+            "pos": "NN2",
+            "ipa": "jəʊks",
+            "freq": 210,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yolk",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑴𐑒"
+            }
+        }
+    ],
+    "yon_AJ0_𐑘𐑪𐑯": [
+        {
+            "Latn": "yon",
+            "Shaw": "𐑘𐑪𐑯",
+            "pos": "AJ0",
+            "ipa": "jɒn",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yon",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑪𐑯"
+            }
+        }
+    ],
+    "yon_AV0_𐑘𐑪𐑯": [
+        {
+            "Latn": "yon",
+            "Shaw": "𐑘𐑪𐑯",
+            "pos": "AV0",
+            "ipa": "jɒn",
+            "freq": 35,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yon",
+                "pos": "AV0",
+                "Shaw": "𐑘𐑪𐑯"
+            }
+        }
+    ],
+    "yon_DT0_𐑘𐑪𐑯": [
+        {
+            "Latn": "yon",
+            "Shaw": "𐑘𐑪𐑯",
+            "pos": "DT0",
+            "ipa": "jɒn",
+            "freq": 708,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yon",
+                "pos": "DT0",
+                "Shaw": "𐑘𐑪𐑯"
+            }
+        }
+    ],
+    "yonder_AJ0_𐑘𐑪𐑯𐑛𐑼": [
+        {
+            "Latn": "yonder",
+            "Shaw": "𐑘𐑪𐑯𐑛𐑼",
+            "pos": "AJ0",
+            "ipa": "ˈjɒndəR",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yonder",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑪𐑯𐑛𐑼"
+            }
+        }
+    ],
+    "yonder_AV0_𐑘𐑪𐑯𐑛𐑼": [
+        {
+            "Latn": "yonder",
+            "Shaw": "𐑘𐑪𐑯𐑛𐑼",
+            "pos": "AV0",
+            "ipa": "ˈjɒndəR",
+            "freq": 1318,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yonder",
+                "pos": "AV0",
+                "Shaw": "𐑘𐑪𐑯𐑛𐑼"
+            }
+        }
+    ],
+    "yonder_DT0_𐑘𐑪𐑯𐑛𐑼": [
+        {
+            "Latn": "yonder",
+            "Shaw": "𐑘𐑪𐑯𐑛𐑼",
+            "pos": "DT0",
+            "ipa": "ˈjɒndəR",
+            "freq": 300,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yonder",
+                "pos": "DT0",
+                "Shaw": "𐑘𐑪𐑯𐑛𐑼"
+            }
+        }
+    ],
+    "yore_NN1_𐑘𐑹": [
+        {
+            "Latn": "yore",
+            "Shaw": "𐑘𐑹",
+            "pos": "NN1",
+            "ipa": "jɔːR",
+            "freq": 304,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yore",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑹"
+            }
+        }
+    ],
+    "york_NP0_𐑘𐑹𐑒": [
+        {
+            "Latn": "york",
+            "Shaw": "𐑘𐑹𐑒",
+            "pos": "NP0",
+            "ipa": "jɔːRk",
+            "freq": 65880,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "york",
+                "pos": "NP0",
+                "Shaw": "𐑘𐑹𐑒"
+            }
+        }
+    ],
+    "yorker_NN1_𐑘𐑹𐑒𐑼": [
+        {
+            "Latn": "yorker",
+            "Shaw": "𐑘𐑹𐑒𐑼",
+            "pos": "NN1",
+            "ipa": "ˈjɔːRkəR",
+            "freq": 971,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yorker",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑹𐑒𐑼"
+            }
+        },
+        {
+            "Latn": "yorkers",
+            "Shaw": "𐑘𐑹𐑒𐑼𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjɔːRkəRz",
+            "freq": 641,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yorker",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑹𐑒𐑼"
+            }
+        }
+    ],
+    "yorkley_NP0_𐑘𐑹𐑒𐑤𐑦": [
+        {
+            "Latn": "yorkley",
+            "Shaw": "𐑘𐑹𐑒𐑤𐑦",
+            "pos": "NP0",
+            "ipa": "ˈjɔːRkli",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yorkley",
+                "pos": "NP0",
+                "Shaw": "𐑘𐑹𐑒𐑤𐑦"
+            }
+        }
+    ],
+    "yorkshire_NP0_𐑘𐑹𐑒𐑖𐑼": [
+        {
+            "Latn": "yorkshire",
+            "Shaw": "𐑘𐑹𐑒𐑖𐑼",
+            "pos": "NP0",
+            "ipa": "ˈjɔːRkʃəR",
+            "freq": 1470,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yorkshire",
+                "pos": "NP0",
+                "Shaw": "𐑘𐑹𐑒𐑖𐑼"
+            }
+        }
+    ],
+    "you'd_PNP+VHD_𐑿𐑛": [
+        {
+            "Latn": "you'd",
+            "Shaw": "𐑿𐑛",
+            "pos": "PNP+VHD",
+            "ipa": "juːd",
+            "freq": 80796,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "you'd",
+                "pos": "PNP+VHD",
+                "Shaw": "𐑿𐑛"
+            }
+        }
+    ],
+    "you'd_PNP+VM0_𐑿𐑛": [
+        {
+            "Latn": "you'd",
+            "Shaw": "𐑿𐑛",
+            "pos": "PNP+VM0",
+            "ipa": "juːd",
+            "freq": 90542,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "you'd",
+                "pos": "PNP+VM0",
+                "Shaw": "𐑿𐑛"
+            }
+        }
+    ],
+    "you'll_PNP+VM0_𐑿𐑤": [
+        {
+            "Latn": "you'll",
+            "Shaw": "𐑿𐑤",
+            "pos": "PNP+VM0",
+            "ipa": "juːl",
+            "freq": 723445,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "you'll",
+                "pos": "PNP+VM0",
+                "Shaw": "𐑿𐑤"
+            }
+        }
+    ],
+    "you're_PNP+VBB_𐑿𐑼": [
+        {
+            "Latn": "you're",
+            "Shaw": "𐑿𐑼",
+            "pos": "PNP+VBB",
+            "ipa": "juː+əR",
+            "freq": 2331773,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "you're",
+                "pos": "PNP+VBB",
+                "Shaw": "𐑿𐑼"
+            }
+        }
+    ],
+    "you've_PNP+VHB_𐑿𐑝": [
+        {
+            "Latn": "you've",
+            "Shaw": "𐑿𐑝",
+            "pos": "PNP+VHB",
+            "ipa": "juːv",
+            "freq": 303839,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "you've",
+                "pos": "PNP+VHB",
+                "Shaw": "𐑿𐑝"
+            }
+        }
+    ],
+    "you_PNP_𐑿": [
+        {
+            "Latn": "you",
+            "Shaw": "𐑿",
+            "pos": "PNP",
+            "ipa": "juː",
+            "freq": 28787591,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "you",
+                "pos": "PNP",
+                "Shaw": "𐑿"
+            }
+        }
+    ],
+    "young_AJ0_𐑘𐑳𐑙": [
+        {
+            "Latn": "young",
+            "Shaw": "𐑘𐑳𐑙",
+            "pos": "AJ0",
+            "ipa": "jʌŋ",
+            "freq": 194810,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "young",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑳𐑙"
+            }
+        },
+        {
+            "Latn": "younger",
+            "Shaw": "𐑘𐑳𐑙𐑜𐑼",
+            "pos": "AJC",
+            "ipa": "ˈjʌŋɡəR",
+            "freq": 22961,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "young",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑳𐑙"
+            }
+        },
+        {
+            "Latn": "youngest",
+            "Shaw": "𐑘𐑳𐑙𐑜𐑩𐑕𐑑",
+            "pos": "AJS",
+            "ipa": "ˈjʌŋɡəst",
+            "freq": 5033,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "young",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑳𐑙"
+            }
+        }
+    ],
+    "young_NN1_𐑘𐑳𐑙": [
+        {
+            "Latn": "young",
+            "Shaw": "𐑘𐑳𐑙",
+            "pos": "NN1",
+            "ipa": "jʌŋ",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "young",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑳𐑙"
+            }
+        }
+    ],
+    "younge_NP0_𐑘𐑳𐑙": [
+        {
+            "Latn": "younge",
+            "Shaw": "𐑘𐑳𐑙",
+            "pos": "NP0",
+            "ipa": "jʌŋ",
+            "freq": 13,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "younge",
+                "pos": "NP0",
+                "Shaw": "𐑘𐑳𐑙"
+            }
+        }
+    ],
+    "youngish_AJ0_𐑘𐑳𐑙𐑦𐑖": [
+        {
+            "Latn": "youngish",
+            "Shaw": "𐑘𐑳𐑙𐑦𐑖",
+            "pos": "AJ0",
+            "ipa": "ˈjʌŋɪʃ",
+            "freq": 55,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "youngish",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑳𐑙𐑦𐑖"
+            }
+        }
+    ],
+    "youngster_NN1_𐑘𐑳𐑙𐑕𐑑𐑼": [
+        {
+            "Latn": "youngster",
+            "Shaw": "𐑘𐑳𐑙𐑕𐑑𐑼",
+            "pos": "NN1",
+            "ipa": "ˈjʌŋstəR",
+            "freq": 1246,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "youngster",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑳𐑙𐑕𐑑𐑼"
+            }
+        },
+        {
+            "Latn": "youngsters",
+            "Shaw": "𐑘𐑳𐑙𐑕𐑑𐑼𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjʌŋstəRz",
+            "freq": 2202,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "youngster",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑳𐑙𐑕𐑑𐑼"
+            }
+        }
+    ],
+    "your_AJ0_𐑘𐑹": [
+        {
+            "Latn": "your",
+            "Shaw": "𐑘𐑹",
+            "pos": "AJ0",
+            "ipa": "jɔːR",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "your",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑹"
+            }
+        }
+    ],
+    "your_DPS_𐑘𐑹": [
+        {
+            "Latn": "your",
+            "Shaw": "𐑘𐑹",
+            "pos": "DPS",
+            "ipa": "jɔːR",
+            "freq": 4610945,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "your",
+                "pos": "DPS",
+                "Shaw": "𐑘𐑹"
+            }
+        }
+    ],
+    "yours_AJ0_𐑘𐑹𐑟": [
+        {
+            "Latn": "yours",
+            "Shaw": "𐑘𐑹𐑟",
+            "pos": "AJ0",
+            "ipa": "jɔːRz",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yours",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑹𐑟"
+            }
+        }
+    ],
+    "yours_PNP_𐑘𐑹𐑟": [
+        {
+            "Latn": "yours",
+            "Shaw": "𐑘𐑹𐑟",
+            "pos": "PNP",
+            "ipa": "jɔːRz",
+            "freq": 140553,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yours",
+                "pos": "PNP",
+                "Shaw": "𐑘𐑹𐑟"
+            }
+        }
+    ],
+    "yourself_PNX_𐑘𐑹𐑕𐑧𐑤𐑓": [
+        {
+            "Latn": "yourself",
+            "Shaw": "𐑘𐑹𐑕𐑧𐑤𐑓",
+            "pos": "PNX",
+            "ipa": "jɔːRˈself",
+            "freq": 302013,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yourself",
+                "pos": "PNX",
+                "Shaw": "𐑘𐑹𐑕𐑧𐑤𐑓"
+            }
+        }
+    ],
+    "yourselves_PNX_𐑘𐑹𐑕𐑧𐑤𐑝𐑟": [
+        {
+            "Latn": "yourselves",
+            "Shaw": "𐑘𐑹𐑕𐑧𐑤𐑝𐑟",
+            "pos": "PNX",
+            "ipa": "jɔːRˈselvz",
+            "freq": 21282,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yourselves",
+                "pos": "PNX",
+                "Shaw": "𐑘𐑹𐑕𐑧𐑤𐑝𐑟"
+            }
+        }
+    ],
+    "youth_NN1_𐑿𐑔": [
+        {
+            "Latn": "youth",
+            "Shaw": "𐑿𐑔",
+            "pos": "NN1",
+            "ipa": "juːθ",
+            "freq": 17703,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "youth",
+                "pos": "NN1",
+                "Shaw": "𐑿𐑔"
+            }
+        },
+        {
+            "Latn": "youths",
+            "Shaw": "𐑿𐑞𐑟",
+            "pos": "NN2",
+            "ipa": "juːðz",
+            "freq": 855,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "youth",
+                "pos": "NN1",
+                "Shaw": "𐑿𐑔"
+            }
+        }
+    ],
+    "youthful_AJ0_𐑿𐑔𐑓𐑩𐑤": [
+        {
+            "Latn": "youthful",
+            "Shaw": "𐑿𐑔𐑓𐑩𐑤",
+            "pos": "AJ0",
+            "ipa": "ˈjuːθfəl",
+            "freq": 1550,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "youthful",
+                "pos": "AJ0",
+                "Shaw": "𐑿𐑔𐑓𐑩𐑤"
+            }
+        }
+    ],
+    "youthfully_AV0_𐑿𐑔𐑓𐑩𐑤𐑦": [
+        {
+            "Latn": "youthfully",
+            "Shaw": "𐑿𐑔𐑓𐑩𐑤𐑦",
+            "pos": "AV0",
+            "ipa": "ˈjuːθfəli",
+            "freq": 9,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "youthfully",
+                "pos": "AV0",
+                "Shaw": "𐑿𐑔𐑓𐑩𐑤𐑦"
+            }
+        }
+    ],
+    "youthfulness_NN1_𐑿𐑔𐑓𐑩𐑤𐑯𐑩𐑕": [
+        {
+            "Latn": "youthfulness",
+            "Shaw": "𐑿𐑔𐑓𐑩𐑤𐑯𐑩𐑕",
+            "pos": "NN1",
+            "ipa": "ˈjuːθfəlnəs",
+            "freq": 90,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "youthfulness",
+                "pos": "NN1",
+                "Shaw": "𐑿𐑔𐑓𐑩𐑤𐑯𐑩𐑕"
+            }
+        }
+    ],
+    "youtube_NP0_𐑿𐑑𐑿𐑚": [
+        {
+            "Latn": "youtube",
+            "Shaw": "𐑿𐑑𐑿𐑚",
+            "pos": "NP0",
+            "ipa": "ˈjuːtjuːb",
+            "freq": 2445,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "youtube",
+                "pos": "NP0",
+                "Shaw": "𐑿𐑑𐑿𐑚"
+            }
+        }
+    ],
+    "yowl_VVI_𐑘𐑬𐑤": [
+        {
+            "Latn": "yowl",
+            "Shaw": "𐑘𐑬𐑤",
+            "pos": "VVI",
+            "ipa": "jaʊl",
+            "freq": 34,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yowl",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑬𐑤"
+            }
+        },
+        {
+            "Latn": "yowl",
+            "Shaw": "𐑘𐑬𐑤",
+            "pos": "VVB",
+            "ipa": "jaʊl",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yowl",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑬𐑤"
+            }
+        },
+        {
+            "Latn": "yowls",
+            "Shaw": "𐑘𐑬𐑤𐑟",
+            "pos": "VVZ",
+            "ipa": "jaʊlz",
+            "freq": 290,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yowl",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑬𐑤"
+            }
+        },
+        {
+            "Latn": "yowling",
+            "Shaw": "𐑘𐑬𐑤𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "ˈjaʊlɪŋ",
+            "freq": 236,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yowl",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑬𐑤"
+            }
+        },
+        {
+            "Latn": "yowled",
+            "Shaw": "𐑘𐑬𐑤𐑛",
+            "pos": "VVN",
+            "ipa": "jaʊld",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yowl",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑬𐑤"
+            }
+        },
+        {
+            "Latn": "yowled",
+            "Shaw": "𐑘𐑬𐑤𐑛",
+            "pos": "VVD",
+            "ipa": "jaʊld",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yowl",
+                "pos": "VVI",
+                "Shaw": "𐑘𐑬𐑤"
+            }
+        }
+    ],
+    "yowling_AJ0_𐑘𐑬𐑤𐑦𐑙": [
+        {
+            "Latn": "yowling",
+            "Shaw": "𐑘𐑬𐑤𐑦𐑙",
+            "pos": "AJ0",
+            "ipa": "ˈjaʊlɪŋ",
+            "freq": 39,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yowling",
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑬𐑤𐑦𐑙"
+            }
+        }
+    ],
+    "yowza_ITJ_𐑘𐑬𐑟𐑩": [
+        {
+            "Latn": "yowza",
+            "Shaw": "𐑘𐑬𐑟𐑩",
+            "pos": "ITJ",
+            "ipa": "ˈjaʊzə",
+            "freq": 131,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yowza",
+                "pos": "ITJ",
+                "Shaw": "𐑘𐑬𐑟𐑩"
+            }
+        }
+    ],
+    "yr_NN0_𐑘𐑽": [
+        {
+            "Latn": "yr",
+            "Shaw": "𐑘𐑽",
+            "pos": "NN0",
+            "ipa": "jɪəR",
+            "freq": 170,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yr",
+                "pos": "NN0",
+                "Shaw": "𐑘𐑽"
+            }
+        }
+    ],
+    "ystradgynlais_NP0_𐑳𐑕𐑑𐑮𐑨𐑛𐑜𐑳𐑯𐑤𐑲𐑕": [
+        {
+            "Latn": "ystradgynlais",
+            "Shaw": "𐑳𐑕𐑑𐑮𐑨𐑛𐑜𐑳𐑯𐑤𐑲𐑕",
+            "pos": "NP0",
+            "ipa": "ˌʌstrædˈɡʌnlaɪs",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "ystradgynlais",
+                "pos": "NP0",
+                "Shaw": "𐑳𐑕𐑑𐑮𐑨𐑛𐑜𐑳𐑯𐑤𐑲𐑕"
+            }
+        }
+    ],
+    "ytterbium_NN1_𐑦𐑑𐑻𐑚𐑾𐑥": [
+        {
+            "Latn": "ytterbium",
+            "Shaw": "𐑦𐑑𐑻𐑚𐑾𐑥",
+            "pos": "NN1",
+            "ipa": "ɪˈtɜːRbiəm",
+            "freq": 9,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "ytterbium",
+                "pos": "NN1",
+                "Shaw": "𐑦𐑑𐑻𐑚𐑾𐑥"
+            }
+        }
+    ],
+    "yttrium_NN1_𐑦𐑑𐑮𐑾𐑥": [
+        {
+            "Latn": "yttrium",
+            "Shaw": "𐑦𐑑𐑮𐑾𐑥",
+            "pos": "NN1",
+            "ipa": "ˈɪtriəm",
+            "freq": 15,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yttrium",
+                "pos": "NN1",
+                "Shaw": "𐑦𐑑𐑮𐑾𐑥"
+            }
+        }
+    ],
+    "yugoslav_AJ0_𐑿𐑜𐑴𐑕𐑤𐑭𐑝": [
+        {
+            "Latn": "yugoslav",
+            "Shaw": "𐑿𐑜𐑴𐑕𐑤𐑭𐑝",
+            "pos": "AJ0",
+            "ipa": "ˈjuːɡəʊslɑːv",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yugoslav",
+                "pos": "AJ0",
+                "Shaw": "𐑿𐑜𐑴𐑕𐑤𐑭𐑝"
+            }
+        }
+    ],
+    "yugoslav_NN1_𐑿𐑜𐑴𐑕𐑤𐑭𐑝": [
+        {
+            "Latn": "yugoslav",
+            "Shaw": "𐑿𐑜𐑴𐑕𐑤𐑭𐑝",
+            "pos": "NN1",
+            "ipa": "ˈjuːɡəʊslɑːv",
+            "freq": 308,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yugoslav",
+                "pos": "NN1",
+                "Shaw": "𐑿𐑜𐑴𐑕𐑤𐑭𐑝"
+            }
+        },
+        {
+            "Latn": "yugoslavs",
+            "Shaw": "𐑿𐑜𐑴𐑕𐑤𐑭𐑝𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjuːɡəʊslɑːvz",
+            "freq": 65,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yugoslav",
+                "pos": "NN1",
+                "Shaw": "𐑿𐑜𐑴𐑕𐑤𐑭𐑝"
+            }
+        }
+    ],
+    "yugoslavia_NP0_𐑿𐑜𐑴𐑕𐑤𐑭𐑝𐑾": [
+        {
+            "Latn": "yugoslavia",
+            "Shaw": "𐑿𐑜𐑴𐑕𐑤𐑭𐑝𐑾",
+            "pos": "NP0",
+            "ipa": "ˌjuːɡəʊˈslɑːviə",
+            "freq": 1119,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yugoslavia",
+                "pos": "NP0",
+                "Shaw": "𐑿𐑜𐑴𐑕𐑤𐑭𐑝𐑾"
+            }
+        }
+    ],
+    "yugoslavian_AJ0_𐑿𐑜𐑴𐑕𐑤𐑭𐑝𐑾𐑯": [
+        {
+            "Latn": "yugoslavian",
+            "Shaw": "𐑿𐑜𐑴𐑕𐑤𐑭𐑝𐑾𐑯",
+            "pos": "AJ0",
+            "ipa": "ˌjuːɡəʊˈslɑːvɪən",
+            "freq": 174,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yugoslavian",
+                "pos": "AJ0",
+                "Shaw": "𐑿𐑜𐑴𐑕𐑤𐑭𐑝𐑾𐑯"
+            }
+        }
+    ],
+    "yugoslavian_NN1_𐑿𐑜𐑴𐑕𐑤𐑭𐑝𐑾𐑯": [
+        {
+            "Latn": "yugoslavian",
+            "Shaw": "𐑿𐑜𐑴𐑕𐑤𐑭𐑝𐑾𐑯",
+            "pos": "NN1",
+            "ipa": "ˌjuːɡəʊˈslɑːvɪən",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yugoslavian",
+                "pos": "NN1",
+                "Shaw": "𐑿𐑜𐑴𐑕𐑤𐑭𐑝𐑾𐑯"
+            }
+        },
+        {
+            "Latn": "yugoslavians",
+            "Shaw": "𐑿𐑜𐑴𐑕𐑤𐑭𐑝𐑾𐑯𐑟",
+            "pos": "NN2",
+            "ipa": "ˌjuːɡəʊˈslɑːvɪənz",
+            "freq": 18,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yugoslavian",
+                "pos": "NN1",
+                "Shaw": "𐑿𐑜𐑴𐑕𐑤𐑭𐑝𐑾𐑯"
+            }
+        }
+    ],
+    "yukon_NP0_𐑿𐑒𐑪𐑯": [
+        {
+            "Latn": "yukon",
+            "Shaw": "𐑿𐑒𐑪𐑯",
+            "pos": "NP0",
+            "ipa": "ˈjuːkɒn",
+            "freq": 520,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yukon",
+                "pos": "NP0",
+                "Shaw": "𐑿𐑒𐑪𐑯"
+            }
+        }
+    ],
+    "yule-log_NN1_𐑿𐑤-𐑤𐑪𐑜": [
+        {
+            "Latn": "yule-log",
+            "Shaw": "𐑿𐑤-𐑤𐑪𐑜",
+            "pos": "NN1",
+            "ipa": "ˈjuːl-lɒɡ",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yule-log",
+                "pos": "NN1",
+                "Shaw": "𐑿𐑤-𐑤𐑪𐑜"
+            }
+        },
+        {
+            "Latn": "yule-logs",
+            "Shaw": "𐑿𐑤-𐑤𐑪𐑜𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjuːl-lɒɡz",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yule-log",
+                "pos": "NN1",
+                "Shaw": "𐑿𐑤-𐑤𐑪𐑜"
+            }
+        }
+    ],
+    "yule_NN1_𐑿𐑤": [
+        {
+            "Latn": "yule",
+            "Shaw": "𐑿𐑤",
+            "pos": "NN1",
+            "ipa": "juːl",
+            "freq": 247,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yule",
+                "pos": "NN1",
+                "Shaw": "𐑿𐑤"
+            }
+        }
+    ],
+    "yuletide_NN1_𐑿𐑤𐑑𐑲𐑛": [
+        {
+            "Latn": "yuletide",
+            "Shaw": "𐑿𐑤𐑑𐑲𐑛",
+            "pos": "NN1",
+            "ipa": "ˈjuːltaɪd",
+            "freq": 273,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yuletide",
+                "pos": "NN1",
+                "Shaw": "𐑿𐑤𐑑𐑲𐑛"
+            }
+        },
+        {
+            "Latn": "yuletides",
+            "Shaw": "𐑿𐑤𐑑𐑲𐑛𐑟",
+            "pos": "NN2",
+            "ipa": "ˈjuːltaɪdz",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yuletide",
+                "pos": "NN1",
+                "Shaw": "𐑿𐑤𐑑𐑲𐑛"
+            }
+        }
+    ],
+    "yup_ITJ_𐑘𐑳𐑐": [
+        {
+            "Latn": "yup",
+            "Shaw": "𐑘𐑳𐑐",
+            "pos": "ITJ",
+            "ipa": "jʌp",
+            "freq": 13494,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yup",
+                "pos": "ITJ",
+                "Shaw": "𐑘𐑳𐑐"
+            }
+        }
+    ],
+    "yvonne_NP0_𐑦𐑝𐑪𐑯": [
+        {
+            "Latn": "yvonne",
+            "Shaw": "𐑦𐑝𐑪𐑯",
+            "pos": "NP0",
+            "ipa": "ɪˈvɒn",
+            "freq": 2721,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "yvonne",
+                "pos": "NP0",
+                "Shaw": "𐑦𐑝𐑪𐑯"
+            }
+        }
+    ],
+    "ywca_NN1_⸰⁠𐑘𐑢𐑒𐑩": [
+        {
+            "Latn": "ywca",
+            "Shaw": "⸰⁠𐑘𐑢𐑒𐑩",
+            "pos": "NN1",
+            "ipa": "ˌwaɪˌdʌbəljuːˌsiːˈeɪ",
+            "freq": 75,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "ywca",
+                "pos": "NN1",
+                "Shaw": "⸰⁠𐑘𐑢𐑒𐑩"
+            }
+        }
+    ]
+}
