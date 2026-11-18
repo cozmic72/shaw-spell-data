@@ -70,7 +70,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.250925,
+                "judge_reject": 0.249394,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -577,7 +577,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.959488,
+                "judge_pass": 0.969526,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -612,7 +612,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.959488,
+                "judge_pass": 0.969526,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -647,42 +647,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.959488,
-                "rrp_tier": 0.75,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 1.0,
-                "clean_base": 1.0
-            }
-        }
-    ],
-    "Y_UNC_𐑢𐑲": [
-        {
-            "Latn": "Y",
-            "Shaw": "𐑢𐑲",
-            "pos": "UNC",
-            "ipa": "waɪ",
-            "freq": 0,
-            "var": "RRP",
-            "confidence": 85,
-            "info": [
-                "note: name of letter",
-                "accent: unstated"
-            ],
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "Y",
-                "pos": "UNC",
-                "Shaw": "𐑢𐑲"
-            },
-            "has_definition": true,
-            "rrp_outcome": "PASS",
-            "rrp_tier": "B",
-            "orig_var": "RSSB",
-            "votes": {
-                "judge_pass": 0.959488,
+                "judge_pass": 0.969526,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -724,7 +689,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.365685,
+                "judge_reject": 0.370933,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -762,7 +727,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.608014,
+                "judge_pass": 0.589919,
                 "rrp_tier": 0.75,
                 "shave_agree": 0.85,
                 "source_agree": 0.0,
@@ -841,7 +806,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.931986,
+                "judge_reject": 0.952428,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -883,7 +848,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.678717,
+                "judge_reject": 0.667445,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -900,7 +865,7 @@
             "ipa": "jəblʊnˈiːvkə",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 36,
+            "confidence": 37,
             "info": [
                 "accent: unstated"
             ],
@@ -925,7 +890,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.75847,
+                "judge_reject": 0.751216,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -957,7 +922,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.991548,
+                "judge_pass": 0.992484,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -994,7 +959,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.999345,
+                "judge_pass": 0.999392,
                 "rrp_tier": 0.75,
                 "shave_agree": 1.0,
                 "source_agree": 0.0,
@@ -1055,7 +1020,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.187553,
+                "judge_pass": 0.185136,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -1129,7 +1094,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.732011,
+                "judge_pass": 0.725504,
                 "rrp_tier": 0.75,
                 "shave_agree": 0.85,
                 "source_agree": 0.0,
@@ -1147,7 +1112,7 @@
             "ipa": "jaɡərə",
             "freq": 0,
             "var": "GenAus",
-            "confidence": 51,
+            "confidence": 52,
             "source": [
                 "wiktionary"
             ],
@@ -1171,7 +1136,7 @@
                 ]
             },
             "votes": {
-                "judge_reject": 0.197669,
+                "judge_reject": 0.181078,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -1188,7 +1153,7 @@
             "ipa": "jaɡərə",
             "freq": 0,
             "var": "GenAus",
-            "confidence": 51,
+            "confidence": 52,
             "source": [
                 "wiktionary"
             ],
@@ -1212,7 +1177,7 @@
                 ]
             },
             "votes": {
-                "judge_reject": 0.197669,
+                "judge_reject": 0.181078,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -1242,7 +1207,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.899644,
+                "judge_pass": 0.923296,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -1271,7 +1236,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.899644,
+                "judge_pass": 0.923296,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -1373,7 +1338,7 @@
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "votes": {
-                "judge_reject": 0.432374,
+                "judge_reject": 0.442992,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -1411,7 +1376,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.987376,
+                "judge_pass": 0.984241,
                 "rrp_tier": 0.75,
                 "shave_agree": 0.85,
                 "source_agree": 0.0,
@@ -1470,7 +1435,7 @@
             "ipa": "ˈjɑːhuː",
             "freq": 0,
             "var": "RRP",
-            "confidence": 84,
+            "confidence": 83,
             "info": [
                 "accent: unstated"
             ],
@@ -1487,7 +1452,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.907587,
+                "judge_pass": 0.884868,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -1504,7 +1469,7 @@
             "ipa": "ˈjɑːhuː",
             "freq": 0,
             "var": "RRP",
-            "confidence": 84,
+            "confidence": 83,
             "info": [
                 "accent: unstated"
             ],
@@ -1521,7 +1486,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.907587,
+                "judge_pass": 0.884868,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -1538,7 +1503,7 @@
             "ipa": "ˈjɑːtsi",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 47,
+            "confidence": 46,
             "info": [
                 "accent: unstated"
             ],
@@ -1563,7 +1528,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.412051,
+                "judge_reject": 0.429582,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -1580,7 +1545,7 @@
             "ipa": "ˈjɑːtsi",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 47,
+            "confidence": 46,
             "info": [
                 "accent: unstated"
             ],
@@ -1605,7 +1570,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.412051,
+                "judge_reject": 0.429582,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -1636,7 +1601,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.45942,
+                "judge_reject": 0.468085,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -1666,7 +1631,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "votes": {
-                "judge_pass": 0.976762,
+                "judge_pass": 0.975299,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -1695,7 +1660,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.976762,
+                "judge_pass": 0.975299,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -1729,7 +1694,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.974298,
+                "judge_pass": 0.973956,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -1808,7 +1773,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.998671,
+                "judge_pass": 0.998736,
                 "rrp_tier": 0.75,
                 "shave_agree": 1.0,
                 "source_agree": 0.0,
@@ -1825,7 +1790,7 @@
             "ipa": "ˈjækɪmɑː",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 52,
+            "confidence": 51,
             "info": [
                 "accent: unstated"
             ],
@@ -1850,7 +1815,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.317626,
+                "judge_reject": 0.336264,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -1867,7 +1832,7 @@
             "ipa": "ˈjɑːkɪvtsi",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 54,
+            "confidence": 52,
             "info": [
                 "accent: unstated"
             ],
@@ -1892,7 +1857,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.182867,
+                "judge_reject": 0.252873,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -1929,7 +1894,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.999771,
+                "judge_pass": 0.999772,
                 "rrp_tier": 0.75,
                 "shave_agree": 1.0,
                 "source_agree": 0.0,
@@ -2013,7 +1978,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.825998,
+                "judge_reject": 0.840548,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2055,7 +2020,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.825998,
+                "judge_reject": 0.840548,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2097,7 +2062,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.864688,
+                "judge_reject": 0.878818,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2139,7 +2104,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.399623,
+                "judge_reject": 0.410127,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2156,7 +2121,7 @@
             "ipa": "jəˈkuːʃiə",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 51,
+            "confidence": 50,
             "info": [
                 "accent: unstated"
             ],
@@ -2181,7 +2146,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.289213,
+                "judge_reject": 0.292659,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2198,7 +2163,7 @@
             "ipa": "ˌjɑːldəˈbeɪɒθ",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 55,
+            "confidence": 54,
             "info": [
                 "accent: unstated"
             ],
@@ -2223,7 +2188,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.148957,
+                "judge_reject": 0.161407,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2267,7 +2232,7 @@
                 ]
             },
             "votes": {
-                "judge_reject": 0.434341,
+                "judge_reject": 0.436041,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2309,7 +2274,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.221911,
+                "judge_reject": 0.219595,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2341,7 +2306,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.997055,
+                "judge_pass": 0.997182,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2380,7 +2345,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.507494,
+                "judge_reject": 0.49917,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2458,7 +2423,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.15251,
+                "judge_reject": 0.154948,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2500,7 +2465,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.77362,
+                "judge_reject": 0.767552,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2542,7 +2507,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.15251,
+                "judge_reject": 0.154948,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2584,7 +2549,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.77362,
+                "judge_reject": 0.767552,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2655,7 +2620,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.987497,
+                "judge_pass": 0.987939,
                 "rrp_tier": 0.75,
                 "shave_agree": 1.0,
                 "source_agree": 0.0,
@@ -2697,7 +2662,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.182825,
+                "judge_reject": 0.185721,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2739,7 +2704,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.182825,
+                "judge_reject": 0.185721,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2781,7 +2746,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.182825,
+                "judge_reject": 0.185721,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2811,7 +2776,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.345986,
+                "judge_pass": 0.348406,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2859,7 +2824,7 @@
             "ipa": "ˈjampɒlɪvkə",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 45,
+            "confidence": 44,
             "info": [
                 "accent: unstated"
             ],
@@ -2884,7 +2849,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.491458,
+                "judge_reject": 0.492895,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2916,7 +2881,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.999347,
+                "judge_pass": 0.999364,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2950,7 +2915,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.985746,
+                "judge_pass": 0.984735,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2967,7 +2932,7 @@
             "ipa": "ˈjɑːnə",
             "freq": 0,
             "var": "RRP",
-            "confidence": 96,
+            "confidence": 97,
             "source": [
                 "wiktionary",
                 "wordnet"
@@ -2982,7 +2947,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.959804,
+                "judge_pass": 0.962884,
                 "rrp_tier": 1.0,
                 "source_agree": 0.5,
                 "ipa_present": 1.0,
@@ -3012,7 +2977,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "votes": {
-                "judge_pass": 0.959804,
+                "judge_pass": 0.962884,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3041,7 +3006,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.959804,
+                "judge_pass": 0.962884,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3079,7 +3044,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.959117,
+                "judge_pass": 0.959274,
                 "rrp_tier": 0.75,
                 "shave_agree": 1.0,
                 "source_agree": 0.0,
@@ -3117,7 +3082,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.983008,
+                "judge_pass": 0.98327,
                 "rrp_tier": 0.75,
                 "shave_agree": 1.0,
                 "source_agree": 0.0,
@@ -3154,7 +3119,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.998754,
+                "judge_pass": 0.998709,
                 "rrp_tier": 0.75,
                 "shave_agree": 1.0,
                 "source_agree": 0.0,
@@ -3188,7 +3153,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.668717,
+                "judge_pass": 0.667999,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3222,7 +3187,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.668717,
+                "judge_pass": 0.667999,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3259,7 +3224,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.992609,
+                "judge_pass": 0.992782,
                 "rrp_tier": 0.75,
                 "shave_agree": 1.0,
                 "source_agree": 0.0,
@@ -3289,7 +3254,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.999807,
+                "judge_pass": 0.999826,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3320,7 +3285,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.730256,
+                "judge_reject": 0.726379,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3392,7 +3357,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.76686,
+                "judge_pass": 0.762543,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3423,7 +3388,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.860095,
+                "judge_reject": 0.880602,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3496,7 +3461,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.264416,
+                "judge_reject": 0.271311,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3538,7 +3503,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.659291,
+                "judge_reject": 0.645246,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3580,7 +3545,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.890881,
+                "judge_reject": 0.892842,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3664,7 +3629,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.181008,
+                "judge_reject": 0.179604,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3706,7 +3671,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.467267,
+                "judge_reject": 0.472102,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3748,7 +3713,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.587587,
+                "judge_reject": 0.580325,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3790,7 +3755,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.833578,
+                "judge_reject": 0.836206,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3946,7 +3911,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.962183,
+                "judge_pass": 0.953273,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -4005,7 +3970,7 @@
             "ipa": "jænˈdʒiː",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 45,
+            "confidence": 46,
             "info": [
                 "accent: unstated"
             ],
@@ -4030,7 +3995,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.483852,
+                "judge_reject": 0.456186,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -4047,7 +4012,7 @@
             "ipa": "jɑːnˈdʒiː",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 51,
+            "confidence": 52,
             "info": [
                 "accent: unstated"
             ],
@@ -4072,7 +4037,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.258553,
+                "judge_reject": 0.246241,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -4106,7 +4071,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.767936,
+                "judge_reject": 0.763467,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -4140,7 +4105,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.83183,
+                "judge_reject": 0.834765,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -4174,7 +4139,7 @@
             "rrp_tier": "A",
             "variant": true,
             "votes": {
-                "judge_reject": 0.427236,
+                "judge_reject": 0.425642,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -4208,7 +4173,7 @@
             "rrp_tier": "A",
             "variant": true,
             "votes": {
-                "judge_reject": 0.543612,
+                "judge_reject": 0.539304,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -4242,7 +4207,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.427236,
+                "judge_reject": 0.425642,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -4277,7 +4242,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.999026,
+                "judge_pass": 0.998755,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -4311,7 +4276,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.543612,
+                "judge_reject": 0.539304,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -4343,7 +4308,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.999474,
+                "judge_pass": 0.999396,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -4380,7 +4345,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.999618,
+                "judge_pass": 0.999602,
                 "rrp_tier": 0.75,
                 "shave_agree": 1.0,
                 "source_agree": 0.0,
@@ -4417,7 +4382,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.999669,
+                "judge_pass": 0.999728,
                 "rrp_tier": 0.75,
                 "shave_agree": 1.0,
                 "source_agree": 0.0,
@@ -4456,7 +4421,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.078666,
+                "judge_reject": 0.076195,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -4540,7 +4505,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.394937,
+                "judge_reject": 0.394308,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -4565,7 +4530,7 @@
             "cmudict_shaw": "𐑘𐑨𐑯𐑑",
             "ipa": "jɑːnt",
             "ipa_source": "cmu",
-            "confidence": 58,
+            "confidence": 57,
             "source": [
                 "names"
             ],
@@ -4578,7 +4543,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.756232,
+                "judge_pass": 0.738746,
                 "rrp_tier": 0.75,
                 "shave_agree": 0.85,
                 "source_agree": 0.0,
@@ -4701,7 +4666,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.719241,
+                "judge_pass": 0.70519,
                 "rrp_tier": 0.75,
                 "shave_agree": 0.85,
                 "source_agree": 0.0,
@@ -4744,7 +4709,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.435572,
+                "judge_reject": 0.434025,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -4820,7 +4785,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.998284,
+                "judge_pass": 0.998298,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -4913,7 +4878,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.9993,
+                "judge_pass": 0.999331,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -4950,7 +4915,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.976242,
+                "judge_pass": 0.978627,
                 "rrp_tier": 0.75,
                 "shave_agree": 1.0,
                 "source_agree": 0.0,
@@ -4984,7 +4949,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.996428,
+                "judge_pass": 0.996562,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -5026,7 +4991,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.182076,
+                "judge_reject": 0.181877,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -5068,7 +5033,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.182076,
+                "judge_reject": 0.181877,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -5105,7 +5070,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.999766,
+                "judge_pass": 0.999773,
                 "rrp_tier": 0.75,
                 "shave_agree": 1.0,
                 "source_agree": 0.0,
@@ -5142,7 +5107,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.999456,
+                "judge_pass": 0.99944,
                 "rrp_tier": 0.75,
                 "shave_agree": 1.0,
                 "source_agree": 0.0,
@@ -5174,7 +5139,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.999923,
+                "judge_pass": 0.999927,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -5211,7 +5176,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.990738,
+                "judge_pass": 0.989068,
                 "rrp_tier": 0.75,
                 "shave_agree": 1.0,
                 "source_agree": 0.0,
@@ -5249,7 +5214,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.999878,
+                "judge_pass": 0.999887,
                 "rrp_tier": 0.75,
                 "shave_agree": 1.0,
                 "source_agree": 0.0,
@@ -8478,28 +8443,28 @@
             }
         }
     ],
-    "Yerevanian_AJ0_𐑘𐑧𐑮𐑩𐑝𐑨𐑯𐑦𐑩𐑯": [
+    "Yerevanian_AJ0_𐑘𐑧𐑮𐑩𐑝𐑨𐑯𐑾𐑯": [
         {
             "Latn": "Yerevanian",
-            "Shaw": "𐑘𐑧𐑮𐑩𐑝𐑨𐑯𐑦𐑩𐑯",
+            "Shaw": "𐑘𐑧𐑮𐑩𐑝𐑨𐑯𐑾𐑯",
             "pos": "AJ0",
-            "ipa": "jerəvæːnɪ+ən",
+            "ipa": "jerəvæːnɪən",
             "freq": 0,
             "var": "RRP",
-            "confidence": 59,
+            "confidence": 63,
             "source": [
                 "wiktionary"
             ],
             "lemma": {
                 "Latn": "Yerevanian",
                 "pos": "AJ0",
-                "Shaw": "𐑘𐑧𐑮𐑩𐑝𐑨𐑯𐑦𐑩𐑯"
+                "Shaw": "𐑘𐑧𐑮𐑩𐑝𐑨𐑯𐑾𐑯"
             },
             "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.003463,
+                "judge_pass": 0.152149,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8508,29 +8473,29 @@
             }
         }
     ],
-    "Yerevanian_AJ0_𐑘𐑧𐑮𐑩𐑝𐑭𐑯𐑦𐑩𐑯": [
+    "Yerevanian_AJ0_𐑘𐑧𐑮𐑩𐑝𐑭𐑯𐑾𐑯": [
         {
             "Latn": "Yerevanian",
-            "Shaw": "𐑘𐑧𐑮𐑩𐑝𐑭𐑯𐑦𐑩𐑯",
+            "Shaw": "𐑘𐑧𐑮𐑩𐑝𐑭𐑯𐑾𐑯",
             "pos": "AJ0",
-            "ipa": "ˌjerəˈvɑːni+ən",
+            "ipa": "ˌjerəˈvɑːniən",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 44,
+            "confidence": 54,
             "source": [
                 "wiktionary"
             ],
             "lemma": {
                 "Latn": "Yerevanian",
                 "pos": "AJ0",
-                "Shaw": "𐑘𐑧𐑮𐑩𐑝𐑭𐑯𐑦𐑩𐑯"
+                "Shaw": "𐑘𐑧𐑮𐑩𐑝𐑭𐑯𐑾𐑯"
             },
             "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.501794,
+                "judge_reject": 0.167751,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8539,28 +8504,28 @@
             }
         }
     ],
-    "Yerevanian_NN1_𐑘𐑧𐑮𐑩𐑝𐑨𐑯𐑦𐑩𐑯": [
+    "Yerevanian_NN1_𐑘𐑧𐑮𐑩𐑝𐑨𐑯𐑾𐑯": [
         {
             "Latn": "Yerevanian",
-            "Shaw": "𐑘𐑧𐑮𐑩𐑝𐑨𐑯𐑦𐑩𐑯",
+            "Shaw": "𐑘𐑧𐑮𐑩𐑝𐑨𐑯𐑾𐑯",
             "pos": "NN1",
-            "ipa": "jerəvæːnɪ+ən",
+            "ipa": "jerəvæːnɪən",
             "freq": 0,
             "var": "RRP",
-            "confidence": 59,
+            "confidence": 63,
             "source": [
                 "wiktionary"
             ],
             "lemma": {
                 "Latn": "Yerevanian",
                 "pos": "NN1",
-                "Shaw": "𐑘𐑧𐑮𐑩𐑝𐑨𐑯𐑦𐑩𐑯"
+                "Shaw": "𐑘𐑧𐑮𐑩𐑝𐑨𐑯𐑾𐑯"
             },
             "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.003463,
+                "judge_pass": 0.152149,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8569,29 +8534,29 @@
             }
         }
     ],
-    "Yerevanian_NN1_𐑘𐑧𐑮𐑩𐑝𐑭𐑯𐑦𐑩𐑯": [
+    "Yerevanian_NN1_𐑘𐑧𐑮𐑩𐑝𐑭𐑯𐑾𐑯": [
         {
             "Latn": "Yerevanian",
-            "Shaw": "𐑘𐑧𐑮𐑩𐑝𐑭𐑯𐑦𐑩𐑯",
+            "Shaw": "𐑘𐑧𐑮𐑩𐑝𐑭𐑯𐑾𐑯",
             "pos": "NN1",
-            "ipa": "ˌjerəˈvɑːni+ən",
+            "ipa": "ˌjerəˈvɑːniən",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 44,
+            "confidence": 54,
             "source": [
                 "wiktionary"
             ],
             "lemma": {
                 "Latn": "Yerevanian",
                 "pos": "NN1",
-                "Shaw": "𐑘𐑧𐑮𐑩𐑝𐑭𐑯𐑦𐑩𐑯"
+                "Shaw": "𐑘𐑧𐑮𐑩𐑝𐑭𐑯𐑾𐑯"
             },
             "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.501794,
+                "judge_reject": 0.167751,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8600,15 +8565,15 @@
             }
         }
     ],
-    "Yerevanians_NN2_𐑘𐑧𐑮𐑩𐑝𐑨𐑯𐑦𐑩𐑯𐑟": [
+    "Yerevanians_NN2_𐑘𐑧𐑮𐑩𐑝𐑨𐑯𐑾𐑯𐑟": [
         {
             "Latn": "Yerevanians",
-            "Shaw": "𐑘𐑧𐑮𐑩𐑝𐑨𐑯𐑦𐑩𐑯𐑟",
+            "Shaw": "𐑘𐑧𐑮𐑩𐑝𐑨𐑯𐑾𐑯𐑟",
             "pos": "NN2",
-            "ipa": "jerəvæːnɪ+ənz",
+            "ipa": "jerəvæːnɪənz",
             "freq": 0,
             "var": "RRP",
-            "confidence": 81,
+            "confidence": 85,
             "inflection": "attested",
             "inflection_base": "Yerevanian",
             "source": [
@@ -8617,13 +8582,13 @@
             "lemma": {
                 "Latn": "Yerevanian",
                 "pos": "NN1",
-                "Shaw": "𐑘𐑧𐑮𐑩𐑝𐑨𐑯𐑦𐑩𐑯"
+                "Shaw": "𐑘𐑧𐑮𐑩𐑝𐑨𐑯𐑾𐑯"
             },
             "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.072746,
+                "judge_pass": 0.244787,
                 "rrp_tier": 0.75,
                 "inflection_attested": 1.0,
                 "lemma_linked": 1.0,
@@ -8635,15 +8600,15 @@
             "regular": true
         }
     ],
-    "Yerevanians_NN2_𐑘𐑧𐑮𐑩𐑝𐑭𐑯𐑦𐑩𐑯𐑟": [
+    "Yerevanians_NN2_𐑘𐑧𐑮𐑩𐑝𐑭𐑯𐑾𐑯𐑟": [
         {
             "Latn": "Yerevanians",
-            "Shaw": "𐑘𐑧𐑮𐑩𐑝𐑭𐑯𐑦𐑩𐑯𐑟",
+            "Shaw": "𐑘𐑧𐑮𐑩𐑝𐑭𐑯𐑾𐑯𐑟",
             "pos": "NN2",
-            "ipa": "ˌjerəˈvɑːni+ənz",
+            "ipa": "ˌjerəˈvɑːniənz",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 64,
+            "confidence": 74,
             "inflection": "attested",
             "inflection_base": "Yerevanian",
             "source": [
@@ -8652,14 +8617,14 @@
             "lemma": {
                 "Latn": "Yerevanian",
                 "pos": "NN1",
-                "Shaw": "𐑘𐑧𐑮𐑩𐑝𐑭𐑯𐑦𐑩𐑯"
+                "Shaw": "𐑘𐑧𐑮𐑩𐑝𐑭𐑯𐑾𐑯"
             },
             "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.499348,
+                "judge_reject": 0.185976,
                 "rrp_tier": 0.75,
                 "inflection_attested": 1.0,
                 "lemma_linked": 1.0,
@@ -12201,7 +12166,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.999839,
+                "judge_pass": 0.99971,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -12229,7 +12194,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.999839,
+                "judge_pass": 0.99971,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -12267,7 +12232,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.998659,
+                "judge_pass": 0.999059,
                 "rrp_tier": 0.75,
                 "shave_agree": 1.0,
                 "source_agree": 0.0,
@@ -12298,7 +12263,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.999132,
+                "judge_pass": 0.99929,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -12333,7 +12298,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.999641,
+                "judge_pass": 0.999393,
                 "rrp_tier": 0.75,
                 "shave_agree": 1.0,
                 "source_agree": 0.0,
@@ -12442,7 +12407,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.23582,
+                "judge_pass": 0.248076,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -12459,7 +12424,7 @@
             "ipa": "jɒrʊbə",
             "freq": 0,
             "var": "RRP",
-            "confidence": 85,
+            "confidence": 83,
             "source": [
                 "wiktionary",
                 "wordnet"
@@ -12474,7 +12439,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.667669,
+                "judge_pass": 0.579079,
                 "rrp_tier": 0.75,
                 "source_agree": 0.5,
                 "ipa_present": 1.0,
@@ -12491,7 +12456,7 @@
             "ipa": "jɒrʊbə",
             "freq": 0,
             "var": "RRP",
-            "confidence": 78,
+            "confidence": 76,
             "source": [
                 "wiktionary"
             ],
@@ -12504,7 +12469,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.667669,
+                "judge_pass": 0.579079,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -12535,7 +12500,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.321763,
+                "judge_reject": 0.323209,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -12608,7 +12573,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.998668,
+                "judge_pass": 0.998059,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -12642,7 +12607,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.187612,
+                "judge_reject": 0.186128,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -13476,7 +13441,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.997965,
+                "judge_pass": 0.998765,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -13593,7 +13558,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.996193,
+                "judge_pass": 0.997985,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -13625,7 +13590,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.994992,
+                "judge_pass": 0.994168,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -14016,15 +13981,15 @@
             }
         }
     ],
-    "Ypresian_AJ0_𐑰𐑐𐑮𐑧𐑟𐑦𐑩𐑯": [
+    "Ypresian_AJ0_𐑰𐑐𐑮𐑧𐑟𐑾𐑯": [
         {
             "Latn": "Ypresian",
-            "Shaw": "𐑰𐑐𐑮𐑧𐑟𐑦𐑩𐑯",
+            "Shaw": "𐑰𐑐𐑮𐑧𐑟𐑾𐑯",
             "pos": "AJ0",
-            "ipa": "iːprezi+ən",
+            "ipa": "iːpreziən",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 28,
+            "confidence": 33,
             "info": [
                 "accent: unstated"
             ],
@@ -14034,12 +13999,12 @@
             "lemma": {
                 "Latn": "Ypresian",
                 "pos": "AJ0",
-                "Shaw": "𐑰𐑐𐑮𐑧𐑟𐑦𐑩𐑯"
+                "Shaw": "𐑰𐑐𐑮𐑧𐑟𐑾𐑯"
             },
             "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
-            "generated_shaw": "𐑰𐑐𐑮𐑧𐑟𐑦𐑩𐑯",
+            "generated_shaw": "𐑰𐑐𐑮𐑧𐑟𐑾𐑯",
             "generated_tier": "C",
             "generated_method": "ipa-converter",
             "generated_from": {
@@ -14049,7 +14014,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.987341,
+                "judge_reject": 0.814588,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -14058,15 +14023,15 @@
             }
         }
     ],
-    "Ypresian_NP0_𐑰𐑐𐑮𐑧𐑟𐑦𐑩𐑯": [
+    "Ypresian_NP0_𐑰𐑐𐑮𐑧𐑟𐑾𐑯": [
         {
             "Latn": "Ypresian",
-            "Shaw": "𐑰𐑐𐑮𐑧𐑟𐑦𐑩𐑯",
+            "Shaw": "𐑰𐑐𐑮𐑧𐑟𐑾𐑯",
             "pos": "NP0",
-            "ipa": "iːprezi+ən",
+            "ipa": "iːpreziən",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 28,
+            "confidence": 33,
             "info": [
                 "accent: unstated"
             ],
@@ -14076,12 +14041,12 @@
             "lemma": {
                 "Latn": "Ypresian",
                 "pos": "NP0",
-                "Shaw": "𐑰𐑐𐑮𐑧𐑟𐑦𐑩𐑯"
+                "Shaw": "𐑰𐑐𐑮𐑧𐑟𐑾𐑯"
             },
             "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
-            "generated_shaw": "𐑰𐑐𐑮𐑧𐑟𐑦𐑩𐑯",
+            "generated_shaw": "𐑰𐑐𐑮𐑧𐑟𐑾𐑯",
             "generated_tier": "C",
             "generated_method": "ipa-converter",
             "generated_from": {
@@ -14091,7 +14056,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.987341,
+                "judge_reject": 0.814588,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -15286,29 +15251,29 @@
             }
         }
     ],
-    "Yugoslavia_NP0_𐑘𐑫𐑜𐑩𐑕𐑤𐑭𐑝𐑦𐑩": [
+    "Yugoslavia_NP0_𐑘𐑫𐑜𐑩𐑕𐑤𐑭𐑝𐑾": [
         {
             "Latn": "Yugoslavia",
-            "Shaw": "𐑘𐑫𐑜𐑩𐑕𐑤𐑭𐑝𐑦𐑩",
+            "Shaw": "𐑘𐑫𐑜𐑩𐑕𐑤𐑭𐑝𐑾",
             "pos": "NP0",
-            "ipa": "ˌjuɡəˈslɑːvi+ə",
+            "ipa": "ˌjuɡəˈslɑːviə",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 37,
+            "confidence": 44,
             "source": [
                 "wiktionary"
             ],
             "lemma": {
                 "Latn": "Yugoslavia",
                 "pos": "NP0",
-                "Shaw": "𐑘𐑫𐑜𐑩𐑕𐑤𐑭𐑝𐑦𐑩"
+                "Shaw": "𐑘𐑫𐑜𐑩𐑕𐑤𐑭𐑝𐑾"
             },
             "has_definition": true,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.798511,
+                "judge_reject": 0.562153,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -15317,29 +15282,29 @@
             }
         }
     ],
-    "Yugoslavia_NP0_𐑘𐑫𐑜𐑴𐑕𐑤𐑭𐑝𐑦𐑩": [
+    "Yugoslavia_NP0_𐑘𐑫𐑜𐑴𐑕𐑤𐑭𐑝𐑾": [
         {
             "Latn": "Yugoslavia",
-            "Shaw": "𐑘𐑫𐑜𐑴𐑕𐑤𐑭𐑝𐑦𐑩",
+            "Shaw": "𐑘𐑫𐑜𐑴𐑕𐑤𐑭𐑝𐑾",
             "pos": "NP0",
-            "ipa": "ˌjuɡoʊˈslɑːvi+ə",
+            "ipa": "ˌjuɡoʊˈslɑːviə",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 31,
+            "confidence": 32,
             "source": [
                 "wiktionary"
             ],
             "lemma": {
                 "Latn": "Yugoslavia",
                 "pos": "NP0",
-                "Shaw": "𐑘𐑫𐑜𐑴𐑕𐑤𐑭𐑝𐑦𐑩"
+                "Shaw": "𐑘𐑫𐑜𐑴𐑕𐑤𐑭𐑝𐑾"
             },
             "has_definition": true,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 1.0,
+                "judge_reject": 0.964287,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -15348,60 +15313,29 @@
             }
         }
     ],
-    "Yugoslavia_NP0_𐑿𐑜𐑩𐑕𐑤𐑭𐑝𐑦𐑩": [
+    "Yugoslavia_NP0_𐑿𐑜𐑩𐑕𐑤𐑭𐑝𐑾": [
         {
             "Latn": "Yugoslavia",
-            "Shaw": "𐑿𐑜𐑩𐑕𐑤𐑭𐑝𐑦𐑩",
+            "Shaw": "𐑿𐑜𐑩𐑕𐑤𐑭𐑝𐑾",
             "pos": "NP0",
-            "ipa": "ˌjuːɡəˈslɑːvi+ə",
+            "ipa": "ˌjuːɡəˈslɑːviə",
             "freq": 0,
             "var": "RRP",
-            "confidence": 76,
+            "confidence": 83,
             "source": [
                 "wiktionary"
             ],
             "lemma": {
                 "Latn": "Yugoslavia",
                 "pos": "NP0",
-                "Shaw": "𐑿𐑜𐑩𐑕𐑤𐑭𐑝𐑦𐑩"
+                "Shaw": "𐑿𐑜𐑩𐑕𐑤𐑭𐑝𐑾"
             },
             "has_definition": true,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_pass": 0.608573,
-                "rrp_tier": 0.75,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 1.0,
-                "clean_base": 1.0
-            }
-        }
-    ],
-    "Yugoslavia_NP0_𐑿𐑜𐑴𐑕𐑤𐑭𐑝𐑦𐑩": [
-        {
-            "Latn": "Yugoslavia",
-            "Shaw": "𐑿𐑜𐑴𐑕𐑤𐑭𐑝𐑦𐑩",
-            "pos": "NP0",
-            "ipa": "ˌjuːɡəʊˈslɑːvi+ə",
-            "freq": 0,
-            "var": "RRP",
-            "confidence": 79,
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "Yugoslavia",
-                "pos": "NP0",
-                "Shaw": "𐑿𐑜𐑴𐑕𐑤𐑭𐑝𐑦𐑩"
-            },
-            "has_definition": true,
-            "rrp_outcome": "PASS",
-            "rrp_tier": "B",
-            "variant": true,
-            "votes": {
-                "judge_pass": 0.72113,
+                "judge_pass": 0.874321,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17209,7 +17143,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.869289,
+                "judge_reject": 0.866743,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17244,7 +17178,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.976106,
+                "judge_pass": 0.980898,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17287,7 +17221,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.204708,
+                "judge_reject": 0.204851,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17329,7 +17263,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.846509,
+                "judge_reject": 0.843395,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17363,7 +17297,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.307711,
+                "judge_reject": 0.315923,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17397,7 +17331,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.273466,
+                "judge_pass": 0.261171,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17436,7 +17370,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.265176,
+                "judge_reject": 0.26039,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17475,7 +17409,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.267328,
+                "judge_reject": 0.275181,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17492,7 +17426,7 @@
             "ipa": "jɑːləR",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 46,
+            "confidence": 45,
             "source": [
                 "wiktionary"
             ],
@@ -17516,7 +17450,7 @@
                 ]
             },
             "votes": {
-                "judge_reject": 0.388432,
+                "judge_reject": 0.39616,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17533,7 +17467,7 @@
             "ipa": "jɔːləR",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 51,
+            "confidence": 52,
             "source": [
                 "wiktionary"
             ],
@@ -17557,7 +17491,7 @@
                 ]
             },
             "votes": {
-                "judge_reject": 0.198067,
+                "judge_reject": 0.194852,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17587,7 +17521,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.975917,
+                "judge_pass": 0.976384,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17616,7 +17550,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.975917,
+                "judge_pass": 0.976384,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17646,7 +17580,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.975917,
+                "judge_pass": 0.976384,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17675,7 +17609,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.975917,
+                "judge_pass": 0.976384,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17714,7 +17648,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.714322,
+                "judge_reject": 0.710897,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17744,7 +17678,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.994483,
+                "judge_pass": 0.995253,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17774,7 +17708,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.994483,
+                "judge_pass": 0.995253,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17806,7 +17740,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.374451,
+                "judge_reject": 0.381586,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17836,7 +17770,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.994483,
+                "judge_pass": 0.995253,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17866,7 +17800,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.994483,
+                "judge_pass": 0.995253,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17898,7 +17832,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.374451,
+                "judge_reject": 0.381586,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17928,7 +17862,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.994483,
+                "judge_pass": 0.995253,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17958,7 +17892,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.994483,
+                "judge_pass": 0.995253,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17990,7 +17924,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.374451,
+                "judge_reject": 0.381586,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18032,7 +17966,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.237032,
+                "judge_reject": 0.235549,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18050,7 +17984,7 @@
             "ipa": "jæv",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 36,
+            "confidence": 35,
             "info": [
                 "accent: unstated"
             ],
@@ -18075,7 +18009,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.782443,
+                "judge_reject": 0.802023,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18117,7 +18051,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.677723,
+                "judge_reject": 0.688385,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18159,7 +18093,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.585768,
+                "judge_reject": 0.584926,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18201,7 +18135,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.577809,
+                "judge_reject": 0.574078,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18315,7 +18249,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "votes": {
-                "judge_pass": 0.970606,
+                "judge_pass": 0.973981,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18400,7 +18334,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.451595,
+                "judge_pass": 0.450024,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18432,7 +18366,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAus",
             "votes": {
-                "judge_pass": 0.607671,
+                "judge_pass": 0.59173,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18498,7 +18432,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.902959,
+                "judge_pass": 0.896512,
                 "rrp_tier": 0.75,
                 "shave_agree": 0.35,
                 "source_agree": 0.0,
@@ -18533,7 +18467,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.888328,
+                "judge_pass": 0.8842,
                 "rrp_tier": 0.75,
                 "shave_agree": 0.35,
                 "source_agree": 0.0,
@@ -18573,6 +18507,41 @@
             }
         }
     ],
+    "y_UNC_𐑢𐑲": [
+        {
+            "Latn": "y",
+            "Shaw": "𐑢𐑲",
+            "pos": "UNC",
+            "ipa": "ˈwaɪ",
+            "freq": 0,
+            "var": "RRP",
+            "confidence": 71,
+            "info": [
+                "accent: unstated",
+                "note: name of letter"
+            ],
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "y",
+                "pos": "UNC",
+                "Shaw": "𐑢𐑲"
+            },
+            "has_definition": true,
+            "rrp_outcome": "PASS",
+            "rrp_tier": "B",
+            "orig_var": "RSSB",
+            "votes": {
+                "judge_pass": 0.394565,
+                "rrp_tier": 0.75,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 1.0,
+                "clean_base": 1.0
+            }
+        }
+    ],
     "y_UNC_𐑦": [
         {
             "Latn": "y",
@@ -18581,7 +18550,7 @@
             "ipa": "ɪ",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 34,
+            "confidence": 31,
             "source": [
                 "wiktionary"
             ],
@@ -18595,7 +18564,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.914469,
+                "judge_reject": 1.0,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18688,7 +18657,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.413699,
+                "judge_reject": 0.40416,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18772,7 +18741,7 @@
             "ipa": "jɑːl",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 48,
+            "confidence": 49,
             "source": [
                 "wiktionary"
             ],
@@ -18786,7 +18755,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.360092,
+                "judge_reject": 0.357967,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18817,7 +18786,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.827167,
+                "judge_pass": 0.828968,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18834,7 +18803,7 @@
             "ipa": "jʌl",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 39,
+            "confidence": 40,
             "info": [
                 "accent: unstated"
             ],
@@ -18859,7 +18828,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.658533,
+                "judge_reject": 0.651304,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18876,7 +18845,7 @@
             "ipa": "ˈjɑː",
             "freq": 0,
             "var": "RRP",
-            "confidence": 87,
+            "confidence": 86,
             "source": [
                 "wiktionary"
             ],
@@ -18889,7 +18858,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "votes": {
-                "judge_pass": 0.944687,
+                "judge_pass": 0.930715,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18904,7 +18873,7 @@
             "ipa": "jɑː",
             "freq": 0,
             "var": "RRP",
-            "confidence": 82,
+            "confidence": 83,
             "info": [
                 "accent: unstated"
             ],
@@ -18921,7 +18890,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.917235,
+                "judge_pass": 0.937247,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18951,7 +18920,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.719102,
+                "judge_pass": 0.702377,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18968,7 +18937,7 @@
             "ipa": "jɑː",
             "freq": 0,
             "var": "RRP",
-            "confidence": 82,
+            "confidence": 83,
             "info": [
                 "accent: unstated"
             ],
@@ -18985,7 +18954,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.917235,
+                "judge_pass": 0.937247,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -19002,7 +18971,7 @@
             "ipa": "jə",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 39,
+            "confidence": 40,
             "info": [
                 "accent: unstated"
             ],
@@ -19027,7 +18996,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.682507,
+                "judge_reject": 0.652488,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -19102,7 +19071,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.465973,
+                "judge_pass": 0.450481,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -19144,7 +19113,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.061209,
+                "judge_reject": 0.063204,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -19178,7 +19147,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.990733,
+                "judge_pass": 0.991307,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -19212,7 +19181,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.985188,
+                "judge_pass": 0.985252,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -19246,7 +19215,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.985188,
+                "judge_pass": 0.985252,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -19276,7 +19245,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "votes": {
-                "judge_pass": 0.976328,
+                "judge_pass": 0.97691,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -19305,7 +19274,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.214252,
+                "judge_pass": 0.196196,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -19569,7 +19538,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.216432,
+                "judge_pass": 0.235062,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -19650,7 +19619,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.9798,
+                "judge_pass": 0.979332,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -19779,7 +19748,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.995297,
+                "judge_pass": 0.995362,
                 "rrp_tier": 0.75,
                 "shave_agree": 0.35,
                 "source_agree": 0.0,
@@ -19814,7 +19783,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.999148,
+                "judge_pass": 0.999302,
                 "rrp_tier": 0.75,
                 "source_agree": 0.5,
                 "ipa_present": 1.0,
@@ -19849,7 +19818,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.999148,
+                "judge_pass": 0.999302,
                 "rrp_tier": 0.75,
                 "source_agree": 0.5,
                 "ipa_present": 1.0,
@@ -19885,7 +19854,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.999804,
+                "judge_pass": 0.999822,
                 "rrp_tier": 0.75,
                 "inflection_attested": 1.0,
                 "lemma_linked": 1.0,
@@ -19924,7 +19893,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.999804,
+                "judge_pass": 0.999822,
                 "rrp_tier": 0.75,
                 "inflection_attested": 1.0,
                 "lemma_linked": 1.0,
@@ -19944,7 +19913,7 @@
             "ipa": "jədədəˈmiːn",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 39,
+            "confidence": 38,
             "info": [
                 "accent: unstated"
             ],
@@ -19969,7 +19938,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.679088,
+                "judge_reject": 0.692456,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -20011,7 +19980,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.462656,
+                "judge_reject": 0.47705,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -20045,7 +20014,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.998008,
+                "judge_pass": 0.998029,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -20075,7 +20044,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.538142,
+                "judge_pass": 0.538674,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -20105,7 +20074,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.538142,
+                "judge_pass": 0.538674,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -20149,7 +20118,7 @@
                 ]
             },
             "votes": {
-                "judge_reject": 0.829897,
+                "judge_reject": 0.838782,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -20180,7 +20149,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.999625,
+                "judge_pass": 0.999649,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -20208,7 +20177,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.243303,
+                "judge_pass": 0.236925,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -20283,7 +20252,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.971584,
+                "judge_reject": 0.970832,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -20317,7 +20286,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.899644,
+                "judge_pass": 0.923296,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -20334,7 +20303,7 @@
             "ipa": "jʌː",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 32,
+            "confidence": 31,
             "info": [
                 "accent: unstated"
             ],
@@ -20351,7 +20320,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.919215,
+                "judge_reject": 0.927758,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -20391,7 +20360,7 @@
             "ipa": "jʌː",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 32,
+            "confidence": 31,
             "info": [
                 "accent: unstated"
             ],
@@ -20408,7 +20377,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.919215,
+                "judge_reject": 0.927758,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -20442,7 +20411,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.899644,
+                "judge_pass": 0.923296,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -20477,7 +20446,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.978601,
+                "judge_pass": 0.980284,
                 "rrp_tier": 0.75,
                 "shave_agree": 0.35,
                 "source_agree": 0.0,
@@ -20494,7 +20463,7 @@
             "ipa": "jəˈhuː",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 51,
+            "confidence": 52,
             "info": [
                 "accent: unstated"
             ],
@@ -20519,7 +20488,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.330792,
+                "judge_reject": 0.317517,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -20559,7 +20528,7 @@
             "ipa": "jəˈhuː",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 51,
+            "confidence": 52,
             "info": [
                 "accent: unstated"
             ],
@@ -20576,7 +20545,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.330792,
+                "judge_reject": 0.317517,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -20631,7 +20600,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.434185,
+                "judge_pass": 0.4245,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -20727,7 +20696,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.8313,
+                "judge_reject": 0.843756,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -20757,7 +20726,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.977598,
+                "judge_pass": 0.971749,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -20789,7 +20758,7 @@
             "rrp_tier": "B",
             "orig_var": "NZ",
             "votes": {
-                "judge_pass": 0.977598,
+                "judge_pass": 0.971749,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -20823,7 +20792,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.843121,
+                "judge_reject": 0.849159,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -20857,7 +20826,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.946831,
+                "judge_reject": 0.937356,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -20904,7 +20873,7 @@
             "ipa": "ˈjʌdʒnə",
             "freq": 0,
             "var": "RRP",
-            "confidence": 75,
+            "confidence": 74,
             "source": [
                 "wiktionary"
             ],
@@ -20917,7 +20886,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.61832,
+                "judge_pass": 0.604776,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -20997,7 +20966,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.999023,
+                "judge_pass": 0.998779,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -21028,7 +20997,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.231112,
+                "judge_pass": 0.23056,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -21063,7 +21032,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.802998,
+                "judge_pass": 0.802353,
                 "rrp_tier": 0.75,
                 "shave_agree": 0.35,
                 "source_agree": 0.0,
@@ -21106,7 +21075,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.317626,
+                "judge_reject": 0.336264,
                 "rrp_tier": 0.875,
                 "source_agree": 0.5,
                 "ipa_present": 1.0,
@@ -21192,7 +21161,7 @@
                 ]
             },
             "votes": {
-                "judge_reject": 0.870459,
+                "judge_reject": 0.882696,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -21249,7 +21218,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.999864,
+                "judge_pass": 0.999857,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -21316,7 +21285,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.148087,
+                "judge_reject": 0.138746,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -21333,7 +21302,7 @@
             "ipa": "jəˈkuːt",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 45,
+            "confidence": 44,
             "info": [
                 "accent: unstated"
             ],
@@ -21359,7 +21328,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.864688,
+                "judge_reject": 0.878818,
                 "rrp_tier": 0.875,
                 "source_agree": 0.5,
                 "ipa_present": 1.0,
@@ -21390,7 +21359,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.613058,
+                "judge_reject": 0.595822,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -21444,7 +21413,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_pass": 0.85352,
+                "judge_pass": 0.861094,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -21476,7 +21445,7 @@
             "orig_var": "GenAus",
             "variant": true,
             "votes": {
-                "judge_pass": 0.191123,
+                "judge_pass": 0.19042,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -21530,7 +21499,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.869954,
+                "judge_reject": 0.869226,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -21595,7 +21564,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.258186,
+                "judge_reject": 0.249556,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -21612,7 +21581,7 @@
             "ipa": "jæləR",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 42,
+            "confidence": 41,
             "info": [
                 "accent: unstated"
             ],
@@ -21639,7 +21608,7 @@
                 ]
             },
             "votes": {
-                "judge_reject": 0.514756,
+                "judge_reject": 0.541606,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -21674,7 +21643,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.842752,
+                "judge_pass": 0.85336,
                 "rrp_tier": 0.75,
                 "shave_agree": 0.35,
                 "source_agree": 0.0,
@@ -21705,7 +21674,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.477211,
+                "judge_reject": 0.467246,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -21760,7 +21729,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.477211,
+                "judge_reject": 0.467246,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -21791,7 +21760,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAus",
             "votes": {
-                "judge_pass": 0.997055,
+                "judge_pass": 0.997182,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -21820,7 +21789,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.997055,
+                "judge_pass": 0.997182,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -21855,7 +21824,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.994217,
+                "judge_pass": 0.994461,
                 "rrp_tier": 0.75,
                 "shave_agree": 0.35,
                 "source_agree": 0.0,
@@ -21947,7 +21916,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.897554,
+                "judge_pass": 0.901641,
                 "rrp_tier": 0.75,
                 "shave_agree": 0.35,
                 "source_agree": 0.0,
@@ -21964,7 +21933,7 @@
             "ipa": "jæmˈbuː",
             "freq": 0,
             "var": "RRP",
-            "confidence": 83,
+            "confidence": 84,
             "info": [
                 "accent: unstated"
             ],
@@ -21981,7 +21950,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.960921,
+                "judge_pass": 0.972768,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -22023,7 +21992,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.309017,
+                "judge_reject": 0.309158,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -22065,7 +22034,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.105247,
+                "judge_reject": 0.110816,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -22082,7 +22051,7 @@
             "ipa": "jɑːˈmʌn",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 37,
+            "confidence": 36,
             "info": [
                 "accent: unstated"
             ],
@@ -22107,7 +22076,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.7537,
+                "judge_reject": 0.764169,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -22137,7 +22106,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.562361,
+                "judge_pass": 0.556542,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -22166,7 +22135,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.999531,
+                "judge_pass": 0.999552,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -22343,7 +22312,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.996196,
+                "judge_pass": 0.996419,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -22377,7 +22346,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.996989,
+                "judge_pass": 0.996823,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -22411,7 +22380,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.996989,
+                "judge_pass": 0.996823,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -22452,7 +22421,7 @@
             "ipa": "jen",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 41,
+            "confidence": 42,
             "info": [
                 "accent: unstated"
             ],
@@ -22469,7 +22438,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.593551,
+                "judge_reject": 0.58377,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -22503,7 +22472,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.985746,
+                "judge_pass": 0.984735,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -22520,7 +22489,7 @@
             "ipa": "jen",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 41,
+            "confidence": 42,
             "info": [
                 "accent: unstated"
             ],
@@ -22537,7 +22506,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.593551,
+                "judge_reject": 0.58377,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -22571,7 +22540,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.985746,
+                "judge_pass": 0.984735,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -22714,7 +22683,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.999856,
+                "judge_pass": 0.999879,
                 "rrp_tier": 0.75,
                 "source_agree": 0.5,
                 "ipa_present": 1.0,
@@ -22799,7 +22768,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.056849,
+                "judge_pass": 0.063298,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -22831,7 +22800,7 @@
             "orig_var": "GenCan",
             "variant": true,
             "votes": {
-                "judge_reject": 0.966997,
+                "judge_reject": 0.979475,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -22941,7 +22910,7 @@
             "orig_var": "GenCan",
             "variant": true,
             "votes": {
-                "judge_reject": 0.966997,
+                "judge_reject": 0.979475,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -23037,7 +23006,7 @@
             "ipa": "jeɪŋkt",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 62,
+            "confidence": 61,
             "inflection": "attested",
             "inflection_base": "yank",
             "info": [
@@ -23057,7 +23026,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.585121,
+                "judge_reject": 0.593495,
                 "rrp_tier": 0.75,
                 "inflection_attested": 1.0,
                 "lemma_linked": 1.0,
@@ -23100,7 +23069,7 @@
             "ipa": "jeɪŋkt",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 62,
+            "confidence": 61,
             "inflection": "attested",
             "inflection_base": "yank",
             "info": [
@@ -23120,7 +23089,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.585121,
+                "judge_reject": 0.593495,
                 "rrp_tier": 0.75,
                 "inflection_attested": 1.0,
                 "lemma_linked": 1.0,
@@ -23189,7 +23158,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.999026,
+                "judge_pass": 0.998755,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -23223,7 +23192,7 @@
             "rrp_tier": "A",
             "variant": true,
             "votes": {
-                "judge_reject": 0.427236,
+                "judge_reject": 0.425642,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -23280,7 +23249,7 @@
             "rrp_tier": "A",
             "variant": true,
             "votes": {
-                "judge_reject": 0.543612,
+                "judge_reject": 0.539304,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -23338,7 +23307,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.520828,
+                "judge_reject": 0.520201,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -23373,7 +23342,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.731478,
+                "judge_pass": 0.718458,
                 "rrp_tier": 0.75,
                 "source_agree": 0.5,
                 "ipa_present": 1.0,
@@ -23407,7 +23376,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.498007,
+                "judge_reject": 0.49498,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -23551,7 +23520,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "votes": {
-                "judge_pass": 0.401945,
+                "judge_pass": 0.395941,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -23611,7 +23580,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.600432,
+                "judge_reject": 0.62083,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -23653,7 +23622,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.782146,
+                "judge_reject": 0.777659,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -23818,7 +23787,7 @@
             "ipa": "ˈjaʊi",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 52,
+            "confidence": 53,
             "info": [
                 "accent: unstated"
             ],
@@ -23843,7 +23812,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.231645,
+                "judge_reject": 0.221244,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -23885,7 +23854,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.794255,
+                "judge_reject": 0.796898,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -23975,7 +23944,7 @@
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "votes": {
-                "judge_reject": 0.963262,
+                "judge_reject": 0.967279,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -24006,7 +23975,7 @@
             "rrp_tier": "A",
             "orig_var": "GenCan",
             "votes": {
-                "judge_reject": 0.524892,
+                "judge_reject": 0.532331,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -24036,7 +24005,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.157938,
+                "judge_pass": 0.148803,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -24067,7 +24036,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.346445,
+                "judge_pass": 0.343585,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -24298,7 +24267,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.292656,
+                "judge_reject": 0.294009,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -24332,7 +24301,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.999279,
+                "judge_pass": 0.999338,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -24362,7 +24331,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.685692,
+                "judge_pass": 0.688115,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -24471,7 +24440,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.786851,
+                "judge_pass": 0.78398,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -24500,7 +24469,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.998566,
+                "judge_pass": 0.998695,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -24589,7 +24558,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.989713,
+                "judge_reject": 0.963394,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -24648,7 +24617,7 @@
             "ipa": "ˈjæpʌtʃiːno",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 30,
+            "confidence": 31,
             "info": [
                 "accent: unstated"
             ],
@@ -24673,7 +24642,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.971321,
+                "judge_reject": 0.944274,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -24749,7 +24718,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.989807,
+                "judge_pass": 0.990731,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -24827,7 +24796,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.999379,
+                "judge_pass": 0.999371,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -24856,7 +24825,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.999379,
+                "judge_pass": 0.999371,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -24886,7 +24855,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.999379,
+                "judge_pass": 0.999371,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -24915,7 +24884,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.999379,
+                "judge_pass": 0.999371,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -24954,7 +24923,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.820923,
+                "judge_reject": 0.81589,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -25022,7 +24991,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.033787,
+                "judge_pass": 0.034324,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -25056,7 +25025,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.033787,
+                "judge_pass": 0.034324,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -25086,7 +25055,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.224876,
+                "judge_pass": 0.217909,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -25249,7 +25218,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.999923,
+                "judge_pass": 0.999927,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -25264,7 +25233,7 @@
             "ipa": "ˈjɑːRd",
             "freq": 0,
             "var": "RRP",
-            "confidence": 71,
+            "confidence": 72,
             "source": [
                 "wiktionary"
             ],
@@ -25278,7 +25247,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.255771,
+                "judge_pass": 0.263569,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -25308,7 +25277,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.041299,
+                "judge_pass": 0.036444,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -25325,7 +25294,7 @@
             "ipa": "jɑːRdɪdʒ ˌbʊks",
             "freq": 0,
             "var": "RRP",
-            "confidence": 82,
+            "confidence": 81,
             "inflection": "attested",
             "inflection_base": "yardage book",
             "source": [
@@ -25340,7 +25309,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.101812,
+                "judge_pass": 0.086682,
                 "rrp_tier": 0.75,
                 "inflection_attested": 1.0,
                 "lemma_linked": 1.0,
@@ -25378,7 +25347,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.980402,
+                "judge_pass": 0.979335,
                 "rrp_tier": 0.75,
                 "shave_agree": 0.35,
                 "source_agree": 0.0,
@@ -25456,7 +25425,7 @@
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "C",
             "votes": {
-                "judge_reject": 0.004441,
+                "judge_reject": 0.004582,
                 "rrp_tier": 0.5,
                 "source_agree": 0.5,
                 "ipa_present": 1.0,
@@ -25565,7 +25534,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.577248,
+                "judge_pass": 0.575075,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -25594,7 +25563,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.673312,
+                "judge_pass": 0.672852,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -25662,7 +25631,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.681524,
+                "judge_pass": 0.677199,
                 "rrp_tier": 0.75,
                 "source_agree": 0.5,
                 "ipa_present": 1.0,
@@ -25697,7 +25666,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.978479,
+                "judge_pass": 0.978495,
                 "rrp_tier": 0.75,
                 "shave_agree": 0.35,
                 "source_agree": 0.0,
@@ -25733,7 +25702,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.752468,
+                "judge_pass": 0.746649,
                 "rrp_tier": 0.75,
                 "inflection_attested": 1.0,
                 "lemma_linked": 1.0,
@@ -25766,7 +25735,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.103998,
+                "judge_pass": 0.111949,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -31457,47 +31426,6 @@
             "confidence": 50
         }
     ],
-    "year-old_AJ0_𐑘𐑰𐑮-𐑴𐑤𐑛": [
-        {
-            "Latn": "year-old",
-            "Shaw": "𐑘𐑰𐑮-𐑴𐑤𐑛",
-            "pos": "AJ0",
-            "ipa": "jiːr oʊld",
-            "freq": 0,
-            "var": "GenAm",
-            "confidence": 27,
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "year-old",
-                "pos": "AJ0",
-                "Shaw": "𐑘𐑰𐑮-𐑴𐑤𐑛"
-            },
-            "has_definition": false,
-            "rrp_outcome": "SKIP_JUDGE_REJECT",
-            "rrp_tier": "B",
-            "generated_shaw": "𐑘𐑰𐑮 𐑴𐑤𐑛",
-            "generated_tier": "C",
-            "generated_method": "ipa-converter",
-            "generated_from": {
-                "basis": "ipa",
-                "outcome": "GEN",
-                "witnesses": [],
-                "notes": []
-            },
-            "orig_var": "GenCan",
-            "votes": {
-                "judge_reject": 1.0,
-                "rrp_tier": 0.625,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 0.0,
-                "clean_base": 1.0
-            },
-            "orig_shaw": "𐑘𐑰𐑮 𐑴𐑤𐑛"
-        }
-    ],
     "year-old_AJ0_𐑘𐑻-𐑴𐑤𐑛": [
         {
             "Latn": "year-old",
@@ -31544,12 +31472,12 @@
             "orig_shaw": "𐑘𐑻 𐑴𐑤𐑛"
         }
     ],
-    "year-old_NN1_𐑘𐑰𐑮-𐑴𐑤𐑛": [
+    "year-old_AJ0_𐑘𐑽-𐑴𐑤𐑛": [
         {
             "Latn": "year-old",
-            "Shaw": "𐑘𐑰𐑮-𐑴𐑤𐑛",
-            "pos": "NN1",
-            "ipa": "jiːr oʊld",
+            "Shaw": "𐑘𐑽-𐑴𐑤𐑛",
+            "pos": "AJ0",
+            "ipa": "jɪəR oʊld",
             "freq": 0,
             "var": "GenAm",
             "confidence": 27,
@@ -31558,13 +31486,13 @@
             ],
             "lemma": {
                 "Latn": "year-old",
-                "pos": "NN1",
-                "Shaw": "𐑘𐑰𐑮-𐑴𐑤𐑛"
+                "pos": "AJ0",
+                "Shaw": "𐑘𐑽-𐑴𐑤𐑛"
             },
             "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
-            "generated_shaw": "𐑘𐑰𐑮 𐑴𐑤𐑛",
+            "generated_shaw": "𐑘𐑽 𐑴𐑤𐑛",
             "generated_tier": "C",
             "generated_method": "ipa-converter",
             "generated_from": {
@@ -31582,7 +31510,7 @@
                 "has_definition": 0.0,
                 "clean_base": 1.0
             },
-            "orig_shaw": "𐑘𐑰𐑮 𐑴𐑤𐑛"
+            "orig_shaw": "𐑘𐑽 𐑴𐑤𐑛"
         }
     ],
     "year-old_NN1_𐑘𐑻-𐑴𐑤𐑛": [
@@ -31629,6 +31557,47 @@
                 "clean_base": 1.0
             },
             "orig_shaw": "𐑘𐑻 𐑴𐑤𐑛"
+        }
+    ],
+    "year-old_NN1_𐑘𐑽-𐑴𐑤𐑛": [
+        {
+            "Latn": "year-old",
+            "Shaw": "𐑘𐑽-𐑴𐑤𐑛",
+            "pos": "NN1",
+            "ipa": "jɪəR oʊld",
+            "freq": 0,
+            "var": "GenAm",
+            "confidence": 27,
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "year-old",
+                "pos": "NN1",
+                "Shaw": "𐑘𐑽-𐑴𐑤𐑛"
+            },
+            "has_definition": false,
+            "rrp_outcome": "SKIP_JUDGE_REJECT",
+            "rrp_tier": "B",
+            "generated_shaw": "𐑘𐑽 𐑴𐑤𐑛",
+            "generated_tier": "C",
+            "generated_method": "ipa-converter",
+            "generated_from": {
+                "basis": "ipa",
+                "outcome": "GEN",
+                "witnesses": [],
+                "notes": []
+            },
+            "orig_var": "GenCan",
+            "votes": {
+                "judge_reject": 1.0,
+                "rrp_tier": 0.625,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 1.0
+            },
+            "orig_shaw": "𐑘𐑽 𐑴𐑤𐑛"
         }
     ],
     "year-round_AJ0_𐑘𐑽-𐑮𐑬𐑯𐑛": [
@@ -31698,37 +31667,6 @@
             }
         }
     ],
-    "year_NN1_𐑘𐑦𐑮": [
-        {
-            "Latn": "year",
-            "Shaw": "𐑘𐑦𐑮",
-            "pos": "NN1",
-            "ipa": "jɪr",
-            "freq": 0,
-            "var": "GenAm",
-            "confidence": 31,
-            "source": [
-                "wordnet"
-            ],
-            "lemma": {
-                "Latn": "year",
-                "pos": "NN1",
-                "Shaw": "𐑘𐑦𐑮"
-            },
-            "has_definition": true,
-            "rrp_outcome": "SKIP_JUDGE_REJECT",
-            "rrp_tier": "B",
-            "variant": true,
-            "votes": {
-                "judge_reject": 1.0,
-                "rrp_tier": 0.75,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 1.0,
-                "clean_base": 1.0
-            }
-        }
-    ],
     "year_NN1_𐑘𐑰𐑑": [
         {
             "Latn": "year",
@@ -31758,37 +31696,6 @@
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 0.0
-            }
-        }
-    ],
-    "year_NN1_𐑘𐑰𐑮": [
-        {
-            "Latn": "year",
-            "Shaw": "𐑘𐑰𐑮",
-            "pos": "NN1",
-            "ipa": "jiːr",
-            "freq": 0,
-            "var": "IrEng",
-            "confidence": 31,
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "year",
-                "pos": "NN1",
-                "Shaw": "𐑘𐑰𐑮"
-            },
-            "has_definition": true,
-            "rrp_outcome": "SKIP_JUDGE_REJECT",
-            "rrp_tier": "B",
-            "variant": true,
-            "votes": {
-                "judge_reject": 1.0,
-                "rrp_tier": 0.75,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 1.0,
-                "clean_base": 1.0
             }
         }
     ],
@@ -31988,38 +31895,6 @@
             "confidence": 100
         }
     ],
-    "yearly_AJ0_𐑘𐑦𐑮𐑤𐑦": [
-        {
-            "Latn": "yearly",
-            "Shaw": "𐑘𐑦𐑮𐑤𐑦",
-            "pos": "AJ0",
-            "ipa": "ˈjɪrli",
-            "freq": 0,
-            "var": "GenAm",
-            "confidence": 45,
-            "source": [
-                "wordnet",
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "yearly",
-                "pos": "AJ0",
-                "Shaw": "𐑘𐑦𐑮𐑤𐑦"
-            },
-            "has_definition": true,
-            "rrp_outcome": "SKIP_JUDGE_REJECT",
-            "rrp_tier": "A",
-            "variant": true,
-            "votes": {
-                "judge_reject": 0.932599,
-                "rrp_tier": 1.0,
-                "source_agree": 0.5,
-                "ipa_present": 1.0,
-                "has_definition": 1.0,
-                "clean_base": 1.0
-            }
-        }
-    ],
     "yearly_AJ0_𐑘𐑽𐑤𐑦": [
         {
             "Latn": "yearly",
@@ -32075,38 +31950,6 @@
             }
         }
     ],
-    "yearly_AV0_𐑘𐑦𐑮𐑤𐑦": [
-        {
-            "Latn": "yearly",
-            "Shaw": "𐑘𐑦𐑮𐑤𐑦",
-            "pos": "AV0",
-            "ipa": "ˈjɪrli",
-            "freq": 0,
-            "var": "GenAm",
-            "confidence": 45,
-            "source": [
-                "wordnet",
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "yearly",
-                "pos": "AV0",
-                "Shaw": "𐑘𐑦𐑮𐑤𐑦"
-            },
-            "has_definition": true,
-            "rrp_outcome": "SKIP_JUDGE_REJECT",
-            "rrp_tier": "A",
-            "variant": true,
-            "votes": {
-                "judge_reject": 0.932599,
-                "rrp_tier": 1.0,
-                "source_agree": 0.5,
-                "ipa_present": 1.0,
-                "has_definition": 1.0,
-                "clean_base": 1.0
-            }
-        }
-    ],
     "yearly_AV0_𐑘𐑽𐑤𐑦": [
         {
             "Latn": "yearly",
@@ -32156,37 +31999,6 @@
                 "judge_pass": 0.0,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 1.0,
-                "clean_base": 1.0
-            }
-        }
-    ],
-    "yearly_NN1_𐑘𐑦𐑮𐑤𐑦": [
-        {
-            "Latn": "yearly",
-            "Shaw": "𐑘𐑦𐑮𐑤𐑦",
-            "pos": "NN1",
-            "ipa": "ˈjɪrli",
-            "freq": 0,
-            "var": "GenAm",
-            "confidence": 45,
-            "source": [
-                "wordnet",
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "yearly",
-                "pos": "NN1",
-                "Shaw": "𐑘𐑦𐑮𐑤𐑦"
-            },
-            "has_definition": true,
-            "rrp_outcome": "SKIP_JUDGE_REJECT",
-            "rrp_tier": "A",
-            "votes": {
-                "judge_reject": 0.932599,
-                "rrp_tier": 1.0,
-                "source_agree": 0.5,
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
@@ -32588,109 +32400,6 @@
             "regular": true
         }
     ],
-    "years_NN2_𐑘𐑦𐑮𐑟": [
-        {
-            "Latn": "years",
-            "Shaw": "𐑘𐑦𐑮𐑟",
-            "pos": "NN2",
-            "ipa": "jɪrz",
-            "freq": 0,
-            "var": "GenAm",
-            "confidence": 39,
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "year",
-                "pos": "NN1",
-                "Shaw": "𐑘𐑽"
-            },
-            "has_definition": true,
-            "inflection": "suffix",
-            "inflection_base": "year",
-            "rrp_outcome": "SKIP_JUDGE_REJECT",
-            "rrp_tier": "B",
-            "variant": true,
-            "votes": {
-                "judge_reject": 1.0,
-                "rrp_tier": 0.75,
-                "inflection_attested": 0.4,
-                "lemma_linked": 0.4,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 1.0,
-                "clean_base": 1.0
-            }
-        },
-        {
-            "Latn": "years",
-            "Shaw": "𐑘𐑦𐑮𐑟",
-            "pos": "NN2",
-            "ipa": "jɪrz",
-            "freq": 0,
-            "var": "GenAm",
-            "confidence": 51,
-            "inflection": "attested",
-            "inflection_base": "year",
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "year",
-                "pos": "NN1",
-                "Shaw": "𐑘𐑽"
-            },
-            "has_definition": true,
-            "rrp_outcome": "SKIP_JUDGE_REJECT",
-            "rrp_tier": "B",
-            "variant": true,
-            "votes": {
-                "judge_reject": 1.0,
-                "rrp_tier": 0.75,
-                "inflection_attested": 1.0,
-                "lemma_linked": 1.0,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 1.0,
-                "clean_base": 1.0
-            }
-        }
-    ],
-    "years_NN2_𐑘𐑦𐑼𐑟": [
-        {
-            "Latn": "years",
-            "Shaw": "𐑘𐑦𐑼𐑟",
-            "pos": "NN2",
-            "ipa": "ji+əRz",
-            "freq": 0,
-            "var": "RSSB",
-            "confidence": 44,
-            "source": [
-                "wordnet"
-            ],
-            "lemma": {
-                "Latn": "year",
-                "pos": "NN1",
-                "Shaw": "𐑘𐑽"
-            },
-            "has_definition": true,
-            "inflection": "suffix",
-            "inflection_base": "year",
-            "rrp_outcome": "SKIP_JUDGE_REJECT",
-            "rrp_tier": "B",
-            "variant": true,
-            "votes": {
-                "judge_reject": 0.852313,
-                "rrp_tier": 0.75,
-                "inflection_attested": 0.4,
-                "lemma_linked": 0.4,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 1.0,
-                "clean_base": 1.0
-            }
-        }
-    ],
     "years_NN2_𐑘𐑻𐑟": [
         {
             "Latn": "years",
@@ -32819,7 +32528,7 @@
             "Latn": "yeasayer",
             "Shaw": "𐑘𐑱𐑕𐑱𐑼",
             "pos": "NN1",
-            "ipa": "jeɪseɪ+ər",
+            "ipa": "jeɪseɪər",
             "freq": 0,
             "var": "RRP",
             "confidence": 59,
@@ -39459,28 +39168,28 @@
             }
         }
     ],
-    "yes, Virginia_UNC_𐑘𐑧𐑕 𐑝𐑼𐑡𐑦𐑯𐑦𐑩": [
+    "yes, Virginia_UNC_𐑘𐑧𐑕 𐑝𐑼𐑡𐑦𐑯𐑾": [
         {
             "Latn": "yes, Virginia",
-            "Shaw": "𐑘𐑧𐑕 𐑝𐑼𐑡𐑦𐑯𐑦𐑩",
+            "Shaw": "𐑘𐑧𐑕 𐑝𐑼𐑡𐑦𐑯𐑾",
             "pos": "UNC",
-            "ipa": "ˈjes vəRdʒɪni+ə",
+            "ipa": "ˈjes vəRdʒɪniə",
             "freq": 0,
             "var": "RRP",
-            "confidence": 60,
+            "confidence": 65,
             "source": [
                 "wiktionary"
             ],
             "lemma": {
                 "Latn": "yes, Virginia",
                 "pos": "UNC",
-                "Shaw": "𐑘𐑧𐑕 𐑝𐑼𐑡𐑦𐑯𐑦𐑩"
+                "Shaw": "𐑘𐑧𐑕 𐑝𐑼𐑡𐑦𐑯𐑾"
             },
             "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.01316,
+                "judge_pass": 0.219599,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -49183,7 +48892,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.516248,
+                "judge_pass": 0.523852,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -49271,7 +48980,7 @@
             "ipa": "jɔːRkʃɪəR",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 44,
+            "confidence": 46,
             "info": [
                 "accent: unstated"
             ],
@@ -49297,7 +49006,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.746225,
+                "judge_reject": 0.685365,
                 "rrp_tier": 0.625,
                 "source_agree": 0.5,
                 "ipa_present": 1.0,
@@ -49352,7 +49061,7 @@
             "rrp_tier": "A",
             "variant": true,
             "votes": {
-                "judge_reject": 0.321763,
+                "judge_reject": 0.323209,
                 "rrp_tier": 1.0,
                 "source_agree": 0.5,
                 "ipa_present": 1.0,
@@ -49496,7 +49205,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.242606,
+                "judge_pass": 0.244034,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -49530,7 +49239,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.662013,
+                "judge_reject": 0.680031,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -49601,7 +49310,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.242606,
+                "judge_pass": 0.244034,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -49618,7 +49327,7 @@
             "ipa": "ˈjɒtə",
             "freq": 0,
             "var": "RRP",
-            "confidence": 45,
+            "confidence": 44,
             "info": [
                 "accent: unstated"
             ],
@@ -49635,7 +49344,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.800636,
+                "judge_pass": 0.759077,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -49669,7 +49378,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.999736,
+                "judge_pass": 0.999779,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -49963,7 +49672,7 @@
             "ipa": "ˈjudəv",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 32,
+            "confidence": 34,
             "source": [
                 "wiktionary"
             ],
@@ -49977,7 +49686,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.91713,
+                "judge_reject": 0.827704,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -49994,7 +49703,7 @@
             "ipa": "ˈjuːdəv",
             "freq": 0,
             "var": "RRP",
-            "confidence": 82,
+            "confidence": 83,
             "source": [
                 "wiktionary"
             ],
@@ -50007,7 +49716,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.895503,
+                "judge_pass": 0.933988,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -50146,7 +49855,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.999535,
+                "judge_pass": 0.999749,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -50248,7 +49957,7 @@
             "ipa": "ˈjuːl",
             "freq": 0,
             "var": "RRP",
-            "confidence": 69,
+            "confidence": 71,
             "source": [
                 "wiktionary"
             ],
@@ -50261,7 +49970,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.40222,
+                "judge_pass": 0.460023,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -50279,7 +49988,7 @@
             "ipa": "ˈjuːəl",
             "freq": 0,
             "var": "RRP",
-            "confidence": 76,
+            "confidence": 77,
             "source": [
                 "wiktionary"
             ],
@@ -50292,7 +50001,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.650059,
+                "judge_pass": 0.694086,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -50363,7 +50072,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.616206,
+                "judge_reject": 0.604195,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -50380,7 +50089,7 @@
             "ipa": "jɔːr",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 30,
+            "confidence": 31,
             "info": [
                 "note: pour–poor merger",
                 "accent: unstated"
@@ -50398,7 +50107,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.962472,
+                "judge_reject": 0.954062,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -50450,7 +50159,7 @@
             "ipa": "juːər",
             "freq": 0,
             "var": "RRP",
-            "confidence": 76,
+            "confidence": 75,
             "info": [
                 "note: without the pour–poor merger",
                 "accent: unstated"
@@ -50468,7 +50177,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.656023,
+                "judge_pass": 0.623258,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -50562,7 +50271,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.616206,
+                "judge_reject": 0.604195,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -50579,7 +50288,7 @@
             "ipa": "jɔːr",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 30,
+            "confidence": 31,
             "info": [
                 "note: pour–poor merger",
                 "accent: unstated"
@@ -50597,7 +50306,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.962472,
+                "judge_reject": 0.954062,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -50649,7 +50358,7 @@
             "ipa": "juːər",
             "freq": 0,
             "var": "RRP",
-            "confidence": 76,
+            "confidence": 75,
             "info": [
                 "note: without the pour–poor merger",
                 "accent: unstated"
@@ -50667,7 +50376,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.656023,
+                "judge_pass": 0.623258,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -50812,7 +50521,7 @@
             "ipa": "juːv",
             "freq": 0,
             "var": "RRP",
-            "confidence": 79,
+            "confidence": 84,
             "source": [
                 "wiktionary"
             ],
@@ -50825,7 +50534,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.800728,
+                "judge_pass": 0.995219,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -50877,7 +50586,7 @@
             "ipa": "ˈjuənz",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 30,
+            "confidence": 29,
             "source": [
                 "wiktionary"
             ],
@@ -50891,7 +50600,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.990764,
+                "judge_reject": 1.0,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -50908,7 +50617,7 @@
             "ipa": "ˈjʌnz",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 38,
+            "confidence": 37,
             "source": [
                 "wiktionary"
             ],
@@ -50922,7 +50631,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.709729,
+                "judge_reject": 0.746832,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -50952,7 +50661,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.462364,
+                "judge_pass": 0.461735,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -51105,7 +50814,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.997965,
+                "judge_pass": 0.998765,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -51120,7 +50829,7 @@
             "ipa": "juːː",
             "freq": 0,
             "var": "RRP",
-            "confidence": 60,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -51134,7 +50843,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAus",
             "votes": {
-                "judge_pass": 0.03576,
+                "judge_pass": 0.008394,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -51463,7 +51172,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.997965,
+                "judge_pass": 0.998765,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -51478,7 +51187,7 @@
             "ipa": "juːː",
             "freq": 0,
             "var": "RRP",
-            "confidence": 60,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -51492,7 +51201,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAus",
             "votes": {
-                "judge_pass": 0.03576,
+                "judge_pass": 0.008394,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -51536,7 +51245,7 @@
             "ipa": "jaʊtʃ",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 51,
+            "confidence": 52,
             "info": [
                 "accent: unstated"
             ],
@@ -51561,7 +51270,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.288434,
+                "judge_reject": 0.225705,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -51595,7 +51304,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.994968,
+                "judge_pass": 0.998306,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -51653,7 +51362,7 @@
             "ipa": "ˈjʌŋən",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 50,
+            "confidence": 49,
             "info": [
                 "accent: unstated"
             ],
@@ -51678,7 +51387,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.295562,
+                "judge_reject": 0.352108,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -51751,7 +51460,7 @@
             "ipa": "jʌŋɡ",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 41,
+            "confidence": 43,
             "source": [
                 "wiktionary"
             ],
@@ -51765,7 +51474,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.660315,
+                "judge_reject": 0.62136,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -51837,7 +51546,7 @@
             "ipa": "jʌŋɡ",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 41,
+            "confidence": 43,
             "source": [
                 "wiktionary"
             ],
@@ -51851,7 +51560,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.660315,
+                "judge_reject": 0.62136,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -51912,7 +51621,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.996193,
+                "judge_pass": 0.997985,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -51941,7 +51650,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.996193,
+                "judge_pass": 0.997985,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -51958,7 +51667,7 @@
             "ipa": "jʌŋɡ",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 41,
+            "confidence": 43,
             "source": [
                 "wiktionary"
             ],
@@ -51972,7 +51681,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.660315,
+                "judge_reject": 0.62136,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -52039,7 +51748,7 @@
             "ipa": "jʌŋɡəR",
             "freq": 0,
             "var": "RRP",
-            "confidence": 83,
+            "confidence": 82,
             "source": [
                 "wiktionary"
             ],
@@ -52052,7 +51761,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.869131,
+                "judge_pass": 0.828365,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -52081,7 +51790,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.994992,
+                "judge_pass": 0.994168,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -52136,7 +51845,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAus",
             "votes": {
-                "judge_pass": 0.994465,
+                "judge_pass": 0.996733,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -52178,7 +51887,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.074757,
+                "judge_reject": 0.075179,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -53093,37 +52802,6 @@
             }
         }
     ],
-    "your_DT0_𐑘𐑦𐑮": [
-        {
-            "Latn": "your",
-            "Shaw": "𐑘𐑦𐑮",
-            "pos": "DT0",
-            "ipa": "jɪr",
-            "freq": 0,
-            "var": "GenAm",
-            "confidence": 29,
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "your",
-                "pos": "DT0",
-                "Shaw": "𐑘𐑦𐑮"
-            },
-            "has_definition": false,
-            "rrp_outcome": "SKIP_JUDGE_REJECT",
-            "rrp_tier": "B",
-            "variant": true,
-            "votes": {
-                "judge_reject": 1.0,
-                "rrp_tier": 0.75,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 0.0,
-                "clean_base": 1.0
-            }
-        }
-    ],
     "your_DT0_𐑘𐑪𐑩": [
         {
             "Latn": "your",
@@ -53366,13 +53044,10 @@
             "Latn": "your",
             "Shaw": "𐑘𐑽",
             "pos": "DT0",
-            "ipa": "jɪər",
+            "ipa": "jɪəR",
             "freq": 0,
-            "var": "GenCan",
+            "var": "GenAm",
             "confidence": 29,
-            "info": [
-                "dialectal"
-            ],
             "source": [
                 "wiktionary"
             ],
@@ -53384,6 +53059,7 @@
             "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
+            "orig_var": "GenCan",
             "variant": true,
             "votes": {
                 "judge_reject": 1.0,
@@ -56761,15 +56437,15 @@
             }
         }
     ],
-    "yttrium_NN1_𐑘𐑦𐑑𐑮𐑰𐑩𐑥": [
+    "yttrium_NN1_𐑘𐑦𐑑𐑮𐑾𐑥": [
         {
             "Latn": "yttrium",
-            "Shaw": "𐑘𐑦𐑑𐑮𐑰𐑩𐑥",
+            "Shaw": "𐑘𐑦𐑑𐑮𐑾𐑥",
             "pos": "NN1",
-            "ipa": "jɪtriːəm",
+            "ipa": "jɪtriəm",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 35,
+            "confidence": 42,
             "info": [
                 "accent: unstated"
             ],
@@ -56779,48 +56455,14 @@
             "lemma": {
                 "Latn": "yttrium",
                 "pos": "NN1",
-                "Shaw": "𐑘𐑦𐑑𐑮𐑰𐑩𐑥"
+                "Shaw": "𐑘𐑦𐑑𐑮𐑾𐑥"
             },
             "has_definition": true,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.879711,
-                "rrp_tier": 0.75,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 1.0,
-                "clean_base": 1.0
-            }
-        }
-    ],
-    "yttrium_NN1_𐑦𐑑𐑮𐑰𐑩𐑥": [
-        {
-            "Latn": "yttrium",
-            "Shaw": "𐑦𐑑𐑮𐑰𐑩𐑥",
-            "pos": "NN1",
-            "ipa": "ɪtriːəm",
-            "freq": 0,
-            "var": "RSSB",
-            "confidence": 37,
-            "info": [
-                "accent: unstated"
-            ],
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "yttrium",
-                "pos": "NN1",
-                "Shaw": "𐑦𐑑𐑮𐑰𐑩𐑥"
-            },
-            "has_definition": true,
-            "rrp_outcome": "SKIP_JUDGE_REJECT",
-            "rrp_tier": "B",
-            "variant": true,
-            "votes": {
-                "judge_reject": 0.804966,
+                "judge_reject": 0.629684,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -57633,7 +57275,8 @@
                 "Shaw": "𐑿𐑜𐑴𐑕𐑤𐑭𐑝𐑾"
             },
             "source": [
-                "readlex"
+                "readlex",
+                "wiktionary"
             ],
             "has_definition": true,
             "votes": {
@@ -59500,7 +59143,7 @@
             "ipa": "ɪrəʊkən",
             "freq": 0,
             "var": "RRP",
-            "confidence": 64,
+            "confidence": 69,
             "source": [
                 "wiktionary"
             ],
@@ -59513,7 +59156,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.207464,
+                "judge_pass": 0.382089,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -59530,7 +59173,7 @@
             "ipa": "ɪrəʊkən",
             "freq": 0,
             "var": "RRP",
-            "confidence": 84,
+            "confidence": 89,
             "inflection": "attested",
             "inflection_base": "wreak",
             "source": [
@@ -59545,7 +59188,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.207464,
+                "judge_pass": 0.382089,
                 "rrp_tier": 0.75,
                 "inflection_attested": 1.0,
                 "lemma_linked": 1.0,
@@ -59564,7 +59207,7 @@
             "ipa": "ɪrəʊkən",
             "freq": 0,
             "var": "RRP",
-            "confidence": 84,
+            "confidence": 89,
             "inflection": "attested",
             "inflection_base": "wreak",
             "source": [
@@ -59579,7 +59222,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.207464,
+                "judge_pass": 0.382089,
                 "rrp_tier": 0.75,
                 "inflection_attested": 1.0,
                 "lemma_linked": 1.0,
@@ -59598,7 +59241,7 @@
             "ipa": "ɪrɔːt",
             "freq": 0,
             "var": "RRP",
-            "confidence": 93,
+            "confidence": 97,
             "inflection": "attested",
             "inflection_base": "work",
             "source": [
@@ -59613,7 +59256,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.545464,
+                "judge_pass": 0.692048,
                 "rrp_tier": 0.75,
                 "inflection_attested": 1.0,
                 "lemma_linked": 1.0,
@@ -59632,7 +59275,7 @@
             "ipa": "ɪrɔːt",
             "freq": 0,
             "var": "RRP",
-            "confidence": 93,
+            "confidence": 97,
             "inflection": "attested",
             "inflection_base": "work",
             "source": [
@@ -59647,7 +59290,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.545464,
+                "judge_pass": 0.692048,
                 "rrp_tier": 0.75,
                 "inflection_attested": 1.0,
                 "lemma_linked": 1.0,

@@ -770,7 +770,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAus",
             "votes": {
-                "judge_pass": 0.143803,
+                "judge_pass": 0.16343,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -801,7 +801,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAus",
             "votes": {
-                "judge_pass": 0.143803,
+                "judge_pass": 0.16343,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -832,7 +832,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAus",
             "votes": {
-                "judge_pass": 0.143803,
+                "judge_pass": 0.16343,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -874,7 +874,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.605387,
+                "judge_reject": 0.614123,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -916,7 +916,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.56584,
+                "judge_reject": 0.57103,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -1084,7 +1084,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.56584,
+                "judge_reject": 0.57103,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -1132,7 +1132,7 @@
             "ipa": "ˌekseksˈeks",
             "freq": 0,
             "var": "RRP",
-            "confidence": 84,
+            "confidence": 83,
             "source": [
                 "wiktionary"
             ],
@@ -1146,7 +1146,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.741131,
+                "judge_pass": 0.731272,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -1194,7 +1194,7 @@
             "ipa": "ˌekseksˈeks",
             "freq": 0,
             "var": "RRP",
-            "confidence": 84,
+            "confidence": 83,
             "source": [
                 "wiktionary"
             ],
@@ -1208,7 +1208,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.741131,
+                "judge_pass": 0.731272,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -1256,7 +1256,7 @@
             "ipa": "ˌekseksˈeks",
             "freq": 0,
             "var": "RRP",
-            "confidence": 84,
+            "confidence": 83,
             "source": [
                 "wiktionary"
             ],
@@ -1270,7 +1270,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.741131,
+                "judge_pass": 0.731272,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -1318,7 +1318,7 @@
             "ipa": "ˌekseksˈeks",
             "freq": 0,
             "var": "RRP",
-            "confidence": 84,
+            "confidence": 83,
             "source": [
                 "wiktionary"
             ],
@@ -1332,7 +1332,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.741131,
+                "judge_pass": 0.731272,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2847,7 +2847,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.227393,
+                "judge_reject": 0.228485,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2864,7 +2864,7 @@
             "ipa": "ˈzænəˌtɑːs",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 34,
+            "confidence": 35,
             "source": [
                 "wiktionary"
             ],
@@ -2886,7 +2886,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.844043,
+                "judge_reject": 0.809002,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -2956,7 +2956,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.98971,
+                "judge_pass": 0.987083,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3004,7 +3004,7 @@
             "ipa": "zɑːndəR",
             "freq": 0,
             "var": "RRP",
-            "confidence": 67,
+            "confidence": 66,
             "source": [
                 "wiktionary"
             ],
@@ -3017,7 +3017,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.297526,
+                "judge_pass": 0.288732,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3090,7 +3090,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.192347,
+                "judge_reject": 0.199168,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3107,7 +3107,7 @@
             "ipa": "ˈsɑːntən",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 44,
+            "confidence": 43,
             "info": [
                 "accent: unstated"
             ],
@@ -3132,7 +3132,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.519097,
+                "judge_reject": 0.541175,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3174,7 +3174,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.566137,
+                "judge_reject": 0.586616,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3216,7 +3216,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.095879,
+                "judge_reject": 0.104703,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3225,15 +3225,15 @@
             }
         }
     ],
-    "Xanthian_AJ0_𐑟𐑨𐑯𐑔𐑦𐑩𐑯": [
+    "Xanthian_AJ0_𐑟𐑨𐑯𐑔𐑾𐑯": [
         {
             "Latn": "Xanthian",
-            "Shaw": "𐑟𐑨𐑯𐑔𐑦𐑩𐑯",
+            "Shaw": "𐑟𐑨𐑯𐑔𐑾𐑯",
             "pos": "AJ0",
-            "ipa": "ˈzænθi+ən",
+            "ipa": "ˈzænθiən",
             "freq": 0,
-            "var": "RSSB",
-            "confidence": 39,
+            "var": "RRP",
+            "confidence": 82,
             "info": [
                 "accent: unstated"
             ],
@@ -3243,22 +3243,14 @@
             "lemma": {
                 "Latn": "Xanthian",
                 "pos": "AJ0",
-                "Shaw": "𐑟𐑨𐑯𐑔𐑦𐑩𐑯"
+                "Shaw": "𐑟𐑨𐑯𐑔𐑾𐑯"
             },
             "has_definition": false,
-            "rrp_outcome": "SKIP_JUDGE_REJECT",
+            "rrp_outcome": "PASS",
             "rrp_tier": "B",
-            "generated_shaw": "𐑟𐑨𐑯𐑔𐑦𐑩𐑯",
-            "generated_tier": "B",
-            "generated_method": "ipa-converter",
-            "generated_from": {
-                "basis": "ipa",
-                "outcome": "GEN",
-                "witnesses": [],
-                "notes": []
-            },
+            "orig_var": "RSSB",
             "votes": {
-                "judge_reject": 0.662252,
+                "judge_pass": 0.902112,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3267,15 +3259,15 @@
             }
         }
     ],
-    "Xanthian_NN1_𐑟𐑨𐑯𐑔𐑦𐑩𐑯": [
+    "Xanthian_NN1_𐑟𐑨𐑯𐑔𐑾𐑯": [
         {
             "Latn": "Xanthian",
-            "Shaw": "𐑟𐑨𐑯𐑔𐑦𐑩𐑯",
+            "Shaw": "𐑟𐑨𐑯𐑔𐑾𐑯",
             "pos": "NN1",
-            "ipa": "ˈzænθi+ən",
+            "ipa": "ˈzænθiən",
             "freq": 0,
-            "var": "RSSB",
-            "confidence": 39,
+            "var": "RRP",
+            "confidence": 82,
             "info": [
                 "accent: unstated"
             ],
@@ -3285,22 +3277,14 @@
             "lemma": {
                 "Latn": "Xanthian",
                 "pos": "NN1",
-                "Shaw": "𐑟𐑨𐑯𐑔𐑦𐑩𐑯"
+                "Shaw": "𐑟𐑨𐑯𐑔𐑾𐑯"
             },
             "has_definition": false,
-            "rrp_outcome": "SKIP_JUDGE_REJECT",
+            "rrp_outcome": "PASS",
             "rrp_tier": "B",
-            "generated_shaw": "𐑟𐑨𐑯𐑔𐑦𐑩𐑯",
-            "generated_tier": "B",
-            "generated_method": "ipa-converter",
-            "generated_from": {
-                "basis": "ipa",
-                "outcome": "GEN",
-                "witnesses": [],
-                "notes": []
-            },
+            "orig_var": "RSSB",
             "votes": {
-                "judge_reject": 0.662252,
+                "judge_pass": 0.902112,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3317,7 +3301,7 @@
             "ipa": "zænˈθɪpi",
             "freq": 0,
             "var": "RRP",
-            "confidence": 73,
+            "confidence": 74,
             "source": [
                 "wiktionary"
             ],
@@ -3331,7 +3315,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.399702,
+                "judge_pass": 0.423193,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3373,7 +3357,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.291121,
+                "judge_reject": 0.278528,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3469,7 +3453,7 @@
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "votes": {
-                "judge_reject": 0.262991,
+                "judge_reject": 0.283488,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3486,7 +3470,7 @@
             "ipa": "zeɪvɪəR",
             "freq": 0,
             "var": "RRP",
-            "confidence": 66,
+            "confidence": 67,
             "source": [
                 "wiktionary"
             ],
@@ -3499,7 +3483,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.204136,
+                "judge_pass": 0.229753,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3514,7 +3498,7 @@
             "ipa": "ˈzeɪviəR",
             "freq": 0,
             "var": "RRP",
-            "confidence": 87,
+            "confidence": 86,
             "source": [
                 "wiktionary"
             ],
@@ -3528,7 +3512,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.860602,
+                "judge_pass": 0.845363,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3578,7 +3562,7 @@
             "ipa": "ɪɡˈzeɪvjəR",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 37,
+            "confidence": 36,
             "source": [
                 "wiktionary"
             ],
@@ -3591,7 +3575,7 @@
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
             "votes": {
-                "judge_reject": 0.803669,
+                "judge_reject": 0.827507,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3652,7 +3636,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.971135,
+                "judge_pass": 0.978063,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3682,7 +3666,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.45834,
+                "judge_pass": 0.456929,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -3712,7 +3696,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.45834,
+                "judge_pass": 0.456929,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -4018,29 +4002,57 @@
             }
         }
     ],
-    "Xenophonian_AJ0_𐑟𐑧𐑯𐑩𐑓𐑴𐑯𐑦𐑩𐑯": [
+    "Xenophonian_AJ0_𐑟𐑧𐑯𐑩𐑓𐑴𐑯𐑾𐑯": [
         {
             "Latn": "Xenophonian",
-            "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑯𐑦𐑩𐑯",
+            "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑯𐑾𐑯",
             "pos": "AJ0",
-            "ipa": "ˌzenəˈfəʊni+ən",
+            "ipa": "ˌzenəˈfəʊniən",
             "freq": 0,
             "var": "RRP",
-            "confidence": 77,
+            "confidence": 85,
             "source": [
                 "wiktionary"
             ],
             "lemma": {
                 "Latn": "Xenophonian",
                 "pos": "AJ0",
-                "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑯𐑦𐑩𐑯"
+                "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑯𐑾𐑯"
+            },
+            "has_definition": false,
+            "rrp_outcome": "PASS",
+            "rrp_tier": "A",
+            "votes": {
+                "judge_pass": 0.899584,
+                "rrp_tier": 1.0,
+                "source_agree": 0.0,
+                "ipa_present": 1.0,
+                "has_definition": 0.0,
+                "clean_base": 1.0
+            }
+        },
+        {
+            "Latn": "Xenophonian",
+            "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑯𐑾𐑯",
+            "pos": "AJ0",
+            "ipa": "ˌzenəˈfoʊniən",
+            "freq": 0,
+            "var": "RRP",
+            "confidence": 69,
+            "source": [
+                "wiktionary"
+            ],
+            "lemma": {
+                "Latn": "Xenophonian",
+                "pos": "AJ0",
+                "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑯𐑾𐑯"
             },
             "has_definition": false,
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.545096,
+                "judge_pass": 0.240379,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -5385,12 +5397,12 @@
             }
         }
     ],
-    "Ximenean_AJ0_𐑣𐑦𐑥𐑱𐑯𐑦𐑩𐑯": [
+    "Ximenean_AJ0_𐑣𐑦𐑥𐑱𐑯𐑾𐑯": [
         {
             "Latn": "Ximenean",
-            "Shaw": "𐑣𐑦𐑥𐑱𐑯𐑦𐑩𐑯",
+            "Shaw": "𐑣𐑦𐑥𐑱𐑯𐑾𐑯",
             "pos": "AJ0",
-            "ipa": "hɪˈmeɪni+ən",
+            "ipa": "hɪˈmeɪniən",
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
@@ -5404,12 +5416,12 @@
             "lemma": {
                 "Latn": "Ximenean",
                 "pos": "AJ0",
-                "Shaw": "𐑣𐑦𐑥𐑱𐑯𐑦𐑩𐑯"
+                "Shaw": "𐑣𐑦𐑥𐑱𐑯𐑾𐑯"
             },
             "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
-            "generated_shaw": "𐑣𐑦𐑥𐑱𐑯𐑦𐑩𐑯",
+            "generated_shaw": "𐑣𐑦𐑥𐑱𐑯𐑾𐑯",
             "generated_tier": "B",
             "generated_method": "ipa-converter",
             "generated_from": {
@@ -5471,12 +5483,12 @@
             }
         }
     ],
-    "Ximenean_NN1_𐑣𐑦𐑥𐑱𐑯𐑦𐑩𐑯": [
+    "Ximenean_NN1_𐑣𐑦𐑥𐑱𐑯𐑾𐑯": [
         {
             "Latn": "Ximenean",
-            "Shaw": "𐑣𐑦𐑥𐑱𐑯𐑦𐑩𐑯",
+            "Shaw": "𐑣𐑦𐑥𐑱𐑯𐑾𐑯",
             "pos": "NN1",
-            "ipa": "hɪˈmeɪni+ən",
+            "ipa": "hɪˈmeɪniən",
             "freq": 0,
             "var": "RSSB",
             "confidence": 29,
@@ -5490,12 +5502,12 @@
             "lemma": {
                 "Latn": "Ximenean",
                 "pos": "NN1",
-                "Shaw": "𐑣𐑦𐑥𐑱𐑯𐑦𐑩𐑯"
+                "Shaw": "𐑣𐑦𐑥𐑱𐑯𐑾𐑯"
             },
             "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
-            "generated_shaw": "𐑣𐑦𐑥𐑱𐑯𐑦𐑩𐑯",
+            "generated_shaw": "𐑣𐑦𐑥𐑱𐑯𐑾𐑯",
             "generated_tier": "B",
             "generated_method": "ipa-converter",
             "generated_from": {
@@ -6936,7 +6948,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.512506,
+                "judge_reject": 0.512554,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -6970,7 +6982,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.512506,
+                "judge_reject": 0.512554,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -7004,7 +7016,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.991244,
+                "judge_pass": 0.991588,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -7036,7 +7048,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.997605,
+                "judge_pass": 0.997626,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -7053,7 +7065,7 @@
             "ipa": "eksɒɡrəfi",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 46,
+            "confidence": 47,
             "info": [
                 "accent: unstated"
             ],
@@ -7078,7 +7090,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.391338,
+                "judge_reject": 0.362236,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -7108,7 +7120,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.544755,
+                "judge_pass": 0.541391,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -7389,7 +7401,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.969832,
+                "judge_pass": 0.955753,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8146,7 +8158,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.953678,
+                "judge_pass": 0.959124,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8188,7 +8200,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.113212,
+                "judge_reject": 0.111687,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8220,7 +8232,7 @@
             "rrp_tier": "A",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.956335,
+                "judge_pass": 0.946211,
                 "rrp_tier": 1.0,
                 "source_agree": 0.5,
                 "ipa_present": 1.0,
@@ -8262,7 +8274,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.091846,
+                "judge_reject": 0.091736,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8305,7 +8317,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.326815,
+                "judge_reject": 0.319984,
                 "rrp_tier": 0.875,
                 "source_agree": 0.5,
                 "ipa_present": 1.0,
@@ -8322,7 +8334,7 @@
             "ipa": "ˈzænθin",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 54,
+            "confidence": 53,
             "info": [
                 "accent: unstated"
             ],
@@ -8347,7 +8359,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.187747,
+                "judge_reject": 0.21312,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8389,7 +8401,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.064558,
+                "judge_reject": 0.070656,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8448,7 +8460,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.656491,
+                "judge_pass": 0.6614,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8478,7 +8490,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.554011,
+                "judge_pass": 0.547406,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8512,7 +8524,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.862549,
+                "judge_pass": 0.874543,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8546,7 +8558,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.970434,
+                "judge_pass": 0.970645,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8621,7 +8633,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.565056,
+                "judge_reject": 0.572995,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8638,7 +8650,7 @@
             "ipa": "zænˈθəʊkrɔɪd",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 47,
+            "confidence": 48,
             "info": [
                 "accent: unstated"
             ],
@@ -8663,7 +8675,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.399693,
+                "judge_reject": 0.387921,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8680,7 +8692,7 @@
             "ipa": "zænˈθəʊkrɔɪd",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 47,
+            "confidence": 48,
             "info": [
                 "accent: unstated"
             ],
@@ -8705,7 +8717,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.399693,
+                "judge_reject": 0.387921,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8722,7 +8734,7 @@
             "ipa": "zænθəkrəʊɪzəm",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 44,
+            "confidence": 45,
             "info": [
                 "accent: unstated"
             ],
@@ -8747,7 +8759,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.43485,
+                "judge_reject": 0.416703,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8789,7 +8801,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.444018,
+                "judge_reject": 0.453634,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8828,7 +8840,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.97819,
+                "judge_reject": 0.979523,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8870,7 +8882,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.050686,
+                "judge_reject": 0.04398,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8920,7 +8932,7 @@
             "ipa": "ˈzanθəʊn",
             "freq": 0,
             "var": "RRP",
-            "confidence": 79,
+            "confidence": 78,
             "source": [
                 "wiktionary"
             ],
@@ -8934,7 +8946,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.626468,
+                "judge_pass": 0.606693,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -8943,12 +8955,12 @@
             }
         }
     ],
-    "xanthophobia_NN1_𐑟𐑨𐑯𐑔𐑩𐑓𐑴𐑚𐑦𐑩": [
+    "xanthophobia_NN1_𐑟𐑨𐑯𐑔𐑩𐑓𐑴𐑚𐑾": [
         {
             "Latn": "xanthophobia",
-            "Shaw": "𐑟𐑨𐑯𐑔𐑩𐑓𐑴𐑚𐑦𐑩",
+            "Shaw": "𐑟𐑨𐑯𐑔𐑩𐑓𐑴𐑚𐑾",
             "pos": "NN1",
-            "ipa": "zænθəˈfoʊbi+ə",
+            "ipa": "zænθəˈfoʊbiə",
             "freq": 0,
             "var": "GenAm",
             "confidence": 29,
@@ -8958,12 +8970,12 @@
             "lemma": {
                 "Latn": "xanthophobia",
                 "pos": "NN1",
-                "Shaw": "𐑟𐑨𐑯𐑔𐑩𐑓𐑴𐑚𐑦𐑩"
+                "Shaw": "𐑟𐑨𐑯𐑔𐑩𐑓𐑴𐑚𐑾"
             },
             "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
-            "generated_shaw": "𐑟𐑨𐑯𐑔𐑩𐑓𐑴𐑚𐑦𐑩",
+            "generated_shaw": "𐑟𐑨𐑯𐑔𐑩𐑓𐑴𐑚𐑾",
             "generated_tier": "B",
             "generated_method": "ipa-converter",
             "generated_from": {
@@ -9015,7 +9027,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.697687,
+                "judge_reject": 0.708937,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -9032,7 +9044,7 @@
             "ipa": "zænˈθoʊsɪs",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 32,
+            "confidence": 33,
             "source": [
                 "wiktionary"
             ],
@@ -9054,7 +9066,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.958522,
+                "judge_reject": 0.947816,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -9125,7 +9137,7 @@
             "rrp_tier": "A",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.882224,
+                "judge_pass": 0.887763,
                 "rrp_tier": 1.0,
                 "source_agree": 0.5,
                 "ipa_present": 1.0,
@@ -9142,7 +9154,7 @@
             "ipa": "kɑːt",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 39,
+            "confidence": 40,
             "info": [
                 "accent: unstated"
             ],
@@ -9167,7 +9179,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.677948,
+                "judge_reject": 0.636384,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -9209,7 +9221,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.571474,
+                "judge_reject": 0.578784,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -9315,7 +9327,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.778793,
+                "judge_pass": 0.797273,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -9332,7 +9344,7 @@
             "ipa": "ziː",
             "freq": 0,
             "var": "RRP",
-            "confidence": 62,
+            "confidence": 64,
             "source": [
                 "wiktionary"
             ],
@@ -9346,7 +9358,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.015877,
+                "judge_pass": 0.090996,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -9394,7 +9406,7 @@
             "ipa": "zɪˈbek",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 45,
+            "confidence": 46,
             "source": [
                 "wiktionary"
             ],
@@ -9408,7 +9420,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.481361,
+                "judge_reject": 0.442426,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -9439,7 +9451,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.90745,
+                "judge_pass": 0.933229,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -9481,7 +9493,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.431021,
+                "judge_reject": 0.451547,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -9523,7 +9535,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.060705,
+                "judge_reject": 0.076504,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -9565,7 +9577,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.431021,
+                "judge_reject": 0.451547,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -9607,7 +9619,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.060705,
+                "judge_reject": 0.076504,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -9649,7 +9661,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.666288,
+                "judge_reject": 0.684671,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -9976,10 +9988,10 @@
             "Latn": "xenelasia",
             "Shaw": "𐑟𐑧𐑯𐑦𐑤𐑩𐑕𐑰𐑩",
             "pos": "NN1",
-            "ipa": "zeniləˈsiː+ə",
+            "ipa": "zeniləˈsiːə",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 33,
+            "confidence": 36,
             "source": [
                 "wiktionary"
             ],
@@ -9993,7 +10005,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.869583,
+                "judge_reject": 0.787837,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -10962,15 +10974,15 @@
             }
         }
     ],
-    "xenoencyclopedia_NN1_𐑟𐑧𐑯𐑩𐑦𐑯𐑕𐑲𐑒𐑤𐑩𐑐𐑰𐑛𐑦𐑩": [
+    "xenoencyclopedia_NN1_𐑟𐑧𐑯𐑩𐑦𐑯𐑕𐑲𐑒𐑤𐑩𐑐𐑰𐑛𐑾": [
         {
             "Latn": "xenoencyclopedia",
-            "Shaw": "𐑟𐑧𐑯𐑩𐑦𐑯𐑕𐑲𐑒𐑤𐑩𐑐𐑰𐑛𐑦𐑩",
+            "Shaw": "𐑟𐑧𐑯𐑩𐑦𐑯𐑕𐑲𐑒𐑤𐑩𐑐𐑰𐑛𐑾",
             "pos": "NN1",
-            "ipa": "zenəɪnˌsaɪkləˈpiːdi+ə",
+            "ipa": "zenəɪnˌsaɪkləˈpiːdiə",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 44,
+            "confidence": 47,
             "info": [
                 "accent: unstated"
             ],
@@ -10980,12 +10992,12 @@
             "lemma": {
                 "Latn": "xenoencyclopedia",
                 "pos": "NN1",
-                "Shaw": "𐑟𐑧𐑯𐑩𐑦𐑯𐑕𐑲𐑒𐑤𐑩𐑐𐑰𐑛𐑦𐑩"
+                "Shaw": "𐑟𐑧𐑯𐑩𐑦𐑯𐑕𐑲𐑒𐑤𐑩𐑐𐑰𐑛𐑾"
             },
             "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
-            "generated_shaw": "𐑟𐑧𐑯𐑩𐑦𐑯𐑕𐑲𐑒𐑤𐑩𐑐𐑰𐑛𐑦𐑩",
+            "generated_shaw": "𐑟𐑧𐑯𐑩𐑦𐑯𐑕𐑲𐑒𐑤𐑩𐑐𐑰𐑛𐑾",
             "generated_tier": "B",
             "generated_method": "ipa-converter",
             "generated_from": {
@@ -10995,7 +11007,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.52256,
+                "judge_reject": 0.398925,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -11460,15 +11472,15 @@
             }
         }
     ],
-    "xenoglossia_NN1_𐑟𐑧𐑯𐑩𐑜𐑤𐑪𐑕𐑦𐑩": [
+    "xenoglossia_NN1_𐑟𐑧𐑯𐑩𐑜𐑤𐑪𐑕𐑾": [
         {
             "Latn": "xenoglossia",
-            "Shaw": "𐑟𐑧𐑯𐑩𐑜𐑤𐑪𐑕𐑦𐑩",
+            "Shaw": "𐑟𐑧𐑯𐑩𐑜𐑤𐑪𐑕𐑾",
             "pos": "NN1",
-            "ipa": "ˌzenəˈɡlɒsi+ə",
+            "ipa": "ˌzenəˈɡlɒsiə",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 44,
+            "confidence": 53,
             "info": [
                 "accent: unstated"
             ],
@@ -11478,12 +11490,12 @@
             "lemma": {
                 "Latn": "xenoglossia",
                 "pos": "NN1",
-                "Shaw": "𐑟𐑧𐑯𐑩𐑜𐑤𐑪𐑕𐑦𐑩"
+                "Shaw": "𐑟𐑧𐑯𐑩𐑜𐑤𐑪𐑕𐑾"
             },
             "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
-            "generated_shaw": "𐑟𐑧𐑯𐑩𐑜𐑤𐑪𐑕𐑦𐑩",
+            "generated_shaw": "𐑟𐑧𐑯𐑩𐑜𐑤𐑪𐑕𐑾",
             "generated_tier": "B",
             "generated_method": "ipa-converter",
             "generated_from": {
@@ -11493,7 +11505,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.511177,
+                "judge_reject": 0.215078,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -11502,15 +11514,15 @@
             }
         }
     ],
-    "xenoglossia_NN1_𐑟𐑰𐑯𐑩𐑜𐑤𐑪𐑕𐑦𐑩": [
+    "xenoglossia_NN1_𐑟𐑰𐑯𐑩𐑜𐑤𐑪𐑕𐑾": [
         {
             "Latn": "xenoglossia",
-            "Shaw": "𐑟𐑰𐑯𐑩𐑜𐑤𐑪𐑕𐑦𐑩",
+            "Shaw": "𐑟𐑰𐑯𐑩𐑜𐑤𐑪𐑕𐑾",
             "pos": "NN1",
-            "ipa": "ˌziːnəˈɡlɒsi+ə",
+            "ipa": "ˌziːnəˈɡlɒsiə",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 41,
+            "confidence": 50,
             "info": [
                 "accent: unstated"
             ],
@@ -11520,12 +11532,12 @@
             "lemma": {
                 "Latn": "xenoglossia",
                 "pos": "NN1",
-                "Shaw": "𐑟𐑰𐑯𐑩𐑜𐑤𐑪𐑕𐑦𐑩"
+                "Shaw": "𐑟𐑰𐑯𐑩𐑜𐑤𐑪𐑕𐑾"
             },
             "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "B",
-            "generated_shaw": "𐑟𐑰𐑯𐑩𐑜𐑤𐑪𐑕𐑦𐑩",
+            "generated_shaw": "𐑟𐑰𐑯𐑩𐑜𐑤𐑪𐑕𐑾",
             "generated_tier": "B",
             "generated_method": "ipa-converter",
             "generated_from": {
@@ -11535,7 +11547,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.599237,
+                "judge_reject": 0.310216,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -12719,38 +12731,6 @@
             }
         }
     ],
-    "xenophobia_NN1_𐑟𐑧𐑯𐑩𐑓𐑴𐑚𐑦𐑩": [
-        {
-            "Latn": "xenophobia",
-            "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑚𐑦𐑩",
-            "pos": "NN1",
-            "ipa": "ˌzenəˈfəʊbɪ+ə",
-            "freq": 0,
-            "var": "RRP",
-            "confidence": 81,
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "xenophobia",
-                "pos": "NN1",
-                "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑚𐑦𐑩"
-            },
-            "has_definition": true,
-            "rrp_outcome": "PASS",
-            "rrp_tier": "A",
-            "orig_var": "GenAm",
-            "variant": true,
-            "votes": {
-                "judge_pass": 0.631797,
-                "rrp_tier": 1.0,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 1.0,
-                "clean_base": 1.0
-            }
-        }
-    ],
     "xenophobia_NN1_𐑟𐑧𐑯𐑩𐑓𐑴𐑚𐑾": [
         {
             "Latn": "xenophobia",
@@ -12765,44 +12745,14 @@
                 "Shaw": "𐑟𐑧𐑯𐑩𐑓𐑴𐑚𐑾"
             },
             "source": [
-                "readlex"
+                "readlex",
+                "wiktionary"
             ],
             "has_definition": true,
             "votes": {
                 "upstream": 1.0
             },
             "confidence": 100
-        }
-    ],
-    "xenophobia_NN1_𐑟𐑰𐑯𐑩𐑓𐑴𐑚𐑦𐑩": [
-        {
-            "Latn": "xenophobia",
-            "Shaw": "𐑟𐑰𐑯𐑩𐑓𐑴𐑚𐑦𐑩",
-            "pos": "NN1",
-            "ipa": "ˌziːnəˈfoʊbi+ə",
-            "freq": 0,
-            "var": "GenAm",
-            "confidence": 31,
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "xenophobia",
-                "pos": "NN1",
-                "Shaw": "𐑟𐑰𐑯𐑩𐑓𐑴𐑚𐑦𐑩"
-            },
-            "has_definition": true,
-            "rrp_outcome": "SKIP_JUDGE_REJECT",
-            "rrp_tier": "B",
-            "variant": true,
-            "votes": {
-                "judge_reject": 1.0,
-                "rrp_tier": 0.75,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 1.0,
-                "clean_base": 1.0
-            }
         }
     ],
     "xenophobia_NN1_𐑟𐑰𐑯𐑩𐑓𐑴𐑚𐑾": [
@@ -12813,9 +12763,10 @@
             "ipa": "ziːnəˈfoʊbiə",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 31,
+            "confidence": 42,
             "source": [
-                "wordnet"
+                "wordnet",
+                "wiktionary"
             ],
             "lemma": {
                 "Latn": "xenophobia",
@@ -12824,12 +12775,12 @@
             },
             "has_definition": true,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
-            "rrp_tier": "B",
+            "rrp_tier": "A",
             "variant": true,
             "votes": {
                 "judge_reject": 1.0,
-                "rrp_tier": 0.75,
-                "source_agree": 0.0,
+                "rrp_tier": 1.0,
+                "source_agree": 0.5,
                 "ipa_present": 1.0,
                 "has_definition": 1.0,
                 "clean_base": 1.0
@@ -13097,7 +13048,7 @@
             "Latn": "xenopsychiatry",
             "Shaw": "𐑟𐑦𐑯𐑪𐑕𐑲𐑒𐑲𐑩𐑑𐑮𐑦",
             "pos": "NN1",
-            "ipa": "zinosaɪkaɪ+ətri",
+            "ipa": "zinosaɪkaɪətri",
             "freq": 0,
             "var": "RSSB",
             "confidence": 27,
@@ -13181,10 +13132,10 @@
             "Latn": "xenoscience",
             "Shaw": "𐑟𐑧𐑯𐑩𐑕𐑲𐑩𐑯𐑕",
             "pos": "NN1",
-            "ipa": "ˌzenəˈsaɪ+əns",
+            "ipa": "ˌzenəˈsaɪəns",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 47,
+            "confidence": 55,
             "info": [
                 "accent: unstated"
             ],
@@ -13209,7 +13160,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.395668,
+                "judge_reject": 0.149597,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -13223,10 +13174,10 @@
             "Latn": "xenoscience",
             "Shaw": "𐑟𐑰𐑯𐑩𐑕𐑲𐑩𐑯𐑕",
             "pos": "NN1",
-            "ipa": "ˌziːnəˈsaɪ+əns",
+            "ipa": "ˌziːnəˈsaɪəns",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 45,
+            "confidence": 52,
             "info": [
                 "accent: unstated"
             ],
@@ -13251,7 +13202,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.486122,
+                "judge_reject": 0.251824,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -15352,12 +15303,12 @@
             }
         }
     ],
-    "xiphidiocercaria_NN1_𐑟𐑩𐑓𐑦𐑛𐑦𐑴𐑕𐑻𐑒𐑧𐑮𐑦𐑩": [
+    "xiphidiocercaria_NN1_𐑟𐑩𐑓𐑦𐑛𐑦𐑴𐑕𐑻𐑒𐑧𐑮𐑾": [
         {
             "Latn": "xiphidiocercaria",
-            "Shaw": "𐑟𐑩𐑓𐑦𐑛𐑦𐑴𐑕𐑻𐑒𐑧𐑮𐑦𐑩",
+            "Shaw": "𐑟𐑩𐑓𐑦𐑛𐑦𐑴𐑕𐑻𐑒𐑧𐑮𐑾",
             "pos": "NN1",
-            "ipa": "zəˌfɪdioʊsɜːRˈkeri+ə",
+            "ipa": "zəˌfɪdioʊsɜːRˈkeriə",
             "freq": 0,
             "var": "GenAm",
             "confidence": 27,
@@ -15367,12 +15318,12 @@
             "lemma": {
                 "Latn": "xiphidiocercaria",
                 "pos": "NN1",
-                "Shaw": "𐑟𐑩𐑓𐑦𐑛𐑦𐑴𐑕𐑻𐑒𐑧𐑮𐑦𐑩"
+                "Shaw": "𐑟𐑩𐑓𐑦𐑛𐑦𐑴𐑕𐑻𐑒𐑧𐑮𐑾"
             },
             "has_definition": false,
             "rrp_outcome": "SKIP_JUDGE_REJECT",
             "rrp_tier": "C",
-            "generated_shaw": "𐑟𐑩𐑓𐑦𐑛𐑦𐑴𐑕𐑻𐑒𐑧𐑮𐑦𐑩",
+            "generated_shaw": "𐑟𐑩𐑓𐑦𐑛𐑦𐑴𐑕𐑻𐑒𐑧𐑮𐑾",
             "generated_tier": "B",
             "generated_method": "ipa-converter",
             "generated_from": {
@@ -16368,7 +16319,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.758398,
+                "judge_pass": 0.733831,
                 "rrp_tier": 0.75,
                 "shave_agree": 0.35,
                 "source_agree": 0.0,
@@ -16402,7 +16353,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.512506,
+                "judge_reject": 0.512554,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -16544,7 +16495,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.826626,
+                "judge_pass": 0.83839,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -16883,7 +16834,7 @@
             "ipa": "eksəʊeksəʊ",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 27,
+            "confidence": 28,
             "info": [
                 "accent: unstated"
             ],
@@ -16908,7 +16859,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.997314,
+                "judge_reject": 0.986052,
                 "rrp_tier": 0.625,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17517,7 +17468,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.311315,
+                "judge_reject": 0.307152,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17534,7 +17485,7 @@
             "ipa": "zaɪleəriəm",
             "freq": 0,
             "var": "RRP",
-            "confidence": 78,
+            "confidence": 79,
             "source": [
                 "wiktionary"
             ],
@@ -17547,7 +17498,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.768674,
+                "judge_pass": 0.77872,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17581,7 +17532,7 @@
             "rrp_tier": "B",
             "variant": true,
             "votes": {
-                "judge_reject": 0.295965,
+                "judge_reject": 0.295551,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17615,7 +17566,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.858369,
+                "judge_pass": 0.866726,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17650,7 +17601,7 @@
             "rrp_tier": "A",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.994607,
+                "judge_pass": 0.993682,
                 "rrp_tier": 1.0,
                 "source_agree": 0.5,
                 "ipa_present": 1.0,
@@ -17667,7 +17618,7 @@
             "ipa": "ˌzaɪləˈmætɪk",
             "freq": 0,
             "var": "GenAm",
-            "confidence": 58,
+            "confidence": 59,
             "source": [
                 "wiktionary"
             ],
@@ -17689,7 +17640,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.031563,
+                "judge_reject": 0.02432,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17724,7 +17675,7 @@
             "rrp_tier": "A",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.991617,
+                "judge_pass": 0.985572,
                 "rrp_tier": 1.0,
                 "source_agree": 0.5,
                 "ipa_present": 1.0,
@@ -17766,7 +17717,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.033378,
+                "judge_reject": 0.033369,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17783,7 +17734,7 @@
             "ipa": "zaɪˈlɪndiɪn",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 49,
+            "confidence": 48,
             "info": [
                 "accent: unstated"
             ],
@@ -17808,7 +17759,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.350732,
+                "judge_reject": 0.364413,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17825,7 +17776,7 @@
             "ipa": "zaɪˈlɪndiːn",
             "freq": 0,
             "var": "RSSB",
-            "confidence": 48,
+            "confidence": 47,
             "info": [
                 "accent: unstated"
             ],
@@ -17850,7 +17801,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.3805,
+                "judge_reject": 0.393394,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -17880,7 +17831,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.77895,
+                "judge_pass": 0.783707,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18040,7 +17991,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.987676,
+                "judge_pass": 0.985911,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18071,7 +18022,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.757016,
+                "judge_pass": 0.754288,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18133,7 +18084,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.987676,
+                "judge_pass": 0.985911,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18164,7 +18115,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.757016,
+                "judge_pass": 0.754288,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18199,7 +18150,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.952202,
+                "judge_pass": 0.945827,
                 "rrp_tier": 0.75,
                 "shave_agree": 0.35,
                 "source_agree": 0.0,
@@ -18271,7 +18222,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.903992,
+                "judge_pass": 0.903944,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18356,7 +18307,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "A",
             "votes": {
-                "judge_pass": 0.706856,
+                "judge_pass": 0.701209,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18477,7 +18428,7 @@
             "rrp_outcome": "PASS",
             "rrp_tier": "B",
             "votes": {
-                "judge_pass": 0.979206,
+                "judge_pass": 0.97883,
                 "rrp_tier": 0.75,
                 "shave_agree": 0.35,
                 "source_agree": 0.0,
@@ -18508,7 +18459,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.852419,
+                "judge_pass": 0.854246,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18539,7 +18490,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.791338,
+                "judge_pass": 0.790928,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18570,7 +18521,7 @@
             "rrp_tier": "A",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.826738,
+                "judge_pass": 0.829939,
                 "rrp_tier": 1.0,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18612,37 +18563,6 @@
             "confidence": 50
         }
     ],
-    "xyr_DT0_𐑟𐑦𐑮": [
-        {
-            "Latn": "xyr",
-            "Shaw": "𐑟𐑦𐑮",
-            "pos": "DT0",
-            "ipa": "zɪr",
-            "freq": 0,
-            "var": "GenAm",
-            "confidence": 36,
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "xyr",
-                "pos": "DT0",
-                "Shaw": "𐑟𐑦𐑮"
-            },
-            "has_definition": false,
-            "rrp_outcome": "SKIP_JUDGE_REJECT",
-            "rrp_tier": "B",
-            "variant": true,
-            "votes": {
-                "judge_reject": 0.771505,
-                "rrp_tier": 0.75,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 0.0,
-                "clean_base": 1.0
-            }
-        }
-    ],
     "xyr_DT0_𐑟𐑽": [
         {
             "Latn": "xyr",
@@ -18666,37 +18586,6 @@
             "orig_var": "GenAm",
             "votes": {
                 "judge_pass": 0.0,
-                "rrp_tier": 0.75,
-                "source_agree": 0.0,
-                "ipa_present": 1.0,
-                "has_definition": 0.0,
-                "clean_base": 1.0
-            }
-        }
-    ],
-    "xyr_PNP_𐑟𐑦𐑮": [
-        {
-            "Latn": "xyr",
-            "Shaw": "𐑟𐑦𐑮",
-            "pos": "PNP",
-            "ipa": "zɪr",
-            "freq": 0,
-            "var": "GenAm",
-            "confidence": 36,
-            "source": [
-                "wiktionary"
-            ],
-            "lemma": {
-                "Latn": "xyr",
-                "pos": "PNP",
-                "Shaw": "𐑟𐑦𐑮"
-            },
-            "has_definition": false,
-            "rrp_outcome": "SKIP_JUDGE_REJECT",
-            "rrp_tier": "B",
-            "variant": true,
-            "votes": {
-                "judge_reject": 0.771505,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18770,7 +18659,7 @@
                 "notes": []
             },
             "votes": {
-                "judge_reject": 0.203931,
+                "judge_reject": 0.218044,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18804,7 +18693,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.993085,
+                "judge_pass": 0.993823,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18821,7 +18710,7 @@
             "ipa": "zɪstər",
             "freq": 0,
             "var": "RRP",
-            "confidence": 66,
+            "confidence": 67,
             "source": [
                 "wiktionary"
             ],
@@ -18835,7 +18724,7 @@
             "rrp_tier": "B",
             "orig_var": "GenAm",
             "votes": {
-                "judge_pass": 0.258335,
+                "judge_pass": 0.301578,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18869,7 +18758,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.991162,
+                "judge_pass": 0.990907,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
@@ -18936,7 +18825,7 @@
             "rrp_tier": "B",
             "orig_var": "RSSB",
             "votes": {
-                "judge_pass": 0.989951,
+                "judge_pass": 0.989322,
                 "rrp_tier": 0.75,
                 "source_agree": 0.0,
                 "ipa_present": 1.0,
