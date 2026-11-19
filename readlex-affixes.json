@@ -992,276 +992,307 @@
             }
         }
     ],
-    "-'_AV0_-𐑩𐑟": [
+    "-'_POS_-'": [
         {
             "Latn": "-'",
-            "Shaw": "-𐑩𐑟",
-            "pos": "AV0",
-            "ipa": "əz",
-            "freq": 0,
+            "Shaw": "-'",
+            "pos": "POS",
+            "ipa": "",
+            "freq": 179853,
             "var": "RRP",
             "lemma": {
                 "Latn": "-'",
-                "pos": "AV0",
-                "Shaw": "-𐑩𐑟"
+                "pos": "POS",
+                "Shaw": "-'"
             },
-            "productive": true
+            "productive": true,
+            "attaches_to": [
+                "NN2"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": ""
+                    }
+                ],
+                "Shaw": [
+                    {
+                        "condition": ""
+                    }
+                ]
+            }
         }
     ],
-    "-'ll_VVI_-'𐑩𐑤": [
-        {
-            "Latn": "-'ll",
-            "Shaw": "-'𐑩𐑤",
-            "pos": "VVI",
-            "ipa": "əl",
-            "freq": 0,
-            "var": "RRP",
-            "lemma": {
-                "Latn": "-'ll",
-                "pos": "VVI",
-                "Shaw": "-'𐑩𐑤"
-            },
-            "productive": true
-        }
-    ],
-    "-'s_AV0_-'𐑕": [
-        {
-            "Latn": "-'s",
-            "Shaw": "-'𐑕",
-            "pos": "AV0",
-            "ipa": "s",
-            "freq": 0,
-            "var": "RRPVar",
-            "lemma": {
-                "Latn": "-'s",
-                "pos": "AV0",
-                "Shaw": "-'𐑕"
-            },
-            "productive": true
-        }
-    ],
-    "-'s_AV0_-'𐑟": [
-        {
-            "Latn": "-'s",
-            "Shaw": "-'𐑟",
-            "pos": "AV0",
-            "ipa": "z",
-            "freq": 0,
-            "var": "RRPVar",
-            "lemma": {
-                "Latn": "-'s",
-                "pos": "AV0",
-                "Shaw": "-'𐑟"
-            },
-            "productive": true
-        }
-    ],
-    "-'s_AV0_-'𐑩𐑟": [
-        {
-            "Latn": "-'s",
-            "Shaw": "-'𐑩𐑟",
-            "pos": "AV0",
-            "ipa": "əz",
-            "freq": 0,
-            "var": "RRP",
-            "lemma": {
-                "Latn": "-'s",
-                "pos": "AV0",
-                "Shaw": "-'𐑩𐑟"
-            },
-            "productive": true
-        }
-    ],
-    "-'s_CJC_-'𐑕": [
+    "-'s_POS_-'𐑕": [
         {
             "Latn": "-'s",
             "Shaw": "-'𐑕",
-            "pos": "CJC",
-            "ipa": "s",
-            "freq": 0,
-            "var": "RRPVar",
-            "lemma": {
-                "Latn": "-'s",
-                "pos": "CJC",
-                "Shaw": "-'𐑕"
-            },
-            "productive": true
-        }
-    ],
-    "-'s_CJC_-'𐑟": [
-        {
-            "Latn": "-'s",
-            "Shaw": "-'𐑟",
-            "pos": "CJC",
-            "ipa": "z",
-            "freq": 0,
-            "var": "RRPVar",
-            "lemma": {
-                "Latn": "-'s",
-                "pos": "CJC",
-                "Shaw": "-'𐑟"
-            },
-            "productive": true
-        }
-    ],
-    "-'s_CJC_-'𐑩𐑟": [
-        {
-            "Latn": "-'s",
-            "Shaw": "-'𐑩𐑟",
-            "pos": "CJC",
-            "ipa": "əz",
-            "freq": 0,
+            "pos": "POS",
+            "ipa": "",
+            "freq": 1798532,
             "var": "RRP",
             "lemma": {
                 "Latn": "-'s",
-                "pos": "CJC",
-                "Shaw": "-'𐑩𐑟"
+                "pos": "POS",
+                "Shaw": "-'𐑟"
             },
-            "productive": true
+            "productive": true,
+            "attaches_to": [
+                "NN0",
+                "NN1",
+                "NP0",
+                "PNI"
+            ],
+            "rules": {
+                "Shaw": [
+                    {
+                        "condition": "[𐑐𐑑𐑒𐑓𐑔]"
+                    }
+                ]
+            }
         }
     ],
-    "-'s_DT0_-'𐑕": [
-        {
-            "Latn": "-'s",
-            "Shaw": "-'𐑕",
-            "pos": "DT0",
-            "ipa": "s",
-            "freq": 0,
-            "var": "RRPVar",
-            "lemma": {
-                "Latn": "-'s",
-                "pos": "DT0",
-                "Shaw": "-'𐑕"
-            },
-            "productive": true
-        }
-    ],
-    "-'s_DT0_-'𐑟": [
+    "-'s_POS_-'𐑟": [
         {
             "Latn": "-'s",
             "Shaw": "-'𐑟",
-            "pos": "DT0",
-            "ipa": "z",
-            "freq": 0,
-            "var": "RRPVar",
-            "lemma": {
-                "Latn": "-'s",
-                "pos": "DT0",
-                "Shaw": "-'𐑟"
-            },
-            "productive": true
-        }
-    ],
-    "-'s_DT0_-'𐑩𐑟": [
-        {
-            "Latn": "-'s",
-            "Shaw": "-'𐑩𐑟",
-            "pos": "DT0",
-            "ipa": "əz",
-            "freq": 0,
+            "pos": "POS",
+            "ipa": "",
+            "freq": 1798532,
             "var": "RRP",
             "lemma": {
                 "Latn": "-'s",
-                "pos": "DT0",
-                "Shaw": "-'𐑩𐑟"
-            },
-            "productive": true
-        }
-    ],
-    "-'s_PNP_-'𐑕": [
-        {
-            "Latn": "-'s",
-            "Shaw": "-'𐑕",
-            "pos": "PNP",
-            "ipa": "s",
-            "freq": 0,
-            "var": "RRPVar",
-            "lemma": {
-                "Latn": "-'s",
-                "pos": "PNP",
-                "Shaw": "-'𐑕"
-            },
-            "productive": true
-        }
-    ],
-    "-'s_PNP_-'𐑟": [
-        {
-            "Latn": "-'s",
-            "Shaw": "-'𐑟",
-            "pos": "PNP",
-            "ipa": "z",
-            "freq": 0,
-            "var": "RRPVar",
-            "lemma": {
-                "Latn": "-'s",
-                "pos": "PNP",
+                "pos": "POS",
                 "Shaw": "-'𐑟"
             },
-            "productive": true
+            "productive": true,
+            "attaches_to": [
+                "NN0",
+                "NN1",
+                "NP0",
+                "PNI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": ""
+                    }
+                ],
+                "Shaw": [
+                    {
+                        "condition": ""
+                    }
+                ]
+            }
         }
     ],
-    "-'s_PNP_-'𐑩𐑟": [
+    "-'s_POS_-'𐑩𐑟": [
         {
             "Latn": "-'s",
             "Shaw": "-'𐑩𐑟",
-            "pos": "PNP",
-            "ipa": "əz",
-            "freq": 0,
+            "pos": "POS",
+            "ipa": "",
+            "freq": 1798532,
             "var": "RRP",
             "lemma": {
                 "Latn": "-'s",
-                "pos": "PNP",
+                "pos": "POS",
                 "Shaw": "-'𐑩𐑟"
             },
-            "productive": true
+            "productive": true,
+            "attaches_to": [
+                "NN0",
+                "NN1",
+                "NP0",
+                "PNI"
+            ],
+            "rules": {
+                "Shaw": [
+                    {
+                        "condition": "[𐑕𐑟𐑖𐑠𐑗𐑡]"
+                    }
+                ]
+            }
         }
     ],
-    "-'s_VVI_-'𐑕": [
+    "--like_AJ0_--𐑤𐑲𐑒": [
         {
-            "Latn": "-'s",
-            "Shaw": "-'𐑕",
-            "pos": "VVI",
-            "ipa": "s",
-            "freq": 0,
-            "var": "RRPVar",
-            "lemma": {
-                "Latn": "-'s",
-                "pos": "VVI",
-                "Shaw": "-'𐑕"
-            },
-            "productive": true
-        }
-    ],
-    "-'s_VVI_-'𐑟": [
-        {
-            "Latn": "-'s",
-            "Shaw": "-'𐑟",
-            "pos": "VVI",
-            "ipa": "z",
-            "freq": 0,
-            "var": "RRPVar",
-            "lemma": {
-                "Latn": "-'s",
-                "pos": "VVI",
-                "Shaw": "-'𐑟"
-            },
-            "productive": true
-        }
-    ],
-    "-'s_VVI_-'𐑩𐑟": [
-        {
-            "Latn": "-'s",
-            "Shaw": "-'𐑩𐑟",
-            "pos": "VVI",
-            "ipa": "əz",
+            "Latn": "--like",
+            "Shaw": "--𐑤𐑲𐑒",
+            "pos": "AJ0",
+            "ipa": "",
             "freq": 0,
             "var": "RRP",
             "lemma": {
-                "Latn": "-'s",
-                "pos": "VVI",
-                "Shaw": "-'𐑩𐑟"
+                "Latn": "--like",
+                "pos": "AJ0",
+                "Shaw": "--𐑤𐑲𐑒"
             },
-            "productive": true
+            "productive": true,
+            "attaches_to": [
+                "AJ0",
+                "NN1"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": ""
+                    }
+                ],
+                "Shaw": [
+                    {
+                        "condition": ""
+                    }
+                ]
+            }
+        }
+    ],
+    "-ed_AJ0_-𐑑": [
+        {
+            "Latn": "-ed",
+            "Shaw": "-𐑑",
+            "pos": "AJ0",
+            "ipa": "",
+            "freq": 3,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ed",
+                "pos": "AJ0",
+                "Shaw": "-𐑛"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Shaw": [
+                    {
+                        "condition": "[𐑐𐑒𐑓𐑔𐑕𐑖𐑗]"
+                    }
+                ]
+            }
+        }
+    ],
+    "-ed_AJ0_-𐑛": [
+        {
+            "Latn": "-ed",
+            "Shaw": "-𐑛",
+            "pos": "AJ0",
+            "ipa": "",
+            "freq": 3,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ed",
+                "pos": "AJ0",
+                "Shaw": "-𐑛"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": ""
+                    },
+                    {
+                        "condition": "e",
+                        "strip": "e"
+                    }
+                ],
+                "Shaw": [
+                    {
+                        "condition": ""
+                    }
+                ]
+            }
+        }
+    ],
+    "-ed_AJ0_-𐑩𐑛": [
+        {
+            "Latn": "-ed",
+            "Shaw": "-𐑩𐑛",
+            "pos": "AJ0",
+            "ipa": "",
+            "freq": 3,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ed",
+                "pos": "AJ0",
+                "Shaw": "-𐑛"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Shaw": [
+                    {
+                        "condition": "[𐑑𐑛]"
+                    }
+                ]
+            }
+        }
+    ],
+    "-ed_VVD_-𐑑": [
+        {
+            "Latn": "-ed",
+            "Shaw": "-𐑑",
+            "pos": "VVD",
+            "ipa": "t",
+            "freq": 4437834,
+            "var": "RRPVar",
+            "lemma": {
+                "Latn": "-ed",
+                "pos": "VVD",
+                "Shaw": "-𐑛"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Shaw": [
+                    {
+                        "condition": "[𐑐𐑒𐑓𐑔𐑕𐑖𐑗]"
+                    }
+                ]
+            }
+        }
+    ],
+    "-ed_VVD_-𐑛": [
+        {
+            "Latn": "-ed",
+            "Shaw": "-𐑛",
+            "pos": "VVD",
+            "ipa": "d",
+            "freq": 4437834,
+            "var": "RRPVar",
+            "lemma": {
+                "Latn": "-ed",
+                "pos": "VVD",
+                "Shaw": "-𐑛"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": ""
+                    },
+                    {
+                        "condition": "e",
+                        "strip": "e"
+                    }
+                ],
+                "Shaw": [
+                    {
+                        "condition": ""
+                    }
+                ]
+            }
         }
     ],
     "-ed_VVD_-𐑩𐑛": [
@@ -1270,14 +1301,85 @@
             "Shaw": "-𐑩𐑛",
             "pos": "VVD",
             "ipa": "əd",
-            "freq": 3,
+            "freq": 4437834,
             "var": "RRP",
             "lemma": {
                 "Latn": "-ed",
                 "pos": "VVD",
-                "Shaw": "-𐑩𐑛"
+                "Shaw": "-𐑛"
             },
-            "productive": true
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Shaw": [
+                    {
+                        "condition": "[𐑑𐑛]"
+                    }
+                ]
+            }
+        }
+    ],
+    "-ed_VVN_-𐑑": [
+        {
+            "Latn": "-ed",
+            "Shaw": "-𐑑",
+            "pos": "VVN",
+            "ipa": "t",
+            "freq": 5350292,
+            "var": "RRPVar",
+            "lemma": {
+                "Latn": "-ed",
+                "pos": "VVN",
+                "Shaw": "-𐑛"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Shaw": [
+                    {
+                        "condition": "[𐑐𐑒𐑓𐑔𐑕𐑖𐑗]"
+                    }
+                ]
+            }
+        }
+    ],
+    "-ed_VVN_-𐑛": [
+        {
+            "Latn": "-ed",
+            "Shaw": "-𐑛",
+            "pos": "VVN",
+            "ipa": "d",
+            "freq": 5350292,
+            "var": "RRPVar",
+            "lemma": {
+                "Latn": "-ed",
+                "pos": "VVN",
+                "Shaw": "-𐑛"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": ""
+                    },
+                    {
+                        "condition": "e",
+                        "strip": "e"
+                    }
+                ],
+                "Shaw": [
+                    {
+                        "condition": ""
+                    }
+                ]
+            }
         }
     ],
     "-ed_VVN_-𐑩𐑛": [
@@ -1286,14 +1388,24 @@
             "Shaw": "-𐑩𐑛",
             "pos": "VVN",
             "ipa": "əd",
-            "freq": 3,
+            "freq": 5350292,
             "var": "RRP",
             "lemma": {
                 "Latn": "-ed",
                 "pos": "VVN",
-                "Shaw": "-𐑩𐑛"
+                "Shaw": "-𐑛"
             },
-            "productive": true
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Shaw": [
+                    {
+                        "condition": "[𐑑𐑛]"
+                    }
+                ]
+            }
         }
     ],
     "-er_AJ0_-𐑼": [
@@ -1311,18 +1423,92 @@
             }
         }
     ],
+    "-er_AJC_-𐑤𐑼": [
+        {
+            "Latn": "-er",
+            "Shaw": "-𐑤𐑼",
+            "pos": "AJC",
+            "ipa": "",
+            "freq": 579325,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-er",
+                "pos": "AJC",
+                "Shaw": "-𐑼"
+            },
+            "productive": true,
+            "attaches_to": [
+                "AJ0"
+            ],
+            "rules": {
+                "Shaw": [
+                    {
+                        "condition": "[𐑐𐑚𐑑𐑛𐑒𐑜𐑓𐑕𐑟]𐑩𐑤",
+                        "strip": "𐑩𐑤"
+                    }
+                ]
+            }
+        }
+    ],
+    "-er_NN1_-𐑤𐑼": [
+        {
+            "Latn": "-er",
+            "Shaw": "-𐑤𐑼",
+            "pos": "NN1",
+            "ipa": "",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-er",
+                "pos": "NN1",
+                "Shaw": "-𐑼"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Shaw": [
+                    {
+                        "condition": "[𐑐𐑚𐑑𐑛𐑒𐑜𐑓𐑕𐑟]𐑩𐑤",
+                        "strip": "𐑩𐑤"
+                    }
+                ]
+            }
+        }
+    ],
     "-er_NN1_-𐑼": [
         {
             "Latn": "-er",
             "Shaw": "-𐑼",
             "pos": "NN1",
             "ipa": "əR",
-            "freq": 1,
+            "freq": 0,
             "var": "RRP",
             "lemma": {
                 "Latn": "-er",
                 "pos": "NN1",
                 "Shaw": "-𐑼"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": ""
+                    },
+                    {
+                        "condition": "e",
+                        "strip": "e"
+                    }
+                ],
+                "Shaw": [
+                    {
+                        "condition": ""
+                    }
+                ]
             }
         }
     ],
@@ -1332,7 +1518,7 @@
             "Shaw": "-𐑼",
             "pos": "AJC",
             "ipa": "əR",
-            "freq": 1,
+            "freq": 0,
             "var": "RRP",
             "lemma": {
                 "Latn": "-er",
@@ -1348,12 +1534,453 @@
             "Shaw": "-𐑼",
             "pos": "VVI",
             "ipa": "əR",
-            "freq": 1,
+            "freq": 0,
             "var": "RRP",
             "lemma": {
                 "Latn": "-er",
                 "pos": "VVI",
                 "Shaw": "-𐑼"
+            }
+        }
+    ],
+    "-es_NN2_-𐑩𐑟": [
+        {
+            "Latn": "-es",
+            "Shaw": "-𐑩𐑟",
+            "pos": "NN2",
+            "ipa": "",
+            "freq": 17758705,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-s",
+                "pos": "NN2",
+                "Shaw": "-𐑟"
+            },
+            "productive": true,
+            "attaches_to": [
+                "NN0",
+                "NN1"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": "[cs]h"
+                    },
+                    {
+                        "condition": "[sxz]"
+                    }
+                ],
+                "Shaw": [
+                    {
+                        "condition": "[𐑕𐑟𐑖𐑠𐑗𐑡]"
+                    }
+                ]
+            }
+        }
+    ],
+    "-es_VVZ_-𐑩𐑟": [
+        {
+            "Latn": "-es",
+            "Shaw": "-𐑩𐑟",
+            "pos": "VVZ",
+            "ipa": "",
+            "freq": 4830366,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-s",
+                "pos": "VVZ",
+                "Shaw": "-𐑟"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": "[cs]h"
+                    },
+                    {
+                        "condition": "[sxz]"
+                    }
+                ],
+                "Shaw": [
+                    {
+                        "condition": "[𐑕𐑟𐑖𐑠𐑗𐑡]"
+                    }
+                ]
+            }
+        }
+    ],
+    "-est_AJS_-𐑤𐑩𐑕𐑑": [
+        {
+            "Latn": "-est",
+            "Shaw": "-𐑤𐑩𐑕𐑑",
+            "pos": "AJS",
+            "ipa": "",
+            "freq": 276094,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-est",
+                "pos": "AJS",
+                "Shaw": "-𐑩𐑕𐑑"
+            },
+            "productive": true,
+            "attaches_to": [
+                "AJ0"
+            ],
+            "rules": {
+                "Shaw": [
+                    {
+                        "condition": "[𐑐𐑚𐑑𐑛𐑒𐑜𐑓𐑕𐑟]𐑩𐑤",
+                        "strip": "𐑩𐑤"
+                    }
+                ]
+            }
+        }
+    ],
+    "-est_AJS_-𐑩𐑕𐑑": [
+        {
+            "Latn": "-est",
+            "Shaw": "-𐑩𐑕𐑑",
+            "pos": "AJS",
+            "ipa": "",
+            "freq": 276094,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-est",
+                "pos": "AJS",
+                "Shaw": "-𐑩𐑕𐑑"
+            },
+            "productive": true,
+            "attaches_to": [
+                "AJ0"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": ""
+                    },
+                    {
+                        "condition": "e",
+                        "strip": "e"
+                    }
+                ],
+                "Shaw": [
+                    {
+                        "condition": ""
+                    }
+                ]
+            }
+        }
+    ],
+    "-ied_AJ0_-𐑛": [
+        {
+            "Latn": "-ied",
+            "Shaw": "-𐑛",
+            "pos": "AJ0",
+            "ipa": "",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ed",
+                "pos": "AJ0",
+                "Shaw": "-𐑛"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": "[^aeiou]y",
+                        "strip": "y"
+                    }
+                ]
+            }
+        }
+    ],
+    "-ied_VVD_-𐑛": [
+        {
+            "Latn": "-ied",
+            "Shaw": "-𐑛",
+            "pos": "VVD",
+            "ipa": "",
+            "freq": 4437834,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ed",
+                "pos": "VVD",
+                "Shaw": "-𐑛"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": "[^aeiou]y",
+                        "strip": "y"
+                    }
+                ]
+            }
+        }
+    ],
+    "-ied_VVN_-𐑛": [
+        {
+            "Latn": "-ied",
+            "Shaw": "-𐑛",
+            "pos": "VVN",
+            "ipa": "",
+            "freq": 5350292,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ed",
+                "pos": "VVN",
+                "Shaw": "-𐑛"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": "[^aeiou]y",
+                        "strip": "y"
+                    }
+                ]
+            }
+        }
+    ],
+    "-ier_AJC_-𐑼": [
+        {
+            "Latn": "-ier",
+            "Shaw": "-𐑼",
+            "pos": "AJC",
+            "ipa": "",
+            "freq": 579325,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-er",
+                "pos": "AJC",
+                "Shaw": "-𐑼"
+            },
+            "productive": true,
+            "attaches_to": [
+                "AJ0"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": "[^aeiou]y",
+                        "strip": "y"
+                    }
+                ]
+            }
+        }
+    ],
+    "-ier_NN1_-𐑼": [
+        {
+            "Latn": "-ier",
+            "Shaw": "-𐑼",
+            "pos": "NN1",
+            "ipa": "",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-er",
+                "pos": "NN1",
+                "Shaw": "-𐑼"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": "[^aeiou]y",
+                        "strip": "y"
+                    }
+                ]
+            }
+        }
+    ],
+    "-ies_NN2_-𐑟": [
+        {
+            "Latn": "-ies",
+            "Shaw": "-𐑟",
+            "pos": "NN2",
+            "ipa": "",
+            "freq": 17758705,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-s",
+                "pos": "NN2",
+                "Shaw": "-𐑟"
+            },
+            "productive": true,
+            "attaches_to": [
+                "NN0",
+                "NN1"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": "[^aeiou]y",
+                        "strip": "y"
+                    }
+                ]
+            }
+        }
+    ],
+    "-ies_VVZ_-𐑟": [
+        {
+            "Latn": "-ies",
+            "Shaw": "-𐑟",
+            "pos": "VVZ",
+            "ipa": "",
+            "freq": 4830366,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-s",
+                "pos": "VVZ",
+                "Shaw": "-𐑟"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": "[^aeiou]y",
+                        "strip": "y"
+                    }
+                ]
+            }
+        }
+    ],
+    "-iest_AJS_-𐑩𐑕𐑑": [
+        {
+            "Latn": "-iest",
+            "Shaw": "-𐑩𐑕𐑑",
+            "pos": "AJS",
+            "ipa": "",
+            "freq": 276094,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-est",
+                "pos": "AJS",
+                "Shaw": "-𐑩𐑕𐑑"
+            },
+            "productive": true,
+            "attaches_to": [
+                "AJ0"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": "[^aeiou]y",
+                        "strip": "y"
+                    }
+                ]
+            }
+        }
+    ],
+    "-ing_AJ0_-𐑤𐑦𐑙": [
+        {
+            "Latn": "-ing",
+            "Shaw": "-𐑤𐑦𐑙",
+            "pos": "AJ0",
+            "ipa": "",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ing",
+                "pos": "AJ0",
+                "Shaw": "-𐑦𐑙"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Shaw": [
+                    {
+                        "condition": "[𐑐𐑚𐑑𐑛𐑒𐑜𐑓𐑕𐑟]𐑩𐑤",
+                        "strip": "𐑩𐑤"
+                    }
+                ]
+            }
+        }
+    ],
+    "-ing_AJ0_-𐑦𐑙": [
+        {
+            "Latn": "-ing",
+            "Shaw": "-𐑦𐑙",
+            "pos": "AJ0",
+            "ipa": "",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ing",
+                "pos": "AJ0",
+                "Shaw": "-𐑦𐑙"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": ""
+                    },
+                    {
+                        "condition": "[^aeiou]e",
+                        "strip": "e"
+                    },
+                    {
+                        "condition": "ue",
+                        "strip": "e"
+                    }
+                ],
+                "Shaw": [
+                    {
+                        "condition": ""
+                    }
+                ]
+            }
+        }
+    ],
+    "-ing_NN1_-𐑤𐑦𐑙": [
+        {
+            "Latn": "-ing",
+            "Shaw": "-𐑤𐑦𐑙",
+            "pos": "NN1",
+            "ipa": "",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ing",
+                "pos": "NN1",
+                "Shaw": "-𐑦𐑙"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Shaw": [
+                    {
+                        "condition": "[𐑐𐑚𐑑𐑛𐑒𐑜𐑓𐑕𐑟]𐑩𐑤",
+                        "strip": "𐑩𐑤"
+                    }
+                ]
             }
         }
     ],
@@ -1363,74 +1990,258 @@
             "Shaw": "-𐑦𐑙",
             "pos": "NN1",
             "ipa": "ɪŋ",
-            "freq": 5,
+            "freq": 2,
             "var": "RRP",
             "lemma": {
                 "Latn": "-ing",
                 "pos": "NN1",
                 "Shaw": "-𐑦𐑙"
             },
-            "productive": true
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": ""
+                    },
+                    {
+                        "condition": "[^aeiou]e",
+                        "strip": "e"
+                    },
+                    {
+                        "condition": "ue",
+                        "strip": "e"
+                    }
+                ],
+                "Shaw": [
+                    {
+                        "condition": ""
+                    }
+                ]
+            }
         }
     ],
-    "-ing_UNC_-𐑦𐑙": [
+    "-ing_VVG_-𐑤𐑦𐑙": [
+        {
+            "Latn": "-ing",
+            "Shaw": "-𐑤𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "",
+            "freq": 11767584,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ing",
+                "pos": "VVG",
+                "Shaw": "-𐑦𐑙"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Shaw": [
+                    {
+                        "condition": "[𐑐𐑚𐑑𐑛𐑒𐑜𐑓𐑕𐑟]𐑩𐑤",
+                        "strip": "𐑩𐑤"
+                    }
+                ]
+            }
+        }
+    ],
+    "-ing_VVG_-𐑦𐑙": [
         {
             "Latn": "-ing",
             "Shaw": "-𐑦𐑙",
-            "pos": "UNC",
-            "ipa": "ɪŋ",
-            "freq": 5,
+            "pos": "VVG",
+            "ipa": "",
+            "freq": 11767584,
             "var": "RRP",
             "lemma": {
                 "Latn": "-ing",
-                "pos": "UNC",
+                "pos": "VVG",
                 "Shaw": "-𐑦𐑙"
             },
-            "productive": true
-        }
-    ],
-    "-let_NN1_-𐑤𐑩𐑑": [
-        {
-            "Latn": "-let",
-            "Shaw": "-𐑤𐑩𐑑",
-            "pos": "NN1",
-            "ipa": "-lət",
-            "freq": 103,
-            "var": "RRP",
-            "lemma": {
-                "Latn": "-let",
-                "pos": "NN1",
-                "Shaw": "-𐑤𐑩𐑑"
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": ""
+                    },
+                    {
+                        "condition": "[^aeiou]e",
+                        "strip": "e"
+                    },
+                    {
+                        "condition": "ue",
+                        "strip": "e"
+                    }
+                ],
+                "Shaw": [
+                    {
+                        "condition": ""
+                    }
+                ]
             }
         }
     ],
-    "-like_AJ0_-𐑤𐑲𐑒": [
+    "-ked_AJ0_-𐑑": [
         {
-            "Latn": "-like",
-            "Shaw": "-𐑤𐑲𐑒",
+            "Latn": "-ked",
+            "Shaw": "-𐑑",
             "pos": "AJ0",
-            "ipa": "-laɪk",
-            "freq": 35,
+            "ipa": "",
+            "freq": 0,
             "var": "RRP",
             "lemma": {
-                "Latn": "-like",
+                "Latn": "-ed",
                 "pos": "AJ0",
-                "Shaw": "-𐑤𐑲𐑒"
+                "Shaw": "-𐑛"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": "ic"
+                    }
+                ]
             }
         }
     ],
-    "-like_AV0_-𐑤𐑲𐑒": [
+    "-ked_VVD_-𐑑": [
         {
-            "Latn": "-like",
-            "Shaw": "-𐑤𐑲𐑒",
-            "pos": "AV0",
-            "ipa": "-laɪk",
-            "freq": 35,
+            "Latn": "-ked",
+            "Shaw": "-𐑑",
+            "pos": "VVD",
+            "ipa": "",
+            "freq": 4437834,
             "var": "RRP",
             "lemma": {
-                "Latn": "-like",
-                "pos": "AV0",
-                "Shaw": "-𐑤𐑲𐑒"
+                "Latn": "-ed",
+                "pos": "VVD",
+                "Shaw": "-𐑛"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": "ic"
+                    }
+                ]
+            }
+        }
+    ],
+    "-ked_VVN_-𐑑": [
+        {
+            "Latn": "-ked",
+            "Shaw": "-𐑑",
+            "pos": "VVN",
+            "ipa": "",
+            "freq": 5350292,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ed",
+                "pos": "VVN",
+                "Shaw": "-𐑛"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": "ic"
+                    }
+                ]
+            }
+        }
+    ],
+    "-king_AJ0_-𐑦𐑙": [
+        {
+            "Latn": "-king",
+            "Shaw": "-𐑦𐑙",
+            "pos": "AJ0",
+            "ipa": "",
+            "freq": 2,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ing",
+                "pos": "AJ0",
+                "Shaw": "-𐑦𐑙"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": "ic"
+                    }
+                ]
+            }
+        }
+    ],
+    "-king_NN1_-𐑦𐑙": [
+        {
+            "Latn": "-king",
+            "Shaw": "-𐑦𐑙",
+            "pos": "NN1",
+            "ipa": "",
+            "freq": 1,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ing",
+                "pos": "NN1",
+                "Shaw": "-𐑦𐑙"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": "ic"
+                    }
+                ]
+            }
+        }
+    ],
+    "-king_VVG_-𐑦𐑙": [
+        {
+            "Latn": "-king",
+            "Shaw": "-𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "",
+            "freq": 11767584,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ing",
+                "pos": "VVG",
+                "Shaw": "-𐑦𐑙"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": "ic"
+                    }
+                ]
             }
         }
     ],
@@ -1440,7 +2251,7 @@
             "Shaw": "-𐑤𐑦",
             "pos": "AJ0",
             "ipa": "lɪ",
-            "freq": 2,
+            "freq": 1,
             "var": "RRP",
             "lemma": {
                 "Latn": "-ly",
@@ -1456,28 +2267,116 @@
             "Shaw": "-𐑤𐑦",
             "pos": "AV0",
             "ipa": "lɪ",
-            "freq": 2,
+            "freq": 1,
             "var": "RRP",
             "lemma": {
                 "Latn": "-ly",
                 "pos": "AV0",
                 "Shaw": "-𐑤𐑦"
             },
-            "productive": true
+            "productive": true,
+            "attaches_to": [
+                "AJ0"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": ""
+                    }
+                ],
+                "Shaw": [
+                    {
+                        "condition": ""
+                    }
+                ]
+            }
         }
     ],
-    "-or_NN1_-𐑼": [
+    "-ly_AV0_-𐑦": [
         {
-            "Latn": "-or",
-            "Shaw": "-𐑼",
-            "pos": "NN1",
-            "ipa": "əR",
-            "freq": 39,
+            "Latn": "-ly",
+            "Shaw": "-𐑦",
+            "pos": "AV0",
+            "ipa": "",
+            "freq": 1,
             "var": "RRP",
             "lemma": {
-                "Latn": "-or",
-                "pos": "NN1",
-                "Shaw": "-𐑼"
+                "Latn": "-ly",
+                "pos": "AV0",
+                "Shaw": "-𐑤𐑦"
+            },
+            "productive": true,
+            "attaches_to": [
+                "AJ0"
+            ],
+            "rules": {
+                "Shaw": [
+                    {
+                        "condition": "[^𐑐𐑚𐑒]𐑩𐑤"
+                    },
+                    {
+                        "condition": "𐑾𐑤"
+                    }
+                ]
+            }
+        }
+    ],
+    "-s_NN2_-𐑕": [
+        {
+            "Latn": "-s",
+            "Shaw": "-𐑕",
+            "pos": "NN2",
+            "ipa": "s",
+            "freq": 17758705,
+            "var": "RRPVar",
+            "lemma": {
+                "Latn": "-s",
+                "pos": "NN2",
+                "Shaw": "-𐑟"
+            },
+            "productive": true,
+            "attaches_to": [
+                "NN0",
+                "NN1"
+            ],
+            "rules": {
+                "Shaw": [
+                    {
+                        "condition": "[𐑐𐑑𐑒𐑓𐑔]"
+                    }
+                ]
+            }
+        }
+    ],
+    "-s_NN2_-𐑟": [
+        {
+            "Latn": "-s",
+            "Shaw": "-𐑟",
+            "pos": "NN2",
+            "ipa": "z",
+            "freq": 17758705,
+            "var": "RRPVar",
+            "lemma": {
+                "Latn": "-s",
+                "pos": "NN2",
+                "Shaw": "-𐑟"
+            },
+            "productive": true,
+            "attaches_to": [
+                "NN0",
+                "NN1"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": ""
+                    }
+                ],
+                "Shaw": [
+                    {
+                        "condition": ""
+                    }
+                ]
             }
         }
     ],
@@ -1487,26 +2386,11 @@
             "Shaw": "-𐑩𐑟",
             "pos": "NN2",
             "ipa": "əz",
-            "freq": 2,
+            "freq": 17758705,
             "var": "RRP",
             "lemma": {
                 "Latn": "-s",
                 "pos": "NN2",
-                "Shaw": "-𐑩𐑟"
-            }
-        }
-    ],
-    "-s_UNC_-𐑩𐑟": [
-        {
-            "Latn": "-s",
-            "Shaw": "-𐑩𐑟",
-            "pos": "UNC",
-            "ipa": "əz",
-            "freq": 2,
-            "var": "RRP",
-            "lemma": {
-                "Latn": "-s",
-                "pos": "UNC",
                 "Shaw": "-𐑩𐑟"
             }
         }
@@ -1517,12 +2401,69 @@
             "Shaw": "-𐑩𐑟",
             "pos": "VVI",
             "ipa": "əz",
-            "freq": 2,
+            "freq": 0,
             "var": "RRP",
             "lemma": {
                 "Latn": "-s",
                 "pos": "VVI",
                 "Shaw": "-𐑩𐑟"
+            }
+        }
+    ],
+    "-s_VVZ_-𐑕": [
+        {
+            "Latn": "-s",
+            "Shaw": "-𐑕",
+            "pos": "VVZ",
+            "ipa": "s",
+            "freq": 4830366,
+            "var": "RRPVar",
+            "lemma": {
+                "Latn": "-s",
+                "pos": "VVZ",
+                "Shaw": "-𐑟"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Shaw": [
+                    {
+                        "condition": "[𐑐𐑑𐑒𐑓𐑔]"
+                    }
+                ]
+            }
+        }
+    ],
+    "-s_VVZ_-𐑟": [
+        {
+            "Latn": "-s",
+            "Shaw": "-𐑟",
+            "pos": "VVZ",
+            "ipa": "z",
+            "freq": 4830366,
+            "var": "RRPVar",
+            "lemma": {
+                "Latn": "-s",
+                "pos": "VVZ",
+                "Shaw": "-𐑟"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": ""
+                    }
+                ],
+                "Shaw": [
+                    {
+                        "condition": ""
+                    }
+                ]
             }
         }
     ],
@@ -1532,7 +2473,7 @@
             "Shaw": "-𐑩𐑟",
             "pos": "VVZ",
             "ipa": "əz",
-            "freq": 2,
+            "freq": 4830366,
             "var": "RRP",
             "lemma": {
                 "Latn": "-s",
@@ -1541,48 +2482,30 @@
             }
         }
     ],
-    "-tion_NN1_-𐑖𐑩𐑯": [
+    "-y_AJ0_-𐑤𐑦": [
         {
-            "Latn": "-tion",
-            "Shaw": "-𐑖𐑩𐑯",
-            "pos": "NN1",
-            "ipa": "-ʃən",
-            "freq": 1,
-            "var": "RRP",
-            "lemma": {
-                "Latn": "-tion",
-                "pos": "NN1",
-                "Shaw": "-𐑖𐑩𐑯"
-            }
-        }
-    ],
-    "-ward_AJ0_-𐑢𐑼𐑛": [
-        {
-            "Latn": "-ward",
-            "Shaw": "-𐑢𐑼𐑛",
+            "Latn": "-y",
+            "Shaw": "-𐑤𐑦",
             "pos": "AJ0",
-            "ipa": "wəRd",
+            "ipa": "",
             "freq": 1,
             "var": "RRP",
             "lemma": {
-                "Latn": "-ward",
+                "Latn": "-y",
                 "pos": "AJ0",
-                "Shaw": "-𐑢𐑼𐑛"
-            }
-        }
-    ],
-    "-ward_AV0_-𐑢𐑼𐑛": [
-        {
-            "Latn": "-ward",
-            "Shaw": "-𐑢𐑼𐑛",
-            "pos": "AV0",
-            "ipa": "wəRd",
-            "freq": 1,
-            "var": "RRP",
-            "lemma": {
-                "Latn": "-ward",
-                "pos": "AV0",
-                "Shaw": "-𐑢𐑼𐑛"
+                "Shaw": "-𐑦"
+            },
+            "productive": true,
+            "attaches_to": [
+                "NN1"
+            ],
+            "rules": {
+                "Shaw": [
+                    {
+                        "condition": "[𐑐𐑚𐑑𐑛𐑒𐑜𐑓𐑕𐑟]𐑩𐑤",
+                        "strip": "𐑩𐑤"
+                    }
+                ]
             }
         }
     ],
@@ -1591,13 +2514,69 @@
             "Latn": "-y",
             "Shaw": "-𐑦",
             "pos": "AJ0",
-            "ipa": "-i",
+            "ipa": "",
             "freq": 1,
             "var": "RRP",
             "lemma": {
                 "Latn": "-y",
                 "pos": "AJ0",
                 "Shaw": "-𐑦"
+            },
+            "productive": true,
+            "attaches_to": [
+                "NN1"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": ""
+                    },
+                    {
+                        "condition": "[^aeiou]e",
+                        "strip": "e"
+                    }
+                ],
+                "Shaw": [
+                    {
+                        "condition": ""
+                    }
+                ]
+            }
+        }
+    ],
+    "-y_AV0_-𐑤𐑦": [
+        {
+            "Latn": "-y",
+            "Shaw": "-𐑤𐑦",
+            "pos": "AV0",
+            "ipa": "",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ly",
+                "pos": "AV0",
+                "Shaw": "-𐑤𐑦"
+            },
+            "productive": true,
+            "attaches_to": [
+                "AJ0"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": "[^aeiou]le",
+                        "strip": "e"
+                    },
+                    {
+                        "condition": "ll"
+                    }
+                ],
+                "Shaw": [
+                    {
+                        "condition": "[𐑐𐑚𐑒]𐑩𐑤",
+                        "strip": "𐑩𐑤"
+                    }
+                ]
             }
         }
     ],
@@ -1607,7 +2586,7 @@
             "Shaw": "-𐑦",
             "pos": "NN1",
             "ipa": "-i",
-            "freq": 1,
+            "freq": 0,
             "var": "RRP",
             "lemma": {
                 "Latn": "-y",
@@ -1616,18 +2595,84 @@
             }
         }
     ],
-    "-y_UNC_-𐑦": [
+    "-ying_AJ0_-𐑦𐑙": [
         {
-            "Latn": "-y",
-            "Shaw": "-𐑦",
-            "pos": "UNC",
-            "ipa": "-i",
-            "freq": 1,
+            "Latn": "-ying",
+            "Shaw": "-𐑦𐑙",
+            "pos": "AJ0",
+            "ipa": "",
+            "freq": 0,
             "var": "RRP",
             "lemma": {
-                "Latn": "-y",
-                "pos": "UNC",
-                "Shaw": "-𐑦"
+                "Latn": "-ing",
+                "pos": "AJ0",
+                "Shaw": "-𐑦𐑙"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": "ie",
+                        "strip": "ie"
+                    }
+                ]
+            }
+        }
+    ],
+    "-ying_NN1_-𐑦𐑙": [
+        {
+            "Latn": "-ying",
+            "Shaw": "-𐑦𐑙",
+            "pos": "NN1",
+            "ipa": "",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ing",
+                "pos": "NN1",
+                "Shaw": "-𐑦𐑙"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": "ie",
+                        "strip": "ie"
+                    }
+                ]
+            }
+        }
+    ],
+    "-ying_VVG_-𐑦𐑙": [
+        {
+            "Latn": "-ying",
+            "Shaw": "-𐑦𐑙",
+            "pos": "VVG",
+            "ipa": "",
+            "freq": 11767584,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-ing",
+                "pos": "VVG",
+                "Shaw": "-𐑦𐑙"
+            },
+            "productive": true,
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": "ie",
+                        "strip": "ie"
+                    }
+                ]
             }
         }
     ]
