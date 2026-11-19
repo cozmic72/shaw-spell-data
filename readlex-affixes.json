@@ -1485,7 +1485,6 @@
                 "pos": "NN1",
                 "Shaw": "-𐑼"
             },
-            "productive": true,
             "attaches_to": [
                 "VVI"
             ],
@@ -1494,6 +1493,40 @@
                     {
                         "condition": "[𐑐𐑚𐑑𐑛𐑒𐑜𐑓𐑕𐑟]𐑩𐑤",
                         "strip": "𐑩𐑤"
+                    }
+                ]
+            }
+        }
+    ],
+    "-er_NN1_-𐑼": [
+        {
+            "Latn": "-er",
+            "Shaw": "-𐑼",
+            "pos": "NN1",
+            "ipa": "əR",
+            "freq": 0,
+            "var": "RRP",
+            "lemma": {
+                "Latn": "-er",
+                "pos": "NN1",
+                "Shaw": "-𐑼"
+            },
+            "attaches_to": [
+                "VVI"
+            ],
+            "rules": {
+                "Latn": [
+                    {
+                        "condition": ""
+                    },
+                    {
+                        "condition": "e",
+                        "strip": "e"
+                    }
+                ],
+                "Shaw": [
+                    {
+                        "condition": ""
                     }
                 ]
             }
@@ -1751,7 +1784,6 @@
                 "pos": "NN1",
                 "Shaw": "-𐑼"
             },
-            "productive": true,
             "attaches_to": [
                 "VVI"
             ],

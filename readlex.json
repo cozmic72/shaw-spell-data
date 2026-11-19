@@ -99313,19 +99313,6 @@
             }
         },
         {
-            "Latn": "bathing",
-            "Shaw": "𐑚𐑭𐑔𐑦𐑙",
-            "pos": "VVG",
-            "ipa": "ˈbⱭːθɪŋ",
-            "freq": 2894,
-            "var": "RRP",
-            "lemma": {
-                "Latn": "bath",
-                "pos": "VVI",
-                "Shaw": "𐑚𐑭𐑔"
-            }
-        },
-        {
             "Latn": "bathed",
             "Shaw": "𐑚𐑭𐑔𐑑",
             "pos": "VVN",
@@ -1567118,7 +1567105,7 @@
             "pos": "NN1",
             "ipa": "ˈbæθrum",
             "freq": 39095,
-            "var": "GenAmVar",
+            "var": "RRPVar",
             "mergers": [
                 "trap-bath"
             ],
@@ -1567154,7 +1567141,7 @@
             "pos": "VVI",
             "ipa": "ˈbæθˌrum",
             "freq": 0,
-            "var": "GenAmVar",
+            "var": "RRPVar",
             "mergers": [
                 "trap-bath"
             ],
