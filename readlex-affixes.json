@@ -1789,7 +1789,7 @@
                         "strip": "y"
                     },
                     {
-                        "condition": "guy",
+                        "condition": "quy",
                         "strip": "y"
                     }
                 ]
